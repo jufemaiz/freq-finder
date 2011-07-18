@@ -1,0 +1,146 @@
+body {
+  background: #eeeeee; }
+
+a {
+  color: #498fcd;
+  text-decoration: none; }
+  a:hover, a:focus, a:active {
+    text-decoration: underline; }
+
+table {
+  border-top: 2px solid #cccccc;
+  border-bottom: 2px solid #cccccc; }
+  table th, table td {
+    vertical-align: top;
+    text-align: left; }
+  table thead tr th {
+    white-space: nowrap;
+    background: #eeeeee;
+    color: black;
+    font-weight: normal;
+    border-bottom: 1px solid #cccccc; }
+    table thead tr th a {
+      font-weight: bold;
+      color: black; }
+      table thead tr th a:hover, table thead tr th a:focus, table thead tr th a:active {
+        color: #333333; }
+  table tbody tr th {
+    white-space: nowrap; }
+  table tbody tr th, table tbody tr td {
+    background: white;
+    border-bottom: 1px solid #eeeeee; }
+  table tbody tr:nth-child(even) th, table tbody tr:nth-child(even) td {
+    background: #f6f6f6; }
+
+#branding {
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: white;
+  height: 30px; }
+  #branding .container {
+    height: 30px;
+    padding: 0; }
+  #branding #brand {
+    background: black; }
+    #branding #brand h1 {
+      font-size: 25px;
+      color: white;
+      margin: 0; }
+    #branding #brand ul.navigation {
+      text-align: right; }
+      #branding #brand ul.navigation li a:hover, #branding #brand ul.navigation li a:active, #branding #brand ul.navigation li a:focus, #branding #brand ul.navigation li a:link:hover, #branding #brand ul.navigation li a:link:active, #branding #brand ul.navigation li a:link:focus, #branding #brand ul.navigation li a:visited:hover, #branding #brand ul.navigation li a:visited:active, #branding #brand ul.navigation li a:visited:focus, #branding #brand ul.navigation li.sub:hover, #branding #brand ul.navigation li.sub:active, #branding #brand ul.navigation li.sub:focus {
+        text-decoration: underline;
+        background-color: #222222; }
+      #branding #brand ul.navigation li ul li a:hover, #branding #brand ul.navigation li ul li a:active, #branding #brand ul.navigation li ul li a:focus, #branding #brand ul.navigation li ul li a:link:hover, #branding #brand ul.navigation li ul li a:link:active, #branding #brand ul.navigation li ul li a:link:focus, #branding #brand ul.navigation li ul li a:visited:hover, #branding #brand ul.navigation li ul li a:visited:active, #branding #brand ul.navigation li ul li a:visited:focus {
+        background: #498fcd; }
+  #branding #navigation ul {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right; }
+    #branding #navigation ul li {
+      margin: 0;
+      padding: 0;
+      display: inline-block; }
+      #branding #navigation ul li a {
+        display: block;
+        line-height: 14px;
+        padding: 8px 10px;
+        color: white; }
+        #branding #navigation ul li a:hover, #branding #navigation ul li a:active, #branding #navigation ul li a:focus {
+          background: white;
+          color: #333333; }
+
+#content {
+  background: white;
+  padding: 20px 0; }
+  #content h1 {
+    margin: 0;
+    margin-bottom: 20px; }
+  #content div.tile {
+    display: inline-block;
+    position: relative; }
+    #content div.tile span.icon {
+      display: block;
+      background: red;
+      position: absolute;
+      top: 2px;
+      left: 0;
+      width: 20px;
+      height: 20px; }
+    #content div.tile span.name {
+      display: block;
+      font-size: 100%; }
+    #content div.tile span.number {
+      display: block;
+      font-size: 85%; }
+  #content h1 div.tile {
+    padding-left: 40px; }
+    #content h1 div.tile span.icon {
+      width: 32px;
+      height: 32px; }
+    #content h1 div.tile span.name {
+      line-height: 120%; }
+    #content h1 div.tile span.number {
+      color: #666666;
+      font-size: 80%;
+      line-height: 100%; }
+  #content #mapCanvas {
+    display: block;
+    position: relative;
+    background: #eeeeee;
+    margin: 0;
+    margin-bottom: 20px; }
+    #content #mapCanvas #map {
+      height: 300px;
+      width: 100%; }
+    #content #mapCanvas #controller {
+      position: absolute;
+      bottom: 0;
+      padding: 5px 10px;
+      background: white;
+      color: #333333;
+      right: 50%;
+      margin-right: -475px;
+      cursor: pointer;
+      font-weight: bold; }
+  #content dl.arrival {
+    margin: 0 0 0 10px;
+    padding: 5px 0 5px 10px;
+    border-top: 1px solid #cccccc;
+    border-left: 2px solid black; }
+  #content dl.arrival.current {
+    margin-left: 0;
+    padding-left: 0;
+    border: 0;
+    font-size: 120%; }
+
+#footer {
+  background: #eeeeee;
+  color: #222222;
+  padding: 20px 0;
+  font-size: 90%; }
+  #footer p {
+    margin: 0; }

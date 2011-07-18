@@ -1,0 +1,21 @@
+- t ||= nil
+- link = true if link != false
+- unless t.nil?
+	.tile.station
+		- if link
+			%a{ :href => transmitter_path(t) }
+				%span.frequency
+					- if t.band == "AM"
+						= "#{t.frequency.to_i} #{t.band}"
+					- else
+						= "#{t.frequency} #{t.band}"
+				%span.name
+					= t.callsign
+		- else
+			%span.frequency
+				- if t.band == "AM"
+					= "#{t.frequency.to_i} #{t.band}"
+				- else
+					= "#{t.frequency} #{t.band}"
+			%span.name
+				= t.callsign

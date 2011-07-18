@@ -1,0 +1,171 @@
+$primary_color: #498FCD
+$secondary_color: #2d7bb2
+
+body
+	background: #eee
+
+a
+	color: $primary_color
+	text-decoration: none
+	&:hover, &:focus, &:active
+		text-decoration: underline
+
+table
+	border-top: 2px solid #ccc
+	border-bottom: 2px solid #ccc
+	tr
+		th
+		td
+	th,td
+		vertical-align: top
+		text-align: left
+	th
+	td
+	thead
+		tr
+			th
+				white-space: nowrap
+				background: #eee
+				color: #000
+				font-weight: normal
+				border-bottom: 1px solid #ccc
+				a
+					font-weight: bold
+					color: #000
+					&:hover, &:focus, &:active
+						color: #333
+	tbody
+		tr
+			th
+				white-space: nowrap
+			th, td
+				background: #fff
+				border-bottom: 1px solid #eee
+			&:nth-child(even)
+				th, td
+					background: #f6f6f6
+
+#branding
+	margin: 0
+	padding: 0
+	background: #000
+	color: #fff
+	height: 30px
+	.container
+		height: 30px
+		padding: 0
+	#brand
+		background: #000
+		h1
+			font-size: 25px
+			color: #fff
+			margin: 0
+		ul.navigation
+			text-align: right
+			li
+				a, a:link, a:visited, &.sub
+					&:hover, &:active, &:focus
+						text-decoration: underline
+						background-color: #222
+				ul li
+					a, a:link, a:visited
+						&:hover, &:active, &:focus
+							background: $primary_color
+						
+				
+	#navigation
+		ul
+			height: 30px
+			margin: 0
+			padding: 0
+			list-style: none
+			text-align: right
+			li
+				margin: 0
+				padding: 0
+				display: inline-block
+				a
+					display: block
+					line-height: 14px
+					padding: 8px 10px
+					color: #fff
+					&:hover, &:active, &:focus
+						background: #fff
+						color: #333
+				
+	
+#content
+	background: #fff
+	padding: 20px 0
+	h1
+		margin: 0
+		margin-bottom: 20px
+
+
+	div.tile
+		display: inline-block
+		position: relative
+		span.icon
+			display: block
+			background: red
+			position: absolute
+			top: 2px
+			left: 0
+			width: 20px
+			height: 20px
+		span.name
+			display: block
+			font-size: 100%
+		span.number
+			display: block
+			font-size: 85%
+	h1
+		div.tile
+			padding-left: 40px
+			span.icon
+				width: 32px
+				height: 32px
+			span.name
+				line-height: 120%
+			span.number
+				color: #666
+				font-size: 80%
+				line-height: 100%
+
+	#mapCanvas
+		display: block
+		position: relative
+		background: #eee
+		margin: 0
+		margin-bottom: 20px
+		#map
+			height: 300px
+			width: 100%
+		#controller
+			position: absolute
+			bottom: 0
+			padding: 5px 10px
+			background: #fff
+			color: #333
+			right: 50%
+			margin-right: -475px
+			cursor: pointer
+			font-weight: bold
+	dl.arrival
+		margin: 0 0 0 10px
+		padding: 5px 0 5px 10px
+		border-top: 1px solid #ccc
+		border-left: 2px solid black
+	dl.arrival.current
+		margin-left: 0
+		padding-left: 0
+		border: 0
+		font-size: 120%
+
+#footer
+	background: #eee
+	color: #222
+	padding: 20px 0
+	font-size: 90%
+	p
+		margin: 0

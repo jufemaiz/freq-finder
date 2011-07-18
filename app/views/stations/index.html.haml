@@ -1,0 +1,19 @@
+.container
+	.column.span-12.prepend-6.append-6.last
+		%h2 Transmitters
+
+		%table
+			%thead
+				%tr
+					%th{ :scope => "col" } Station
+					%th{ :scope => "col" } <abbr title="Number">No.</abbr> Transmitters
+			
+			%tbody
+				- @stations.each do |station|
+					%tr
+						%th{ :scope => "row" }
+							= link_to station.title, station_path(station)
+						%td.numeric
+							= station.transmitters.length
+		.pagination
+			= will_paginate @stations

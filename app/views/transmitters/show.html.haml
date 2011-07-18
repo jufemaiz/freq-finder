@@ -1,0 +1,73 @@
+.container
+	.column.span-12.prepend-6.append-6.last
+		%h2
+			.tile.station
+				%span.name
+					= link_to @transmitter.station.title, station_path(@transmitter.station)
+				%span.identity
+					&nbsp;
+			.tile.station
+				%span.name
+					&raquo;
+				%span.identity
+					&nbsp;
+			= render :partial => "shared/tiles/transmitter", :locals => { :t => @transmitter, :link => false }
+
+		%hr{ :style => "border: 1px solid #eee;"}
+	
+	.column.span-6.prepend-6
+		%dl
+			%dt Band
+			%dd
+				= @transmitter.band
+			%dt Area
+			%dd
+				= "#{@transmitter.area}, #{@transmitter.state}"
+			%dt Antenna Height
+			%dd
+				= "#{@transmitter.antenna_height}m"
+			%dt Location
+			%dd.location
+				%a{ :href => "http://maps.google.com.au/maps?q=#{@transmitter.lat},#{@transmitter.lng}"}
+					= "(#{@transmitter.lat.round(2)},#{@transmitter.lng.round(2)})"
+			%dt Status
+			%dd
+				= @transmitter.status
+
+	.column.span-6.append-6.last
+		.extra-details.toggler
+			%dl
+				%dt Purpose
+				%dd
+					= @transmitter.purpose
+				%dt Antenna Pattern
+				%dd
+					= @transmitter.antenna_pattern
+				- if @transmitter.maximum_erp > 0
+					%dt Maximum ERP
+					%dd
+						= @transmitter.maximum_erp
+				- if @transmitter.maximum_cmf > 0
+					%dt Maximum CMF
+					%dd
+						= @transmitter.maximum_cmf
+				%dt Power
+				%dd
+					= @transmitter.power
+					%abbr{ :title => "Watts" } W
+	
+	
+	.column.span-12.prepend-6.append-6.last
+		%hr{ :style => "border: 1px solid #eee;"}
+		
+		%h3 Map of the Area
+		#mapCanvas
+			#map
+		
+		- unless @location.blank?
+			%h3 Elevation
+			#elevation
+		
+	.column.span-12.prepend-6.append-6.last
+%script{ :type => "text/javascript" }
+	= "var base = '#{transmitter_path(@transmitter)}';"

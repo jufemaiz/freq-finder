@@ -1,0 +1,30 @@
+.container
+	.column.span-12.prepend-6.append-6.last
+		%h2 Transmitters
+
+		%table
+			%thead
+				%tr
+					%th{ :scope => "col" } Station
+					%th{ :scope => "col" } Transmitter
+					- unless @transmitters.first.distance.nil?
+						%th{ :scope => "col" } Distance
+					%th{ :scope => "col" } Location
+					%th{ :scope => "col" } 
+			
+			
+			%tbody
+				- @transmitters.each do |t|
+					%tr
+						%th{ :scope => "row" }
+							= link_to t.station.title, station_path(t.station)
+						%th{ :scope => "row" }
+							= render :partial => "shared/tiles/transmitter", :locals => { :t => t }
+						- unless @transmitters.first.distance.nil?
+							%td.numeric
+								= t.distance.round(2)
+						%td
+							%a{ :href => "http://maps.google.com.au/maps?q=#{t.lat},#{t.lng}"}
+								= "(#{t.lat.round(2)},#{t.lng.round(2)})"
+		.pagination
+			= will_paginate @posts
