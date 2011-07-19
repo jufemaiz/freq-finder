@@ -50,3 +50,10 @@ end
 # -------------
 gem 'geokit', '~> 1.5.0'
 gem 'geokit-rails3'
+
+# -------------
+# Rake Oddities
+# -------------
+group :production do
+  
+end
