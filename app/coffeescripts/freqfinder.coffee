@@ -28,10 +28,11 @@ $(document).ready ->
 					path.push(location)
 
 					matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)
-					location = new google.maps.LatLng(matches[1],matches[2])
-					marker = new google.maps.Marker({ map:map, position:location, title: "Your location.", icon : icons.location })
-					bounds.extend(location)
-					path.push(location)
+					myLocation = new google.maps.LatLng(matches[1],matches[2])
+					marker = new google.maps.Marker({ map:map, position:myLocation, title: "Your location.", icon : icons.location })
+					bounds.extend(myLocation)
+					path.push(myLocation)
+					crow = new google.maps.Polyline({path:path, map:map, strokeColor:"#3366CC", strokeOpacity:0.75 })
 
 					map.fitBounds(bounds)
 					map.setZoom(12) if map.getZoom() > 12
@@ -87,10 +88,9 @@ $(document).ready ->
 				markerClusterer = new MarkerClusterer(map,markers)
 				if decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)
 					matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)
-					location = new google.maps.LatLng(matches[1],matches[2])
-					marker = new google.maps.Marker({ map:map, position:location, title: "Your location.", icon : icons.location })
-					bounds.extend(location)
-					path.push(location)
+					myLocation = new google.maps.LatLng(matches[1],matches[2])
+					marker = new google.maps.Marker({ map:map, position:myLocation, title: "Your location.", icon : icons.location })
+					bounds.extend(myLocation)
 				
 				map.fitBounds(bounds)
 				map.setZoom(12) if map.getZoom() > 12
@@ -115,9 +115,9 @@ $(document).ready ->
 
 				if decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)
 					matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)
-					location = new google.maps.LatLng(matches[1],matches[2])
-					marker = new google.maps.Marker({ map:map, position:location, title: "Your location.", icon : icons.location })
-					bounds.extend(location)
+					myLocation = new google.maps.LatLng(matches[1],matches[2])
+					marker = new google.maps.Marker({ map:map, position:myLocation, title: "Your location.", icon : icons.location })
+					bounds.extend(myLocation)
 
 				map.fitBounds(bounds)
 				map.setZoom(12) if map.getZoom() > 12

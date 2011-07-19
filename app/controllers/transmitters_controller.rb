@@ -29,7 +29,8 @@ class TransmittersController < ApplicationController
     
     if !params[:latlng].nil? && params[:latlng].match(/^(-?\d+\.\d+),(-?\d+\.\d+)$/)
       @location = Geokit::LatLng.normalize(params[:latlng].split(',')) unless params[:latlng].nil?
-      @address = GoogleGeocoder.reverse_geocode(@location)
+      @distance = @location.distance_from(Geokit::LatLng.new(@transmitter.lat,@transmitter.lng))
+      # @address = GoogleGeocoder.reverse_geocode(@location)
     end
     
     

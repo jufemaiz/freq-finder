@@ -68,12 +68,14 @@
 	.column.span-12.last
 		%hr{ :style => "border: 1px solid #eee;"}
 		
-		%h3 Map of the Area
+		%h3 Map
 		#mapCanvas
 			#map
 		
 		- unless @location.blank?
-			%h3 Elevation
+			%h3
+				Elevation Profile over 
+				= "#{@distance.to_i}km"
 			#elevation
 				
 		

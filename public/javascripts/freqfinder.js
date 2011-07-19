@@ -1,4 +1,4 @@
-/* DO NOT MODIFY. This file was compiled Tue, 19 Jul 2011 05:22:13 GMT from
+/* DO NOT MODIFY. This file was compiled Tue, 19 Jul 2011 05:33:26 GMT from
  * /Users/joel/Sites/git/freqfinder/app/coffeescripts/freqfinder.coffee
  */
 
@@ -27,7 +27,7 @@
         console.log($('span.latlng'));
       }
       $.getJSON("", function(data) {
-        var bounds, chart, elevator, location, marker, markerClusterer, markers, matches, o, path, pathRequest, station, transmitter, _fn, _fn2, _i, _j, _len, _len2, _ref;
+        var bounds, chart, crow, elevator, location, marker, markerClusterer, markers, matches, myLocation, o, path, pathRequest, station, transmitter, _fn, _fn2, _i, _j, _len, _len2, _ref;
         if (data.transmitter !== void 0) {
           transmitter = data.transmitter;
           location = new google.maps.LatLng(transmitter.lat, transmitter.lng);
@@ -43,15 +43,21 @@
             path = [];
             path.push(location);
             matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/);
-            location = new google.maps.LatLng(matches[1], matches[2]);
+            myLocation = new google.maps.LatLng(matches[1], matches[2]);
             marker = new google.maps.Marker({
               map: map,
-              position: location,
+              position: myLocation,
               title: "Your location.",
               icon: icons.location
             });
-            bounds.extend(location);
-            path.push(location);
+            bounds.extend(myLocation);
+            path.push(myLocation);
+            crow = new google.maps.Polyline({
+              path: path,
+              map: map,
+              strokeColor: "#3366CC",
+              strokeOpacity: 0.75
+            });
             map.fitBounds(bounds);
             if (map.getZoom() > 12) {
               map.setZoom(12);
@@ -135,15 +141,14 @@
           markerClusterer = new MarkerClusterer(map, markers);
           if (decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)) {
             matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/);
-            location = new google.maps.LatLng(matches[1], matches[2]);
+            myLocation = new google.maps.LatLng(matches[1], matches[2]);
             marker = new google.maps.Marker({
               map: map,
-              position: location,
+              position: myLocation,
               title: "Your location.",
               icon: icons.location
             });
-            bounds.extend(location);
-            path.push(location);
+            bounds.extend(myLocation);
           }
           map.fitBounds(bounds);
           if (map.getZoom() > 12) {
@@ -180,14 +185,14 @@
           markerClusterer = new MarkerClusterer(map, markers);
           if (decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)) {
             matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/);
-            location = new google.maps.LatLng(matches[1], matches[2]);
+            myLocation = new google.maps.LatLng(matches[1], matches[2]);
             marker = new google.maps.Marker({
               map: map,
-              position: location,
+              position: myLocation,
               title: "Your location.",
               icon: icons.location
             });
-            bounds.extend(location);
+            bounds.extend(myLocation);
           }
           map.fitBounds(bounds);
           if (map.getZoom() > 12) {
