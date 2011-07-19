@@ -2,8 +2,10 @@ Freqfinder::Application.routes.draw do
 
   resources :transmitters
   resources :stations
-  
-  root :to => "search#index"
+
+  match     'results' => 'search#results', :as => :search_results
+  match     'geolocate' => 'search#geolocate', :as => :geolocate
+  root      :to => "search#index"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

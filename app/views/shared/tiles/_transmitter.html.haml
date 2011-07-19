@@ -1,9 +1,10 @@
 - t ||= nil
 - link = true if link != false
+- latlng = false if link != true
 - unless t.nil?
 	.tile.station
 		- if link
-			%a{ :href => transmitter_path(t) }
+			%a{ :href => transmitter_path(t, :latlng => @location.to_s ) }
 				%span.frequency
 					- if t.band == "AM"
 						= "#{t.frequency.to_i} #{t.band}"

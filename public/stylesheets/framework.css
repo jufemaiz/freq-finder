@@ -44,9 +44,16 @@ table {
   #branding #brand {
     background: black; }
     #branding #brand h1 {
-      font-size: 25px;
-      color: white;
-      margin: 0; }
+      height: 30px;
+      font-size: 30px;
+      margin: 0;
+      padding: 0;
+      color: white; }
+      #branding #brand h1 a {
+        color: white; }
+        #branding #brand h1 a:hover, #branding #brand h1 a:active, #branding #brand h1 a:focus {
+          color: #333333;
+          background: white; }
     #branding #brand ul.navigation {
       text-align: right; }
       #branding #brand ul.navigation li a:hover, #branding #brand ul.navigation li a:active, #branding #brand ul.navigation li a:focus, #branding #brand ul.navigation li a:link:hover, #branding #brand ul.navigation li a:link:active, #branding #brand ul.navigation li a:link:focus, #branding #brand ul.navigation li a:visited:hover, #branding #brand ul.navigation li a:visited:active, #branding #brand ul.navigation li a:visited:focus, #branding #brand ul.navigation li.sub:hover, #branding #brand ul.navigation li.sub:active, #branding #brand ul.navigation li.sub:focus {

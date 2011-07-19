@@ -3,21 +3,25 @@
 		%h2 Find a Radio Station
 
 		/ Search Form
-		= form_tag '/', :method => 'get'  do
+		= form_tag '/geolocate', :method => 'get', :class => 'geolocation' do
+			
+			%fieldset
+				%legend Locate Me
+
+				.input.geolocate
+					%label{ :for => "geolocate" } Use your current location
+					= submit_tag "Locate me!", :name => "geolocate", :id => "geolocate"
+					
+
+
+		/ Search Form
+		= form_tag '/results', :method => 'get', :class => 'text' do
 			
 			%fieldset
 				%legend Search
 
-				.input.geolocate
-					%label{ :for => "geolocate" } Search using your current location
-					= submit_tag "Locate me!", :name => "geolocate", :id => "geolocate"
-					
 				.input.text
-					%label{ :for => "qo" } Street (optional)
-					= text_field_tag :qo, @qo
-					
-				.input.text
-					%label{ :for => "q" } Suburb/Town & State or Postcode
+					%label{ :for => "q" } Address
 					= text_field_tag :q, @q
 
 				.input.submit

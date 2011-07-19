@@ -14,6 +14,14 @@
 			= render :partial => "shared/tiles/transmitter", :locals => { :t => @transmitter, :link => false }
 
 		%hr{ :style => "border: 1px solid #eee;"}
+		
+		- unless @address.blank?
+			%p
+				This is a radio transmitter close to
+				= @address.full_address
+				\.
+		
+			%hr{ :style => "border: 1px solid #eee;"}
 	
 	.column.span-6.prepend-6
 		%dl
@@ -67,6 +75,7 @@
 		- unless @location.blank?
 			%h3 Elevation
 			#elevation
+				
 		
 	.column.span-12.prepend-6.append-6.last
 %script{ :type => "text/javascript" }

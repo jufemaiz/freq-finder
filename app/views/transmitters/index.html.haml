@@ -1,7 +1,28 @@
 .container
 	.column.span-12.prepend-6.append-6.last
 		%h2 Transmitters
+		
+		- unless @location.blank?
+			.location
+				Closest radio transmitters to
+				- unless @address.blank?
+					%span.address
+						= @address.full_address
+				(
+				%span.latlng
+					%a{ :href => "http://maps.google.com.au/maps?q=#{@location.to_s}" }
+						= "#{@location.lat.round(2)},#{@location.lng.round(2)}"
+				)
+		
+	.column.span-12.prepend-6.append-6.last
+		%hr{ :style => "border: 1px solid #eee;"}
 
+		%h3 Mapped
+		#mapCanvas
+			#map
+		
+
+	.column.span-12.prepend-6.append-6.last
 		%table
 			%thead
 				%tr
@@ -19,7 +40,7 @@
 						%th{ :scope => "row" }
 							= link_to t.station.title, station_path(t.station)
 						%th{ :scope => "row" }
-							= render :partial => "shared/tiles/transmitter", :locals => { :t => t }
+							= render :partial => "shared/tiles/transmitter", :locals => { :t => t, :latlng => true }
 						- unless @transmitters.first.distance.nil?
 							%td.numeric
 								= t.distance.round(2)
