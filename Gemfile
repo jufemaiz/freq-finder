@@ -40,9 +40,7 @@ gem 'will_paginate'
 # -------------
 gem 'haml'
 gem 'sass'
-group :development, :test do
-  gem 'coffee-script'
-end
+gem 'coffee-script'
 gem 'barista', '~> 1.0'
 
 # -------------
@@ -55,5 +53,5 @@ gem 'geokit-rails3'
 # Rake Oddities
 # -------------
 group :production do
-  
+  gem 'therubyracer'
 end
