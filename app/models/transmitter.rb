@@ -3,7 +3,7 @@ class Transmitter < ActiveRecord::Base
   belongs_to :station
 
   cattr_reader :per_page
-  @@per_page = 20
+  @@per_page = 10
 
   scope :am, lambda{ |*args|
                         {

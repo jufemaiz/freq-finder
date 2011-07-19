@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110718070909) do
+ActiveRecord::Schema.define(:version => 20110719044330) do
 
   create_table "stations", :force => true do |t|
     t.string   "title"
@@ -46,7 +46,6 @@ ActiveRecord::Schema.define(:version => 20110718070909) do
     t.integer  "license_id"
     t.string   "operation_hours"
     t.string   "status"
-    t.float    "distance"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

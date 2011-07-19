@@ -30,8 +30,7 @@
 					%th{ :scope => "col" } Transmitter
 					- unless @transmitters.first.distance.nil?
 						%th{ :scope => "col" } Distance
-					%th{ :scope => "col" } Location
-					%th{ :scope => "col" } 
+					/ %th{ :scope => "col" } Location
 			
 			
 			%tbody
@@ -44,8 +43,8 @@
 						- unless @transmitters.first.distance.nil?
 							%td.numeric
 								= t.distance.to_f.round(2)
-						%td
-							%a{ :href => "http://maps.google.com.au/maps?q=#{t.lat},#{t.lng}"}
-								= "(#{t.lat.round(2)},#{t.lng.round(2)})"
+						/ %td
+						/ 	%a{ :href => "http://maps.google.com.au/maps?q=#{t.lat},#{t.lng}"}
+						/ 		= "(#{t.lat.round(2)},#{t.lng.round(2)})"
 		.pagination
 			= will_paginate @posts
