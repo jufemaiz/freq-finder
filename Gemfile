@@ -40,8 +40,10 @@ gem 'will_paginate'
 # -------------
 gem 'haml'
 gem 'sass'
-gem 'coffee-script'
-gem 'barista', '~> 1.0'
+group :development, :test do
+  gem 'coffee-script'
+  gem 'barista', '~> 1.0'
+end
 
 # -------------
 # Geogoodness
