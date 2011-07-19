@@ -2,7 +2,8 @@
   width: 490px; }
 
 body {
-  background: #eeeeee; }
+  background: #eeeeee;
+  min-width: 510px; }
 
 a {
   color: #498fcd;

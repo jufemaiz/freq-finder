@@ -1,4 +1,4 @@
-/* DO NOT MODIFY. This file was compiled Tue, 19 Jul 2011 02:21:28 GMT from
+/* DO NOT MODIFY. This file was compiled Tue, 19 Jul 2011 05:22:13 GMT from
  * /Users/joel/Sites/git/freqfinder/app/coffeescripts/freqfinder.coffee
  */
 
@@ -133,6 +133,18 @@
             _fn(transmitter);
           }
           markerClusterer = new MarkerClusterer(map, markers);
+          if (decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)) {
+            matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/);
+            location = new google.maps.LatLng(matches[1], matches[2]);
+            marker = new google.maps.Marker({
+              map: map,
+              position: location,
+              title: "Your location.",
+              icon: icons.location
+            });
+            bounds.extend(location);
+            path.push(location);
+          }
           map.fitBounds(bounds);
           if (map.getZoom() > 12) {
             map.setZoom(12);
@@ -166,6 +178,17 @@
             _fn2(o);
           }
           markerClusterer = new MarkerClusterer(map, markers);
+          if (decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)) {
+            matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/);
+            location = new google.maps.LatLng(matches[1], matches[2]);
+            marker = new google.maps.Marker({
+              map: map,
+              position: location,
+              title: "Your location.",
+              icon: icons.location
+            });
+            bounds.extend(location);
+          }
           map.fitBounds(bounds);
           if (map.getZoom() > 12) {
             map.setZoom(12);

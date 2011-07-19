@@ -12,19 +12,23 @@
 
 		%hr{ :style => "border: 1px solid #eee;"}
 
-	- @station.transmitters.order(:state).group_by {|t| t.state }.each_pair do |state,transmitters|
+	- @station.transmitters.order(:state,:area).group_by {|t| t.state }.each_pair do |state,transmitters|
 		.column.span-12.last
 			%h3
 				= "#{state} (#{transmitters.length})"
 		.column.span-6
-			%ul
+			%dl
 				- (0..(transmitters.length-1)/2).each do |i|
-					%li
+					%dt.area
+						= transmitters[i].area
+					%dd
 						= render :partial => "shared/tiles/transmitter", :locals => { :t => transmitters[i] } 
 		.column.span-6.last
-			%ul
+			%dl
 				- ((transmitters.length-1)/2+1..(transmitters.length-1)).each do |i|
-					%li
+					%dt.area
+						= transmitters[i].area
+					%dd
 						= render :partial => "shared/tiles/transmitter", :locals => { :t => transmitters[i] } 
 	
 %script{ :type => "text/javascript" }

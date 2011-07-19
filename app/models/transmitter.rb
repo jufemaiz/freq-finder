@@ -5,7 +5,7 @@ class Transmitter < ActiveRecord::Base
   cattr_reader :per_page
   @@per_page = 10
 
-  scope :am, lambda{ |*args|
+  scope :am, lambda{
                         {
                           :conditions => %(
                             band = "AM"
@@ -13,7 +13,7 @@ class Transmitter < ActiveRecord::Base
                         }
                     }
 
-  scope :fm, lambda{ |*args|
+  scope :fm, lambda{
                         {
                           :conditions => %(
                             band = "AM"

@@ -85,6 +85,13 @@ $(document).ready ->
 						markers.push marker
 						false
 				markerClusterer = new MarkerClusterer(map,markers)
+				if decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)
+					matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)
+					location = new google.maps.LatLng(matches[1],matches[2])
+					marker = new google.maps.Marker({ map:map, position:location, title: "Your location.", icon : icons.location })
+					bounds.extend(location)
+					path.push(location)
+				
 				map.fitBounds(bounds)
 				map.setZoom(12) if map.getZoom() > 12
 			else if data.length > 0
@@ -105,6 +112,13 @@ $(document).ready ->
 						markers.push marker
 						false
 				markerClusterer = new MarkerClusterer(map,markers)
+
+				if decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)
+					matches = decodeURIComponent(document.URL).match(/latlng=(-?\d+\.\d+),(-?\d+\.\d+)/)
+					location = new google.maps.LatLng(matches[1],matches[2])
+					marker = new google.maps.Marker({ map:map, position:location, title: "Your location.", icon : icons.location })
+					bounds.extend(location)
+
 				map.fitBounds(bounds)
 				map.setZoom(12) if map.getZoom() > 12
 			false
