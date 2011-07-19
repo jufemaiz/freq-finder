@@ -48,3 +48,7 @@ gem 'barista', '~> 1.0'
 # -------------
 gem "geokit", "~> 1.5.0"
 gem 'geokit-rails3'
+
+group :production do
+  gem 'therubyracer-heroku', '0.8.1.pre3'
+end

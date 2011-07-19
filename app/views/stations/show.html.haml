@@ -1,9 +1,9 @@
 .container
-	.column.span-12.prepend-6.append-6.last
+	.column.span-12.last
 		%h2
 			= @station.title
 	
-	.column.span-12.prepend-6.append-6.last
+	.column.span-12.last
 		%hr{ :style => "border: 1px solid #eee;"}
 
 		%h3 Map of the Area
@@ -13,15 +13,15 @@
 		%hr{ :style => "border: 1px solid #eee;"}
 
 	- @station.transmitters.order(:state).group_by {|t| t.state }.each_pair do |state,transmitters|
-		.column.span-12.prepend-6.append-6.last
+		.column.span-12.last
 			%h3
 				= "#{state} (#{transmitters.length})"
-		.column.span-6.prepend-6
+		.column.span-6
 			%ul
 				- (0..(transmitters.length-1)/2).each do |i|
 					%li
 						= render :partial => "shared/tiles/transmitter", :locals => { :t => transmitters[i] } 
-		.column.span-6.append-6.last
+		.column.span-6.last
 			%ul
 				- ((transmitters.length-1)/2+1..(transmitters.length-1)).each do |i|
 					%li

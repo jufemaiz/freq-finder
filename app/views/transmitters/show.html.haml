@@ -1,5 +1,5 @@
 .container
-	.column.span-12.prepend-6.append-6.last
+	.column.span-12.last
 		%h2
 			.tile.station
 				%span.name
@@ -23,7 +23,7 @@
 		
 			%hr{ :style => "border: 1px solid #eee;"}
 	
-	.column.span-6.prepend-6
+	.column.span-6
 		%dl
 			%dt Band
 			%dd
@@ -42,7 +42,7 @@
 			%dd
 				= @transmitter.status
 
-	.column.span-6.append-6.last
+	.column.span-6.last
 		.extra-details.toggler
 			%dl
 				%dt Purpose
@@ -65,7 +65,7 @@
 					%abbr{ :title => "Watts" } W
 	
 	
-	.column.span-12.prepend-6.append-6.last
+	.column.span-12.last
 		%hr{ :style => "border: 1px solid #eee;"}
 		
 		%h3 Map of the Area
@@ -77,6 +77,6 @@
 			#elevation
 				
 		
-	.column.span-12.prepend-6.append-6.last
+	.column.span-12.last
 %script{ :type => "text/javascript" }
 	= "var base = '#{transmitter_path(@transmitter)}';"

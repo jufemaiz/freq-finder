@@ -59,7 +59,7 @@ $(document).ready ->
 							# Draw the chart using the data within its DIV.
 							$('#elevation').css({'display':'block'})
 							   
-							options = {chdl:null,chxr:"0,-1.667,46", chxs:"0,333333,10.5,0,l,67676700",chxt:"y", chs:"470x200",cht:"lc",chco:"3366CC",chls:"2,4,0",chma:"30,10,10,10,0,0",chm:"B,C3D9FF,0,0,0",chtt:"Elevation (m)",chts:"333333,11.5"};
+							options = {chdl:null, chxs:"0,333333,10.5,0,l,67676700",chxt:"y", chs:"470x200",cht:"lc",chco:"3366CC",chls:"2,4,0",chma:"30,10,10,10,0,0",chm:"B,C3D9FF,0,0,0",chtt:"Elevation (m)",chts:"333333,11.5"};
 							chart.draw(data,options);
 							
 							true

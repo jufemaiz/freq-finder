@@ -1,5 +1,5 @@
 .container
-	.column.span-12.prepend-6.append-6.last
+	.column.span-12.last
 		%h2 Transmitters
 		
 		- unless @location.blank?
@@ -14,7 +14,7 @@
 						= "#{@location.lat.round(2)},#{@location.lng.round(2)}"
 				)
 		
-	.column.span-12.prepend-6.append-6.last
+	.column.span-12.last
 		%hr{ :style => "border: 1px solid #eee;"}
 
 		%h3 Mapped
@@ -22,7 +22,7 @@
 			#map
 		
 
-	.column.span-12.prepend-6.append-6.last
+	.column.span-12.last
 		%table
 			%thead
 				%tr

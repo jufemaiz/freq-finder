@@ -1,4 +1,4 @@
-/* DO NOT MODIFY. This file was compiled Tue, 19 Jul 2011 02:11:46 GMT from
+/* DO NOT MODIFY. This file was compiled Tue, 19 Jul 2011 02:21:28 GMT from
  * /Users/joel/Sites/git/freqfinder/app/coffeescripts/freqfinder.coffee
  */
 
@@ -85,7 +85,6 @@
               });
               options = {
                 chdl: null,
-                chxr: "0,-1.667,46",
                 chxs: "0,333333,10.5,0,l,67676700",
                 chxt: "y",
                 chs: "470x200",
