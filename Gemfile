@@ -42,6 +42,7 @@ gem 'haml'
 gem 'sass'
 group :production do
   gem 'execjs'
+  gem "therubyracer", :require => 'v8'
 end
 gem 'coffee-script'
 gem 'barista', '~> 1.0'
@@ -53,5 +54,8 @@ gem 'geokit', '~> 1.5.0'
 gem 'geokit-rails3'
 
 # -------------
-# Rake Oddities
+# Heroku Oddities
 # -------------
+group :production do
+  gem 'thin'
+end
