@@ -29,7 +29,7 @@ class Transmitter < ActiveRecord::Base
                           end
                           origin_lat, origin_lng = deg2rad(origin_lat), deg2rad(origin_lng)
                           within = *args.first[:within].to_f
-                          within = 99999999 if ["Fixnum","Float"].include?(within.class)
+                          within = 99999999 unless ["Fixnum","Float"].include?(within.class)
                           { 
                             :conditions => %(
                               (ACOS(COS(#{origin_lat})*COS(#{origin_lng})*COS(RADIANS(transmitters.lat))*COS(RADIANS(transmitters.lng))+
