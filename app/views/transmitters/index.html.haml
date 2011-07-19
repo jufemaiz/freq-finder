@@ -43,7 +43,7 @@
 							= render :partial => "shared/tiles/transmitter", :locals => { :t => t, :latlng => true }
 						- unless @transmitters.first.distance.nil?
 							%td.numeric
-								= t.distance.round(2)
+								= t.distance.to_f.round(2)
 						%td
 							%a{ :href => "http://maps.google.com.au/maps?q=#{t.lat},#{t.lng}"}
 								= "(#{t.lat.round(2)},#{t.lng.round(2)})"
