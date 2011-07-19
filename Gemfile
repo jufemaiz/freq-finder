@@ -42,8 +42,8 @@ gem 'haml'
 gem 'sass'
 group :development, :test do
   gem 'coffee-script'
-  gem 'barista', '~> 1.0'
 end
+gem 'barista', '~> 1.0'
 
 # -------------
 # Geogoodness
