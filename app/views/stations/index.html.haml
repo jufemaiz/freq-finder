@@ -7,7 +7,7 @@
 				%tr
 					%th{ :scope => "col" } Station
 					%th{ :scope => "col" } <abbr title="Number">No.</abbr> Transmitters
-			
+
 			%tbody
 				- @stations.each do |station|
 					%tr
@@ -15,5 +15,5 @@
 							= link_to station.title, station_path(station)
 						%td.numeric
 							= station.transmitters.length
-		.pagination
-			= will_paginate @stations
+		-# .pagination
+		-# 	= will_paginate @stations

@@ -3,7 +3,7 @@ class StationsController < ApplicationController
   # GET /stations.xml
   def index
     params[:page] ||= 1
-    @stations = Station.includes(:transmitters).paginate(:page => params[:page])
+    @stations = Station.includes(:transmitters) # .paginate(:page => params[:page])
 
     respond_to do |format|
       format.html # index.html.erb

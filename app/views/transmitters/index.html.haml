@@ -1,7 +1,7 @@
 .container
 	.column.span-12.last
 		%h2 Transmitters
-		
+
 		- unless @location.blank?
 			.location
 				Closest radio transmitters to
@@ -13,14 +13,14 @@
 					%a{ :href => "http://maps.google.com.au/maps?q=#{@location.to_s}" }
 						= "#{@location.lat.round(2)},#{@location.lng.round(2)}"
 				)
-		
+
 	.column.span-12.last
 		%hr{ :style => "border: 1px solid #eee;"}
 
 		%h3 Mapped
 		#mapCanvas
 			#map
-		
+
 
 	.column.span-12.last
 		%table
@@ -31,8 +31,8 @@
 					- unless @transmitters.first.distance.nil?
 						%th{ :scope => "col" } Distance
 					/ %th{ :scope => "col" } Location
-			
-			
+
+
 			%tbody
 				- @transmitters.each do |t|
 					%tr
@@ -46,5 +46,5 @@
 						/ %td
 						/ 	%a{ :href => "http://maps.google.com.au/maps?q=#{t.lat},#{t.lng}"}
 						/ 		= "(#{t.lat.round(2)},#{t.lng.round(2)})"
-		.pagination
-			= will_paginate @posts
+		-# .pagination
+		-# 	= will_paginate @posts
