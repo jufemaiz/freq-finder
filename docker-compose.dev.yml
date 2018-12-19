@@ -1,0 +1,23 @@
+---
+version: '3.4'
+services:
+  db:
+    image: postgres
+  db_test:
+    image: postgres
+  web:
+    build: .
+    command: bundle exec rails s -p 5678
+    depends_on:
+      - db
+      - db_test
+    entrypoint: ''
+    environment:
+      RAILS_ENV: development
+      RACK_ENV: development
+      PGHOST: db
+      PGUSER: postgres
+    ports:
+      - 5678:5678
+    volumes:
+      - ./:/app

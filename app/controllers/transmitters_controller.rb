@@ -1,18 +1,18 @@
 class TransmittersController < ApplicationController
-  
+
   # GET /transmitters
   # GET /transmitters.xml
   def index
     params[:page] ||= 1
-    
+
     if !params[:latlng].nil? && params[:latlng].match(/^(-?\d+\.\d+),(-?\d+\.\d+)$/)
       @location = Geokit::LatLng.normalize(params[:latlng])
       @address = GoogleGeocoder.reverse_geocode(@location)
-      @transmitters = Transmitter.includes(:station).near(:origin => @location).order('distance asc').paginate(:page => params[:page])
+      @transmitters = Transmitter.includes(:station).near(:origin => @location).order('distance asc') # .paginate(:page => params[:page])
     else
       params[:s] ||= 'frequency'
       params[:d] ||= 'asc'
-      @transmitters = Transmitter.includes(:station).order("#{params[:s]} #{params[:d]}").paginate(:page => 1)
+      @transmitters = Transmitter.includes(:station).order("#{params[:s]} #{params[:d]}") # .paginate(:page => 1)
     end
 
     respond_to do |format|
@@ -26,14 +26,14 @@ class TransmittersController < ApplicationController
   # GET /transmitters/1.xml
   def show
     @transmitter = Transmitter.includes(:station).find(params[:id])
-    
+
     if !params[:latlng].nil? && params[:latlng].match(/^(-?\d+\.\d+),(-?\d+\.\d+)$/)
       @location = Geokit::LatLng.normalize(params[:latlng].split(',')) unless params[:latlng].nil?
       @distance = @location.distance_from(Geokit::LatLng.new(@transmitter.lat,@transmitter.lng))
       # @address = GoogleGeocoder.reverse_geocode(@location)
     end
-    
-    
+
+
     respond_to do |format|
       format.html # show.html.erb
       format.xml  { render :xml => @transmitter }
