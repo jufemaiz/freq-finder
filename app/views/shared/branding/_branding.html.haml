@@ -1,16 +1,16 @@
 #branding
-	.container
-		.column.span-6
-			#brand
-				%h1
-					%a{ :href => "/" }
-						FreqFinder
-		.column.span-6.last
-			#navigation
-				%ul
-					%li
-						%a{:href => stations_path }
-							Stations
-					%li
-						%a{:href => transmitters_path }
-							Transmitters
+  .container
+    .column.span-6
+      #brand
+        %h1
+          %a{ href: root_url }
+            FreqFinder
+    .column.span-6.last
+      #navigation
+        %ul
+          %li
+            %a{ href: stations_path }
+              Stations
+          %li
+            %a{ href: transmitters_path }
+              Transmitters

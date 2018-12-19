@@ -1,11 +1,13 @@
 #footer
-	/ Update as appropriate
-	.container
-		.column.span-12.last
-			%p Data presented comes from the <a href="http://acma.gov.au/WEB/HOMEPAGE/PC=HOME">The Australian Communications and Media Authority</a> under <a href="http://www.acma.gov.au/WEB/STANDARD/pc=PC_312132">Creative Commons License</a>.
-		.column.span-12.last
-			%p Developed by <em class="author">Joel Courtney</em> for my own amusement.
-			%p.copyright
-				&copy; 2011
-				= " - " + Time.new.year.to_s unless Time.new.year == 2011
-
+  / Update as appropriate
+  .container
+    .column.span-12.last
+      %p
+        Data presented comes from the
+        <a href='http://acma.gov.au/WEB/HOMEPAGE/PC=HOME'>The Australian Communications and Media Authority</a>
+        under <a href='http://www.acma.gov.au/WEB/STANDARD/pc=PC_312132'>Creative Commons License</a>.
+    .column.span-12.last
+      %p
+        Developed by <em class="author">Joel Courtney</em> for my own amusement.
+      %p.copyright
+        &copy; #{[2011, Time.new.year].uniq.join(' - ')}

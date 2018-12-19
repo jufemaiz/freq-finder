@@ -1,29 +1,29 @@
 .container.search
-	.column.span-12.last
-		%h2 Find a Radio Station
+  .column.span-12.last
+    %h2 Find a Radio Station
 
-		/ Search Form
-		= form_tag '/geolocate', :method => 'get', :class => 'geolocation' do
-			
-			%fieldset
-				%legend Locate Me
+    / Search Form
+    = form_tag '/geolocate', method: 'get', class: 'geolocation' do
 
-				.input.geolocate
-					%label{ :for => "geolocate" } Use your current location
-					= submit_tag "Locate me!", :name => "geolocate", :id => "geolocate"
-					
+      %fieldset
+        %legend Locate Me
+
+        .input.geolocate
+          %label{ for: 'geolocate' } Use your current location
+          = submit_tag 'Locate me!', name: 'geolocate', id: 'geolocate'
 
 
-		/ Search Form
-		= form_tag '/results', :method => 'get', :class => 'text' do
-			
-			%fieldset
-				%legend Search
 
-				.input.text
-					%label{ :for => "q" } Address
-					= text_field_tag :q, @q
+    / Search Form
+    = form_tag '/results', method: 'get', class: 'text' do
 
-				.input.submit
-					= submit_tag "Search", :name => nil
-		/ /Search Form
+      %fieldset
+        %legend Search
+
+        .input.text
+          %label{ for: 'q' } Address
+          = text_field_tag :q, @q
+
+        .input.submit
+          = submit_tag 'Search', name: nil
+    / /Search Form

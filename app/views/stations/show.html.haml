@@ -1,35 +1,34 @@
 .container
-	.column.span-12.last
-		%h2
-			= @station.title
-	
-	.column.span-12.last
-		%hr{ :style => "border: 1px solid #eee;"}
+  .column.span-12.last
+    %h2
+      = @station.title
 
-		%h3 Map of the Area
-		#mapCanvas
-			#map
+  .column.span-12.last
+    %hr{ style: 'border: 1px solid #eee;' }
 
-		%hr{ :style => "border: 1px solid #eee;"}
+    %h3 Map of the Area
+    #mapCanvas
+      #map
 
-	- @station.transmitters.order(:state,:area).group_by {|t| t.state }.each_pair do |state,transmitters|
-		.column.span-12.last
-			%h3
-				= "#{state} (#{transmitters.length})"
-		.column.span-6
-			%dl
-				- (0..(transmitters.length-1)/2).each do |i|
-					%dt.area
-						= transmitters[i].area
-					%dd
-						= render :partial => "shared/tiles/transmitter", :locals => { :t => transmitters[i] } 
-		.column.span-6.last
-			%dl
-				- ((transmitters.length-1)/2+1..(transmitters.length-1)).each do |i|
-					%dt.area
-						= transmitters[i].area
-					%dd
-						= render :partial => "shared/tiles/transmitter", :locals => { :t => transmitters[i] } 
-	
-%script{ :type => "text/javascript" }
-	= "var base = '#{station_path(@station)}';"
+    %hr{ style: 'border: 1px solid #eee;' }
+
+  - @station.transmitters.order(:state, :area).group_by(&:state).each_pair do |state,transmitters|
+    .column.span-12.last
+      %h3 #{state} (#{transmitters.length})
+    .column.span-6
+      %dl
+        - (0..(transmitters.length - 1) / 2).each do |i|
+          %dt.area
+            = transmitters[i].area
+          %dd
+            = render partial: 'shared/tiles/transmitter', locals: { t: transmitters[i] }
+    .column.span-6.last
+      %dl
+        - ((transmitters.length - 1) / 2 + 1..(transmitters.length - 1)).each do |i|
+          %dt.area
+            = transmitters[i].area
+          %dd
+            = render partial: 'shared/tiles/transmitter', locals: { t: transmitters[i] }
+
+%script{ type: 'text/javascript' }
+  var base = '#{station_path(@station)}';
