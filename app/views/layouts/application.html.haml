@@ -1,22 +1,22 @@
 !!!
 %html
-	%head
-		%title FreqFinder
-		= stylesheet_link_tag 'blueprint/print', :media => 'print'
-		= stylesheet_link_tag 'blueprint/screen', :media => 'screen'
-		= stylesheet_link_tag :all, :media => 'all'
-		= javascript_include_tag 'http://www.google.com/jsapi'
-		= javascript_include_tag 'http://maps.googleapis.com/maps/api/js?sensor=true'
-		= javascript_include_tag 'http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/src/markerclusterer.js'
-		= javascript_include_tag 'jquery/jquery.min','jquery/jquery.dl','jquery/jquery.json','jquery/jquery.cookie'
-		= javascript_include_tag 'modernizr/modernizr-1.7.min'
-		= javascript_include_tag 'freqfinder'
-		= csrf_meta_tag
-		
-		%meta{ :name => "viewport", :content => "width=device-width,initial-scale=1.0" }
-	%body
-		= render :partial => "shared/branding/branding"
-		#content
-			= yield
-		= render :partial => "shared/footer/footer"
-		= render :partial => "shared/footer/analytics"
+  %head
+    %title FreqFinder
+    = stylesheet_link_tag 'blueprint/print', media: 'print'
+    = stylesheet_link_tag 'blueprint/screen', media: 'screen'
+    = stylesheet_link_tag :all, media: 'all'
+    = javascript_include_tag 'http://www.google.com/jsapi'
+    = javascript_include_tag 'http://maps.googleapis.com/maps/api/js?sensor=true'
+    = javascript_include_tag 'http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/src/markerclusterer.js'
+    = javascript_include_tag 'jquery/jquery.min','jquery/jquery.dl','jquery/jquery.json','jquery/jquery.cookie'
+    = javascript_include_tag 'modernizr/modernizr-1.7.min'
+    = javascript_include_tag 'freqfinder'
+    = csrf_meta_tag
+
+    %meta{ name: "viewport", :content => "width=device-width,initial-scale=1.0" }
+  %body
+    = render partial: "shared/branding/branding"
+    #content
+      = yield
+    = render partial: "shared/footer/footer"
+    = render partial: "shared/footer/analytics"

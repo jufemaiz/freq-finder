@@ -21,7 +21,16 @@ class StationsController < ApplicationController
     respond_to do |format|
       format.html # show.html.erb
       format.xml  { render xml: @station }
-      format.json { render json: @station.to_json(except: %i[updated_at created_at], include: { transmitters: { except: %i[updated_at created_at station_id] } }) }
+      format.json do
+        render json: @station.to_json(
+          except: %i[updated_at created_at],
+          include: {
+            transmitters: {
+              except: %i[updated_at created_at station_id]
+            }
+          }
+        )
+      end
     end
   end
 

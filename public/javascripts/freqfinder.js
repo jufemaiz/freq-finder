@@ -212,7 +212,7 @@
             window.location.replace("/transmitters/?latlng=" + position.coords.latitude + "," + position.coords.longitude);
             return true;
           }, function() {
-            alert("No geo support - try the search options.	");
+            alert("No geo support - try the search options.  ");
             $('form.geolocation').remove();
             return false;
           });

@@ -7,7 +7,7 @@ services:
     image: postgres
   web:
     build: .
-    command: bundle exec rails s -p 5678
+    command: bundle exec rackup -p 3000 -o '0.0.0.0'
     depends_on:
       - db
       - db_test
@@ -18,6 +18,6 @@ services:
       PGHOST: db
       PGUSER: postgres
     ports:
-      - 5678:5678
+      - "3000:3000"
     volumes:
       - ./:/app

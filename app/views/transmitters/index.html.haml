@@ -1,50 +1,49 @@
 .container
-	.column.span-12.last
-		%h2 Transmitters
+  .column.span-12.last
+    %h2 Transmitters
 
-		- unless @location.blank?
-			.location
-				Closest radio transmitters to
-				- unless @address.blank?
-					%span.address
-						= @address.full_address
-				(
-				%span.latlng
-					%a{ :href => "http://maps.google.com.au/maps?q=#{@location.to_s}" }
-						= "#{@location.lat.round(2)},#{@location.lng.round(2)}"
-				)
+    - unless @location.blank?
+      .location
+        Closest radio transmitters to
+        - unless @address.blank?
+          %span.address
+            = @address.full_address
+        (
+        %span.latlng
+          %a{ href: "http://maps.google.com.au/maps?q=#{@location}" }
+            #{@location.lat.round(2)},#{@location.lng.round(2)}
+        )
 
-	.column.span-12.last
-		%hr{ :style => "border: 1px solid #eee;"}
+  .column.span-12.last
+    %hr{ style: 'border: 1px solid #eee;' }
 
-		%h3 Mapped
-		#mapCanvas
-			#map
+    %h3 Mapped
+    #mapCanvas
+      #map
+
+  .column.span-12.last
+    %table
+      %thead
+        %tr
+          %th{ scope: 'col' } Station
+          %th{ scope: 'col' } Transmitter
+          - unless @transmitters.first.distance.nil?
+            %th{ scope: 'col' } Distance
+          / %th{ scope: 'col' } Location
 
 
-	.column.span-12.last
-		%table
-			%thead
-				%tr
-					%th{ :scope => "col" } Station
-					%th{ :scope => "col" } Transmitter
-					- unless @transmitters.first.distance.nil?
-						%th{ :scope => "col" } Distance
-					/ %th{ :scope => "col" } Location
-
-
-			%tbody
-				- @transmitters.each do |t|
-					%tr
-						%th{ :scope => "row" }
-							= link_to t.station.title, station_path(t.station)
-						%th{ :scope => "row" }
-							= render :partial => "shared/tiles/transmitter", :locals => { :t => t, :latlng => true }
-						- unless @transmitters.first.distance.nil?
-							%td.numeric
-								= t.distance.to_f.round(2)
-						/ %td
-						/ 	%a{ :href => "http://maps.google.com.au/maps?q=#{t.lat},#{t.lng}"}
-						/ 		= "(#{t.lat.round(2)},#{t.lng.round(2)})"
-		-# .pagination
-		-# 	= will_paginate @posts
+      %tbody
+        - @transmitters.each do |t|
+          %tr
+            %th{ scope: 'row' }
+              = link_to t.station.title, station_path(t.station)
+            %th{ scope: 'row' }
+              = render partial: 'shared/tiles/transmitter', locals: { t: t, latlng: true }
+            - unless @transmitters.first.distance.nil?
+              %td.numeric
+                = t.distance.to_f.round(2)
+            / %td
+            /   %a{ href: "http://maps.google.com.au/maps?q=#{t.lat},#{t.lng}"}
+            /     = "(#{t.lat.round(2)},#{t.lng.round(2)})"
+    -# .pagination
+    -#   = will_paginate @posts
