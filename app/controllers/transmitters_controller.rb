@@ -1,5 +1,6 @@
-class TransmittersController < ApplicationController
+# frozen_string_literal: true
 
+class TransmittersController < ApplicationController
   # GET /transmitters
   # GET /transmitters.xml
   def index
@@ -8,7 +9,7 @@ class TransmittersController < ApplicationController
     if !params[:latlng].nil? && params[:latlng].match(/^(-?\d+\.\d+),(-?\d+\.\d+)$/)
       @location = Geokit::LatLng.normalize(params[:latlng])
       @address = GoogleGeocoder.reverse_geocode(@location)
-      @transmitters = Transmitter.includes(:station).near(:origin => @location).order('distance asc') # .paginate(:page => params[:page])
+      @transmitters = Transmitter.includes(:station).near(origin: @location).order('distance asc') # .paginate(:page => params[:page])
     else
       params[:s] ||= 'frequency'
       params[:d] ||= 'asc'
@@ -17,8 +18,8 @@ class TransmittersController < ApplicationController
 
     respond_to do |format|
       format.html # index.html.erb
-      format.xml  { render :xml => @transmitters }
-      format.json  { render :xml => @transmitters.to_json( :include => { :station => { :only => [:title] } }, :except => [ :created_at, :updated_at ] ) }
+      format.xml  { render xml: @transmitters }
+      format.json { render xml: @transmitters.to_json(include: { station: { only: [:title] } }, except: %i[created_at updated_at]) }
     end
   end
 
@@ -29,15 +30,14 @@ class TransmittersController < ApplicationController
 
     if !params[:latlng].nil? && params[:latlng].match(/^(-?\d+\.\d+),(-?\d+\.\d+)$/)
       @location = Geokit::LatLng.normalize(params[:latlng].split(',')) unless params[:latlng].nil?
-      @distance = @location.distance_from(Geokit::LatLng.new(@transmitter.lat,@transmitter.lng))
+      @distance = @location.distance_from(Geokit::LatLng.new(@transmitter.lat, @transmitter.lng))
       # @address = GoogleGeocoder.reverse_geocode(@location)
     end
 
-
     respond_to do |format|
       format.html # show.html.erb
-      format.xml  { render :xml => @transmitter }
-      format.json { render :json => @transmitter.to_json( :include => { :station => { :only => [:title] } }, :except => [ :created_at, :updated_at ] ) }
+      format.xml  { render xml: @transmitter }
+      format.json { render json: @transmitter.to_json(include: { station: { only: [:title] } }, except: %i[created_at updated_at]) }
     end
   end
 
@@ -48,7 +48,7 @@ class TransmittersController < ApplicationController
 
     respond_to do |format|
       format.html # new.html.erb
-      format.xml  { render :xml => @transmitter }
+      format.xml  { render xml: @transmitter }
     end
   end
 
@@ -64,11 +64,11 @@ class TransmittersController < ApplicationController
 
     respond_to do |format|
       if @transmitter.save
-        format.html { redirect_to(@transmitter, :notice => 'Transmitter was successfully created.') }
-        format.xml  { render :xml => @transmitter, :status => :created, :location => @transmitter }
+        format.html { redirect_to(@transmitter, notice: 'Transmitter was successfully created.') }
+        format.xml  { render xml: @transmitter, status: :created, location: @transmitter }
       else
-        format.html { render :action => "new" }
-        format.xml  { render :xml => @transmitter.errors, :status => :unprocessable_entity }
+        format.html { render action: 'new' }
+        format.xml  { render xml: @transmitter.errors, status: :unprocessable_entity }
       end
     end
   end
@@ -80,11 +80,11 @@ class TransmittersController < ApplicationController
 
     respond_to do |format|
       if @transmitter.update_attributes(params[:transmitter])
-        format.html { redirect_to(@transmitter, :notice => 'Transmitter was successfully updated.') }
+        format.html { redirect_to(@transmitter, notice: 'Transmitter was successfully updated.') }
         format.xml  { head :ok }
       else
-        format.html { render :action => "edit" }
-        format.xml  { render :xml => @transmitter.errors, :status => :unprocessable_entity }
+        format.html { render action: 'edit' }
+        format.xml  { render xml: @transmitter.errors, status: :unprocessable_entity }
       end
     end
   end

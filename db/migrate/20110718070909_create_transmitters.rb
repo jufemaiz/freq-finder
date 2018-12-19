@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class CreateTransmitters < ActiveRecord::Migration
   def self.up
     create_table :transmitters do |t|
@@ -20,16 +22,16 @@ class CreateTransmitters < ActiveRecord::Migration
       t.integer       :zone
       t.integer       :easting
       t.integer       :northing
-      t.decimal       :lat, :precision => 16, :scale => 13
-      t.decimal       :lng, :precision => 16, :scale => 13
+      t.decimal       :lat, precision: 16, scale: 13
+      t.decimal       :lng, precision: 16, scale: 13
       t.string        :state
       t.integer       :bsl
       t.string        :license_area
       t.integer       :license_id
       t.string        :operation_hours
-      t.string        :status  
+      t.string        :status
       t.float         :distance
-      
+
       t.timestamps
     end
   end

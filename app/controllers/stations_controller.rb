@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class StationsController < ApplicationController
   # GET /stations
   # GET /stations.xml
@@ -7,7 +9,7 @@ class StationsController < ApplicationController
 
     respond_to do |format|
       format.html # index.html.erb
-      format.xml  { render :xml => @stations }
+      format.xml  { render xml: @stations }
     end
   end
 
@@ -18,8 +20,8 @@ class StationsController < ApplicationController
 
     respond_to do |format|
       format.html # show.html.erb
-      format.xml  { render :xml => @station }
-      format.json { render :json => @station.to_json( :except => [:updated_at, :created_at], :include => { :transmitters => { :except => [:updated_at, :created_at, :station_id] }} ) }
+      format.xml  { render xml: @station }
+      format.json { render json: @station.to_json(except: %i[updated_at created_at], include: { transmitters: { except: %i[updated_at created_at station_id] } }) }
     end
   end
 
@@ -30,7 +32,7 @@ class StationsController < ApplicationController
 
     respond_to do |format|
       format.html # new.html.erb
-      format.xml  { render :xml => @station }
+      format.xml  { render xml: @station }
     end
   end
 
@@ -46,11 +48,11 @@ class StationsController < ApplicationController
 
     respond_to do |format|
       if @station.save
-        format.html { redirect_to(@station, :notice => 'Station was successfully created.') }
-        format.xml  { render :xml => @station, :status => :created, :location => @station }
+        format.html { redirect_to(@station, notice: 'Station was successfully created.') }
+        format.xml  { render xml: @station, status: :created, location: @station }
       else
-        format.html { render :action => "new" }
-        format.xml  { render :xml => @station.errors, :status => :unprocessable_entity }
+        format.html { render action: 'new' }
+        format.xml  { render xml: @station.errors, status: :unprocessable_entity }
       end
     end
   end
@@ -62,11 +64,11 @@ class StationsController < ApplicationController
 
     respond_to do |format|
       if @station.update_attributes(params[:station])
-        format.html { redirect_to(@station, :notice => 'Station was successfully updated.') }
+        format.html { redirect_to(@station, notice: 'Station was successfully updated.') }
         format.xml  { head :ok }
       else
-        format.html { render :action => "edit" }
-        format.xml  { render :xml => @station.errors, :status => :unprocessable_entity }
+        format.html { render action: 'edit' }
+        format.xml  { render xml: @station.errors, status: :unprocessable_entity }
       end
     end
   end

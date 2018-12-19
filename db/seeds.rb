@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rake db:seed (or created alongside the db with db:setup).
 #
@@ -9,10 +11,10 @@
 require 'csv'
 
 # Import Stations
-CSV.foreach("public/src/acma/201107_station_listing.txt") do |row|
-  row[0] ||= ""
-  row[0] = "" if row[0] == " "
-  Station.find_or_create_by_title( row[0] )
+CSV.foreach('public/src/acma/201107_station_listing.txt') do |row|
+  row[0] ||= ''
+  row[0] = '' if row[0] == ' '
+  Station.find_or_create_by_title(row[0])
 end
 
 stations = {}
@@ -48,11 +50,10 @@ end
 # 24  Licence Area ID                 integer
 # 25  Hours of Operation              string
 # 26  Status                          string
-CSV.foreach("public/src/acma/201107_transmitter_listing.csv") do |row|
-  
-  if ["AM","FM"].include?(row[0])
-  
-    row[1]  ||= ""
+CSV.foreach('public/src/acma/201107_transmitter_listing.csv') do |row|
+  if %w[AM FM].include?(row[0])
+
+    row[1] ||= ''
     row[1]  = stations[row[1]] || nil
     row[4]  = row[4].to_f
     row[7]  = row[7].to_i
@@ -65,39 +66,39 @@ CSV.foreach("public/src/acma/201107_transmitter_listing.csv") do |row|
     row[16] = row[16].to_i
     row[17] = row[17].to_i
     row[18] = row[18].to_i
-    row[19] = row[19].scan(/(\d+)\s(\d+)\s(\d+)([NS])/).map{ |d,m,s,p| (d.to_f + m.to_f/60 + s.to_f/3600)*(p=="N"?1:(-1)) }[0] # 34 50 07S
-    row[20] = row[20].scan(/(\d+)\s(\d+)\s(\d+)([EW])/).map{ |d,m,s,p| (d.to_f + m.to_f/60 + s.to_f/3600)*(p=="E"?1:(-1)) }[0] # 138 34 28E
+    row[19] = row[19].scan(/(\d+)\s(\d+)\s(\d+)([NS])/).map { |d, m, s, p| (d.to_f + m.to_f / 60 + s.to_f / 3600) * (p == 'N' ? 1 : -1) }[0] # 34 50 07S
+    row[20] = row[20].scan(/(\d+)\s(\d+)\s(\d+)([EW])/).map { |d, m, s, p| (d.to_f + m.to_f / 60 + s.to_f / 3600) * (p == 'E' ? 1 : -1) }[0] # 138 34 28E
     row[22] = row[22].to_i
     row[24] = row[24].to_i
-  
-    Transmitter.create({
-      :band => row[0],
-      :station_id => row[1],
-      :area => row[2],
-      :callsign => row[3],
-      :frequency => row[4],
-      :purpose => row[5],
-      :polarisation => row[6],
-      :antenna_height => row[7],
-      :antenna_pattern => row[8],
-      :maximum_erp => row[9],
-      :maximum_cmf => row[10],
-      :power => row[11],
-      :technical_specification_number => row[12],
-      :license_number => row[13],
-      :site_id => row[14],
-      :site_name => row[15],
-      :zone => row[16],
-      :easting => row[17],
-      :northing => row[18],
-      :lat => row[19],
-      :lng => row[20],
-      :state => row[21],
-      :bsl => row[22],
-      :license_area => row[23],
-      :license_id => row[24],
-      :operation_hours => row[25],
-      :status => row[26]
-    })
+
+    Transmitter.create(
+      band: row[0],
+      station_id: row[1],
+      area: row[2],
+      callsign: row[3],
+      frequency: row[4],
+      purpose: row[5],
+      polarisation: row[6],
+      antenna_height: row[7],
+      antenna_pattern: row[8],
+      maximum_erp: row[9],
+      maximum_cmf: row[10],
+      power: row[11],
+      technical_specification_number: row[12],
+      license_number: row[13],
+      site_id: row[14],
+      site_name: row[15],
+      zone: row[16],
+      easting: row[17],
+      northing: row[18],
+      lat: row[19],
+      lng: row[20],
+      state: row[21],
+      bsl: row[22],
+      license_area: row[23],
+      license_id: row[24],
+      operation_hours: row[25],
+      status: row[26]
+    )
   end
 end
