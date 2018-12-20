@@ -6,6 +6,8 @@ class TransmittersController < ApplicationController
   def index
     params[:page] ||= 1
 
+    @address = nil
+
     if !params[:latlng].nil? && params[:latlng].match(/^(-?\d+\.\d+),(-?\d+\.\d+)$/)
       @location = Geokit::LatLng.normalize(params[:latlng])
       @address = GoogleGeocoder.reverse_geocode(@location)

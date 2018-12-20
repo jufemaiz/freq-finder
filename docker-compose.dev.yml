@@ -7,7 +7,7 @@ services:
     image: postgres
   web:
     build: .
-    command: bundle exec rackup -p 3000 -o '0.0.0.0'
+    command: bundle exec rerun --background "bundle exec rackup -p 3000 -o '0.0.0.0'"
     depends_on:
       - db
       - db_test

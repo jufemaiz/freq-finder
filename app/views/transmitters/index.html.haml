@@ -27,7 +27,7 @@
         %tr
           %th{ scope: 'col' } Station
           %th{ scope: 'col' } Transmitter
-          - unless @transmitters.first.distance.nil?
+          - unless @address.blank?
             %th{ scope: 'col' } Distance
           / %th{ scope: 'col' } Location
 
