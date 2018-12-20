@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-class CreateTransmitters < ActiveRecord::Migration
-  def self.up
+class CreateTransmitters < ActiveRecord::Migration[5.2]
+  def change
     create_table :transmitters do |t|
       t.string        :band
       t.references    :station
@@ -30,13 +30,8 @@ class CreateTransmitters < ActiveRecord::Migration
       t.integer       :license_id
       t.string        :operation_hours
       t.string        :status
-      t.float         :distance
 
       t.timestamps
     end
-  end
-
-  def self.down
-    drop_table :transmitters
   end
 end

@@ -13,12 +13,12 @@ require 'csv'
 # Import Stations
 CSV.foreach('public/src/acma/201107_station_listing.txt') do |row|
   row[0] ||= ''
-  row[0] = '' if row[0] == ' '
-  Station.find_or_create_by_title(row[0])
+  row[0] = '' if row[0].blank?
+  Station.find_or_create_by(title: row[0])
 end
 
 stations = {}
-Station.find(:all).each do |s|
+Station.all.each do |s|
   stations[s.title] = s.id
 end
 
