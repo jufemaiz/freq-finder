@@ -42,14 +42,14 @@ def string_to_longitude(string)
 end
 
 # Import Stations
-CSV.foreach('public/src/acma/201107_station_listing.txt') do |row|
+CSV.foreach(Rails.root.join('db/data/acma/201107_station_listing.txt')) do |row|
   row[0] ||= ''
   row[0] = '' if row[0].blank?
-  Station.find_or_create_by_title(row[0])
+  Station.find_or_create_by(title: row[0])
 end
 
 stations = {}
-Station.find(:all).each do |s|
+Station.all.each do |s|
   stations[s.title] = s.id
 end
 
@@ -81,7 +81,7 @@ end
 # 24  Licence Area ID                 integer
 # 25  Hours of Operation              string
 # 26  Status                          string
-CSV.foreach('public/src/acma/201107_transmitter_listing.csv') do |row|
+CSV.foreach(Rails.root.join('db/data/acma/201107_transmitter_listing.csv')) do |row|
   if %w[AM FM].include?(row[0])
     row[1] ||= ''
     row[1] = stations[row[1]] || nil
