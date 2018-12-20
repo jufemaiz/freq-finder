@@ -1,0 +1,602 @@
+Call Sign  On Air Id  Licensee
+1ART  1ART  Artsound FM Inc.
+  1CBR  Mix106.3 Canberra FM Radio Pty Ltd
+1CMS  1CMS  Ethnic Broadcasting Council of the ACT and Surro
+1RP  1RPH  Print Handicapped Radio of ACT Inc.
+1WAY  1WAY  FM Canberra Christian Radio Ltd
+1XXR  1XXR  Community Radio 2XX Inc.
+2CA  2CA  Radio Canberra Pty Ltd
+2CC  2CC  Radio Canberra Pty Ltd
+  2ROC  FM104.7 Canberra FM Radio Pty Ltd
+1VFM  1VFM  Valley FM Broadcasters Association Inc.
+2AAY  2AAY  Radio Albury- Wodonga Pty Ltd
+2AY  2AY  Radio Albury- Wodonga Pty Ltd
+2BDR  2BDR  Goulburn and Border Broadcasters Pty Ltd
+2APH  2APH  Vision Australia Foundation
+2REM  2REM  Community Radio Albury/Wodonga Co-operative 
+2AD  2AD  New England Broadcasters Pty Ltd
+2NEB  2NEB  New England Broadcasters Pty Ltd
+2ARM  2ARM  Armidale Community Radio Cooperative Ltd
+  2PAR  Paradise F Paradise FM Community Radio Association Inc
+  2BCR  BFM Bankstown City Radio Cooperative Ltd
+    2 State FM Two State Community Radio Inc.
+2BS  2BS  Bathurst Broadcasters Pty Ltd
+2BXS  2BXS  Bathurst Broadcasters Pty Ltd
+2MCE  2MCE  Charles Sturt University
+2BCB  2BCB  Bathurst Christian Broadcasters Inc.
+2EC  2EC  East Coast Radio Pty Ltd
+2EEE  2EEE  East Coast Radio Pty Ltd
+  2BAR  Edge FM Bega Access Radio Inc.
+2BBB  2BBB  Bellinger Community Communications Co-operativ
+  2SWR  SWR FM Blacktown City Community Radio SWR-FM Associ
+2WEB  2WEB  WREB Cooperative Ltd
+2CUZ  2CUZ  Muda Aboriginal Corporation
+2WKT  2WKT  Highland Media Co-operative Ltd
+2BH  2BH  Radio Outback Pty Ltd
+2DRY  2DRY  Broken Hill Community FM Association Inc.
+  2HIL  Hill FM Horizon Investments Australasia Pty Ltd
+2RDJ  2RDJ  2RDJ-FM Community Radio Co-op Ltd
+2BAY  2BAY  Bay FM Community Radio Inc.
+  2MAC  C91.3 Campbelltown Radio Pty Ltd
+2MCR  2MCR  Macarthur Community Radio Association Inc.
+    COW FM Casinos Own Wireless Association Inc.
+2CHR  2CHR  Central Hunter Community Broadcasters Inc.
+2NSB  2NSB  Northside Broadcasting Co-op Ltd
+2HOT  2HOT  Cobar Community Radio Inc.
+2CFS  2CFS  Commercial Radio Coffs Harbour Pty Ltd
+2CSF  2CSF  Commercial Radio Coffs Harbour Pty Ltd
+  2HC  Easy Listeni AMI Radio Pty Ltd
+2AIR  2AIR  Holiday Coast Community Radio Inc.
+2CHY  2CHY  Community Media CHY Ltd
+  2SKI  Snow FM Radio Snowy Mountains Pty Ltd
+2XL  2XL  Radio Snowy Mountains Pty Ltd
+  2RBR  88.9 FM Ric Community Radio Coraki Association Inc.
+2CBD  2CBD  Deepwater & Districts Community FM Radio Inc.
+2MOR  2MOR  Rich Rivers Radio Pty Ltd
+2QN  2QN  Rich Rivers Radio Pty Ltd
+2DBO  2DBO  Dubbo FM Radio Pty Ltd
+2DU  2DU  Western Broadcasters Pty Ltd
+2ZOO  2ZOO  Western Broadcasters Pty Ltd
+2DCB  2DCB  Dubbo Christian Broadcasters Inc.
+2GLA  2GLA  Great Lakes Area FM Community Radio Ltd
+2CCC  2CCC  Central Coast Community FM Radio Association I
+  2CCH  Hits N Coun Central Coast Broadcasters Ltd
+2CFM  2CFM  SEA FM Central Coast Pty Ltd
+2GGO  2GGO  Central Coast Radio Pty Ltd
+  2GOS  104.5 Star F Gosford FM Radio Pty Ltd
+  2SNR  Radio Five- Five-O-Plus Public Radio Association Inc.
+2GN  2GN  Radio Goulburn Pty Ltd
+  2SNO  Eagle FM Radio Goulburn Pty Ltd
+2GCR  2GCR  Goulburn Community Radio Assoc Inc.
+2CLR  2CLR  Grafton FM Pty Ltd
+2GF  2GF  2GF AM Radio Pty Ltd
+  2CVC  Rhema FM  Clarence Valley Christian Broadcasters Inc.
+2RG  2RG  Radio 2RG Pty Ltd
+2RGF  2RGF  Radio 2RG Pty Ltd
+2MIA  2MIA  Griffith Community FM Association Inc.
+2GGG  2GGG  2MO Gunnedah Pty Ltd
+2MO  2MO  2MO Gunnedah Pty Ltd
+2HAY  2HAY  Hay Community Radio Inc.
+2HHH  2HHH  FM Ltd
+2GEM  2GEM  Northern Broadcasters Pty Ltd
+2NZ  2NZ  Northern Broadcasters Pty Ltd
+2KRR  2KRR  Kandos Rylstone Community Radio Inc.
+  2ONE  The Edge 9 Blue Mountains Broadcasters Pty Ltd
+2BLU  2BLU  Blue Mountains Public Broadcasting Society Inc.
+2NVR  2NVR  Radio Nambucca Inc.
+2PM  2PM  AMI Radio Pty Ltd
+2PQQ  2PQQ  Mid-Coast Broadcasters Pty Ltd
+2ROX  2ROX  Mid-Coast Broadcasters Pty Ltd
+2WAY  2WAY  Hastings Community FM Radio Association Inc.
+  2WET  Tank Radio Macleay Valley Community FM Radio Association 
+2MAQ  2MAQ  Lake Waves FM Community Radio Inc.
+  2LRR  Opal FM Lightning Ridge Community Radio Inc.
+2LM  2LM  Richmond River Broadcasters Pty Ltd
+2ZZZ  2ZZZ  Richmond River Broadcasters Pty Ltd
+2LT  2LT  Midwest Radio Ltd
+  2ICE  Kiss FM Midwest Radio Ltd
+2GLF  2GLF  Liverpool-Green Valley Community Radio Coop Lt
+2TLC  2TLC  Lower Clarence Media Co-operative Society Ltd
+2MWM  2MWM  Manly-Warringah Media Cooperative Ltd
+  2MNO  Monaro FM Monaro Community Radio Inc.
+2NOW  2NOW  Moree Broadcasting & Development Company Ltd
+2VM  2VM  Moree Broadcasting & Development Company Ltd
+2EAR  2EAR  Eurobodalla Access Radio Inc.
+  2GEE  Real FM Mudgee Broadcasting Company Pty Ltd
+2MG  2MG  Mudgee Broadcasting Company Pty Ltd
+2MW  2MW  Tweed Radio & Broadcasting Company Pty Ltd
+2GGZ  2GGZ  Mt Helen FM & TV Upper Hunter & Liverpool Plain
+2NM  2NM  Radio Hunter Valley Pty Ltd
+2VLY  2VLY  Radio Hunter Valley Pty Ltd
+    Max FM Narrabri Shire Community Radio Inc.
+2NBC  2NBC  Narwee Baptist Community Broadcasters Ltd
+2HD  2HD  2HD Broadcasters Pty Ltd
+2KKO  2KKO  Radio Newcastle Pty Ltd
+2NEW  2NEW  Newcastle FM Pty Ltd
+2XXX  2XXX  Radio Newcastle Pty Ltd
+2NUR  2NUR  University of Newcastle
+  2RFM  Rhema FM Newcastle Christian Broadcasters Ltd
+  2NIM  FM 10 Nimbin Independent Media Inc.
+2ST  2ST  South Coast & Tablelands Broadcasting Pty Ltd
+  2WSK  Power FM South Coast & Tablelands Broadcasting Pty Ltd
+2UUU  2UUU  Shoalhaven Community Radio Inc.
+2CCB  2CCB  Canobolas Christian Broadcasters Association Inc
+2EL  2EL  AMI Radio Pty Ltd
+2GZF  2GZF  Radio 2GZ Pty Ltd
+2OAG  2OAG  Radio 2GZ Pty Ltd
+2OCB  2OCB  Orange Community Broadcasters Apple FM Inc.
+2LVR  2LVR  Lachlan Valley Community Radio Inc.
+2PK  2PK  Parkes Broadcasting Company Pty Ltd
+2ROK  2ROK  Parkes Broadcasting Company Pty Ltd
+2CCR  2CCR  Cumberland Media Association Inc.
+    WOW FM Way Out West Fine Music Inc.
+2PMQ  2PMQ  Mid North Coast Christian Broadcasters Inc.
+  2PSR  Port Stephe Port Stephens FM Radio Inc.
+2QBN  2QBN  Queanbeyan Community Radio Inc.
+2RRR  2RRR  Ryde Regional Radio Cooperative Ltd
+2SSR  2SSR  Sutherland Shire Community Radio Association In
+    Daily Mail (UK Radio 1) Pty Ltd
+2CBA  2CBA  Christian Broadcasting Association Ltd
+2CH  2CH  Radio 2CH Pty Ltd
+2DAY  2DAY  Today FM Sydney Pty Ltd
+  2FBI  FBi Free Broadcast Inc.
+2GB  2GB  Harbour Radio Pty Ltd
+2KM  2KM  Labor Media Pty Ltd
+2KY  2KY  2KY Broadcasters Pty Ltd
+  2LND  Koori Radio Gadigal Information Service Aboriginal Corporatio
+2MBS  2MBS  Music Broadcasting Society of New South Wales 
+  2MFM  Muslim Co Muslim Community Radio Inc.
+2MMM  2MMM  Triple M Sydney Pty Ltd
+  2OOO  2000 Multicultural Community Radio Association Ltd
+2RPH  2RPH  Radio for the Print Handicapped of NSW Cooperat
+2SER  2SER  Sydney Educational Broadcasting Ltd
+2SM  2SM  Radio 2SM Pty Ltd
+  2SYD  NOVA FM Nova 96.9 Pty Ltd
+2UE  2UE  Radio 2UE Sydney Pty Ltd
+  2UUS  WSFM ARN Communications Pty Ltd
+  2WFM  Mix106.5 Commonwealth Broadcasting Corporation Pty Ltd
+2RSR  2RSR  Radio Skid Row Ltd
+2TM  2TM  Tamworth Radio Development Company Pty Ltd
+2TTT  2TTT  Tamworth Radio Development Company Pty Ltd
+  2HIM  Radio Rhe Peel Valley Christian Broadcasters Inc.
+2YOU  2YOU  Tamworth Broadcasting Society Inc.
+  2MVB  Max FM Manning Valley Max The Heat FM Pty Ltd
+2RE  2RE  Manning Valley Max The Heat FM Pty Ltd
+2BOB  2BOB  Manning Media Cooperative Ltd
+  2TLP  Ngarralinyi- Mid North Coast Indigenous Broadcasters Associa
+2TEN  2TEN  Tenterfield & District Community FM Radio Associ
+2WG  2WG  Riverina Broadcasters (Holdings) Pty Ltd
+2WZD  2WZD  Riverina Broadcasters (Holdings) Pty Ltd
+2AAA  2AAA  Wagga Wagga Community Media Inc.
+  2WLF  Life FM Riverina Christian Radio Inc.
+2RES  2RES  Radio Eastern Sydney Cooperative Ltd
+2VTR  2VTR  Macquarie Towns Communications Cooperative 2UUL Wave FM Wollongong Broadcasters Pty Ltd
+2VOX  2VOX  Illawarra Community FM Broadcasters Ltd
+2WIN  2WIN  WIN Radio Pty Ltd
+2LIV  2LIV  Living Sound Broadcasters Ltd
+2YAS  2YAS  Yass Community Radio Association Inc.
+2LF  2LF  Radio 2LF Pty Ltd
+2LFF  2LFF  Radio 2LF Pty Ltd
+    Ali-Curung Council Association Inc.
+8HA  8HA  Alice Springs Commercial Broadcasters Pty Ltd
+8SUN  8SUN  Alice Springs Commercial Broadcasters Pty Ltd
+    Barunga-Manyallaluk Community Government Co
+    Tiwi Islands Local Government
+    Beswick/Wugularr Town Council
+8MAB  8MAB  Mabunji Aboriginal Resource Association Inc.
+    Gulin Gulin & Weemol Community Council
+  8KIN  CAAMA Ra Central Australian Aboriginal Media Association
+    Daguragu Community Government Council
+8HOT  8HOT  Northern Territory Broadcasters Pty Ltd
+8MIX  8MIX  Northern Territory Broadcasters Pty Ltd
+8GGG  8GGG  Darwin Christian Broadcasters Association Inc.
+8KNB  8KNB  Radio Larrakia Association Inc.
+    Aputula Housing Association Inc.
+    Galiwinku Community Inc.
+    Ntaria Council Inc.
+    Imanpa Council Inc.
+8KTR  8KTR  Katherine Community Radio Inc.
+    Walungurru Community Council
+    Lajamanu Community Government Council
+    Maningrida Council Inc.
+    Tiwi Islands Local Government
+    Milingimbi Community Council Inc.
+    Minjilang Community Inc.
+    Yugal Mangi Community Government Council
+8EAR  8EAR  East Arnhem Community Radio Association Inc.
+    Anmatjere Community Government Council
+    Numbulwar Numburindi Council Inc.
+    Kunbarllanjnja Community Government Council
+    Nganmarriyanga Community Inc.
+    Papunya Community Council Inc.
+    Peppimenarti Community Council Inc.
+    Anmatjere Community Government Council
+    Tiwi Islands Local Government
+    Ramingining Community Council Inc.
+    Freshstrea W & L Phillips Pty Ltd
+    Ltyentye Apurte Community Government Council
+    Umbakumba Community Council Inc.
+    Kardu Numida Inc.
+    Warruwi Community Inc.
+    Willowra Community Inc.
+    Yirrkala Dhanbul Community Association Inc.
+    Yuelamu Community Inc.
+    Walpiri Media Association
+4AM  4AM  Tablelands Broadcasting Pty Ltd
+4AMM  4AMM  Tablelands Broadcasting Pty Ltd
+    Aurukun Shire Council
+    Badu Island Council
+    Bamaga Island Council
+  4BSR  Beau FM Beaudesert Community Radio Group Inc.
+    Blackwater Community Broadcasters Association I
+    Boigu Island Council
+  4RIM  RIM FM Scenic Rim Broadcasting Association Inc.
+4GEM  4GEM  Bowen Community Broadcasting Association Inc.
+    Daily Mail (UK Radio 2) Pty Ltd
+4AAA  4AAA  Brisbane Indigenous Media Association Inc.
+4BBB  4BBB  Today FM Brisbane Pty Ltd
+4BC  4BC  Radio 4BC Brisbane Pty Ltd
+  4BFM  97.3 Brisbane FM Radio Pty Ltd
+4BH  4BH  Queensland Radio 2000 Pty Ltd
+  4BI  1197 Brisbane Interactive Radio Group Inc.
+4EB  4EB  Ethnic Broadcasting Association of Queensland Lt
+  4FRB  Family Radio Ltd
+4KQ  4KQ  ARN Communications Pty Ltd
+4MBS  4MBS  Music Broadcasting Society of Queensland Ltd
+  4MMM  Triple M Bri Triple M Brisbane Pty Ltd
+4RPH  4RPH  Queensland Radio for the Print Handicapped Ltd
+4ZZZ  4ZZZ  Creative Broadcasters Ltd
+4TAB  4TAB  Broadcasting Station 4IP Pty Ltd
+4BCR  4BCR  Bundy FM Community Radio Association Inc.
+4BU  4BU  Bundaberg Broadcasters Pty Ltd
+4RGB  4RGB  Maryborough Broadcasting Company Pty Ltd
+4RUM  4RUM  Bundaberg Broadcasters Pty Ltd
+  4OUR  Classic Hits, Caboolture Community FM Radio Association Inc.
+4CCA  4CCA  Greater Cairns Radio Pty Ltd
+4EL  4EL  AMI Radio Pty Ltd
+4HOT  4HOT  Greater Cairns Radio Pty Ltd
+4RGC  4RGC  FNQ Broadcasters Cairns Pty Limited
+4CCR  4CCR  Cairns Community Broadcasters Inc.
+  4CIM  Bumma Bip Bumma Bippera Media Aboriginal & Torres Strait   4CCC  4CCC  Pinecam Pty Ltd
+4VL  4VL  Pinecam Pty Ltd
+4CHT  4CHT  North Queensland Broadcasting Corporation Pty L
+4GC  4GC  North Queensland Broadcasting Corporation Pty L
+    Parremar Coconut Island Council
+4DDD  4DDD  Dalby Broadcasting Association Inc.
+    Darnley Island Council
+    Dauan Island Council
+  4ACR  Doomadgee Media Association Inc
+4HI  4HI  Regional Broadcasters Australia Pty Ltd
+4HIT  4HIT  Regional Broadcasters Australia Pty Ltd
+4EEE  4EEE  Emerald Community Broadcasters Association Inc
+    EMERALD S40   4EM  4EM  Murrangi Holdings Pty Ltd
+    Central Burnett Community Radio Association Inc.
+4RGL  4RGL  Gladstone and District Christian Broadcasting Ass
+  4CAB  Life FM Christian Air Broadcasters Ltd
+4CRB  4CRB  Gold Coast Christian & Community Broadcasting 
+4GLD  4GLD  Gold Coast FM Pty Ltd
+  4HTB  1029 Hot To Hot Tomato Pty Ltd
+  4MET  Radio Metro Radio Metro Ltd
+4RHI  4RHI  Radio Hope Island Ltd
+4SEA  4SEA  Sea FM Gold Coast Pty Ltd
+    Mornington Island Council
+    Cooloola Christian Radio Association Inc.
+4GY  4GY  Gympie-Noosa Broadcasters Pty Ltd
+4NNN  4NNN  Gympie-Noosa Broadcasters Pty Ltd
+4FCR  4FCR  Fraser Coast Community Radio Inc.
+    Hope Vale Aboriginal Council
+    Injinoo Community Council
+4KZ  4KZ  Coastal Broadcasters Pty Ltd
+  4ZKZ  Kool FM Coastal Broadcasters Pty Ltd
+  4MIX  River FM Star Broadcasting Network Pty Ltd
+4KRY  4KRY  Forsby Pty Ltd
+4SB  4SB  Forsby Pty Ltd
+    Kowanyama Aboriginal Council
+    Kubin Island Council
+    Lockhart River Aboriginal Council
+4CBL  4CBL  Radio Logan Inc.
+4LG  4LG  Radio Outback Pty Limited
+4LRE  4LRE  Radio Outback Pty Limited
+    Mabuiag Island Community Council
+4AA  4AA  AMI Radio Pty Ltd
+4MKY  4MKY  Barrier Reef Broadcasting Pty Ltd
+4MMK  4MMK  Barrier Reef Broadcasting Pty Ltd
+4RGM  4RGM  Whitsundays Broadcasters Pty Ltd
+4CRM  4CRM  Community Radio Association Mackay Inc.
+4RCR  4RCR  Living Waters Community Radio Association Inc.
+4CEE  4CEE  Maryborough Broadcasting Company Pty Ltd
+4FC  4MB  Unitab Limited
+  4MBB  The Heat Maryborough Broadcasting Company Pty Ltd
+  4WBR  Rhema FM  Wide Bay Christian Broadcasters Association Inc.
+    Rock FM Rock FM Association Inc.
+4MIG  4MIG  Mt Isa Christian Broadcasters Association Inc.
+4MOB  4MOB  Mount Isa Aboriginal Media Association (Aborigina
+4LM  4LM  North Queensland Broadcasting Corporation Pty L
+4MIC  4MIC  North Queensland Broadcasting Corporation Pty L
+    Murray Islands Council
+  4MCY  HOT 91 DMG Radio (Sunshine Coast) Pty Ltd
+4SEE  4SEE  Sunshine Coast Broadcasters Pty Ltd
+4SSS  4SSS  Sunshine Coast Broadcasters Pty Ltd
+  4CLG  Rhema FM Sunshine Coast Christian Broadcasters Associatio
+  4SDA  Sunshine F SDA Radio Association Inc.
+    New Mapoon Aboriginal Council
+    Noosa Com Noosa District Community FM Radio Association Pormpuraaw Community Council
+    Radio Hinch Coastal Broadcasters Pty Ltd
+4DB  4DB  Pinecam Pty Ltd
+4RED  4RED  99 FM Community Radio Assn Inc.
+  4BRZ  Breeze Rebel FM Stereo Pty Ltd
+  4RBL  Rebel FM Rebel FM Stereo Pty Ltd
+4CC  4CC  Regional Broadcasters Australia Pty Ltd
+  4RGK  Sea FM Rockhampton Broadcasting Company Pty Ltd
+4RO  4RO  Rockhampton Broadcasting Company Pty Ltd
+  4ROK  Regional Broadcasters Australia Pty Ltd
+4US  4US  Central Queensland Aboriginal Corporation for Me
+4YOU  4YOU  Capricorn Community Radio 4 YOU Inc.
+4ROM  4ROM  Regional Broadcasters Australia Pty Ltd
+4ZR  4ZR  Regional Broadcasters Australia Pty Ltd
+4RRR  4RRR  Roma Community Broadcasting Society Inc.
+    Saibai Island Council
+    Seisia Island Council
+    St Pauls Island Council
+    Stephens Island Council
+    Warraber Island Council
+4DDB  4DDB  Darling Downs Broadcasting Society
+  4GOD  92.9 FM Th Toowoomba Christian Broadcasters Inc.
+4AK  4AK  Radio 4AK Pty Ltd
+4GR  4GR  Gold Radio Service Pty Ltd
+4RGD  4RGD  Gold Radio Service Pty Ltd
+4WK  4WK  Amalgamated Marketing Pty Ltd
+4MW  4MW  Torres Strait Islanders Media Association Inc.
+4RAM  4RAM  Nessan Pty Ltd
+4RGR  4RGR  Central Victoria Broadcasters Pty Ltd
+4RGT  4RGT  FNQ Broadcasters Townsville Pty Ltd
+4TOO  4TOO  Townsville Broadcasters Pty Ltd
+4KIG  4KIG  Townsville Aboriginal and Islander Media Associat
+  4TCB  Live FM Townsville Christian Broadcasters Association Inc.
+4TTT  4TTT  Townsville Community Broadcasting Co Ltd
+    Umagico Aboriginal Council
+  4CCC  Rainbow F Warwick Community FM Radio Association Inc.
+  4CSB  Crow FM Community Radio of Wondai Association Inc.
+    Woorabinda Aboriginal Council
+    Wujal Wujal Aboriginal Council
+4BAY  4BAY  Bayside Community Radio Association Inc.
+    Yam Island Council
+4NAG  4NAG  NAG Radio Broadcasting Association Inc.
+    Yorke Island Council
+  5MBS  Music Broadcasting Society of South Australia Inc.
+5AA  5AA  Festival City Broadcasters Pty Ltd
+5ADD  5ADD  5AD Broadcasting Company Pty Ltd
+  5ADL  Nova 91.9 Nova 91.9 Pty Ltd
+5DDD  5DDD  Progressive Music Broadcasting Association Inc.
+5DN  5DN  Southern State Broadcasters Pty Ltd
+5EBI  5EBI  Ethnic Broadcasters Inc.
+  5FBI  Fresh FM Fresh Broadcasters Inc.
+5MMM  5MMM  Triple M Adelaide Pty Ltd
+  5RAM  Life FM Christian Radio Inc.
+5RPH  5RPH  RPH Adelaide Inc.
+  5SSA  SAFM Austereo Pty Ltd
+5UV  5UV  University of Adelaide
+5CST  5CST  Southern and Western Community Broadcasters Amata Community Council
+  5BBB  BBB-FM Barossa Broadcasting Board Inc.
+5CCR  5CCR  Ceduna Community Radio Inc.
+    Pukatja (Ernabella) Community Council
+    Kaltijiti Community Aboriginal Corporation
+    Indulkana Community Council
+5KIX  5KIX  Kangaroo Island Community Radio Inc.
+5THE  5THE  Millicent Community Access Radio Inc.
+5GTR  5GTR  South East Community Access Radio Inc.
+  5RCB  Rhema FM South East Christian Broadcasters Inc.
+5SE  5SE  South Eastern Broadcasters Pty Ltd
+5SEF  5SEF  South Eastern Broadcasters Pty Ltd
+5EZY  5EZY  Radio Murray Bridge Pty Ltd
+5MU  5MU  Radio Murray Bridge Pty Ltd
+5TCB  5TCB  Tatiara Community FM Broadcasters Inc.
+  5WOW  WOW FM Way Out West Broadcasters Inc.
+5CC  5CC  Lanson Investments Pty Ltd
+5CCC  5CCC  Lanson Investments Pty Ltd
+    Port Pirie   5AU  5AU  5AU Broadcasters Pty Ltd
+5CS  5CS  Lanson Investments Pty Ltd
+  5TRX  TRAX FM Pirie Community Radio Broadcasters Inc.
+    Renmark 5RIV Star FM 5AU Broadcasters Pty Ltd
+5RM  5RM  5AU Broadcasters Pty Ltd
+5PBA  5PBA  Para Broadcasters Association Inc.
+  5GSFM Great South Great Southern FM Community Broadcaster's Ass
+5EFM  5EFM  Encounter FM Community Broadcasters Associati
+5YYY  5YYY  Whyalla FM Public Broadcasting Association Inc.
+5RRR  5RRR  Woomera Access Radio Inc.
+  5GFM  Gulf FM Peninsula Community Broadcasters Inc.
+7BU  7BU  Burnie Broadcasting Service Pty Ltd
+  7SEA  SEA FM Burnie Broadcasting Service Pty Ltd
+7AD  7AD  Northern Tasmania Broadcasters Pty Ltd
+7DDD  7DDD  Northern Tasmania Broadcasters Pty Ltd
+7RGY  7RGY  Radio Geeveston Youth Inc.
+7HFC  7HFC  Hope Foundation Communicators Inc.
+7HHO  7HHO  Commercial Broadcasters Pty Ltd
+7TTT  7TTT  Great Southern Land Broadcasters Pty Ltd
+7XXX  7XXX  Tasradio Pty Ltd
+7THE  7THE  Hobart FM Inc.
+  7EDG  Edge Radio  Tasmanian Youth Broadcasters
+7RP  7RPH  Broadcast Services for the Handicapped Inc.
+7EX  7TAB  Tasradio Pty Ltd
+7LA  7LA  Bass Radio Pty Ltd
+7LTN  7LTN  Launceston Community FM Group Inc.
+7WAY  7WAY  Launceston Christian Broadcasters Inc.
+  7HRT  Heart FM Northern Midlands Community Broadcasters Inc.
+7AUS  7AUS  XS West Pty Ltd
+7XS  7XS  XS West Pty Ltd
+  7BOD  BOD FM BOD FM
+  7RGS  99.7 SEA F North East Tasmanian Radio Broadcasters Pty Ltd
+7SD  7SD  North East Tasmanian Radio Broadcasters Pty Ltd
+  7TAS  97.7 TASM Tasman Community Broadcasters Association Inc.
+7DBS  7DBS  Coastal FM Inc.
+3UGE  3UGE  Upper Goulburn Community Radio Inc.
+    Bacchus Marsh Community Radio Inc.
+3BBA  3BBA  Radio Ballarat Pty Ltd
+3BT  3BT  Ballarat Sports Radio Pty Ltd
+3RBA  3RBA  Radio Ballarat Pty Ltd
+    Voice FM Ballarat Community FM Radio Cooperative Societ
+3BGR  3BGR  Ballarat Gospel Radio Inc.
+3BBO  3BBO  Radio 3BO Pty Ltd
+3BDG  3BDG  Radio 3CV Pty Ltd
+3BPH  3BPH  Vision Australia Foundation
+  3CCC  Triple C FM Goldfields Community Radio Cooperative Ltd
+  3EON  Radio KLF Bendigo FM Education Broadcasting Inc.
+    WBCR Whitehorse Boroondara Community Radio Inc.
+    Otway FM Otway FM Community Radio Group Inc.
+3CCS  3CCS  ACE Radio Broadcasters Pty Ltd
+3CS  3CS  ACE Radio Broadcasters Pty Ltd
+3REG  3REG  Radio East Gippsland Inc.
+3GRR  3GRR  Echuca-Moama Broadcast Service Inc.
+    Rhema FM Geelong Gospel Radio Inc.
+3BAY  3BAY  Geelong Broadcasters Pty Ltd
+3CAT  3CAT  Geelong Broadcasters Pty Ltd
+  3GPH  Vision Australia Foundation
+3HA  3HA  ACE Radio Broadcasters Pty Ltd
+  3HFM  Mixx FM ACE Radio Broadcasters Pty Ltd
+3WM  3WM  ACE Radio Broadcasters Pty Ltd
+3WWM  3WWM  ACE Radio Broadcasters Pty Ltd
+  3HHH  Triple H Horsham & District Community FM Radio Inc.
+3CH  3CH  Central Highlands Broadcasting Inc.
+3GCR  3GCR  Gippsland Community Radio Society Cooperative 
+3MFM  3MFM  South Gippsland FM Radio Inc.
+3MGB  3MGB  Mallacoota Genoa Broadcasting Association Inc.
+  3MCR  Mansfield Community Radio Inc.
+3EL  3EL  AMI Radio Pty Ltd
+    Joy Melbourne Inc.
+3ECB  3ECB  Eastern Community Broadcasters Inc.
+3INR  3INR  Inner North East Community Radio Inc.
+3NOW  3NOW  North West Community Radio Association Inc.
+3AK  3AK  Victorian Radio Network Pty Ltd
+3AW  3AW  3AW  Southern Cross Radio Pty Ltd
+3CR  3CR  Community Radio Melbourne Pty Ltd
+3EE  3EE  693 Southern Cross Radio Pty Ltd
+3FOX  3FOX  Austereo Pty Ltd
+  3KKZ  Gold104.3 ARN Broadcasting Pty Ltd
+3KND  3KND  Kool ' The South Eastern Indigenous Media Association 
+3MBS  3MBS  Music Broadcasting Society of Victoria Ltd
+  3MEL  NOVA 100 Nova 100 Pty Ltd
+3MMM  3MMM  Triple M Melbourne Pty Ltd
+3MP  3MP  Malbend Pty Ltd
+3PBS  3PBS  Progressive Broadcasting Service Cooperative Ltd
+3RPH  3RPH  Vision Australia Foundation
+3RRR  3RRR  Triple R Broadcasters Ltd
+  3SYN  90.7 SYN F Student Youth Network Inc.
+  3TSC  Light FM Triple Seven Communications Inc.
+3TTT  3TTT  Double T Radio Pty Ltd
+3UZ  3UZ  3UZ Pty Ltd
+3ZZZ  3ZZZ  Ethnic Public Broadcasting Association of Victoria 
+3SER  3SER  South Eastern Radio Association Inc.
+3SCB  3SCB  Southern Community Broadcasters Inc.
+3WRB  3WRB  Western Radio Broadcasters Inc.
+3RIM  3RIM  3RIM Inc.
+3MDA  3MDA  Radio 3MA Pty Ltd
+3ML  3ML  AMI Radio Pty Ltd
+3RMR  3RMR  Radio 3MA Pty Ltd
+3MPH  3MPH  Vision Australia Foundation
+3HOT  3HOT  Sunraysia Community Radio Association Inc.
+3RPP  3RPP  Radio Port Phillip Association Inc.
+3MDR  3MDR  Mountain District Radio Inc.
+3MBR  3MBR  Mallee Community and Educational Broadcasters 
+3HCR  3HCR  Omeo Shire Community Access Radio Inc.
+3PVR  3PVR  Plenty Valley Community Radio Inc.
+3RPC  3RPC  Radio Portland Corporation
+3GV  3GV  ACE Radio Broadcasters Pty Ltd
+3TFM  3TR  FM ACE Radio Broadcasters Pty Ltd
+3SR  3SR  3UZ Pty Ltd
+3SRR  3SRR  Goulburn and Border Broadcasters Pty Ltd
+3SUN  3SUN  Goulburn and Border Broadcasters Pty Ltd
+3ONE  3ONE  Goulburn Valley Community Radio Inc.
+3SPH  3SPH  Vision Australia Foundation
+3NRG  3NRG  3NRG Inc.
+3SH  3SH  ACE Radio Broadcasters Pty Ltd
+3SHI  3SHI  ACE Radio Broadcasters Pty Ltd
+3NE  3NE  North East Broadcasters Ltd
+3NNN  3NNN  North East Broadcasters Ltd
+3WPR  3WPR  Wangaratta Community Radio Association Inc.
+3GG  3GG  Votraint No. 691 Pty Ltd
+3SEA  3SEA  Votraint No. 691 Pty Ltd
+3BBR  3BBR-FM West Gippsland Community Radio Inc.
+3YB  3YB  Regional Communications Pty Ltd
+3YFM  3YFM  Regional Communications Pty Ltd
+3WAY  3WAY  Community Radio Endeavour Warrnambool Inc.
+  3GDR  Golden Day Golden Days Radio for Senior Citizens Inc.
+    WYN-FM WYN-FM Community Radio Inc.
+3VYV  3VYV  Yarra Valley Broadcasters Inc.
+6AAY  6AAY  Belcap Investments Pty Ltd
+6VA  6VA  Belcap Investments Pty Ltd
+6CRA  6CRA  Albany Community Radio Inc.
+  6AY  Radio AM 1 Pirate Broadcasters Pty Ltd
+  6HFM  Heritage FM Heritage FM Inc.
+    Wirrimanu Aboriginal Corporation
+    Beagle Bay Aboriginal Community Inc.
+6BET  6BET  Elldale Pty Ltd
+6BY  6BY  Elldale Pty Ltd
+    Radio Gool Broome Aboriginal Media Association
+6BUN  6BUN  Radio West Broadcasters Pty Ltd
+6EL  6EL  AMI Radio Pty Ltd
+6TZ  6TZ  Radio West Broadcasters Pty Ltd
+6CAR  6CAR  Yamatji Media Pty Ltd
+6LN  6LN  Yamatji Media Pty Ltd
+  6RCI  VLU2-FM Radio VLU2-FM Announcers Association Inc.
+6DBY  6DBY  Derby Media Aboriginal Corporation
+    Djarindjin Aboriginal Corporation
+6SE  6SE  Esperance Broadcasters Pty Ltd
+6SEA  6SEA  Esperance Broadcasters Pty Ltd
+6ESP  6ESP  Esperance Sonshine Broadcasters Inc.
+6FX  6FX  Wangki Yupurnanupurru Aboriginal Corporation
+6CCR  6CCR  Creative Community Radio Inc.
+  6PCR  Cockburn S Portuguese Cultural and Recreational Centre of   6BAY  6BAY  Geraldton FM Pty Ltd
+6GGG  6GGG  Great Northern Broadcasters Ltd
+    Soncity FM Soncity FM Inc.
+    Worldaudio Communications Pty Limited
+6PRK  6PRK  Puranyangu-Rangka Kerrem (Aboriginal Radio) Jigalong Community Inc.
+  6KCR  KCR-FM Kalamunda Community Radio (Inc)
+6KAR  6KAR  Regional Broadcasters Australia Pty Ltd
+6KG  6KG  Regional Broadcasters Australia Pty Ltd
+    Worldaudio Communications Pty Limited
+    Kalumburu Aboriginal Corporation
+6KA  6KA  North West Radio Pty Ltd
+6RED  6RED  North West Radio Pty Ltd
+6KAN  6KAN  Elldale Pty Ltd
+6WB  6WB  Elldale Pty Ltd
+    Kiwirrkurra Community Aboriginal Corporation
+6WR  6WR  Waringarri Media Aboriginal Corporation
+    Bidyadanga Aboriginal Community La Grange Inc.
+    Looma Community Inc.
+6CST  6CST  West Coast Radio Pty Ltd
+6MM  6MM  West Coast Radio Pty Ltd
+    AM 1611 Broadcomm Pty Ltd
+6MKA  6MKA  Meeka FM Community Radio Station Inc.
+6MD  6MD  Mid-Districts Radio Pty Ltd
+6MER  6MER  Mid-Districts Radio Pty Ltd
+6NA  6NA  Radio West Broadcasters Pty Ltd
+6NAN  6NAN  Radio West Broadcasters Pty Ltd
+6NEW  6NEW  Newman Community Radio Inc.
+6AM  6AM  Radio 6AM Pty Ltd
+6NAM  6NAM  Radio 6AM Pty Ltd
+    Oombulgurri Association Inc.
+6AR  6AR  Western Australia Aboriginal Media Association
+6EBA  6EBA  Multicultural Radio & TV Association of Western A
+6IX  6IX  Radio Perth Pty Ltd
+6MIX  6MIX  Perth FM Radio Pty Ltd
+6NOW  6NOW  96FM Southern Cross Radio Pty Ltd
+6NR  6NR  Curtin University of Technology
+  6PER  NOVA 93.7 DMG Radio (Perth) Pty Ltd
+6PPM  6PPM  Consolidated Broadcasting Systems (WA) Pty Ltd
+6PR  6PR  6PR Southern Cross Radio Pty Ltd
+  6RPH  Foundation for Information Radio of WA Inc.
+6RTR  6RTR  Arts Radio Ltd
+6SON  6SON  Good News Broadcasters Inc.
+  6YMS  Groove 101. Youth Media Society of Western Australia Inc.
+6HED  6HED  North West Radio Pty Ltd
+6NW  6NW  North West Radio Pty Ltd
+  6HCR  Radio Mulb Port Hedland Indigenous Media Aboriginal Corpor
+    REMOTE COMMERCIAL RADIO SERV   6FMS  6FMS  North West Radio Pty Ltd
+6SAT  6SAT  North West Radio Pty Ltd
+    Tjukurla Community Inc.
+  6TCR  Twin Cities  Wanneroo Joondalup Regional Broadcasting Asso
+    Warmun Community (Turkey Creek) Inc.
+    Irrunytju Community Inc.
+    Mugarinya Community Association Inc.
+    York Community Radio Inc.
+    Yungngora Community Council

@@ -1,0 +1,19 @@
+# inherit_from: .rubocop_todo.yml
+
+Metrics/AbcSize:
+  Exclude:
+    - 'db/migrate/**/*.rb'
+
+Metrics/BlockLength:
+  Exclude:
+    - 'db/migrate/**/*.rb'
+    - 'db/seeds.rb'
+
+Metrics/MethodLength:
+  Exclude:
+    - 'db/migrate/**/*.rb'
+
+Style/MixinUsage:
+  Exclude:
+    - 'bin/setup'
+    - 'bin/update'
