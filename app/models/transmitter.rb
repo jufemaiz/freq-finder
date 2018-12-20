@@ -10,7 +10,7 @@ class Transmitter < ActiveRecord::Base
 
   scope :am, -> { { conditions: %(band = "AM") } }
   scope :fm, -> { { conditions: %(band = "FM") } }
-  scope :near, lambda do |*args|
+  scope :near, lambda { |*args|
     origin = *args.first[:origin]
     if origin.is_a?(Array)
       origin_lat, origin_lng = origin
@@ -34,5 +34,5 @@ class Transmitter < ActiveRecord::Base
         SIN(#{origin_lat})*SIN(RADIANS(transmitters.lat)))*6377.830272) AS distance
       )
     }
-  end
+  }
 end
