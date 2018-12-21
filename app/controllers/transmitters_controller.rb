@@ -50,7 +50,7 @@ class TransmittersController < ApplicationController
   # @return [void]
   def set_location
     return unless params[:latlng] &&
-      params[:latlng].match()
+      params[:latlng].match(LATLNG_PATTERN)
 
     @location = Geokit::LatLng.normalize(
       params[:latlng].split(',')
