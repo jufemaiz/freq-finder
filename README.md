@@ -9,27 +9,51 @@ girlfriend called me wanting to know the TripleJ frequencies near her!
 GeoCode base stations (not taking into account power...yet) against a location
 and get going with options to listen to!
 
-## Rails 5.2 README
+## API Support
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### v1: [JSON:API](https://jsonapi.org/)
 
-Things you may want to cover:
+Available at: https://freqfinder.herokuapp.com/v1/
 
-* Ruby version
+* Station `https://freqfinder.herokuapp.com/v1/stations`
+* Transmitter `https://freqfinder.herokuapp.com/v1/transmitters`
 
-* System dependencies
+### v2: [GraphQL](https://graphql.org/)
 
-* Configuration
+Available at: https://freqfinder.herokuapp.com/v2/
 
-* Database creation
+## Requirements
 
-* Database initialization
+If you are developing locally, bust out your [Docker](https://docker.org) so
+that.
 
-* How to run the test suite
+## Development
 
-* Services (job queues, cache servers, search engines, etc.)
+Docker makes life lovely here.
 
-* Deployment instructions
+```bash
+docker-compose -f docker-compose.dev.yml build web
+docker-compose -f docker-compose.dev.yml up web
+docker-compose -f docker-compose.dev.yml run web bundle exec rake db:drop
+docker-compose -f docker-compose.dev.yml run web bundle exec rake db:create
+docker-compose -f docker-compose.dev.yml run web bundle exec rake db:migrate
+docker-compose -f docker-compose.dev.yml run web bundle exec rake db:seed
+```
 
-* ...
+You should then be able to access the service at:
+
+[localhost:3000](http://localhost:3000)
+
+## Testing
+
+Testing is also nice with Docker!
+
+```bash
+docker-compose -f docker-compose.test.yml build web
+docker-compose -f docker-compose.test.yml up web
+docker-compose -f docker-compose.test.yml run web bundle exec rake db:drop
+docker-compose -f docker-compose.test.yml run web bundle exec rake db:create
+docker-compose -f docker-compose.test.yml run web bundle exec rake db:migrate
+docker-compose -f docker-compose.test.yml run web bundle exec rake db:seed
+docker-compose -f docker-compose.test.yml run web bundle exec rspec
+```

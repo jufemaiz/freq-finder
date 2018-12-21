@@ -9,7 +9,7 @@ class StationsController < ApplicationController
 
   # GET /stations
   def index
-    @stations = Station.all
+    @stations = Station.order(title: :asc).all
   end
 
   # GET /stations/:id

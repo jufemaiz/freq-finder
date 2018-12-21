@@ -9,14 +9,16 @@ class TransmittersController < ApplicationController
   before_action :set_location, only: %i[index show]
   before_action :set_transmitter, only: [:show]
 
+  LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/
+
   # GET /stations
   def index
     logger.info("@station: #{@station.inspect}")
     logger.info("@location: #{@location.inspect}")
 
     @transmitters = Transmitter
-    @transmitters = @transmitters.by_distance(origin: @location) unless @location.nil?
     @transmitters = @transmitters.where(station: @station) unless @station.nil?
+    @transmitters = @transmitters.by_distance(origin: @location) unless @location.nil?
     @transmitters = @transmitters.all
     # logger.info("@transmitters: #{@transmitters.inspect}")
   end
@@ -48,7 +50,7 @@ class TransmittersController < ApplicationController
   # @return [void]
   def set_location
     return unless params[:latlng] &&
-      params[:latlng].match(/^(-?\d+\.\d+),(-?\d+\.\d+)$/)
+      params[:latlng].match()
 
     @location = Geokit::LatLng.normalize(
       params[:latlng].split(',')

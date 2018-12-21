@@ -1,18 +1,18 @@
 ---
 version: '3.4'
 services:
-  db:
+  db_test:
     image: postgres
   web:
     build: .
-    command: bundle exec rerun --background "bundle exec rackup -p 3000 -o '0.0.0.0'"
+    command: bundle exec rspec
     depends_on:
-      - db
+      - db_test
     entrypoint: ''
     environment:
-      RAILS_ENV: development
-      RACK_ENV: development
-      PGHOST: db
+      RAILS_ENV: test
+      RACK_ENV: test
+      PGHOST: db_test
       PGUSER: postgres
     ports:
       - "3000:3000"
