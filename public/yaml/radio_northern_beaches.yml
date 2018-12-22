@@ -28,32 +28,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Manly North
-  :callsign: 2MWM
-  :frequency: 88.7
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: DA
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10008216
-  :license_number: 1563209
-  :site_id: 204131
-  :site_name: Lot 199 18 Walter Road INGLESIDE
-  :zone: 56
-  :easting: 340246
-  :northing: 6272746
-  :lat: "-33.6730555555556"
-  :lng: '151.2766666666667'
-  :state: NSW
-  :bsl: 3049
-  :license_area: MANLY RA1
-  :license_id: 395
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Manly South
   :callsign: 2MWM
   :frequency: 90.3

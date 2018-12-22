@@ -2,25 +2,25 @@
 :title: Zinc 102.7
 :transmitters:
 - :band: FM
-  :area: Cairns (Mt Yarrabah)
+  :area: Mossman
   :callsign: 4CCA
-  :frequency: 102.7
+  :frequency: 92.5
   :purpose: Commercial
   :polarisation: M
-  :antenna_height: 10
-  :antenna_pattern: DA
-  :maximum_erp: 10000
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 1000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10007328
-  :license_number: 1154996
-  :site_id: 40739
-  :site_name: TV Site 7.6 km ENE of Cairns MT YARRABAH
+  :technical_specification_number: 10007488
+  :license_number: 1158227
+  :site_id: 153555
+  :site_name: Crown Castle Mossman Site Gorge View Crescent MOSSMAN
   :zone: 55
-  :easting: 376688
-  :northing: 8130488
-  :lat: "-16.9058333333333"
-  :lng: '145.8419444444445'
+  :easting: 325240
+  :northing: 8178150
+  :lat: "-16.4716666666667"
+  :lng: '145.3627777777778'
   :state: QLD
   :bsl: 1150014
   :license_area: CAIRNS RA1
@@ -54,25 +54,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Mossman
+  :area: Cairns (Mt Yarrabah)
   :callsign: 4CCA
-  :frequency: 92.5
+  :frequency: 102.7
   :purpose: Commercial
   :polarisation: M
-  :antenna_height: 40
-  :antenna_pattern: OD
-  :maximum_erp: 1000
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 10000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10007488
-  :license_number: 1158227
-  :site_id: 153555
-  :site_name: Crown Castle Mossman Site Gorge View Crescent MOSSMAN
+  :technical_specification_number: 10007328
+  :license_number: 1154996
+  :site_id: 40739
+  :site_name: TV Site 7.6 km ENE of Cairns MT YARRABAH
   :zone: 55
-  :easting: 325240
-  :northing: 8178150
-  :lat: "-16.4716666666667"
-  :lng: '145.3627777777778'
+  :easting: 376688
+  :northing: 8130488
+  :lat: "-16.9058333333333"
+  :lng: '145.8419444444445'
   :state: QLD
   :bsl: 1150014
   :license_area: CAIRNS RA1

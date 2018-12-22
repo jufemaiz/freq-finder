@@ -1,6 +1,32 @@
 ---
 :title: Easy Mix
 :transmitters:
+- :band: FM
+  :area: Bendigo (City)
+  :callsign: 3EL
+  :frequency: 98.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10006081
+  :license_number: 1158819
+  :site_id: 300440
+  :site_name: CETV Site Specimen Hill Reservoir SPECIMEN HILL
+  :zone: 55
+  :easting: 253900
+  :northing: 5927400
+  :lat: "-36.7669444444444"
+  :lng: '144.2427777777778'
+  :state: VIC
+  :bsl: 10368
+  :license_area: MARYBOROUGH (VIC) RA1
+  :license_id: 432
+  :operation_hours: 
+  :status: Issued
 - :band: AM
   :area: Maryborough (Vic)
   :callsign: 3EL
@@ -51,31 +77,5 @@
   :bsl: 10098
   :license_area: MILDURA RA1
   :license_id: 436
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Bendigo (City)
-  :callsign: 3EL
-  :frequency: 98.3
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 40
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10006081
-  :license_number: 1158819
-  :site_id: 300440
-  :site_name: CETV Site Specimen Hill Reservoir SPECIMEN HILL
-  :zone: 55
-  :easting: 253900
-  :northing: 5927400
-  :lat: "-36.7669444444444"
-  :lng: '144.2427777777778'
-  :state: VIC
-  :bsl: 10368
-  :license_area: MARYBOROUGH (VIC) RA1
-  :license_id: 432
   :operation_hours: 
   :status: Issued

@@ -27,29 +27,3 @@
   :license_id: 424
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Melbourne Eastern Suburbs
-  :callsign: 3ECB
-  :frequency: 98.1
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 25
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 3951001
-  :license_number: 1385161
-  :site_id: 302508
-  :site_name: Yarra Valley Water Tank Velma Grove RINGWOOD EAST
-  :zone: 55
-  :easting: 346370
-  :northing: 5814130
-  :lat: "-37.8069444444444"
-  :lng: '145.2547222222222'
-  :state: VIC
-  :bsl: 3951
-  :license_area: MELBOURNE EAST RA1
-  :license_id: 424
-  :operation_hours: 
-  :status: Issued

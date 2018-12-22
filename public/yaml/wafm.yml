@@ -2,31 +2,31 @@
 :title: WAFM
 :transmitters:
 - :band: FM
-  :area: Broome
+  :area: Port Hedland
   :callsign: 6HED
-  :frequency: 101.3
+  :frequency: 91.7
   :purpose: Commercial
   :polarisation: M
-  :antenna_height: 64
+  :antenna_height: 55
   :antenna_pattern: OD
   :maximum_erp: 2000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10001436
-  :license_number: 1158384
-  :site_id: 150356
-  :site_name: Broadcast Site 8km NNE of BROOME
-  :zone: 51
-  :easting: 421800
-  :northing: 8021900
-  :lat: "-17.8891666666667"
-  :lng: '122.2616666666667'
+  :technical_specification_number: 10000782
+  :license_number: 1153252
+  :site_id: 150323
+  :site_name: Broadcast Site WEDGEFIELD
+  :zone: 50
+  :easting: 665100
+  :northing: 7745700
+  :lat: "-20.3794444444444"
+  :lng: '118.5819444444445'
   :state: WA
   :bsl: 10014
   :license_area: PORT HEDLAND RA1
   :license_id: 484
   :operation_hours: 
-  :status: Renewal Pending
+  :status: Issued
 - :band: FM
   :area: Geraldton
   :callsign: 6GGG
@@ -54,6 +54,32 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
+  :area: Broome
+  :callsign: 6HED
+  :frequency: 101.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 64
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001436
+  :license_number: 1158384
+  :site_id: 150356
+  :site_name: Broadcast Site 8km NNE of BROOME
+  :zone: 51
+  :easting: 421800
+  :northing: 8021900
+  :lat: "-17.8891666666667"
+  :lng: '122.2616666666667'
+  :state: WA
+  :bsl: 10014
+  :license_area: PORT HEDLAND RA1
+  :license_id: 484
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
   :area: Karratha
   :callsign: 6RED
   :frequency: 106.5
@@ -77,31 +103,5 @@
   :bsl: 10009
   :license_area: KARRATHA RA1
   :license_id: 478
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Port Hedland
-  :callsign: 6HED
-  :frequency: 91.7
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 55
-  :antenna_pattern: OD
-  :maximum_erp: 2000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10000782
-  :license_number: 1153252
-  :site_id: 150323
-  :site_name: Broadcast Site WEDGEFIELD
-  :zone: 50
-  :easting: 665100
-  :northing: 7745700
-  :lat: "-20.3794444444444"
-  :lng: '118.5819444444445'
-  :state: WA
-  :bsl: 10014
-  :license_area: PORT HEDLAND RA1
-  :license_id: 484
   :operation_hours: 
   :status: Issued

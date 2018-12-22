@@ -1,84 +1,6 @@
 ---
 :title: ABC Mid North Coast NSW
 :transmitters:
-- :band: AM
-  :area: Kempsey
-  :callsign: 2KP
-  :frequency: 684.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 169
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 1250
-  :power: 10000
-  :technical_specification_number: 4012001
-  :license_number: 1198572
-  :site_id: 151297
-  :site_name: Broadcast Site SMITHTOWN
-  :zone: 56
-  :easting: 494950
-  :northing: 6569554
-  :lat: "-31.0072222222222"
-  :lng: '152.9469444444445'
-  :state: NSW
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Taree
-  :callsign: 2TR
-  :frequency: 756.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 92
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 672
-  :power: 2000
-  :technical_specification_number: 4020001
-  :license_number: 1150284
-  :site_id: 151247
-  :site_name: Broadcast Site TAREE
-  :zone: 56
-  :easting: 444637
-  :northing: 6478989
-  :lat: "-31.8230555555556"
-  :lng: '152.4147222222222'
-  :state: NSW
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Gloucester
-  :callsign: 2MRR
-  :frequency: 100.9
-  :purpose: National
-  :polarisation: M
-  :antenna_height: 19
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 5045002
-  :license_number: 1198625
-  :site_id: 151231
-  :site_name: Broadcast Australia Site Kiaora Lookout GLOUCESTER
-  :zone: 56
-  :easting: 400388
-  :northing: 6463052
-  :lat: "-31.9638888888889"
-  :lng: '151.9458333333333'
-  :state: NSW
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Grafton/Kempsey
   :callsign: 2MRR
@@ -125,6 +47,84 @@
   :northing: 6492349
   :lat: "-31.7036111111111"
   :lng: '152.6775'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gloucester
+  :callsign: 2MRR
+  :frequency: 100.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 19
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5045002
+  :license_number: 1198625
+  :site_id: 151231
+  :site_name: Broadcast Australia Site Kiaora Lookout GLOUCESTER
+  :zone: 56
+  :easting: 400388
+  :northing: 6463052
+  :lat: "-31.9638888888889"
+  :lng: '151.9458333333333'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Kempsey
+  :callsign: 2KP
+  :frequency: 684.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 169
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1250
+  :power: 10000
+  :technical_specification_number: 4012001
+  :license_number: 1198572
+  :site_id: 151297
+  :site_name: Broadcast Site SMITHTOWN
+  :zone: 56
+  :easting: 494950
+  :northing: 6569554
+  :lat: "-31.0072222222222"
+  :lng: '152.9469444444445'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Taree
+  :callsign: 2TR
+  :frequency: 756.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 92
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 672
+  :power: 2000
+  :technical_specification_number: 4020001
+  :license_number: 1150284
+  :site_id: 151247
+  :site_name: Broadcast Site TAREE
+  :zone: 56
+  :easting: 444637
+  :northing: 6478989
+  :lat: "-31.8230555555556"
+  :lng: '152.4147222222222'
   :state: NSW
   :bsl: 0
   :license_area: 

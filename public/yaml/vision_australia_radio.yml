@@ -1,58 +1,6 @@
 ---
 :title: Vision Australia Radio
 :transmitters:
-- :band: AM
-  :area: Melbourne
-  :callsign: 3RPH
-  :frequency: 1179.0
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 136
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 920
-  :power: 5000
-  :technical_specification_number: 3540001
-  :license_number: 1385113
-  :site_id: 150806
-  :site_name: Broadcast Site Bonds Rd LOWER PLENTY
-  :zone: 55
-  :easting: 333503
-  :northing: 5821004
-  :lat: "-37.7427777777778"
-  :lng: '145.1102777777778'
-  :state: VIC
-  :bsl: 3540
-  :license_area: VICTORIA COMMUNITY RA1
-  :license_id: 1212
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Albury
-  :callsign: 2APH
-  :frequency: 101.7
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 2000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10005693
-  :license_number: 1170090
-  :site_id: 150497
-  :site_name: 2REM Site One Tree Hill ALBURY
-  :zone: 55
-  :easting: 496460
-  :northing: 6013595
-  :lat: "-36.0219444444444"
-  :lng: '146.9605555555556'
-  :state: NSW
-  :bsl: 10372
-  :license_area: ALBURY RA2
-  :license_id: 401
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Bendigo
   :callsign: 3BPH
@@ -77,84 +25,6 @@
   :bsl: 10257
   :license_area: BENDIGO RA2
   :license_id: 407
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Geelong
-  :callsign: 3GPH
-  :frequency: 99.5
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 800
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10009641
-  :license_number: 1170572
-  :site_id: 8000005
-  :site_name: Broadcast Site Brownhill Heights Reserve CERES
-  :zone: 55
-  :easting: 263400
-  :northing: 5771300
-  :lat: "-38.175"
-  :lng: '144.2988888888889'
-  :state: VIC
-  :bsl: 1150700
-  :license_area: GEELONG RA2
-  :license_id: 463
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Mildura
-  :callsign: 3MPH
-  :frequency: 107.5
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 54
-  :antenna_pattern: OD
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10002409
-  :license_number: 1152291
-  :site_id: 502343
-  :site_name: Byrne Court Broadcasting Site MILDURA
-  :zone: 54
-  :easting: 607909
-  :northing: 6214975
-  :lat: "-34.2002777777778"
-  :lng: '142.1711111111111'
-  :state: VIC
-  :bsl: 10092
-  :license_area: MILDURA RA2
-  :license_id: 435
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Shepparton
-  :callsign: 3SPH
-  :frequency: 100.1
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: DA
-  :maximum_erp: 10000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10005711
-  :license_number: 1170124
-  :site_id: 199273
-  :site_name: Broadcast Site 27 km E of Shepparton MT MAJOR
-  :zone: 55
-  :easting: 383100
-  :northing: 5974900
-  :lat: "-36.3636111111111"
-  :lng: '145.6969444444445'
-  :state: VIC
-  :bsl: 10388
-  :license_area: SHEPPARTON RA2
-  :license_id: 346
   :operation_hours: 
   :status: Issued
 - :band: FM
@@ -203,6 +73,136 @@
   :northing: 5758750
   :lat: "-38.3063888888889"
   :lng: '142.7363888888889'
+  :state: VIC
+  :bsl: 3540
+  :license_area: VICTORIA COMMUNITY RA1
+  :license_id: 1212
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Geelong
+  :callsign: 3GPH
+  :frequency: 99.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 800
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009641
+  :license_number: 1170572
+  :site_id: 8000005
+  :site_name: Broadcast Site Brownhill Heights Reserve CERES
+  :zone: 55
+  :easting: 263400
+  :northing: 5771300
+  :lat: "-38.175"
+  :lng: '144.2988888888889'
+  :state: VIC
+  :bsl: 1150700
+  :license_area: GEELONG RA2
+  :license_id: 463
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Shepparton
+  :callsign: 3SPH
+  :frequency: 100.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005711
+  :license_number: 1170124
+  :site_id: 199273
+  :site_name: Broadcast Site 27 km E of Shepparton MT MAJOR
+  :zone: 55
+  :easting: 383100
+  :northing: 5974900
+  :lat: "-36.3636111111111"
+  :lng: '145.6969444444445'
+  :state: VIC
+  :bsl: 10388
+  :license_area: SHEPPARTON RA2
+  :license_id: 346
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Albury
+  :callsign: 2APH
+  :frequency: 101.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005693
+  :license_number: 1170090
+  :site_id: 150497
+  :site_name: 2REM Site One Tree Hill ALBURY
+  :zone: 55
+  :easting: 496460
+  :northing: 6013595
+  :lat: "-36.0219444444444"
+  :lng: '146.9605555555556'
+  :state: NSW
+  :bsl: 10372
+  :license_area: ALBURY RA2
+  :license_id: 401
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mildura
+  :callsign: 3MPH
+  :frequency: 107.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 54
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002409
+  :license_number: 1152291
+  :site_id: 502343
+  :site_name: Byrne Court Broadcasting Site MILDURA
+  :zone: 54
+  :easting: 607909
+  :northing: 6214975
+  :lat: "-34.2002777777778"
+  :lng: '142.1711111111111'
+  :state: VIC
+  :bsl: 10092
+  :license_area: MILDURA RA2
+  :license_id: 435
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Melbourne
+  :callsign: 3RPH
+  :frequency: 1179.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 136
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 920
+  :power: 5000
+  :technical_specification_number: 3540001
+  :license_number: 1385113
+  :site_id: 150806
+  :site_name: Broadcast Site Bonds Rd LOWER PLENTY
+  :zone: 55
+  :easting: 333503
+  :northing: 5821004
+  :lat: "-37.7427777777778"
+  :lng: '145.1102777777778'
   :state: VIC
   :bsl: 3540
   :license_area: VICTORIA COMMUNITY RA1

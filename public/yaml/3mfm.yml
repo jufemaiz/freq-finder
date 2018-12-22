@@ -2,32 +2,6 @@
 :title: 3MFM
 :transmitters:
 - :band: FM
-  :area: Foster
-  :callsign: 3MFM
-  :frequency: 89.5
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 20
-  :antenna_pattern: DA
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1912003
-  :license_number: 1385168
-  :site_id: 40859
-  :site_name: 3-MFM Site MT HODDLE
-  :zone: 55
-  :easting: 425590
-  :northing: 5716905
-  :lat: "-38.6930555555556"
-  :lng: '146.1441666666667'
-  :state: VIC
-  :bsl: 1912
-  :license_area: LEONGATHA RA1
-  :license_id: 351
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Leongatha
   :callsign: 3MFM
   :frequency: 88.1
@@ -73,6 +47,32 @@
   :northing: 5739496
   :lat: "-38.4836111111111"
   :lng: '145.5438888888889'
+  :state: VIC
+  :bsl: 1912
+  :license_area: LEONGATHA RA1
+  :license_id: 351
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Foster
+  :callsign: 3MFM
+  :frequency: 89.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1912003
+  :license_number: 1385168
+  :site_id: 40859
+  :site_name: 3-MFM Site MT HODDLE
+  :zone: 55
+  :easting: 425590
+  :northing: 5716905
+  :lat: "-38.6930555555556"
+  :lng: '146.1441666666667'
   :state: VIC
   :bsl: 1912
   :license_area: LEONGATHA RA1

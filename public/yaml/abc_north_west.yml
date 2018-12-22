@@ -2,77 +2,25 @@
 :title: ABC North West
 :transmitters:
 - :band: AM
-  :area: Exmouth
-  :callsign: 6XM
-  :frequency: 1188.0
+  :area: Tom Price
+  :callsign: 6TP
+  :frequency: 567.0
   :purpose: National
   :polarisation: V
-  :antenna_height: 87
+  :antenna_height: 37
   :antenna_pattern: OD
   :maximum_erp: 0
-  :maximum_cmf: 484
-  :power: 2000
-  :technical_specification_number: 10001801
-  :license_number: 1198491
-  :site_id: 151622
-  :site_name: Broadcast Site 3 km S of EXMOUTH
+  :maximum_cmf: 94
+  :power: 100
+  :technical_specification_number: 10001814
+  :license_number: 1198474
+  :site_id: 40502
+  :site_name: ABC MF Broadcast Site Tom Price Spur Road TOM PRICE
   :zone: 50
-  :easting: 203400
-  :northing: 7568705
-  :lat: "-21.9608333333333"
-  :lng: '114.1280555555556'
-  :state: WA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Carnarvon
-  :callsign: 6CA
-  :frequency: 846.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 31
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 474
-  :power: 2500
-  :technical_specification_number: 10001800
-  :license_number: 1198487
-  :site_id: 31759
-  :site_name: 6CA cnr Lewer Rd and Robinson St CARNARVON
-  :zone: 49
-  :easting: 769670
-  :northing: 7246470
-  :lat: "-24.8727777777778"
-  :lng: '113.6688888888889'
-  :state: WA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Karratha
-  :callsign: 6KP
-  :frequency: 702.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 90
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 948
-  :power: 10000
-  :technical_specification_number: 10001796
-  :license_number: 1198481
-  :site_id: 151684
-  :site_name: Broadcast Site NW Coastal Hwy 7 km SE of KARRATHA
-  :zone: 50
-  :easting: 482644
-  :northing: 7707351
-  :lat: "-20.7330555555556"
-  :lng: '116.8330555555556'
+  :easting: 579427
+  :northing: 7489399
+  :lat: "-22.7005555555556"
+  :lng: '117.7730555555556'
   :state: WA
   :bsl: 0
   :license_area: 
@@ -184,25 +132,77 @@
   :operation_hours: 
   :status: Issued
 - :band: AM
-  :area: Tom Price
-  :callsign: 6TP
-  :frequency: 567.0
+  :area: Karratha
+  :callsign: 6KP
+  :frequency: 702.0
   :purpose: National
   :polarisation: V
-  :antenna_height: 37
+  :antenna_height: 90
   :antenna_pattern: OD
   :maximum_erp: 0
-  :maximum_cmf: 94
-  :power: 100
-  :technical_specification_number: 10001814
-  :license_number: 1198474
-  :site_id: 40502
-  :site_name: ABC MF Broadcast Site Tom Price Spur Road TOM PRICE
+  :maximum_cmf: 948
+  :power: 10000
+  :technical_specification_number: 10001796
+  :license_number: 1198481
+  :site_id: 151684
+  :site_name: Broadcast Site NW Coastal Hwy 7 km SE of KARRATHA
   :zone: 50
-  :easting: 579427
-  :northing: 7489399
-  :lat: "-22.7005555555556"
-  :lng: '117.7730555555556'
+  :easting: 482644
+  :northing: 7707351
+  :lat: "-20.7330555555556"
+  :lng: '116.8330555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Carnarvon
+  :callsign: 6CA
+  :frequency: 846.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 31
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 474
+  :power: 2500
+  :technical_specification_number: 10001800
+  :license_number: 1198487
+  :site_id: 31759
+  :site_name: 6CA cnr Lewer Rd and Robinson St CARNARVON
+  :zone: 49
+  :easting: 769670
+  :northing: 7246470
+  :lat: "-24.8727777777778"
+  :lng: '113.6688888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Exmouth
+  :callsign: 6XM
+  :frequency: 1188.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 87
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 484
+  :power: 2000
+  :technical_specification_number: 10001801
+  :license_number: 1198491
+  :site_id: 151622
+  :site_name: Broadcast Site 3 km S of EXMOUTH
+  :zone: 50
+  :easting: 203400
+  :northing: 7568705
+  :lat: "-21.9608333333333"
+  :lng: '114.1280555555556'
   :state: WA
   :bsl: 0
   :license_area: 

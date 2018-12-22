@@ -2,32 +2,6 @@
 :title: Life FM
 :transmitters:
 - :band: FM
-  :area: Adelaide
-  :callsign: 5RAM
-  :frequency: 107.9
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 60
-  :antenna_pattern: DA
-  :maximum_erp: 20000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 5269001
-  :license_number: 1569070
-  :site_id: 23139
-  :site_name: ntl Tower Summit Road CRAFERS
-  :zone: 54
-  :easting: 290707
-  :northing: 6126723
-  :lat: "-34.9802777777778"
-  :lng: '138.7069444444445'
-  :state: SA
-  :bsl: 5269
-  :license_area: ADELAIDE RA1
-  :license_id: 499
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Bathurst
   :callsign: 2BCB
   :frequency: 100.1
@@ -80,32 +54,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Gold Coast
-  :callsign: 4CAB
-  :frequency: 107.3
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 63
-  :antenna_pattern: DA
-  :maximum_erp: 10000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10013954
-  :license_number: 1170589
-  :site_id: 403573
-  :site_name: Large Link Tower within Broadcast Enclosure Golf Course Rd MOUNT TAMBORINE
-  :zone: 56
-  :easting: 520880
-  :northing: 6905960
-  :lat: "-27.9711111111111"
-  :lng: '153.2122222222222'
-  :state: QLD
-  :bsl: 1150708
-  :license_area: GOLD COAST RA1
-  :license_id: 515
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Grafton
   :callsign: 2CVC
   :frequency: 103.1
@@ -155,5 +103,57 @@
   :bsl: 1150777
   :license_area: LATROBE VALLEY RA2
   :license_id: 1081
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gold Coast
+  :callsign: 4CAB
+  :frequency: 107.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 63
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013954
+  :license_number: 1170589
+  :site_id: 403573
+  :site_name: Large Link Tower within Broadcast Enclosure Golf Course Rd MOUNT TAMBORINE
+  :zone: 56
+  :easting: 520880
+  :northing: 6905960
+  :lat: "-27.9711111111111"
+  :lng: '153.2122222222222'
+  :state: QLD
+  :bsl: 1150708
+  :license_area: GOLD COAST RA1
+  :license_id: 515
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Adelaide
+  :callsign: 5RAM
+  :frequency: 107.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5269001
+  :license_number: 1569070
+  :site_id: 23139
+  :site_name: ntl Tower Summit Road CRAFERS
+  :zone: 54
+  :easting: 290707
+  :northing: 6126723
+  :lat: "-34.9802777777778"
+  :lng: '138.7069444444445'
+  :state: SA
+  :bsl: 5269
+  :license_area: ADELAIDE RA1
+  :license_id: 499
   :operation_hours: 
   :status: Issued

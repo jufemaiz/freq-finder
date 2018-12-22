@@ -2,32 +2,6 @@
 :title: ABC South East SA
 :transmitters:
 - :band: AM
-  :area: Mount Gambier
-  :callsign: 5MG
-  :frequency: 1476.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 21
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 285
-  :power: 1000
-  :technical_specification_number: 10013769
-  :license_number: 1198414
-  :site_id: 23876
-  :site_name: Telstra 60 Crouch Street NORTH MOUNT GAMBIER
-  :zone: 54
-  :easting: 481418
-  :northing: 5813467
-  :lat: "-37.8258333333333"
-  :lng: '140.7886111111111'
-  :state: SA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
   :area: Naracoorte
   :callsign: 5PA
   :frequency: 1161.0
@@ -47,6 +21,32 @@
   :northing: 5911608
   :lat: "-36.9408333333333"
   :lng: '140.6705555555556'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Mount Gambier
+  :callsign: 5MG
+  :frequency: 1476.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 21
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 285
+  :power: 1000
+  :technical_specification_number: 10013769
+  :license_number: 1198414
+  :site_id: 23876
+  :site_name: Telstra 60 Crouch Street NORTH MOUNT GAMBIER
+  :zone: 54
+  :easting: 481418
+  :northing: 5813467
+  :lat: "-37.8258333333333"
+  :lng: '140.7886111111111'
   :state: SA
   :bsl: 0
   :license_area: 

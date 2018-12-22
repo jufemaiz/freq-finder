@@ -2,32 +2,6 @@
 :title: TRFM
 :transmitters:
 - :band: FM
-  :area: Bairnsdale
-  :callsign: 3TFM
-  :frequency: 99.9
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 25
-  :antenna_pattern: DA
-  :maximum_erp: 5000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10011107
-  :license_number: 1170644
-  :site_id: 12064
-  :site_name: Riviera Communications Tower 14 km NNW of Bairnsdale MT TAYLOR
-  :zone: 55
-  :easting: 549310
-  :northing: 5826440
-  :lat: "-37.7077777777778"
-  :lng: '147.5591666666667'
-  :state: VIC
-  :bsl: 1150756
-  :license_area: SALE RA1
-  :license_id: 439
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Sale
   :callsign: 3TFM
   :frequency: 99.5
@@ -47,6 +21,32 @@
   :northing: 5750240
   :lat: "-38.395"
   :lng: '146.5577777777778'
+  :state: VIC
+  :bsl: 1150756
+  :license_area: SALE RA1
+  :license_id: 439
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bairnsdale
+  :callsign: 3TFM
+  :frequency: 99.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10011107
+  :license_number: 1170644
+  :site_id: 12064
+  :site_name: Riviera Communications Tower 14 km NNW of Bairnsdale MT TAYLOR
+  :zone: 55
+  :easting: 549310
+  :northing: 5826440
+  :lat: "-37.7077777777778"
+  :lng: '147.5591666666667'
   :state: VIC
   :bsl: 1150756
   :license_area: SALE RA1

@@ -1,32 +1,6 @@
 ---
 :title: 2LM
 :transmitters:
-- :band: AM
-  :area: Lismore
-  :callsign: 2LM
-  :frequency: 900.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 86
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 965
-  :power: 5000
-  :technical_specification_number: 4119001
-  :license_number: 1385016
-  :site_id: 8523
-  :site_name: Broadcast Site Unara Rd Site 1 Bexhill LISMORE
-  :zone: 56
-  :easting: 535000
-  :northing: 6817900
-  :lat: "-28.7655555555556"
-  :lng: '153.3583333333333'
-  :state: NSW
-  :bsl: 4119
-  :license_area: LISMORE RA1
-  :license_id: 372
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Kyogle
   :callsign: 2LM
@@ -47,6 +21,32 @@
   :northing: 6839350
   :lat: "-28.5725"
   :lng: '153.0697222222222'
+  :state: NSW
+  :bsl: 4119
+  :license_area: LISMORE RA1
+  :license_id: 372
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Lismore
+  :callsign: 2LM
+  :frequency: 900.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 86
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 965
+  :power: 5000
+  :technical_specification_number: 4119001
+  :license_number: 1385016
+  :site_id: 8523
+  :site_name: Broadcast Site Unara Rd Site 1 Bexhill LISMORE
+  :zone: 56
+  :easting: 535000
+  :northing: 6817900
+  :lat: "-28.7655555555556"
+  :lng: '153.3583333333333'
   :state: NSW
   :bsl: 4119
   :license_area: LISMORE RA1

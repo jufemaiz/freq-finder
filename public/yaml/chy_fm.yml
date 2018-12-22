@@ -27,29 +27,3 @@
   :license_id: 393
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Coffs Harbour
-  :callsign: 2CHY
-  :frequency: 104.1
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 15
-  :antenna_pattern: OD
-  :maximum_erp: 1600
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10005046
-  :license_number: 1385215
-  :site_id: 7833
-  :site_name: Broadcast/Comms Site Bruxner Park COFFS HARBOUR
-  :zone: 56
-  :easting: 510406
-  :northing: 6652612
-  :lat: "-30.2577777777778"
-  :lng: '153.1080555555556'
-  :state: NSW
-  :bsl: 3045
-  :license_area: COFFS HARBOUR RA2
-  :license_id: 393
-  :operation_hours: 
-  :status: Renewal Pending

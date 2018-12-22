@@ -2,110 +2,6 @@
 :title: Power FM
 :transmitters:
 - :band: FM
-  :area: Ballarat (Warrenheip)
-  :callsign: 3BBA
-  :frequency: 103.1
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 50
-  :antenna_pattern: DA
-  :maximum_erp: 20000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10005184
-  :license_number: 1151274
-  :site_id: 150365
-  :site_name: Radio Ballarat Site 9 km E of Ballarat MT WARRENHEIP
-  :zone: 54
-  :easting: 761295
-  :northing: 5837000
-  :lat: "-37.5766666666667"
-  :lng: '143.9586111111111'
-  :state: VIC
-  :bsl: 10284
-  :license_area: BALLARAT RA1
-  :license_id: 427
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Batemans Bay/Moruya
-  :callsign: 2EEE
-  :frequency: 104.3
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 25
-  :antenna_pattern: DA
-  :maximum_erp: 20000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10004660
-  :license_number: 1154117
-  :site_id: 8979
-  :site_name: Broadcast Site South Site 18 km WSW of Batemans Bay MT WANDERA
-  :zone: 56
-  :easting: 229280
-  :northing: 6034340
-  :lat: "-35.7975"
-  :lng: '150.0041666666667'
-  :state: NSW
-  :bsl: 10306
-  :license_area: BEGA RA1
-  :license_id: 367
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Bega
-  :callsign: 2EEE
-  :frequency: 102.5
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 5000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10004650
-  :license_number: 1151345
-  :site_id: 9162
-  :site_name: Broadcast Site 14.5 km N of Bega MUMBULLA MOUNTAIN
-  :zone: 55
-  :easting: 756450
-  :northing: 5951600
-  :lat: "-36.5463888888889"
-  :lng: '149.8647222222222'
-  :state: NSW
-  :bsl: 10306
-  :license_area: BEGA RA1
-  :license_id: 367
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Mt Barker
-  :callsign: 5EZY
-  :frequency: 100.3
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 45
-  :antenna_pattern: OD
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10010683
-  :license_number: 1157334
-  :site_id: 23483
-  :site_name: Major Radio Site Mount Summit Road MOUNT BARKER
-  :zone: 54
-  :easting: 310338
-  :northing: 6117407
-  :lat: "-35.0680555555556"
-  :lng: '138.92'
-  :state: SA
-  :bsl: 10361
-  :license_area: MURRAY BRIDGE RA1
-  :license_id: 471
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Murray Bridge
   :callsign: 5EZY
   :frequency: 98.7
@@ -155,5 +51,109 @@
   :bsl: 10361
   :license_area: MURRAY BRIDGE RA1
   :license_id: 471
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mt Barker
+  :callsign: 5EZY
+  :frequency: 100.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010683
+  :license_number: 1157334
+  :site_id: 23483
+  :site_name: Major Radio Site Mount Summit Road MOUNT BARKER
+  :zone: 54
+  :easting: 310338
+  :northing: 6117407
+  :lat: "-35.0680555555556"
+  :lng: '138.92'
+  :state: SA
+  :bsl: 10361
+  :license_area: MURRAY BRIDGE RA1
+  :license_id: 471
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bega
+  :callsign: 2EEE
+  :frequency: 102.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004650
+  :license_number: 1151345
+  :site_id: 9162
+  :site_name: Broadcast Site 14.5 km N of Bega MUMBULLA MOUNTAIN
+  :zone: 55
+  :easting: 756450
+  :northing: 5951600
+  :lat: "-36.5463888888889"
+  :lng: '149.8647222222222'
+  :state: NSW
+  :bsl: 10306
+  :license_area: BEGA RA1
+  :license_id: 367
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ballarat (Warrenheip)
+  :callsign: 3BBA
+  :frequency: 103.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005184
+  :license_number: 1151274
+  :site_id: 150365
+  :site_name: Radio Ballarat Site 9 km E of Ballarat MT WARRENHEIP
+  :zone: 54
+  :easting: 761295
+  :northing: 5837000
+  :lat: "-37.5766666666667"
+  :lng: '143.9586111111111'
+  :state: VIC
+  :bsl: 10284
+  :license_area: BALLARAT RA1
+  :license_id: 427
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Batemans Bay/Moruya
+  :callsign: 2EEE
+  :frequency: 104.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004660
+  :license_number: 1154117
+  :site_id: 8979
+  :site_name: Broadcast Site South Site 18 km WSW of Batemans Bay MT WANDERA
+  :zone: 56
+  :easting: 229280
+  :northing: 6034340
+  :lat: "-35.7975"
+  :lng: '150.0041666666667'
+  :state: NSW
+  :bsl: 10306
+  :license_area: BEGA RA1
+  :license_id: 367
   :operation_hours: 
   :status: Issued

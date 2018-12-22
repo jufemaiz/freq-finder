@@ -2,32 +2,6 @@
 :title: West FM
 :transmitters:
 - :band: FM
-  :area: Barcaldine
-  :callsign: 4LRE
-  :frequency: 100.9
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 50
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10005016
-  :license_number: 1158014
-  :site_id: 18096
-  :site_name: Water Tower Pine & Yew Sts BARCALDINE
-  :zone: 55
-  :easting: 325676
-  :northing: 7393646
-  :lat: "-23.5580555555556"
-  :lng: '145.2919444444445'
-  :state: QLD
-  :bsl: 10223
-  :license_area: LONGREACH RA1
-  :license_id: 452
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Blackall
   :callsign: 4LRE
   :frequency: 95.1
@@ -54,25 +28,51 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Longreach
+  :area: Winton
   :callsign: 4LRE
-  :frequency: 104.5
+  :frequency: 95.9
   :purpose: Commercial
   :polarisation: V
-  :antenna_height: 44
-  :antenna_pattern: DA
-  :maximum_erp: 1000
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 100
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10005014
-  :license_number: 1154700
-  :site_id: 151602
-  :site_name: 4LG Site 6km NW LONGREACH
+  :technical_specification_number: 10004429
+  :license_number: 1158277
+  :site_id: 18298
+  :site_name: Water Tower Werna St WINTON
+  :zone: 54
+  :easting: 709652
+  :northing: 7522804
+  :lat: "-22.3877777777778"
+  :lng: '143.0361111111111'
+  :state: QLD
+  :bsl: 10223
+  :license_area: LONGREACH RA1
+  :license_id: 452
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Barcaldine
+  :callsign: 4LRE
+  :frequency: 100.9
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005016
+  :license_number: 1158014
+  :site_id: 18096
+  :site_name: Water Tower Pine & Yew Sts BARCALDINE
   :zone: 55
-  :easting: 215800
-  :northing: 7410000
-  :lat: "-23.395"
-  :lng: '144.2191666666667'
+  :easting: 325676
+  :northing: 7393646
+  :lat: "-23.5580555555556"
+  :lng: '145.2919444444445'
   :state: QLD
   :bsl: 10223
   :license_area: LONGREACH RA1
@@ -106,25 +106,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Winton
+  :area: Longreach
   :callsign: 4LRE
-  :frequency: 95.9
+  :frequency: 104.5
   :purpose: Commercial
   :polarisation: V
-  :antenna_height: 15
-  :antenna_pattern: OD
-  :maximum_erp: 100
+  :antenna_height: 44
+  :antenna_pattern: DA
+  :maximum_erp: 1000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10004429
-  :license_number: 1158277
-  :site_id: 18298
-  :site_name: Water Tower Werna St WINTON
-  :zone: 54
-  :easting: 709652
-  :northing: 7522804
-  :lat: "-22.3877777777778"
-  :lng: '143.0361111111111'
+  :technical_specification_number: 10005014
+  :license_number: 1154700
+  :site_id: 151602
+  :site_name: 4LG Site 6km NW LONGREACH
+  :zone: 55
+  :easting: 215800
+  :northing: 7410000
+  :lat: "-23.395"
+  :lng: '144.2191666666667'
   :state: QLD
   :bsl: 10223
   :license_area: LONGREACH RA1

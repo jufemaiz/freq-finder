@@ -1,26 +1,26 @@
 ---
 :title: Radio 97
 :transmitters:
-- :band: AM
-  :area: Murwillumbah
+- :band: FM
+  :area: Mullumbimby
   :callsign: 2MW
-  :frequency: 972.0
+  :frequency: 103.5
   :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 78
+  :polarisation: M
+  :antenna_height: 30
   :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1100
-  :power: 5000
-  :technical_specification_number: 4124001
-  :license_number: 1384999
-  :site_id: 151391
-  :site_name: 2MW Site CLOTHIERS CREEK
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014339
+  :license_number: 1159520
+  :site_id: 370253
+  :site_name: Vodafone Site Mudges Quarry Coolamon Scenic Dr MULLUMBIMBY
   :zone: 56
-  :easting: 549796
-  :northing: 6866402
-  :lat: "-28.3275"
-  :lng: '153.5080555555556'
+  :easting: 550920
+  :northing: 6844620
+  :lat: "-28.5241666666667"
+  :lng: '153.5205555555556'
   :state: NSW
   :bsl: 4124
   :license_area: MURWILLUMBAH RA1
@@ -53,26 +53,26 @@
   :license_id: 377
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Mullumbimby
+- :band: AM
+  :area: Murwillumbah
   :callsign: 2MW
-  :frequency: 103.5
+  :frequency: 972.0
   :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 30
+  :polarisation: V
+  :antenna_height: 78
   :antenna_pattern: DA
-  :maximum_erp: 250
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10014339
-  :license_number: 1159520
-  :site_id: 370253
-  :site_name: Vodafone Site Mudges Quarry Coolamon Scenic Dr MULLUMBIMBY
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 4124001
+  :license_number: 1384999
+  :site_id: 151391
+  :site_name: 2MW Site CLOTHIERS CREEK
   :zone: 56
-  :easting: 550920
-  :northing: 6844620
-  :lat: "-28.5241666666667"
-  :lng: '153.5205555555556'
+  :easting: 549796
+  :northing: 6866402
+  :lat: "-28.3275"
+  :lng: '153.5080555555556'
   :state: NSW
   :bsl: 4124
   :license_area: MURWILLUMBAH RA1

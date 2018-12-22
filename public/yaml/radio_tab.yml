@@ -1,6 +1,32 @@
 ---
 :title: Radio TAB
 :transmitters:
+- :band: FM
+  :area: Beaudesert
+  :callsign: 4TAB
+  :frequency: 89.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009912
+  :license_number: 1157974
+  :site_id: 153026
+  :site_name: 4TAB/SUN FM Site MT DUNSINANE
+  :zone: 56
+  :easting: 503874
+  :northing: 6910755
+  :lat: "-27.9280555555556"
+  :lng: '153.0394444444445'
+  :state: QLD
+  :bsl: 4164
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: 
+  :status: Issued
 - :band: AM
   :area: Brisbane
   :callsign: 4TAB
@@ -51,31 +77,5 @@
   :bsl: 4180
   :license_area: MARYBOROUGH (QLD) RA1
   :license_id: 454
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Beaudesert
-  :callsign: 4TAB
-  :frequency: 89.7
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: DA
-  :maximum_erp: 5000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10009912
-  :license_number: 1157974
-  :site_id: 153026
-  :site_name: 4TAB/SUN FM Site MT DUNSINANE
-  :zone: 56
-  :easting: 503874
-  :northing: 6910755
-  :lat: "-27.9280555555556"
-  :lng: '153.0394444444445'
-  :state: QLD
-  :bsl: 4164
-  :license_area: BRISBANE RA1
-  :license_id: 504
   :operation_hours: 
   :status: Issued

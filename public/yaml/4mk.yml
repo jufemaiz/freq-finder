@@ -1,32 +1,6 @@
 ---
 :title: 4MK
 :transmitters:
-- :band: AM
-  :area: Mackay
-  :callsign: 4AA
-  :frequency: 1026.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 105
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1220
-  :power: 5000
-  :technical_specification_number: 4181001
-  :license_number: 1385009
-  :site_id: 18593
-  :site_name: 4MK MF Towers Mt Bassett MACKAY
-  :zone: 55
-  :easting: 729400
-  :northing: 7662700
-  :lat: "-21.1222222222222"
-  :lng: '149.2086111111111'
-  :state: QLD
-  :bsl: 4181
-  :license_area: MACKAY RA1
-  :license_id: 528
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Airlie Beach
   :callsign: 4AA
@@ -47,6 +21,32 @@
   :northing: 7757179
   :lat: "-20.2747222222222"
   :lng: '148.7088888888889'
+  :state: QLD
+  :bsl: 4181
+  :license_area: MACKAY RA1
+  :license_id: 528
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Mackay
+  :callsign: 4AA
+  :frequency: 1026.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 105
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1220
+  :power: 5000
+  :technical_specification_number: 4181001
+  :license_number: 1385009
+  :site_id: 18593
+  :site_name: 4MK MF Towers Mt Bassett MACKAY
+  :zone: 55
+  :easting: 729400
+  :northing: 7662700
+  :lat: "-21.1222222222222"
+  :lng: '149.2086111111111'
   :state: QLD
   :bsl: 4181
   :license_area: MACKAY RA1

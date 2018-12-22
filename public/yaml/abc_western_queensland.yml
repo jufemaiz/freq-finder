@@ -1,84 +1,6 @@
 ---
 :title: ABC Western Queensland
 :transmitters:
-- :band: AM
-  :area: Charleville
-  :callsign: 4CH
-  :frequency: 603.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 125
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1300
-  :power: 10000
-  :technical_specification_number: 10003860
-  :license_number: 1150337
-  :site_id: 151496
-  :site_name: 4CH Site Mitchell Hwy 19km N of CHARLEVILLE
-  :zone: 55
-  :easting: 430296
-  :northing: 7095801
-  :lat: "-26.2555555555556"
-  :lng: '146.3019444444445'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Longreach
-  :callsign: 4QL
-  :frequency: 540.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 198
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 1247
-  :power: 10000
-  :technical_specification_number: 10003872
-  :license_number: 1198654
-  :site_id: 151603
-  :site_name: MF Broadcast Tower 6 km NW of LONGREACH
-  :zone: 55
-  :easting: 216120
-  :northing: 7410480
-  :lat: "-23.3905555555556"
-  :lng: '144.2225'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Roma/St George
-  :callsign: 4QW
-  :frequency: 711.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 207
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 2100
-  :power: 10000
-  :technical_specification_number: 10003892
-  :license_number: 1150336
-  :site_id: 15493
-  :site_name: Broadcast Site 4QW 9 km NE of ST GEORGE
-  :zone: 55
-  :easting: 664600
-  :northing: 6901900
-  :lat: "-27.9977777777778"
-  :lng: '148.6738888888889'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Cunnamulla
   :callsign: 4CH
@@ -125,6 +47,84 @@
   :northing: 7063550
   :lat: "-26.5441666666667"
   :lng: '148.11'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Longreach
+  :callsign: 4QL
+  :frequency: 540.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 198
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1247
+  :power: 10000
+  :technical_specification_number: 10003872
+  :license_number: 1198654
+  :site_id: 151603
+  :site_name: MF Broadcast Tower 6 km NW of LONGREACH
+  :zone: 55
+  :easting: 216120
+  :northing: 7410480
+  :lat: "-23.3905555555556"
+  :lng: '144.2225'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Charleville
+  :callsign: 4CH
+  :frequency: 603.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 125
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1300
+  :power: 10000
+  :technical_specification_number: 10003860
+  :license_number: 1150337
+  :site_id: 151496
+  :site_name: 4CH Site Mitchell Hwy 19km N of CHARLEVILLE
+  :zone: 55
+  :easting: 430296
+  :northing: 7095801
+  :lat: "-26.2555555555556"
+  :lng: '146.3019444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Roma/St George
+  :callsign: 4QW
+  :frequency: 711.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 207
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 2100
+  :power: 10000
+  :technical_specification_number: 10003892
+  :license_number: 1150336
+  :site_id: 15493
+  :site_name: Broadcast Site 4QW 9 km NE of ST GEORGE
+  :zone: 55
+  :easting: 664600
+  :northing: 6901900
+  :lat: "-27.9977777777778"
+  :lng: '148.6738888888889'
   :state: QLD
   :bsl: 0
   :license_area: 

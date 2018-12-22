@@ -1,32 +1,6 @@
 ---
 :title: 4AK
 :transmitters:
-- :band: AM
-  :area: Oakey
-  :callsign: 4AK
-  :frequency: 1242.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 64
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 440
-  :power: 2000
-  :technical_specification_number: 4166001
-  :license_number: 1384987
-  :site_id: 14689
-  :site_name: Broadcast Site 5km SE of OAKEY
-  :zone: 56
-  :easting: 377000
-  :northing: 6962000
-  :lat: "-27.4597222222222"
-  :lng: '151.755'
-  :state: QLD
-  :bsl: 4166
-  :license_area: TOOWOOMBA/WARWICK RA1
-  :license_id: 691
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Stanthorpe
   :callsign: 4AK
@@ -47,6 +21,32 @@
   :northing: 6829732
   :lat: "-28.6552777777778"
   :lng: '151.9452777777778'
+  :state: QLD
+  :bsl: 4166
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Oakey
+  :callsign: 4AK
+  :frequency: 1242.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 64
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 4166001
+  :license_number: 1384987
+  :site_id: 14689
+  :site_name: Broadcast Site 5km SE of OAKEY
+  :zone: 56
+  :easting: 377000
+  :northing: 6962000
+  :lat: "-27.4597222222222"
+  :lng: '151.755'
   :state: QLD
   :bsl: 4166
   :license_area: TOOWOOMBA/WARWICK RA1

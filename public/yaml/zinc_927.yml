@@ -1,6 +1,58 @@
 ---
 :title: Zinc 927
 :transmitters:
+- :band: FM
+  :area: Agnes Water
+  :callsign: 4CC
+  :frequency: 98.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013396
+  :license_number: 1159628
+  :site_id: 16893
+  :site_name: Nixon Site Reservoir Seaspray Drive AGNES WATER
+  :zone: 56
+  :easting: 387760
+  :northing: 7321210
+  :lat: "-24.2175"
+  :lng: '151.8944444444445'
+  :state: QLD
+  :bsl: 4171
+  :license_area: ROCKHAMPTON RA1
+  :license_id: 456
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Murchison
+  :callsign: 4CC
+  :frequency: 102.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013869
+  :license_number: 1159058
+  :site_id: 17734
+  :site_name: Callide Mine Site MOUNT MURCHISON
+  :zone: 56
+  :easting: 255866
+  :northing: 7309561
+  :lat: "-24.3077777777778"
+  :lng: '150.5944444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
 - :band: AM
   :area: Biloela
   :callsign: 4CC
@@ -77,57 +129,5 @@
   :bsl: 4171
   :license_area: ROCKHAMPTON RA1
   :license_id: 456
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Agnes Water
-  :callsign: 4CC
-  :frequency: 98.3
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 250
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10013396
-  :license_number: 1159628
-  :site_id: 16893
-  :site_name: Nixon Site Reservoir Seaspray Drive AGNES WATER
-  :zone: 56
-  :easting: 387760
-  :northing: 7321210
-  :lat: "-24.2175"
-  :lng: '151.8944444444445'
-  :state: QLD
-  :bsl: 4171
-  :license_area: ROCKHAMPTON RA1
-  :license_id: 456
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Mount Murchison
-  :callsign: 4CC
-  :frequency: 102.7
-  :purpose: Retransmission
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: DA
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10013869
-  :license_number: 1159058
-  :site_id: 17734
-  :site_name: Callide Mine Site MOUNT MURCHISON
-  :zone: 56
-  :easting: 255866
-  :northing: 7309561
-  :lat: "-24.3077777777778"
-  :lng: '150.5944444444445'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
   :operation_hours: 
   :status: Issued

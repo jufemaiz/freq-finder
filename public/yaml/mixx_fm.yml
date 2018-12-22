@@ -2,6 +2,110 @@
 :title: Mixx FM
 :transmitters:
 - :band: FM
+  :area: Hamilton
+  :callsign: 3HFM
+  :frequency: 88.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010709
+  :license_number: 1170640
+  :site_id: 11703
+  :site_name: 3HA Radio Hut Site 6 km N of Hamilton MT BAINBRIDGE
+  :zone: 54
+  :easting: 589820
+  :northing: 5828615
+  :lat: "-37.685"
+  :lng: '142.0186111111111'
+  :state: VIC
+  :bsl: 1150773
+  :license_area: HAMILTON RA1
+  :license_id: 434
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lorne
+  :callsign: 3CCS
+  :frequency: 92.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 24
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009648
+  :license_number: 1170402
+  :site_id: 36224
+  :site_name: Radio Terminal 62 George Street LORNE
+  :zone: 54
+  :easting: 759215
+  :northing: 5729010
+  :lat: "-38.5494444444444"
+  :lng: '143.9741666666667'
+  :state: VIC
+  :bsl: 10309
+  :license_area: COLAC RA1
+  :license_id: 817
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Portland
+  :callsign: 3HFM
+  :frequency: 93.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012663
+  :license_number: 1158663
+  :site_id: 153479
+  :site_name: Broadcast Site Glenelg Shire Council MT CLAY
+  :zone: 54
+  :easting: 561450
+  :northing: 5769770
+  :lat: "-38.2177777777778"
+  :lng: '141.7019444444444'
+  :state: VIC
+  :bsl: 1150773
+  :license_area: HAMILTON RA1
+  :license_id: 434
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Nhill
+  :callsign: 3WWM
+  :frequency: 94.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6766001
+  :license_number: 1158220
+  :site_id: 41747
+  :site_name: Telstra Site LAWLOIT
+  :zone: 54
+  :easting: 542350
+  :northing: 5970850
+  :lat: "-36.4063888888889"
+  :lng: '141.4722222222222'
+  :state: VIC
+  :bsl: 10308
+  :license_area: HORSHAM RA1
+  :license_id: 440
+  :operation_hours: 
+  :status: Issued
+- :band: FM
   :area: Apollo Bay
   :callsign: 3CCS
   :frequency: 95.9
@@ -54,55 +158,29 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Colac
-  :callsign: 3CCS
-  :frequency: 106.3
-  :purpose: Commercial
-  :polarisation: M
+  :area: Kerang
+  :callsign: 3SHI
+  :frequency: 98.7
+  :purpose: Retransmission
+  :polarisation: V
   :antenna_height: 30
-  :antenna_pattern: DA
-  :maximum_erp: 10000
+  :antenna_pattern: OD
+  :maximum_erp: 1000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 6754001
-  :license_number: 1152571
-  :site_id: 11700
-  :site_name: ACE Broadcast site WARRION HILL
+  :technical_specification_number: 10008794
+  :license_number: 1154891
+  :site_id: 152880
+  :site_name: Broadcast Site KERANG
   :zone: 54
-  :easting: 721300
-  :northing: 5766130
-  :lat: "-38.2252777777778"
-  :lng: '143.5280555555556'
+  :easting: 767720
+  :northing: 6037920
+  :lat: "-35.7661111111111"
+  :lng: '143.9611111111111'
   :state: VIC
-  :bsl: 10309
-  :license_area: COLAC RA1
-  :license_id: 817
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Hamilton
-  :callsign: 3HFM
-  :frequency: 88.9
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: DA
-  :maximum_erp: 20000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10010709
-  :license_number: 1170640
-  :site_id: 11703
-  :site_name: 3HA Radio Hut Site 6 km N of Hamilton MT BAINBRIDGE
-  :zone: 54
-  :easting: 589820
-  :northing: 5828615
-  :lat: "-37.685"
-  :lng: '142.0186111111111'
-  :state: VIC
-  :bsl: 1150773
-  :license_area: HAMILTON RA1
-  :license_id: 434
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
   :operation_hours: 
   :status: Issued
 - :band: FM
@@ -132,107 +210,29 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Kerang
-  :callsign: 3SHI
-  :frequency: 98.7
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10008794
-  :license_number: 1154891
-  :site_id: 152880
-  :site_name: Broadcast Site KERANG
-  :zone: 54
-  :easting: 767720
-  :northing: 6037920
-  :lat: "-35.7661111111111"
-  :lng: '143.9611111111111'
-  :state: VIC
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Lorne
+  :area: Colac
   :callsign: 3CCS
-  :frequency: 92.7
+  :frequency: 106.3
   :purpose: Commercial
   :polarisation: M
-  :antenna_height: 24
-  :antenna_pattern: OD
-  :maximum_erp: 100
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 10000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10009648
-  :license_number: 1170402
-  :site_id: 36224
-  :site_name: Radio Terminal 62 George Street LORNE
+  :technical_specification_number: 6754001
+  :license_number: 1152571
+  :site_id: 11700
+  :site_name: ACE Broadcast site WARRION HILL
   :zone: 54
-  :easting: 759215
-  :northing: 5729010
-  :lat: "-38.5494444444444"
-  :lng: '143.9741666666667'
+  :easting: 721300
+  :northing: 5766130
+  :lat: "-38.2252777777778"
+  :lng: '143.5280555555556'
   :state: VIC
   :bsl: 10309
   :license_area: COLAC RA1
   :license_id: 817
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Nhill
-  :callsign: 3WWM
-  :frequency: 94.5
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 2000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 6766001
-  :license_number: 1158220
-  :site_id: 41747
-  :site_name: Telstra Site LAWLOIT
-  :zone: 54
-  :easting: 542350
-  :northing: 5970850
-  :lat: "-36.4063888888889"
-  :lng: '141.4722222222222'
-  :state: VIC
-  :bsl: 10308
-  :license_area: HORSHAM RA1
-  :license_id: 440
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Portland
-  :callsign: 3HFM
-  :frequency: 93.7
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 2000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10012663
-  :license_number: 1158663
-  :site_id: 153479
-  :site_name: Broadcast Site Glenelg Shire Council MT CLAY
-  :zone: 54
-  :easting: 561450
-  :northing: 5769770
-  :lat: "-38.2177777777778"
-  :lng: '141.7019444444444'
-  :state: VIC
-  :bsl: 1150773
-  :license_area: HAMILTON RA1
-  :license_id: 434
   :operation_hours: 
   :status: Issued
 - :band: FM

@@ -2,32 +2,6 @@
 :title: Monaro FM
 :transmitters:
 - :band: FM
-  :area: Bombala
-  :callsign: 2MNO
-  :frequency: 103.7
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10013018
-  :license_number: 1159158
-  :site_id: 136342
-  :site_name: Council Water Tank Cnr Gunningrah Rd and Plunkett St BOMBALA BOMBALA
-  :zone: 55
-  :easting: 698580
-  :northing: 5913363
-  :lat: "-36.9044444444444"
-  :lng: '149.2288888888889'
-  :state: NSW
-  :bsl: 1150162
-  :license_area: COOMA RA2
-  :license_id: 722
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Cooma (town)
   :callsign: 2MNO
   :frequency: 90.5
@@ -47,6 +21,32 @@
   :northing: 5987525
   :lat: "-36.2380555555556"
   :lng: '149.1244444444445'
+  :state: NSW
+  :bsl: 1150162
+  :license_area: COOMA RA2
+  :license_id: 722
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Monaro
+  :callsign: 2MNO
+  :frequency: 93.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6171001
+  :license_number: 1170753
+  :site_id: 9793
+  :site_name: Broadcast Site EMERALD HILL
+  :zone: 55
+  :easting: 709760
+  :northing: 5955680
+  :lat: "-36.5211111111111"
+  :lng: '149.3425'
   :state: NSW
   :bsl: 1150162
   :license_area: COOMA RA2
@@ -80,25 +80,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Monaro
+  :area: Bombala
   :callsign: 2MNO
-  :frequency: 93.3
+  :frequency: 103.7
   :purpose: Community
   :polarisation: M
-  :antenna_height: 50
+  :antenna_height: 20
   :antenna_pattern: OD
-  :maximum_erp: 2000
+  :maximum_erp: 100
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 6171001
-  :license_number: 1170753
-  :site_id: 9793
-  :site_name: Broadcast Site EMERALD HILL
+  :technical_specification_number: 10013018
+  :license_number: 1159158
+  :site_id: 136342
+  :site_name: Council Water Tank Cnr Gunningrah Rd and Plunkett St BOMBALA BOMBALA
   :zone: 55
-  :easting: 709760
-  :northing: 5955680
-  :lat: "-36.5211111111111"
-  :lng: '149.3425'
+  :easting: 698580
+  :northing: 5913363
+  :lat: "-36.9044444444444"
+  :lng: '149.2288888888889'
   :state: NSW
   :bsl: 1150162
   :license_area: COOMA RA2

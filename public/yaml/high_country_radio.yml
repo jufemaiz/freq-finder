@@ -2,32 +2,6 @@
 :title: High Country Radio
 :transmitters:
 - :band: FM
-  :area: Omeo
-  :callsign: 3HCR
-  :frequency: 97.3
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10007582
-  :license_number: 1159541
-  :site_id: 40920
-  :site_name: Broadcast Site Sam Hill OMEO
-  :zone: 55
-  :easting: 550300
-  :northing: 5899100
-  :lat: "-37.0527777777778"
-  :lng: '147.5655555555556'
-  :state: VIC
-  :bsl: 6313
-  :license_area: OMEO RA1
-  :license_id: 644
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Omeo (town)
   :callsign: 3HCR
   :frequency: 90.9
@@ -73,6 +47,32 @@
   :northing: 5873900
   :lat: "-37.2791666666667"
   :lng: '147.7138888888889'
+  :state: VIC
+  :bsl: 6313
+  :license_area: OMEO RA1
+  :license_id: 644
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Omeo
+  :callsign: 3HCR
+  :frequency: 97.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007582
+  :license_number: 1159541
+  :site_id: 40920
+  :site_name: Broadcast Site Sam Hill OMEO
+  :zone: 55
+  :easting: 550300
+  :northing: 5899100
+  :lat: "-37.0527777777778"
+  :lng: '147.5655555555556'
   :state: VIC
   :bsl: 6313
   :license_area: OMEO RA1

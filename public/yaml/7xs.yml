@@ -1,32 +1,6 @@
 ---
 :title: 7XS
 :transmitters:
-- :band: AM
-  :area: Queenstown
-  :callsign: 7XS
-  :frequency: 837.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 46
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 220
-  :power: 500
-  :technical_specification_number: 4222001
-  :license_number: 1384971
-  :site_id: 150701
-  :site_name: Broadcast Site Conlan St QUEENSTOWN
-  :zone: 55
-  :easting: 379698
-  :northing: 5338403
-  :lat: "-42.0969444444444"
-  :lng: '145.545'
-  :state: TAS
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Queenstown/Zeehan
   :callsign: 7AUS
@@ -47,6 +21,32 @@
   :northing: 5339710
   :lat: "-42.0861111111111"
   :lng: '145.6055555555556'
+  :state: TAS
+  :bsl: 4222
+  :license_area: QUEENSTOWN RA1
+  :license_id: 492
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Strahan
+  :callsign: 7XS
+  :frequency: 105.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010491
+  :license_number: 1156059
+  :site_id: 700411
+  :site_name: Telstra Site Water Tower Hill Tamar Street STRAHAN
+  :zone: 55
+  :easting: 362340
+  :northing: 5332170
+  :lat: "-42.1502777777778"
+  :lng: '145.3338888888889'
   :state: TAS
   :bsl: 4222
   :license_area: QUEENSTOWN RA1
@@ -79,29 +79,29 @@
   :license_id: 492
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Strahan
+- :band: AM
+  :area: Queenstown
   :callsign: 7XS
-  :frequency: 105.1
-  :purpose: Retransmission
-  :polarisation: M
-  :antenna_height: 15
+  :frequency: 837.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 46
   :antenna_pattern: OD
-  :maximum_erp: 25
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10010491
-  :license_number: 1156059
-  :site_id: 700411
-  :site_name: Telstra Site Water Tower Hill Tamar Street STRAHAN
+  :maximum_erp: 0
+  :maximum_cmf: 220
+  :power: 500
+  :technical_specification_number: 4222001
+  :license_number: 1384971
+  :site_id: 150701
+  :site_name: Broadcast Site Conlan St QUEENSTOWN
   :zone: 55
-  :easting: 362340
-  :northing: 5332170
-  :lat: "-42.1502777777778"
-  :lng: '145.3338888888889'
+  :easting: 379698
+  :northing: 5338403
+  :lat: "-42.0969444444444"
+  :lng: '145.545'
   :state: TAS
-  :bsl: 4222
-  :license_area: QUEENSTOWN RA1
-  :license_id: 492
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
   :operation_hours: 
   :status: Issued

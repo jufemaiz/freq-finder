@@ -2,32 +2,6 @@
 :title: Edge FM
 :transmitters:
 - :band: FM
-  :area: Bega
-  :callsign: 2BAR
-  :frequency: 93.7
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: DA
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10013104
-  :license_number: 1170156
-  :site_id: 9164
-  :site_name: Commsite 5.8 km ENE of Bega DOCTOR GEORGE MOUNTAIN
-  :zone: 55
-  :easting: 759560
-  :northing: 5938810
-  :lat: "-36.6605555555556"
-  :lng: '149.9038888888889'
-  :state: NSW
-  :bsl: 1150188
-  :license_area: BEGA RA2
-  :license_id: 731
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Bright
   :callsign: 3NNN
   :frequency: 92.1
@@ -77,6 +51,32 @@
   :bsl: 10391
   :license_area: WANGARATTA RA1
   :license_id: 437
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bega
+  :callsign: 2BAR
+  :frequency: 93.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013104
+  :license_number: 1170156
+  :site_id: 9164
+  :site_name: Commsite 5.8 km ENE of Bega DOCTOR GEORGE MOUNTAIN
+  :zone: 55
+  :easting: 759560
+  :northing: 5938810
+  :lat: "-36.6605555555556"
+  :lng: '149.9038888888889'
+  :state: NSW
+  :bsl: 1150188
+  :license_area: BEGA RA2
+  :license_id: 731
   :operation_hours: 
   :status: Issued
 - :band: FM

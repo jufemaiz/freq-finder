@@ -1,58 +1,6 @@
 ---
 :title: ABC Northern Tasmania
 :transmitters:
-- :band: AM
-  :area: Fingal
-  :callsign: 7FG
-  :frequency: 1161.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 76
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 535
-  :power: 1000
-  :technical_specification_number: 4086001
-  :license_number: 1150206
-  :site_id: 33465
-  :site_name: Broadcast Site Esk Main Rd FINGAL
-  :zone: 55
-  :easting: 572763
-  :northing: 5384199
-  :lat: "-41.6902777777778"
-  :lng: '147.8741666666667'
-  :state: TAS
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: St Helens
-  :callsign: 7SH
-  :frequency: 1584.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 43
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 100
-  :power: 100
-  :technical_specification_number: 6683004
-  :license_number: 1153091
-  :site_id: 33506
-  :site_name: Broadcast Site North of Airport ST HELENS
-  :zone: 55
-  :easting: 607610
-  :northing: 5423230
-  :lat: "-41.335"
-  :lng: '148.2858333333333'
-  :state: TAS
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: King Island
   :callsign: 7NT
@@ -106,51 +54,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Rosebery
-  :callsign: 7QN
-  :frequency: 106.3
+  :area: Weldborough
+  :callsign: 7NT
+  :frequency: 97.3
   :purpose: National
   :polarisation: M
-  :antenna_height: 22
+  :antenna_height: 30
   :antenna_pattern: OD
-  :maximum_erp: 400
+  :maximum_erp: 50
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 6625005
-  :license_number: 1198339
-  :site_id: 34450
-  :site_name: Broadcast Site MT READ
+  :technical_specification_number: 10009981
+  :license_number: 1156019
+  :site_id: 150554
+  :site_name: TV Translator Site near trig station WELDBOROUGH PASS
   :zone: 55
-  :easting: 378870
-  :northing: 5366311
-  :lat: "-41.8455555555556"
-  :lng: '145.5408333333333'
-  :state: TAS
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Savage River/Waratah
-  :callsign: 7QN
-  :frequency: 104.1
-  :purpose: National
-  :polarisation: M
-  :antenna_height: 9
-  :antenna_pattern: DA
-  :maximum_erp: 320
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 3198003
-  :license_number: 1150185
-  :site_id: 34258
-  :site_name: Broadcast/Comm Site MT CLEVELAND
-  :zone: 55
-  :easting: 364392
-  :northing: 5409838
-  :lat: "-41.4513888888889"
-  :lng: '145.3763888888889'
+  :easting: 579100
+  :northing: 5434700
+  :lat: "-41.235"
+  :lng: '147.9436111111111'
   :state: TAS
   :bsl: 0
   :license_area: 
@@ -184,25 +106,103 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Weldborough
-  :callsign: 7NT
-  :frequency: 97.3
+  :area: Savage River/Waratah
+  :callsign: 7QN
+  :frequency: 104.1
   :purpose: National
   :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 50
+  :antenna_height: 9
+  :antenna_pattern: DA
+  :maximum_erp: 320
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10009981
-  :license_number: 1156019
-  :site_id: 150554
-  :site_name: TV Translator Site near trig station WELDBOROUGH PASS
+  :technical_specification_number: 3198003
+  :license_number: 1150185
+  :site_id: 34258
+  :site_name: Broadcast/Comm Site MT CLEVELAND
   :zone: 55
-  :easting: 579100
-  :northing: 5434700
-  :lat: "-41.235"
-  :lng: '147.9436111111111'
+  :easting: 364392
+  :northing: 5409838
+  :lat: "-41.4513888888889"
+  :lng: '145.3763888888889'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Rosebery
+  :callsign: 7QN
+  :frequency: 106.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 22
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6625005
+  :license_number: 1198339
+  :site_id: 34450
+  :site_name: Broadcast Site MT READ
+  :zone: 55
+  :easting: 378870
+  :northing: 5366311
+  :lat: "-41.8455555555556"
+  :lng: '145.5408333333333'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Fingal
+  :callsign: 7FG
+  :frequency: 1161.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 76
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 535
+  :power: 1000
+  :technical_specification_number: 4086001
+  :license_number: 1150206
+  :site_id: 33465
+  :site_name: Broadcast Site Esk Main Rd FINGAL
+  :zone: 55
+  :easting: 572763
+  :northing: 5384199
+  :lat: "-41.6902777777778"
+  :lng: '147.8741666666667'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: St Helens
+  :callsign: 7SH
+  :frequency: 1584.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 43
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 100
+  :power: 100
+  :technical_specification_number: 6683004
+  :license_number: 1153091
+  :site_id: 33506
+  :site_name: Broadcast Site North of Airport ST HELENS
+  :zone: 55
+  :easting: 607610
+  :northing: 5423230
+  :lat: "-41.335"
+  :lng: '148.2858333333333'
   :state: TAS
   :bsl: 0
   :license_area: 

@@ -1,6 +1,136 @@
 ---
 :title: Radio West
 :transmitters:
+- :band: FM
+  :area: Kalgoorlie
+  :callsign: 6KG
+  :frequency: 92.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 6
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132514
+  :license_number: 1190615
+  :site_id: 136814
+  :site_name: Harvey House KCGM Mine Site Black Street Kalgoorlie
+  :zone: 51
+  :easting: 357553
+  :northing: 6593553
+  :lat: "-30.7822222222222"
+  :lng: '121.5111111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Augusta
+  :callsign: 6TZ
+  :frequency: 101.5
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 80
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133501
+  :license_number: 1936948
+  :site_id: 151058
+  :site_name: Broadcast Site Leeuwin Rd/Osnaburg St Junction AUGUSTA
+  :zone: 50
+  :easting: 330562
+  :northing: 6200259
+  :lat: "-34.3247222222222"
+  :lng: '115.1580555555556'
+  :state: WA
+  :bsl: 10404
+  :license_area: BUNBURY RA1
+  :license_id: 486
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wongan Hills
+  :callsign: 6AM
+  :frequency: 103.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014865
+  :license_number: 1194411
+  :site_id: 153651
+  :site_name: Shire Site Lot 486 Quinlan Street WONGAN HILLS
+  :zone: 50
+  :easting: 473571
+  :northing: 6582362
+  :lat: "-30.8913888888889"
+  :lng: '116.7233333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Esperance
+  :callsign: 6SE
+  :frequency: 747.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 84
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 950
+  :power: 5000
+  :technical_specification_number: 10001341
+  :license_number: 1385036
+  :site_id: 30185
+  :site_name: Esperance Radio Myrup Rd Shark Lake 10km North of Esperance ESPERANCE
+  :zone: 51
+  :easting: 395801
+  :northing: 6262597
+  :lat: "-33.7713888888889"
+  :lng: '121.8744444444444'
+  :state: WA
+  :bsl: 10335
+  :license_area: ESPERANCE RA1
+  :license_id: 485
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Margaret River
+  :callsign: 6TZ
+  :frequency: 756.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 66
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 450
+  :power: 2000
+  :technical_specification_number: 10002344
+  :license_number: 1150695
+  :site_id: 150118
+  :site_name: Broadcast Site Lot 1586 Bussell Hwy MARGARET RIVER
+  :zone: 50
+  :easting: 325700
+  :northing: 6258400
+  :lat: "-33.8"
+  :lng: '115.1169444444445'
+  :state: WA
+  :bsl: 10404
+  :license_area: BUNBURY RA1
+  :license_id: 486
+  :operation_hours: 
+  :status: Issued
 - :band: AM
   :area: Albany
   :callsign: 6VA
@@ -25,6 +155,32 @@
   :bsl: 10401
   :license_area: ALBANY RA1
   :license_id: 487
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Northam
+  :callsign: 6AM
+  :frequency: 864.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 76
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 450
+  :power: 2000
+  :technical_specification_number: 10002341
+  :license_number: 1385065
+  :site_id: 151257
+  :site_name: Broadcast Site 7 km SW of NORTHAM
+  :zone: 50
+  :easting: 463005
+  :northing: 6495298
+  :lat: "-31.6769444444444"
+  :lng: '116.6097222222222'
+  :state: WA
+  :bsl: 10385
+  :license_area: NORTHAM RA1
+  :license_id: 475
   :operation_hours: 
   :status: Issued
 - :band: AM
@@ -54,6 +210,32 @@
   :operation_hours: 
   :status: Issued
 - :band: AM
+  :area: Narrogin
+  :callsign: 6NA
+  :frequency: 918.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 82
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 450
+  :power: 2000
+  :technical_specification_number: 10002340
+  :license_number: 1385038
+  :site_id: 151163
+  :site_name: Broadcast Site 5 km SE of NARROGIN
+  :zone: 50
+  :easting: 520204
+  :northing: 6352704
+  :lat: "-32.9636111111111"
+  :lng: '117.2161111111111'
+  :state: WA
+  :bsl: 10399
+  :license_area: NARROGIN RA1
+  :license_id: 483
+  :operation_hours: 
+  :status: Issued
+- :band: AM
   :area: Bunbury
   :callsign: 6TZ
   :frequency: 963.0
@@ -77,58 +259,6 @@
   :bsl: 10404
   :license_area: BUNBURY RA1
   :license_id: 486
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Collie
-  :callsign: 6TZ
-  :frequency: 1134.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 57
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 450
-  :power: 2000
-  :technical_specification_number: 10002336
-  :license_number: 1385042
-  :site_id: 151142
-  :site_name: Broadcast Site 4 km ESE of COLLIE
-  :zone: 50
-  :easting: 424901
-  :northing: 6307301
-  :lat: "-33.3705555555556"
-  :lng: '116.1925'
-  :state: WA
-  :bsl: 10404
-  :license_area: BUNBURY RA1
-  :license_id: 486
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Esperance
-  :callsign: 6SE
-  :frequency: 747.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 84
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 950
-  :power: 5000
-  :technical_specification_number: 10001341
-  :license_number: 1385036
-  :site_id: 30185
-  :site_name: Esperance Radio Myrup Rd Shark Lake 10km North of Esperance ESPERANCE
-  :zone: 51
-  :easting: 395801
-  :northing: 6262597
-  :lat: "-33.7713888888889"
-  :lng: '121.8744444444444'
-  :state: WA
-  :bsl: 10335
-  :license_area: ESPERANCE RA1
-  :license_id: 485
   :operation_hours: 
   :status: Issued
 - :band: AM
@@ -184,32 +314,6 @@
   :operation_hours: 
   :status: Issued
 - :band: AM
-  :area: Margaret River
-  :callsign: 6TZ
-  :frequency: 756.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 66
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 450
-  :power: 2000
-  :technical_specification_number: 10002344
-  :license_number: 1150695
-  :site_id: 150118
-  :site_name: Broadcast Site Lot 1586 Bussell Hwy MARGARET RIVER
-  :zone: 50
-  :easting: 325700
-  :northing: 6258400
-  :lat: "-33.8"
-  :lng: '115.1169444444445'
-  :state: WA
-  :bsl: 10404
-  :license_area: BUNBURY RA1
-  :license_id: 486
-  :operation_hours: 
-  :status: Issued
-- :band: AM
   :area: Merredin
   :callsign: 6MD
   :frequency: 1098.0
@@ -236,132 +340,28 @@
   :operation_hours: 
   :status: Issued
 - :band: AM
-  :area: Narrogin
-  :callsign: 6NA
-  :frequency: 918.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 82
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 450
-  :power: 2000
-  :technical_specification_number: 10002340
-  :license_number: 1385038
-  :site_id: 151163
-  :site_name: Broadcast Site 5 km SE of NARROGIN
-  :zone: 50
-  :easting: 520204
-  :northing: 6352704
-  :lat: "-32.9636111111111"
-  :lng: '117.2161111111111'
-  :state: WA
-  :bsl: 10399
-  :license_area: NARROGIN RA1
-  :license_id: 483
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Northam
-  :callsign: 6AM
-  :frequency: 864.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 76
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 450
-  :power: 2000
-  :technical_specification_number: 10002341
-  :license_number: 1385065
-  :site_id: 151257
-  :site_name: Broadcast Site 7 km SW of NORTHAM
-  :zone: 50
-  :easting: 463005
-  :northing: 6495298
-  :lat: "-31.6769444444444"
-  :lng: '116.6097222222222'
-  :state: WA
-  :bsl: 10385
-  :license_area: NORTHAM RA1
-  :license_id: 475
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Augusta
+  :area: Collie
   :callsign: 6TZ
-  :frequency: 101.5
+  :frequency: 1134.0
   :purpose: Commercial
   :polarisation: V
-  :antenna_height: 20
+  :antenna_height: 57
   :antenna_pattern: OD
-  :maximum_erp: 80
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1133501
-  :license_number: 1936948
-  :site_id: 151058
-  :site_name: Broadcast Site Leeuwin Rd/Osnaburg St Junction AUGUSTA
+  :maximum_erp: 0
+  :maximum_cmf: 450
+  :power: 2000
+  :technical_specification_number: 10002336
+  :license_number: 1385042
+  :site_id: 151142
+  :site_name: Broadcast Site 4 km ESE of COLLIE
   :zone: 50
-  :easting: 330562
-  :northing: 6200259
-  :lat: "-34.3247222222222"
-  :lng: '115.1580555555556'
+  :easting: 424901
+  :northing: 6307301
+  :lat: "-33.3705555555556"
+  :lng: '116.1925'
   :state: WA
   :bsl: 10404
   :license_area: BUNBURY RA1
   :license_id: 486
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Kalgoorlie
-  :callsign: 6KG
-  :frequency: 92.7
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 6
-  :antenna_pattern: OD
-  :maximum_erp: 10
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1132514
-  :license_number: 1190615
-  :site_id: 136814
-  :site_name: Harvey House KCGM Mine Site Black Street Kalgoorlie
-  :zone: 51
-  :easting: 357553
-  :northing: 6593553
-  :lat: "-30.7822222222222"
-  :lng: '121.5111111111111'
-  :state: WA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Wongan Hills
-  :callsign: 6AM
-  :frequency: 103.1
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 30
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10014865
-  :license_number: 1194411
-  :site_id: 153651
-  :site_name: Shire Site Lot 486 Quinlan Street WONGAN HILLS
-  :zone: 50
-  :easting: 473571
-  :northing: 6582362
-  :lat: "-30.8913888888889"
-  :lng: '116.7233333333333'
-  :state: WA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
   :operation_hours: 
   :status: Issued

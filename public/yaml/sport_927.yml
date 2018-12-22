@@ -2,32 +2,6 @@
 :title: Sport 927
 :transmitters:
 - :band: AM
-  :area: Ballarat
-  :callsign: 3BT
-  :frequency: 1314.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 61
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1100
-  :power: 5000
-  :technical_specification_number: 10003792
-  :license_number: 1385055
-  :site_id: 150827
-  :site_name: Broadcast Site 7.3 km WSW of BALLARAT
-  :zone: 54
-  :easting: 745101
-  :northing: 5841401
-  :lat: "-37.5416666666667"
-  :lng: '143.7741666666667'
-  :state: VIC
-  :bsl: 10365
-  :license_area: BALLARAT RA1
-  :license_id: 427
-  :operation_hours: 
-  :status: Issued
-- :band: AM
   :area: Melbourne
   :callsign: 3UZ
   :frequency: 927.0
@@ -77,5 +51,31 @@
   :bsl: 10393
   :license_area: SHEPPARTON RA1
   :license_id: 541
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Ballarat
+  :callsign: 3BT
+  :frequency: 1314.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 61
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 10003792
+  :license_number: 1385055
+  :site_id: 150827
+  :site_name: Broadcast Site 7.3 km WSW of BALLARAT
+  :zone: 54
+  :easting: 745101
+  :northing: 5841401
+  :lat: "-37.5416666666667"
+  :lng: '143.7741666666667'
+  :state: VIC
+  :bsl: 10365
+  :license_area: BALLARAT RA1
+  :license_id: 427
   :operation_hours: 
   :status: Issued

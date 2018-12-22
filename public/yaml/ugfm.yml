@@ -2,6 +2,84 @@
 :title: UGFM
 :transmitters:
 - :band: FM
+  :area: Yea
+  :callsign: 3UGE
+  :frequency: 88.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009658
+  :license_number: 1156516
+  :site_id: 11913
+  :site_name: Broadcast Site 10 km N of Yea MT BROUGHTON
+  :zone: 55
+  :easting: 358900
+  :northing: 5890400
+  :lat: "-37.1219444444444"
+  :lng: '145.4116666666667'
+  :state: VIC
+  :bsl: 10411
+  :license_area: ALEXANDRA/EILDON RA1
+  :license_id: 869
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Marysville
+  :callsign: 3UGE
+  :frequency: 98.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009653
+  :license_number: 1156514
+  :site_id: 150549
+  :site_name: Broadcast Site Mt Gordon MARYSVILLE
+  :zone: 55
+  :easting: 386200
+  :northing: 5847000
+  :lat: "-37.5166666666667"
+  :lng: '145.7122222222222'
+  :state: VIC
+  :bsl: 10411
+  :license_area: ALEXANDRA/EILDON RA1
+  :license_id: 869
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Flowerdale/Hazeldene
+  :callsign: 3UGE
+  :frequency: 98.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130753
+  :license_number: 1147281
+  :site_id: 153196
+  :site_name: Broadcast Planning Site Hill 1km west of HAZELEDENE
+  :zone: 55
+  :easting: 347700
+  :northing: 5865600
+  :lat: "-37.3436111111111"
+  :lng: '145.2805555555556'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
   :area: Alexandra/Eildon
   :callsign: 3UGE
   :frequency: 106.9
@@ -47,84 +125,6 @@
   :northing: 5881100
   :lat: "-37.2105555555556"
   :lng: '145.8402777777778'
-  :state: VIC
-  :bsl: 10411
-  :license_area: ALEXANDRA/EILDON RA1
-  :license_id: 869
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Flowerdale/Hazeldene
-  :callsign: 3UGE
-  :frequency: 98.9
-  :purpose: Retransmission
-  :polarisation: M
-  :antenna_height: 15
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1130753
-  :license_number: 1147281
-  :site_id: 153196
-  :site_name: Broadcast Planning Site Hill 1km west of HAZELEDENE
-  :zone: 55
-  :easting: 347700
-  :northing: 5865600
-  :lat: "-37.3436111111111"
-  :lng: '145.2805555555556'
-  :state: VIC
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Marysville
-  :callsign: 3UGE
-  :frequency: 98.5
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10009653
-  :license_number: 1156514
-  :site_id: 150549
-  :site_name: Broadcast Site Mt Gordon MARYSVILLE
-  :zone: 55
-  :easting: 386200
-  :northing: 5847000
-  :lat: "-37.5166666666667"
-  :lng: '145.7122222222222'
-  :state: VIC
-  :bsl: 10411
-  :license_area: ALEXANDRA/EILDON RA1
-  :license_id: 869
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Yea
-  :callsign: 3UGE
-  :frequency: 88.9
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 250
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10009658
-  :license_number: 1156516
-  :site_id: 11913
-  :site_name: Broadcast Site 10 km N of Yea MT BROUGHTON
-  :zone: 55
-  :easting: 358900
-  :northing: 5890400
-  :lat: "-37.1219444444444"
-  :lng: '145.4116666666667'
   :state: VIC
   :bsl: 10411
   :license_area: ALEXANDRA/EILDON RA1

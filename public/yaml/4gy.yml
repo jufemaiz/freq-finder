@@ -1,32 +1,6 @@
 ---
 :title: 4GY
 :transmitters:
-- :band: AM
-  :area: Gympie
-  :callsign: 4GY
-  :frequency: 558.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 79
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1045
-  :power: 5000
-  :technical_specification_number: 4175001
-  :license_number: 1384958
-  :site_id: 151502
-  :site_name: Broadcast Site 16km east of GYMPIE
-  :zone: 56
-  :easting: 482302
-  :northing: 7105202
-  :lat: "-26.1725"
-  :lng: '152.8227777777778'
-  :state: QLD
-  :bsl: 4175
-  :license_area: GYMPIE RA1
-  :license_id: 449
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Noosa/Tewantin
   :callsign: 4GY
@@ -47,6 +21,32 @@
   :northing: 7073599
   :lat: "-26.4577777777778"
   :lng: '152.9786111111111'
+  :state: QLD
+  :bsl: 4175
+  :license_area: GYMPIE RA1
+  :license_id: 449
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Gympie
+  :callsign: 4GY
+  :frequency: 558.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 79
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1045
+  :power: 5000
+  :technical_specification_number: 4175001
+  :license_number: 1384958
+  :site_id: 151502
+  :site_name: Broadcast Site 16km east of GYMPIE
+  :zone: 56
+  :easting: 482302
+  :northing: 7105202
+  :lat: "-26.1725"
+  :lng: '152.8227777777778'
   :state: QLD
   :bsl: 4175
   :license_area: GYMPIE RA1

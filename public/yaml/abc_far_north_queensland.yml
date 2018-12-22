@@ -1,182 +1,26 @@
 ---
 :title: ABC Far North Queensland
 :transmitters:
-- :band: AM
-  :area: Atherton
-  :callsign: 4AT
-  :frequency: 720.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 136
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 715
-  :power: 4000
-  :technical_specification_number: 10007490
-  :license_number: 1198658
-  :site_id: 40447
-  :site_name: Broadcast Site 3.8 km SW of Yungaburra ATHERTON
-  :zone: 55
-  :easting: 346400
-  :northing: 8085400
-  :lat: "-17.3113888888889"
-  :lng: '145.5544444444445'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Cairns
-  :callsign: 4QY
-  :frequency: 801.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 43
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 430
-  :power: 2000
-  :technical_specification_number: 4046001
-  :license_number: 1198661
-  :site_id: 37310
-  :site_name: Broadcast Site KAMMA
-  :zone: 55
-  :easting: 369893
-  :northing: 8114024
-  :lat: "-17.0541666666667"
-  :lng: '145.7772222222222'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Mossman
-  :callsign: 4MS
-  :frequency: 639.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 61
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 305
-  :power: 1000
-  :technical_specification_number: 10007457
-  :license_number: 1198657
-  :site_id: 40505
-  :site_name: Broadcast Site 6 km WNW of MOSSMAN
-  :zone: 55
-  :easting: 327800
-  :northing: 8184300
-  :lat: "-16.4163888888889"
-  :lng: '145.3872222222222'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Torres Strait
-  :callsign: 4TI
-  :frequency: 1062.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 46
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 1062
-  :power: 2000
-  :technical_specification_number: 10003975
-  :license_number: 1198667
-  :site_id: 40549
-  :site_name: Broadcast Site THURSDAY ISLAND
-  :zone: 54
-  :easting: 632050
-  :northing: 8829980
-  :lat: "-10.5819444444444"
-  :lng: '142.2069444444445'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Townsville
-  :callsign: 4TO
-  :frequency: 774.0
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 167
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1300
-  :power: 5000
-  :technical_specification_number: 10008784
-  :license_number: 1154914
-  :site_id: 19515
-  :site_name: 4TO site Aims Road CLEVEDON
-  :zone: 55
-  :easting: 503300
-  :northing: 7863800
-  :lat: "-19.3197222222222"
-  :lng: '147.0313888888889'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Weipa
-  :callsign: 4WP
-  :frequency: 1044.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 46
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 220
-  :power: 500
-  :technical_specification_number: 10003981
-  :license_number: 1198666
-  :site_id: 40548
-  :site_name: AM Broadcast Site WEIPA
-  :zone: 54
-  :easting: 596550
-  :northing: 8604500
-  :lat: "-12.6219444444444"
-  :lng: '141.8888888888889'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
-  :area: Cairns
+  :area: Dimbulah
   :callsign: 4QCC
-  :frequency: 106.7
+  :frequency: 91.7
   :purpose: National
   :polarisation: M
-  :antenna_height: 53
+  :antenna_height: 17
   :antenna_pattern: OD
-  :maximum_erp: 100000
+  :maximum_erp: 100
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10007417
-  :license_number: 1198738
-  :site_id: 21158
-  :site_name: Radio Terminal 38 km SSE of Cairns MT BELLENDEN KER
+  :technical_specification_number: 10007494
+  :license_number: 1198673
+  :site_id: 40608
+  :site_name: Broadcast Site DIMBULAH
   :zone: 55
-  :easting: 378034
-  :northing: 8090678
-  :lat: "-17.2655555555556"
-  :lng: '145.8525'
+  :easting: 294400
+  :northing: 8105200
+  :lat: "-17.1283333333333"
+  :lng: '145.0672222222222'
   :state: QLD
   :bsl: 0
   :license_area: 
@@ -236,25 +80,181 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Dimbulah
+  :area: Cairns
   :callsign: 4QCC
-  :frequency: 91.7
+  :frequency: 106.7
   :purpose: National
   :polarisation: M
-  :antenna_height: 17
+  :antenna_height: 53
   :antenna_pattern: OD
-  :maximum_erp: 100
+  :maximum_erp: 100000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10007494
-  :license_number: 1198673
-  :site_id: 40608
-  :site_name: Broadcast Site DIMBULAH
+  :technical_specification_number: 10007417
+  :license_number: 1198738
+  :site_id: 21158
+  :site_name: Radio Terminal 38 km SSE of Cairns MT BELLENDEN KER
   :zone: 55
-  :easting: 294400
-  :northing: 8105200
-  :lat: "-17.1283333333333"
-  :lng: '145.0672222222222'
+  :easting: 378034
+  :northing: 8090678
+  :lat: "-17.2655555555556"
+  :lng: '145.8525'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Mossman
+  :callsign: 4MS
+  :frequency: 639.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 61
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 305
+  :power: 1000
+  :technical_specification_number: 10007457
+  :license_number: 1198657
+  :site_id: 40505
+  :site_name: Broadcast Site 6 km WNW of MOSSMAN
+  :zone: 55
+  :easting: 327800
+  :northing: 8184300
+  :lat: "-16.4163888888889"
+  :lng: '145.3872222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Atherton
+  :callsign: 4AT
+  :frequency: 720.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 136
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 715
+  :power: 4000
+  :technical_specification_number: 10007490
+  :license_number: 1198658
+  :site_id: 40447
+  :site_name: Broadcast Site 3.8 km SW of Yungaburra ATHERTON
+  :zone: 55
+  :easting: 346400
+  :northing: 8085400
+  :lat: "-17.3113888888889"
+  :lng: '145.5544444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Townsville
+  :callsign: 4TO
+  :frequency: 774.0
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 167
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1300
+  :power: 5000
+  :technical_specification_number: 10008784
+  :license_number: 1154914
+  :site_id: 19515
+  :site_name: 4TO site Aims Road CLEVEDON
+  :zone: 55
+  :easting: 503300
+  :northing: 7863800
+  :lat: "-19.3197222222222"
+  :lng: '147.0313888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Cairns
+  :callsign: 4QY
+  :frequency: 801.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 43
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 430
+  :power: 2000
+  :technical_specification_number: 4046001
+  :license_number: 1198661
+  :site_id: 37310
+  :site_name: Broadcast Site KAMMA
+  :zone: 55
+  :easting: 369893
+  :northing: 8114024
+  :lat: "-17.0541666666667"
+  :lng: '145.7772222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Weipa
+  :callsign: 4WP
+  :frequency: 1044.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 46
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 220
+  :power: 500
+  :technical_specification_number: 10003981
+  :license_number: 1198666
+  :site_id: 40548
+  :site_name: AM Broadcast Site WEIPA
+  :zone: 54
+  :easting: 596550
+  :northing: 8604500
+  :lat: "-12.6219444444444"
+  :lng: '141.8888888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Torres Strait
+  :callsign: 4TI
+  :frequency: 1062.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 46
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1062
+  :power: 2000
+  :technical_specification_number: 10003975
+  :license_number: 1198667
+  :site_id: 40549
+  :site_name: Broadcast Site THURSDAY ISLAND
+  :zone: 54
+  :easting: 632050
+  :northing: 8829980
+  :lat: "-10.5819444444444"
+  :lng: '142.2069444444445'
   :state: QLD
   :bsl: 0
   :license_area: 

@@ -1,78 +1,26 @@
 ---
 :title: ABC New England North West
 :transmitters:
-- :band: AM
-  :area: Glen Innes
-  :callsign: 2GL
-  :frequency: 819.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 142
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 1350
-  :power: 10000
-  :technical_specification_number: 4011001
-  :license_number: 1198578
-  :site_id: 6941
-  :site_name: Broadcast Site 1 GLEN INNES
-  :zone: 56
-  :easting: 380581
-  :northing: 6703617
-  :lat: "-29.7919444444444"
-  :lng: '151.7644444444445'
-  :state: NSW
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Tamworth
-  :callsign: 2NU
-  :frequency: 648.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 171
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 1205
-  :power: 10000
-  :technical_specification_number: 4019001
-  :license_number: 1198570
-  :site_id: 151310
-  :site_name: Broadcast Site MANILLA
-  :zone: 56
-  :easting: 284210
-  :northing: 6592250
-  :lat: "-30.7830555555556"
-  :lng: '150.7447222222222'
-  :state: NSW
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
-  :area: Armidale
+  :area: Walcha
   :callsign: 2NWR
-  :frequency: 101.9
+  :frequency: 88.5
   :purpose: National
   :polarisation: M
-  :antenna_height: 60
+  :antenna_height: 18
   :antenna_pattern: OD
-  :maximum_erp: 10000
+  :maximum_erp: 100
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10005059
-  :license_number: 1198628
-  :site_id: 6645
-  :site_name: Broadcast Bldg Little Duval ARMIDALE
+  :technical_specification_number: 10007714
+  :license_number: 1198591
+  :site_id: 41209
+  :site_name: Broadcast Site Clive Blakes Hill WALCHA
   :zone: 56
-  :easting: 365300
-  :northing: 6638300
-  :lat: "-30.3794444444444"
-  :lng: '151.5980555555556'
+  :easting: 369100
+  :northing: 6573200
+  :lat: "-30.9672222222222"
+  :lng: '151.6291666666667'
   :state: NSW
   :bsl: 0
   :license_area: 
@@ -106,25 +54,77 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Walcha
+  :area: Armidale
   :callsign: 2NWR
-  :frequency: 88.5
+  :frequency: 101.9
   :purpose: National
   :polarisation: M
-  :antenna_height: 18
+  :antenna_height: 60
   :antenna_pattern: OD
-  :maximum_erp: 100
+  :maximum_erp: 10000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10007714
-  :license_number: 1198591
-  :site_id: 41209
-  :site_name: Broadcast Site Clive Blakes Hill WALCHA
+  :technical_specification_number: 10005059
+  :license_number: 1198628
+  :site_id: 6645
+  :site_name: Broadcast Bldg Little Duval ARMIDALE
   :zone: 56
-  :easting: 369100
-  :northing: 6573200
-  :lat: "-30.9672222222222"
-  :lng: '151.6291666666667'
+  :easting: 365300
+  :northing: 6638300
+  :lat: "-30.3794444444444"
+  :lng: '151.5980555555556'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Tamworth
+  :callsign: 2NU
+  :frequency: 648.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 171
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1205
+  :power: 10000
+  :technical_specification_number: 4019001
+  :license_number: 1198570
+  :site_id: 151310
+  :site_name: Broadcast Site MANILLA
+  :zone: 56
+  :easting: 284210
+  :northing: 6592250
+  :lat: "-30.7830555555556"
+  :lng: '150.7447222222222'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Glen Innes
+  :callsign: 2GL
+  :frequency: 819.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 142
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1350
+  :power: 10000
+  :technical_specification_number: 4011001
+  :license_number: 1198578
+  :site_id: 6941
+  :site_name: Broadcast Site 1 GLEN INNES
+  :zone: 56
+  :easting: 380581
+  :northing: 6703617
+  :lat: "-29.7919444444444"
+  :lng: '151.7644444444445'
   :state: NSW
   :bsl: 0
   :license_area: 

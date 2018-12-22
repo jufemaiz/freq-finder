@@ -1,52 +1,26 @@
 ---
 :title: 2RPH
 :transmitters:
-- :band: AM
-  :area: Sydney
-  :callsign: 2RPH
-  :frequency: 1224.0
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 92
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1260
-  :power: 5000
-  :technical_specification_number: 5157002
-  :license_number: 1139587
-  :site_id: 40372
-  :site_name: Broadcast Site Church Lane PROSPECT
-  :zone: 56
-  :easting: 306900
-  :northing: 6257000
-  :lat: "-33.8094444444444"
-  :lng: '150.9136111111111'
-  :state: NSW
-  :bsl: 5157
-  :license_area: NSW COMMUNITY RA1
-  :license_id: 1295
-  :operation_hours: 
-  :status: Issued
 - :band: FM
-  :area: Newcastle
+  :area: Wollongong
   :callsign: 2RPH
-  :frequency: 100.5
+  :frequency: 93.3
   :purpose: Community
   :polarisation: M
-  :antenna_height: 134
-  :antenna_pattern: OD
-  :maximum_erp: 4000
+  :antenna_height: 15
+  :antenna_pattern: DA
+  :maximum_erp: 500
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10014598
-  :license_number: 1187963
-  :site_id: 5833
-  :site_name: Broadcast Site Sugarloaf Range NEWCASTLE
+  :technical_specification_number: 1130149
+  :license_number: 1189234
+  :site_id: 151054
+  :site_name: Broadcast Site Brokers Nose WOLLONGONG
   :zone: 56
-  :easting: 363200
-  :northing: 6359800
-  :lat: "-32.8911111111111"
-  :lng: '151.5372222222222'
+  :easting: 304545
+  :northing: 6194925
+  :lat: "-34.3683333333333"
+  :lng: '150.8744444444445'
   :state: NSW
   :bsl: 5157
   :license_area: NSW COMMUNITY RA1
@@ -80,25 +54,51 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Wollongong
+  :area: Newcastle
   :callsign: 2RPH
-  :frequency: 93.3
+  :frequency: 100.5
   :purpose: Community
   :polarisation: M
-  :antenna_height: 15
-  :antenna_pattern: DA
-  :maximum_erp: 500
+  :antenna_height: 134
+  :antenna_pattern: OD
+  :maximum_erp: 4000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 1130149
-  :license_number: 1189234
-  :site_id: 151054
-  :site_name: Broadcast Site Brokers Nose WOLLONGONG
+  :technical_specification_number: 10014598
+  :license_number: 1187963
+  :site_id: 5833
+  :site_name: Broadcast Site Sugarloaf Range NEWCASTLE
   :zone: 56
-  :easting: 304545
-  :northing: 6194925
-  :lat: "-34.3683333333333"
-  :lng: '150.8744444444445'
+  :easting: 363200
+  :northing: 6359800
+  :lat: "-32.8911111111111"
+  :lng: '151.5372222222222'
+  :state: NSW
+  :bsl: 5157
+  :license_area: NSW COMMUNITY RA1
+  :license_id: 1295
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Sydney
+  :callsign: 2RPH
+  :frequency: 1224.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 92
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1260
+  :power: 5000
+  :technical_specification_number: 5157002
+  :license_number: 1139587
+  :site_id: 40372
+  :site_name: Broadcast Site Church Lane PROSPECT
+  :zone: 56
+  :easting: 306900
+  :northing: 6257000
+  :lat: "-33.8094444444444"
+  :lng: '150.9136111111111'
   :state: NSW
   :bsl: 5157
   :license_area: NSW COMMUNITY RA1

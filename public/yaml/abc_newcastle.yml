@@ -1,32 +1,6 @@
 ---
 :title: ABC Newcastle
 :transmitters:
-- :band: AM
-  :area: Newcastle
-  :callsign: 2NC
-  :frequency: 1233.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 91
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 1300
-  :power: 10000
-  :technical_specification_number: 4017001
-  :license_number: 1198580
-  :site_id: 199268
-  :site_name: Broadcast Site BERESFIELD
-  :zone: 56
-  :easting: 374600
-  :northing: 6370000
-  :lat: "-32.8005555555556"
-  :lng: '151.6605555555556'
-  :state: NSW
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Port Stephens
   :callsign: 2NC
@@ -47,6 +21,32 @@
   :northing: 6377900
   :lat: "-32.7333333333333"
   :lng: '152.13'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Newcastle
+  :callsign: 2NC
+  :frequency: 1233.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 91
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1300
+  :power: 10000
+  :technical_specification_number: 4017001
+  :license_number: 1198580
+  :site_id: 199268
+  :site_name: Broadcast Site BERESFIELD
+  :zone: 56
+  :easting: 374600
+  :northing: 6370000
+  :lat: "-32.8005555555556"
+  :lng: '151.6605555555556'
   :state: NSW
   :bsl: 0
   :license_area: 

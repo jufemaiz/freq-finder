@@ -27,29 +27,3 @@
   :license_id: 674
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Yarra Valley
-  :callsign: 3VYV
-  :frequency: 99.1
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: DA
-  :maximum_erp: 400
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 5185001
-  :license_number: 1385181
-  :site_id: 42211
-  :site_name: Broadcast Site BRIARTY HILL
-  :zone: 55
-  :easting: 365615
-  :northing: 5822755
-  :lat: "-37.7325"
-  :lng: '145.475'
-  :state: VIC
-  :bsl: 5185
-  :license_area: YARRA VALLEY RA1
-  :license_id: 674
-  :operation_hours: 
-  :status: Issued

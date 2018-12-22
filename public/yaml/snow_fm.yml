@@ -54,25 +54,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Cooma
+  :area: Thredbo
   :callsign: 2SKI
-  :frequency: 97.7
+  :frequency: 92.9
   :purpose: Commercial
   :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: DA
-  :maximum_erp: 50000
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 1000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10005274
-  :license_number: 1151875
-  :site_id: 40749
-  :site_name: Radio 2XL site MT ROBERTS
+  :technical_specification_number: 10005303
+  :license_number: 1151722
+  :site_id: 9734
+  :site_name: Eagles Nest Restaurant MT CRACKENBACK
   :zone: 55
-  :easting: 682500
-  :northing: 6015900
-  :lat: "-35.9838888888889"
-  :lng: '149.0241666666667'
+  :easting: 615200
+  :northing: 5960400
+  :lat: "-36.4947222222222"
+  :lng: '148.2861111111111'
   :state: NSW
   :bsl: 10345
   :license_area: COOMA RA1
@@ -106,6 +106,32 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
+  :area: Cooma
+  :callsign: 2SKI
+  :frequency: 97.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 50000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005274
+  :license_number: 1151875
+  :site_id: 40749
+  :site_name: Radio 2XL site MT ROBERTS
+  :zone: 55
+  :easting: 682500
+  :northing: 6015900
+  :lat: "-35.9838888888889"
+  :lng: '149.0241666666667'
+  :state: NSW
+  :bsl: 10345
+  :license_area: COOMA RA1
+  :license_id: 388
+  :operation_hours: 
+  :status: Issued
+- :band: FM
   :area: Perisher
   :callsign: 2SKI
   :frequency: 101.9
@@ -125,32 +151,6 @@
   :northing: 5970550
   :lat: "-36.4019444444444"
   :lng: '148.3916666666667'
-  :state: NSW
-  :bsl: 10345
-  :license_area: COOMA RA1
-  :license_id: 388
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Thredbo
-  :callsign: 2SKI
-  :frequency: 92.9
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 10
-  :antenna_pattern: OD
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10005303
-  :license_number: 1151722
-  :site_id: 9734
-  :site_name: Eagles Nest Restaurant MT CRACKENBACK
-  :zone: 55
-  :easting: 615200
-  :northing: 5960400
-  :lat: "-36.4947222222222"
-  :lng: '148.2861111111111'
   :state: NSW
   :bsl: 10345
   :license_area: COOMA RA1

@@ -29,33 +29,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Golden Grove Mine (WA)
-  :callsign: 6 JJJ
-  :frequency: 103.1
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 10
-  :antenna_pattern: OD
-  :maximum_erp: 25
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1133856
-  :license_number: 1926776
-  :site_id: 139393
-  :site_name: Broadcast Mast Golden Grove Mine Accommodation Village GOLDEN GROVE
-    MINE
-  :zone: 50
-  :easting: 493766
-  :northing: 6815721
-  :lat: "-28.7858333333333"
-  :lng: '116.9361111111111'
-  :state: WA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Whyalla
   :callsign: 5YYY
   :frequency: 107.7

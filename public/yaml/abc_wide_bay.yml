@@ -28,32 +28,6 @@
   :operation_hours: 
   :status: Issued
 - :band: AM
-  :area: Gympie
-  :callsign: 4GM
-  :frequency: 1566.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 37
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 140
-  :power: 200
-  :technical_specification_number: 4033001
-  :license_number: 1198671
-  :site_id: 16179
-  :site_name: Broadcast Site 3 km SE of GYMPIE
-  :zone: 56
-  :easting: 468800
-  :northing: 7100800
-  :lat: "-26.2116666666667"
-  :lng: '152.6875'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
   :area: Pialba
   :callsign: 4QB
   :frequency: 855.0
@@ -73,6 +47,32 @@
   :northing: 7201396
   :lat: "-25.3036111111111"
   :lng: '152.7861111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Gympie
+  :callsign: 4GM
+  :frequency: 1566.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 37
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 140
+  :power: 200
+  :technical_specification_number: 4033001
+  :license_number: 1198671
+  :site_id: 16179
+  :site_name: Broadcast Site 3 km SE of GYMPIE
+  :zone: 56
+  :easting: 468800
+  :northing: 7100800
+  :lat: "-26.2116666666667"
+  :lng: '152.6875'
   :state: QLD
   :bsl: 0
   :license_area: 

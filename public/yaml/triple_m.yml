@@ -2,32 +2,6 @@
 :title: Triple M
 :transmitters:
 - :band: FM
-  :area: Adelaide
-  :callsign: 5MMM
-  :frequency: 104.7
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 60
-  :antenna_pattern: DA
-  :maximum_erp: 20000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 4192601
-  :license_number: 1153756
-  :site_id: 23157
-  :site_name: Broadcast Site Summit MOUNT LOFTY
-  :zone: 54
-  :easting: 290700
-  :northing: 6126300
-  :lat: "-34.9838888888889"
-  :lng: '138.7069444444445'
-  :state: SA
-  :bsl: 4192
-  :license_area: ADELAIDE RA1
-  :license_id: 499
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Adelaide Foothills
   :callsign: 5MMM
   :frequency: 98.3
@@ -80,6 +54,110 @@
   :operation_hours: 
   :status: Renewal Pending
 - :band: FM
+  :area: Adelaide
+  :callsign: 5MMM
+  :frequency: 104.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4192601
+  :license_number: 1153756
+  :site_id: 23157
+  :site_name: Broadcast Site Summit MOUNT LOFTY
+  :zone: 54
+  :easting: 290700
+  :northing: 6126300
+  :lat: "-34.9838888888889"
+  :lng: '138.7069444444445'
+  :state: SA
+  :bsl: 4192
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Sydney
+  :callsign: 2MMM
+  :frequency: 104.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 170
+  :antenna_pattern: DA
+  :maximum_erp: 150000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3033004
+  :license_number: 1384837
+  :site_id: 4045
+  :site_name: Ch7/10 Tower 192-196 Hampden Road ARTARMON
+  :zone: 56
+  :easting: 331500
+  :northing: 6257730
+  :lat: "-33.8069444444444"
+  :lng: '151.1794444444445'
+  :state: NSW
+  :bsl: 3033
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Sydney
+  :callsign: 2MMM
+  :frequency: 104.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 141
+  :antenna_pattern: DA
+  :maximum_erp: 150000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3033004
+  :license_number: 1384837
+  :site_id: 48711
+  :site_name: ABC Tower 221 Pacific Highway GORE HILL
+  :zone: 56
+  :easting: 331921
+  :northing: 6256122
+  :lat: "-33.8213888888889"
+  :lng: '151.1836111111111'
+  :state: NSW
+  :bsl: 3033
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Melbourne
+  :callsign: 3MMM
+  :frequency: 105.1
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 250
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3034001
+  :license_number: 1384846
+  :site_id: 11599
+  :site_name: Rialto Towers 525 Collins Street MELBOURNE
+  :zone: 55
+  :easting: 320080
+  :northing: 5812170
+  :lat: "-37.82"
+  :lng: '144.9558333333333'
+  :state: VIC
+  :bsl: 3034
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
   :area: Melbourne
   :callsign: 3MMM
   :frequency: 105.1
@@ -129,83 +207,5 @@
   :bsl: 3034
   :license_area: MELBOURNE RA1
   :license_id: 531
-  :operation_hours: 
-  :status: Renewal Pending
-- :band: FM
-  :area: Melbourne
-  :callsign: 3MMM
-  :frequency: 105.1
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 250
-  :antenna_pattern: OD
-  :maximum_erp: 250
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 3034001
-  :license_number: 1384846
-  :site_id: 11599
-  :site_name: Rialto Towers 525 Collins Street MELBOURNE
-  :zone: 55
-  :easting: 320080
-  :northing: 5812170
-  :lat: "-37.82"
-  :lng: '144.9558333333333'
-  :state: VIC
-  :bsl: 3034
-  :license_area: MELBOURNE RA1
-  :license_id: 531
-  :operation_hours: 
-  :status: Renewal Pending
-- :band: FM
-  :area: Sydney
-  :callsign: 2MMM
-  :frequency: 104.9
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 141
-  :antenna_pattern: DA
-  :maximum_erp: 150000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 3033004
-  :license_number: 1384837
-  :site_id: 48711
-  :site_name: ABC Tower 221 Pacific Highway GORE HILL
-  :zone: 56
-  :easting: 331921
-  :northing: 6256122
-  :lat: "-33.8213888888889"
-  :lng: '151.1836111111111'
-  :state: NSW
-  :bsl: 3033
-  :license_area: SYDNEY RA1
-  :license_id: 542
-  :operation_hours: 
-  :status: Renewal Pending
-- :band: FM
-  :area: Sydney
-  :callsign: 2MMM
-  :frequency: 104.9
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 170
-  :antenna_pattern: DA
-  :maximum_erp: 150000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 3033004
-  :license_number: 1384837
-  :site_id: 4045
-  :site_name: Ch7/10 Tower 192-196 Hampden Road ARTARMON
-  :zone: 56
-  :easting: 331500
-  :northing: 6257730
-  :lat: "-33.8069444444444"
-  :lng: '151.1794444444445'
-  :state: NSW
-  :bsl: 3033
-  :license_area: SYDNEY RA1
-  :license_id: 542
   :operation_hours: 
   :status: Renewal Pending

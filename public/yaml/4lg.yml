@@ -1,26 +1,26 @@
 ---
 :title: 4LG
 :transmitters:
-- :band: AM
-  :area: Longreach
+- :band: FM
+  :area: Tambo
   :callsign: 4LG
-  :frequency: 1098.0
+  :frequency: 100.3
   :purpose: Commercial
   :polarisation: V
-  :antenna_height: 128
+  :antenna_height: 15
   :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 424
-  :power: 2000
-  :technical_specification_number: 10003716
-  :license_number: 1385046
-  :site_id: 151602
-  :site_name: 4LG Site 6km NW LONGREACH
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004187
+  :license_number: 1151745
+  :site_id: 150340
+  :site_name: Broadcast Site Water Reserve William St TAMBO
   :zone: 55
-  :easting: 215800
-  :northing: 7410000
-  :lat: "-23.395"
-  :lng: '144.2191666666667'
+  :easting: 424846
+  :northing: 7247170
+  :lat: "-24.8886111111111"
+  :lng: '146.2558333333333'
   :state: QLD
   :bsl: 10221
   :license_area: LONGREACH RA1
@@ -54,32 +54,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Tambo
-  :callsign: 4LG
-  :frequency: 100.3
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 15
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10004187
-  :license_number: 1151745
-  :site_id: 150340
-  :site_name: Broadcast Site Water Reserve William St TAMBO
-  :zone: 55
-  :easting: 424846
-  :northing: 7247170
-  :lat: "-24.8886111111111"
-  :lng: '146.2558333333333'
-  :state: QLD
-  :bsl: 10221
-  :license_area: LONGREACH RA1
-  :license_id: 452
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Winton
   :callsign: 4LG
   :frequency: 100.7
@@ -99,6 +73,32 @@
   :northing: 7522804
   :lat: "-22.3877777777778"
   :lng: '143.0361111111111'
+  :state: QLD
+  :bsl: 10221
+  :license_area: LONGREACH RA1
+  :license_id: 452
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Longreach
+  :callsign: 4LG
+  :frequency: 1098.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 128
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 424
+  :power: 2000
+  :technical_specification_number: 10003716
+  :license_number: 1385046
+  :site_id: 151602
+  :site_name: 4LG Site 6km NW LONGREACH
+  :zone: 55
+  :easting: 215800
+  :northing: 7410000
+  :lat: "-23.395"
+  :lng: '144.2191666666667'
   :state: QLD
   :bsl: 10221
   :license_area: LONGREACH RA1

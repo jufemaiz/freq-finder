@@ -2,84 +2,6 @@
 :title: CAAMA Radio
 :transmitters:
 - :band: FM
-  :area: Ali Curung
-  :callsign: 8KIN
-  :frequency: 103.7
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 25
-  :antenna_pattern: OD
-  :maximum_erp: 20
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10002283
-  :license_number: 1385271
-  :site_id: 3026
-  :site_name: Broadcast Site ALI CURUNG
-  :zone: 53
-  :easting: 439000
-  :northing: 7678000
-  :lat: "-20.9975"
-  :lng: '134.4130555555556'
-  :state: NT
-  :bsl: 10181
-  :license_area: CENTRAL ZONE RA2
-  :license_id: 495
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Alice Springs
-  :callsign: 8KIN
-  :frequency: 100.5
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 35
-  :antenna_pattern: OD
-  :maximum_erp: 800
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10002364
-  :license_number: 1385237
-  :site_id: 570486
-  :site_name: Optus Site West Gap ALICE SPRINGS
-  :zone: 53
-  :easting: 383423
-  :northing: 7375852
-  :lat: "-23.7238888888889"
-  :lng: '133.8561111111111'
-  :state: NT
-  :bsl: 10181
-  :license_area: CENTRAL ZONE RA2
-  :license_id: 495
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Ampilatwatja
-  :callsign: 8KIN
-  :frequency: 107.7
-  :purpose: Retransmission
-  :polarisation: M
-  :antenna_height: 10
-  :antenna_pattern: OD
-  :maximum_erp: 2
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10009314
-  :license_number: 1155317
-  :site_id: 152932
-  :site_name: Broadcast Site AMPILATWATJA
-  :zone: 53
-  :easting: 523400
-  :northing: 7604800
-  :lat: "-21.6597222222222"
-  :lng: '135.2261111111111'
-  :state: NT
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Batchelor
   :callsign: 8KIN
   :frequency: 93.7
@@ -106,6 +28,58 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
+  :area: Uluru
+  :callsign: 8KIN
+  :frequency: 94.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 21
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007390
+  :license_number: 1152596
+  :site_id: 151529
+  :site_name: Broadcast Site Mutitjulu Community ULURU
+  :zone: 52
+  :easting: 708325
+  :northing: 7194357
+  :lat: "-25.3527777777778"
+  :lng: '131.07'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yarralin
+  :callsign: 8KIN
+  :frequency: 95.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 8112001
+  :license_number: 1157947
+  :site_id: 153290
+  :site_name: Broadcast Site YARRALIN
+  :zone: 52
+  :easting: 701150
+  :northing: 8180500
+  :lat: "-16.4483333333333"
+  :lng: '130.8838888888889'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
   :area: Bathurst Island
   :callsign: 8KIN
   :frequency: 95.3
@@ -129,32 +103,6 @@
   :bsl: 10181
   :license_area: CENTRAL ZONE RA2
   :license_id: 495
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Bickerton Island
-  :callsign: 8KIN
-  :frequency: 106.5
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 5
-  :antenna_pattern: OD
-  :maximum_erp: 20
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10009609
-  :license_number: 1155651
-  :site_id: 152964
-  :site_name: Broadcast Site BICKERTON ISLAND
-  :zone: 53
-  :easting: 629185
-  :northing: 8475960
-  :lat: "-13.7827777777778"
-  :lng: '136.195'
-  :state: NT
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
   :operation_hours: 
   :status: Issued
 - :band: FM
@@ -184,129 +132,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Ceduna
+  :area: Alice Springs
   :callsign: 8KIN
-  :frequency: 102.9
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 25
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10009791
-  :license_number: 1155885
-  :site_id: 25256
-  :site_name: Broadcast Site 8 km East CEDUNA
-  :zone: 53
-  :easting: 382500
-  :northing: 6441800
-  :lat: "-32.1538888888889"
-  :lng: '133.7538888888889'
-  :state: SA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Coober Pedy
-  :callsign: 8KIN
-  :frequency: 102.9
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 15
+  :frequency: 100.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 35
   :antenna_pattern: OD
   :maximum_erp: 800
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 3446048
-  :license_number: 1139794
-  :site_id: 151366
-  :site_name: Imparja Site Traeger Street COOBER PEDY
+  :technical_specification_number: 10002364
+  :license_number: 1385237
+  :site_id: 570486
+  :site_name: Optus Site West Gap ALICE SPRINGS
   :zone: 53
-  :easting: 476434
-  :northing: 6790648
-  :lat: "-29.0119444444444"
-  :lng: '134.7577777777778'
-  :state: SA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Elliott
-  :callsign: 8KIN
-  :frequency: 102.9
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 800
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10011973
-  :license_number: 1157329
-  :site_id: 500755
-  :site_name: Broadcast Site Lot 134 Stuart Hwy ELLIOTT
-  :zone: 53
-  :easting: 345464
-  :northing: 8058330
-  :lat: "-17.5558333333333"
-  :lng: '133.5438888888889'
-  :state: NT
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Ernabella
-  :callsign: 8KIN
-  :frequency: 102.9
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 10
-  :antenna_pattern: OD
-  :maximum_erp: 20
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10002891
-  :license_number: 1385274
-  :site_id: 25603
-  :site_name: Broadcast Site ERNABELLA
-  :zone: 53
-  :easting: 213000
-  :northing: 7089000
-  :lat: "-26.2897222222222"
-  :lng: '132.1258333333333'
-  :state: SA
-  :bsl: 10181
-  :license_area: CENTRAL ZONE RA2
-  :license_id: 495
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Finke
-  :callsign: 8KIN
-  :frequency: 102.9
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 8
-  :antenna_pattern: OD
-  :maximum_erp: 40
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10003098
-  :license_number: 1385275
-  :site_id: 2682
-  :site_name: Broadcast Site FINKE
-  :zone: 53
-  :easting: 457025
-  :northing: 7170035
-  :lat: "-25.5863888888889"
-  :lng: '134.5719444444445'
+  :easting: 383423
+  :northing: 7375852
+  :lat: "-23.7238888888889"
+  :lng: '133.8561111111111'
   :state: NT
   :bsl: 10181
   :license_area: CENTRAL ZONE RA2
@@ -314,26 +158,26 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Glendambo
+  :area: Ramingining
   :callsign: 8KIN
-  :frequency: 106.9
+  :frequency: 100.9
   :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 10
+  :polarisation: M
+  :antenna_height: 18
   :antenna_pattern: OD
-  :maximum_erp: 60
+  :maximum_erp: 100
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10000409
-  :license_number: 1155587
-  :site_id: 151298
-  :site_name: Community hall GLENDAMBO
+  :technical_specification_number: 9154001
+  :license_number: 1156733
+  :site_id: 1535
+  :site_name: Broadcast Site RAMINGINING
   :zone: 53
-  :easting: 571585
-  :northing: 6573300
-  :lat: "-30.9713888888889"
-  :lng: '135.7494444444444'
-  :state: SA
+  :easting: 490000
+  :northing: 8635000
+  :lat: "-12.3475"
+  :lng: '134.9077777777778'
+  :state: NT
   :bsl: 0
   :license_area: 
   :license_id: 0
@@ -366,6 +210,84 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
+  :area: Yulara
+  :callsign: 8KIN
+  :frequency: 102.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 27
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007648
+  :license_number: 1152217
+  :site_id: 2715
+  :site_name: Broadcast Site Tourist Resort YULARA
+  :zone: 52
+  :easting: 700523
+  :northing: 7207400
+  :lat: "-25.2361111111111"
+  :lng: '130.9905555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Liebig
+  :callsign: 8KIN
+  :frequency: 102.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130945
+  :license_number: 1145758
+  :site_id: 153133
+  :site_name: Broadcast Site MT LIEBIG
+  :zone: 52
+  :easting: 732300
+  :northing: 7425040
+  :lat: "-23.2672222222222"
+  :lng: '131.2705555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Elliott
+  :callsign: 8KIN
+  :frequency: 102.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 800
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10011973
+  :license_number: 1157329
+  :site_id: 500755
+  :site_name: Broadcast Site Lot 134 Stuart Hwy ELLIOTT
+  :zone: 53
+  :easting: 345464
+  :northing: 8058330
+  :lat: "-17.5558333333333"
+  :lng: '133.5438888888889'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
   :area: Groote Eylandt
   :callsign: 8KIN
   :frequency: 102.9
@@ -392,51 +314,155 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Harts Range
+  :area: Papunya
   :callsign: 8KIN
-  :frequency: 105.1
-  :purpose: Retransmission
+  :frequency: 102.9
+  :purpose: Community
   :polarisation: V
-  :antenna_height: 16
+  :antenna_height: 10
   :antenna_pattern: OD
-  :maximum_erp: 50
+  :maximum_erp: 40
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10013743
-  :license_number: 1159022
-  :site_id: 153553
-  :site_name: Broadcast Site Council Chambers HARTS RANGE
-  :zone: 53
-  :easting: 493280
-  :northing: 7458110
-  :lat: "-22.985"
-  :lng: '134.9341666666667'
+  :technical_specification_number: 10003103
+  :license_number: 1385280
+  :site_id: 2877
+  :site_name: Broadcast Site Pump House PAPUNYA
+  :zone: 52
+  :easting: 798000
+  :northing: 7430000
+  :lat: "-23.2119444444444"
+  :lng: '131.9113888888889'
   :state: NT
+  :bsl: 10181
+  :license_area: CENTRAL ZONE RA2
+  :license_id: 495
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Willowra
+  :callsign: 8KIN
+  :frequency: 102.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003106
+  :license_number: 1385283
+  :site_id: 151670
+  :site_name: Broadcast Site Mt Barkly WILLOWRA
+  :zone: 53
+  :easting: 252580
+  :northing: 7648540
+  :lat: "-21.2477777777778"
+  :lng: '132.6158333333334'
+  :state: NT
+  :bsl: 10181
+  :license_area: CENTRAL ZONE RA2
+  :license_id: 495
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yuendumu
+  :callsign: 8KIN
+  :frequency: 102.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003109
+  :license_number: 1385284
+  :site_id: 2944
+  :site_name: Broadcast Site One YUENDUMU
+  :zone: 52
+  :easting: 789000
+  :northing: 7536000
+  :lat: "-22.2572222222222"
+  :lng: '131.8038888888889'
+  :state: NT
+  :bsl: 10181
+  :license_area: CENTRAL ZONE RA2
+  :license_id: 495
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ernabella
+  :callsign: 8KIN
+  :frequency: 102.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002891
+  :license_number: 1385274
+  :site_id: 25603
+  :site_name: Broadcast Site ERNABELLA
+  :zone: 53
+  :easting: 213000
+  :northing: 7089000
+  :lat: "-26.2897222222222"
+  :lng: '132.1258333333333'
+  :state: SA
+  :bsl: 10181
+  :license_area: CENTRAL ZONE RA2
+  :license_id: 495
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Coober Pedy
+  :callsign: 8KIN
+  :frequency: 102.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 800
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3446048
+  :license_number: 1139794
+  :site_id: 151366
+  :site_name: Imparja Site Traeger Street COOBER PEDY
+  :zone: 53
+  :easting: 476434
+  :northing: 6790648
+  :lat: "-29.0119444444444"
+  :lng: '134.7577777777778'
+  :state: SA
   :bsl: 0
   :license_area: 
   :license_id: 0
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Hermannsburg
+  :area: Finke
   :callsign: 8KIN
-  :frequency: 103.7
+  :frequency: 102.9
   :purpose: Community
   :polarisation: V
-  :antenna_height: 20
+  :antenna_height: 8
   :antenna_pattern: OD
-  :maximum_erp: 450
+  :maximum_erp: 40
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10003099
-  :license_number: 1385276
-  :site_id: 2422
-  :site_name: Broadcast Site HERMANNSBURG
+  :technical_specification_number: 10003098
+  :license_number: 1385275
+  :site_id: 2682
+  :site_name: Broadcast Site FINKE
   :zone: 53
-  :easting: 274000
-  :northing: 7350000
-  :lat: "-23.9455555555556"
-  :lng: '132.7791666666667'
+  :easting: 457025
+  :northing: 7170035
+  :lat: "-25.5863888888889"
+  :lng: '134.5719444444445'
   :state: NT
   :bsl: 10181
   :license_area: CENTRAL ZONE RA2
@@ -463,32 +489,6 @@
   :northing: 8070500
   :lat: "-17.4427777777778"
   :lng: '130.8283333333333'
-  :state: NT
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Katherine
-  :callsign: 8KIN
-  :frequency: 104.5
-  :purpose: Retransmission
-  :polarisation: M
-  :antenna_height: 38
-  :antenna_pattern: OD
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10005141
-  :license_number: 1157328
-  :site_id: 151812
-  :site_name: Broadcast Site Lot 3135 (13) Chardon Street KATHERINE
-  :zone: 53
-  :easting: 207259
-  :northing: 8397943
-  :lat: "-14.4752777777778"
-  :lng: '132.2841666666667'
   :state: NT
   :bsl: 0
   :license_area: 
@@ -548,84 +548,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Maningrida
-  :callsign: 8KIN
-  :frequency: 105.3
-  :purpose: Retransmission
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 10
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 8167001
-  :license_number: 1154081
-  :site_id: 1582
-  :site_name: Broadcast Site Council Office MANINGRIDA
-  :zone: 53
-  :easting: 415300
-  :northing: 8667500
-  :lat: "-12.0525"
-  :lng: '134.2216666666667'
-  :state: NT
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Marla
-  :callsign: 8KIN
-  :frequency: 104.5
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 10
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10000458
-  :license_number: 1156039
-  :site_id: 151450
-  :site_name: Broadcast site MARLA
-  :zone: 53
-  :easting: 361400
-  :northing: 6981399
-  :lat: "-27.2830555555556"
-  :lng: '133.5994444444445'
-  :state: SA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Mount Liebig
-  :callsign: 8KIN
-  :frequency: 102.5
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 10
-  :antenna_pattern: OD
-  :maximum_erp: 20
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1130945
-  :license_number: 1145758
-  :site_id: 153133
-  :site_name: Broadcast Site MT LIEBIG
-  :zone: 52
-  :easting: 732300
-  :northing: 7425040
-  :lat: "-23.2672222222222"
-  :lng: '131.2705555555556'
-  :state: NT
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Ngukurr
   :callsign: 8KIN
   :frequency: 102.9
@@ -645,136 +567,6 @@
   :northing: 8370800
   :lat: "-14.7363888888889"
   :lng: '134.7305555555556'
-  :state: NT
-  :bsl: 10181
-  :license_area: CENTRAL ZONE RA2
-  :license_id: 495
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Papunya
-  :callsign: 8KIN
-  :frequency: 102.9
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 10
-  :antenna_pattern: OD
-  :maximum_erp: 40
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10003103
-  :license_number: 1385280
-  :site_id: 2877
-  :site_name: Broadcast Site Pump House PAPUNYA
-  :zone: 52
-  :easting: 798000
-  :northing: 7430000
-  :lat: "-23.2119444444444"
-  :lng: '131.9113888888889'
-  :state: NT
-  :bsl: 10181
-  :license_area: CENTRAL ZONE RA2
-  :license_id: 495
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Pasminco Century Mine
-  :callsign: 8KIN
-  :frequency: 103.3
-  :purpose: s212 Retransmission
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 20
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10013089
-  :license_number: 1158468
-  :site_id: 152958
-  :site_name: Broadcast Site Water Tower CENTURY MINE
-  :zone: 54
-  :easting: 248697
-  :northing: 7927216
-  :lat: "-18.7311111111111"
-  :lng: '138.6166666666667'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Penong
-  :callsign: 8KIN
-  :frequency: 105.5
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 20
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10000508
-  :license_number: 1139595
-  :site_id: 151238
-  :site_name: Broadcast Site 8 km west of PENONG
-  :zone: 53
-  :easting: 303205
-  :northing: 6465797
-  :lat: "-31.9263888888889"
-  :lng: '132.9183333333333'
-  :state: SA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Ramingining
-  :callsign: 8KIN
-  :frequency: 100.9
-  :purpose: Retransmission
-  :polarisation: M
-  :antenna_height: 18
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 9154001
-  :license_number: 1156733
-  :site_id: 1535
-  :site_name: Broadcast Site RAMINGINING
-  :zone: 53
-  :easting: 490000
-  :northing: 8635000
-  :lat: "-12.3475"
-  :lng: '134.9077777777778'
-  :state: NT
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Santa Teresa
-  :callsign: 8KIN
-  :frequency: 103.7
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 40
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10003104
-  :license_number: 1385281
-  :site_id: 2797
-  :site_name: Broadcast Site SANTA TERESA
-  :zone: 53
-  :easting: 436000
-  :northing: 7331000
-  :lat: "-24.1319444444444"
-  :lng: '134.37'
   :state: NT
   :bsl: 10181
   :license_area: CENTRAL ZONE RA2
@@ -808,51 +600,77 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Uluru
+  :area: Ceduna
   :callsign: 8KIN
-  :frequency: 94.1
+  :frequency: 102.9
   :purpose: Retransmission
   :polarisation: V
-  :antenna_height: 21
+  :antenna_height: 25
   :antenna_pattern: OD
-  :maximum_erp: 20
+  :maximum_erp: 200
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10007390
-  :license_number: 1152596
-  :site_id: 151529
-  :site_name: Broadcast Site Mutitjulu Community ULURU
-  :zone: 52
-  :easting: 708325
-  :northing: 7194357
-  :lat: "-25.3527777777778"
-  :lng: '131.07'
-  :state: NT
+  :technical_specification_number: 10009791
+  :license_number: 1155885
+  :site_id: 25256
+  :site_name: Broadcast Site 8 km East CEDUNA
+  :zone: 53
+  :easting: 382500
+  :northing: 6441800
+  :lat: "-32.1538888888889"
+  :lng: '133.7538888888889'
+  :state: SA
   :bsl: 0
   :license_area: 
   :license_id: 0
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Willowra
+  :area: Pasminco Century Mine
   :callsign: 8KIN
-  :frequency: 102.9
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 10
+  :frequency: 103.3
+  :purpose: s212 Retransmission
+  :polarisation: M
+  :antenna_height: 20
   :antenna_pattern: OD
-  :maximum_erp: 40
+  :maximum_erp: 20
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10003106
-  :license_number: 1385283
-  :site_id: 151670
-  :site_name: Broadcast Site Mt Barkly WILLOWRA
+  :technical_specification_number: 10013089
+  :license_number: 1158468
+  :site_id: 152958
+  :site_name: Broadcast Site Water Tower CENTURY MINE
+  :zone: 54
+  :easting: 248697
+  :northing: 7927216
+  :lat: "-18.7311111111111"
+  :lng: '138.6166666666667'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ali Curung
+  :callsign: 8KIN
+  :frequency: 103.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002283
+  :license_number: 1385271
+  :site_id: 3026
+  :site_name: Broadcast Site ALI CURUNG
   :zone: 53
-  :easting: 252580
-  :northing: 7648540
-  :lat: "-21.2477777777778"
-  :lng: '132.6158333333334'
+  :easting: 439000
+  :northing: 7678000
+  :lat: "-20.9975"
+  :lng: '134.4130555555556'
   :state: NT
   :bsl: 10181
   :license_area: CENTRAL ZONE RA2
@@ -860,9 +678,165 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Yarralin
+  :area: Santa Teresa
   :callsign: 8KIN
-  :frequency: 95.3
+  :frequency: 103.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003104
+  :license_number: 1385281
+  :site_id: 2797
+  :site_name: Broadcast Site SANTA TERESA
+  :zone: 53
+  :easting: 436000
+  :northing: 7331000
+  :lat: "-24.1319444444444"
+  :lng: '134.37'
+  :state: NT
+  :bsl: 10181
+  :license_area: CENTRAL ZONE RA2
+  :license_id: 495
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hermannsburg
+  :callsign: 8KIN
+  :frequency: 103.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 450
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003099
+  :license_number: 1385276
+  :site_id: 2422
+  :site_name: Broadcast Site HERMANNSBURG
+  :zone: 53
+  :easting: 274000
+  :northing: 7350000
+  :lat: "-23.9455555555556"
+  :lng: '132.7791666666667'
+  :state: NT
+  :bsl: 10181
+  :license_area: CENTRAL ZONE RA2
+  :license_id: 495
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Marla
+  :callsign: 8KIN
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000458
+  :license_number: 1156039
+  :site_id: 151450
+  :site_name: Broadcast site MARLA
+  :zone: 53
+  :easting: 361400
+  :northing: 6981399
+  :lat: "-27.2830555555556"
+  :lng: '133.5994444444445'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Katherine
+  :callsign: 8KIN
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 38
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005141
+  :license_number: 1157328
+  :site_id: 151812
+  :site_name: Broadcast Site Lot 3135 (13) Chardon Street KATHERINE
+  :zone: 53
+  :easting: 207259
+  :northing: 8397943
+  :lat: "-14.4752777777778"
+  :lng: '132.2841666666667'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Harts Range
+  :callsign: 8KIN
+  :frequency: 105.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 16
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013743
+  :license_number: 1159022
+  :site_id: 153553
+  :site_name: Broadcast Site Council Chambers HARTS RANGE
+  :zone: 53
+  :easting: 493280
+  :northing: 7458110
+  :lat: "-22.985"
+  :lng: '134.9341666666667'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Maningrida
+  :callsign: 8KIN
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 8167001
+  :license_number: 1154081
+  :site_id: 1582
+  :site_name: Broadcast Site Council Office MANINGRIDA
+  :zone: 53
+  :easting: 415300
+  :northing: 8667500
+  :lat: "-12.0525"
+  :lng: '134.2216666666667'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Penong
+  :callsign: 8KIN
+  :frequency: 105.5
   :purpose: Retransmission
   :polarisation: V
   :antenna_height: 20
@@ -870,67 +844,93 @@
   :maximum_erp: 20
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 8112001
-  :license_number: 1157947
-  :site_id: 153290
-  :site_name: Broadcast Site YARRALIN
-  :zone: 52
-  :easting: 701150
-  :northing: 8180500
-  :lat: "-16.4483333333333"
-  :lng: '130.8838888888889'
+  :technical_specification_number: 10000508
+  :license_number: 1139595
+  :site_id: 151238
+  :site_name: Broadcast Site 8 km west of PENONG
+  :zone: 53
+  :easting: 303205
+  :northing: 6465797
+  :lat: "-31.9263888888889"
+  :lng: '132.9183333333333'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bickerton Island
+  :callsign: 8KIN
+  :frequency: 106.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 5
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009609
+  :license_number: 1155651
+  :site_id: 152964
+  :site_name: Broadcast Site BICKERTON ISLAND
+  :zone: 53
+  :easting: 629185
+  :northing: 8475960
+  :lat: "-13.7827777777778"
+  :lng: '136.195'
   :state: NT
   :bsl: 0
   :license_area: 
   :license_id: 0
   :operation_hours: 
-  :status: Renewal Pending
+  :status: Issued
 - :band: FM
-  :area: Yuendumu
+  :area: Glendambo
   :callsign: 8KIN
-  :frequency: 102.9
-  :purpose: Community
+  :frequency: 106.9
+  :purpose: Retransmission
   :polarisation: V
   :antenna_height: 10
   :antenna_pattern: OD
-  :maximum_erp: 20
+  :maximum_erp: 60
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10003109
-  :license_number: 1385284
-  :site_id: 2944
-  :site_name: Broadcast Site One YUENDUMU
-  :zone: 52
-  :easting: 789000
-  :northing: 7536000
-  :lat: "-22.2572222222222"
-  :lng: '131.8038888888889'
-  :state: NT
-  :bsl: 10181
-  :license_area: CENTRAL ZONE RA2
-  :license_id: 495
+  :technical_specification_number: 10000409
+  :license_number: 1155587
+  :site_id: 151298
+  :site_name: Community hall GLENDAMBO
+  :zone: 53
+  :easting: 571585
+  :northing: 6573300
+  :lat: "-30.9713888888889"
+  :lng: '135.7494444444444'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Yulara
+  :area: Ampilatwatja
   :callsign: 8KIN
-  :frequency: 102.1
+  :frequency: 107.7
   :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 27
+  :polarisation: M
+  :antenna_height: 10
   :antenna_pattern: OD
-  :maximum_erp: 200
+  :maximum_erp: 2
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10007648
-  :license_number: 1152217
-  :site_id: 2715
-  :site_name: Broadcast Site Tourist Resort YULARA
-  :zone: 52
-  :easting: 700523
-  :northing: 7207400
-  :lat: "-25.2361111111111"
-  :lng: '130.9905555555556'
+  :technical_specification_number: 10009314
+  :license_number: 1155317
+  :site_id: 152932
+  :site_name: Broadcast Site AMPILATWATJA
+  :zone: 53
+  :easting: 523400
+  :northing: 7604800
+  :lat: "-21.6597222222222"
+  :lng: '135.2261111111111'
   :state: NT
   :bsl: 0
   :license_area: 

@@ -1,32 +1,6 @@
 ---
 :title: ABC Riverina
 :transmitters:
-- :band: AM
-  :area: Corowa
-  :callsign: 2CO
-  :frequency: 675.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 55
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 960
-  :power: 10000
-  :technical_specification_number: 10003515
-  :license_number: 1198571
-  :site_id: 150931
-  :site_name: Broadcast Site COROWA
-  :zone: 55
-  :easting: 447525
-  :northing: 6020628
-  :lat: "-35.9569444444444"
-  :lng: '146.4180555555556'
-  :state: NSW
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Hay
   :callsign: 2RVR
@@ -80,32 +54,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Murrumbidgee Irrigation Area
-  :callsign: 2RVR
-  :frequency: 100.5
-  :purpose: National
-  :polarisation: M
-  :antenna_height: 120
-  :antenna_pattern: OD
-  :maximum_erp: 100000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 3558001
-  :license_number: 1198624
-  :site_id: 9921
-  :site_name: Broadcast Tower MT BINGAR
-  :zone: 55
-  :easting: 429350
-  :northing: 6223920
-  :lat: "-34.1230555555556"
-  :lng: '146.2336111111111'
-  :state: NSW
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: SW Slopes/E Riverina
   :callsign: 2RVR
   :frequency: 89.9
@@ -125,6 +73,32 @@
   :northing: 6146329
   :lat: "-34.8216666666667"
   :lng: '147.9'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Young
+  :callsign: 2RVR
+  :frequency: 96.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 26
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002787
+  :license_number: 1198613
+  :site_id: 9561
+  :site_name: Broadcast Site Reservoir Hill YOUNG
+  :zone: 55
+  :easting: 620128
+  :northing: 6203748
+  :lat: "-34.3002777777778"
+  :lng: '148.3052777777778'
   :state: NSW
   :bsl: 0
   :license_area: 
@@ -158,6 +132,32 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
+  :area: Murrumbidgee Irrigation Area
+  :callsign: 2RVR
+  :frequency: 100.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: OD
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3558001
+  :license_number: 1198624
+  :site_id: 9921
+  :site_name: Broadcast Tower MT BINGAR
+  :zone: 55
+  :easting: 429350
+  :northing: 6223920
+  :lat: "-34.1230555555556"
+  :lng: '146.2336111111111'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
   :area: Wagga Wagga
   :callsign: 2RVR
   :frequency: 102.7
@@ -183,26 +183,26 @@
   :license_id: 0
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Young
-  :callsign: 2RVR
-  :frequency: 96.3
+- :band: AM
+  :area: Corowa
+  :callsign: 2CO
+  :frequency: 675.0
   :purpose: National
-  :polarisation: M
-  :antenna_height: 26
+  :polarisation: V
+  :antenna_height: 55
   :antenna_pattern: OD
-  :maximum_erp: 50
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10002787
-  :license_number: 1198613
-  :site_id: 9561
-  :site_name: Broadcast Site Reservoir Hill YOUNG
+  :maximum_erp: 0
+  :maximum_cmf: 960
+  :power: 10000
+  :technical_specification_number: 10003515
+  :license_number: 1198571
+  :site_id: 150931
+  :site_name: Broadcast Site COROWA
   :zone: 55
-  :easting: 620128
-  :northing: 6203748
-  :lat: "-34.3002777777778"
-  :lng: '148.3052777777778'
+  :easting: 447525
+  :northing: 6020628
+  :lat: "-35.9569444444444"
+  :lng: '146.4180555555556'
   :state: NSW
   :bsl: 0
   :license_area: 

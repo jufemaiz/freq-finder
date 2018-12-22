@@ -1,26 +1,26 @@
 ---
 :title: 3NE
 :transmitters:
-- :band: AM
-  :area: Wangaratta
+- :band: FM
+  :area: Mount Hotham
   :callsign: 3NE
-  :frequency: 1566.0
+  :frequency: 89.3
   :purpose: Commercial
   :polarisation: V
-  :antenna_height: 98
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1200
-  :power: 5000
-  :technical_specification_number: 10003789
-  :license_number: 1385045
-  :site_id: 40559
-  :site_name: Broadcast Site WANGARATTA
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007604
+  :license_number: 1157767
+  :site_id: 41113
+  :site_name: Mt Hotham Comms Tower MT HOTHAM
   :zone: 55
-  :easting: 443440
-  :northing: 5980786
-  :lat: "-36.3161111111111"
-  :lng: '146.3697222222223'
+  :easting: 511300
+  :northing: 5907700
+  :lat: "-36.9763888888889"
+  :lng: '147.1269444444445'
   :state: VIC
   :bsl: 10398
   :license_area: WANGARATTA RA1
@@ -54,6 +54,32 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
+  :area: Myrtleford
+  :callsign: 3NE
+  :frequency: 90.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010169
+  :license_number: 1157701
+  :site_id: 41099
+  :site_name: Broadcast/Comms Site Lookout Hill MYRTLEFORD
+  :zone: 55
+  :easting: 476200
+  :northing: 5953600
+  :lat: "-36.5625"
+  :lng: '146.7338888888889'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
   :area: Mount Buffalo
   :callsign: 3NE
   :frequency: 99.1
@@ -79,55 +105,29 @@
   :license_id: 437
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Mount Hotham
+- :band: AM
+  :area: Wangaratta
   :callsign: 3NE
-  :frequency: 89.3
+  :frequency: 1566.0
   :purpose: Commercial
   :polarisation: V
-  :antenna_height: 10
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10007604
-  :license_number: 1157767
-  :site_id: 41113
-  :site_name: Mt Hotham Comms Tower MT HOTHAM
+  :antenna_height: 98
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1200
+  :power: 5000
+  :technical_specification_number: 10003789
+  :license_number: 1385045
+  :site_id: 40559
+  :site_name: Broadcast Site WANGARATTA
   :zone: 55
-  :easting: 511300
-  :northing: 5907700
-  :lat: "-36.9763888888889"
-  :lng: '147.1269444444445'
+  :easting: 443440
+  :northing: 5980786
+  :lat: "-36.3161111111111"
+  :lng: '146.3697222222223'
   :state: VIC
   :bsl: 10398
   :license_area: WANGARATTA RA1
   :license_id: 437
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Myrtleford
-  :callsign: 3NE
-  :frequency: 90.1
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 15
-  :antenna_pattern: OD
-  :maximum_erp: 50
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10010169
-  :license_number: 1157701
-  :site_id: 41099
-  :site_name: Broadcast/Comms Site Lookout Hill MYRTLEFORD
-  :zone: 55
-  :easting: 476200
-  :northing: 5953600
-  :lat: "-36.5625"
-  :lng: '146.7338888888889'
-  :state: VIC
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
   :operation_hours: 
   :status: Issued

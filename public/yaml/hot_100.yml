@@ -1,30 +1,30 @@
 ---
 :title: Hot 100
 :transmitters:
-- :band: AM
-  :area: Katherine
+- :band: FM
+  :area: Darwin
   :callsign: 8HOT
-  :frequency: 765.0
+  :frequency: 100.1
   :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 54
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 220
-  :power: 500
-  :technical_specification_number: 10003316
-  :license_number: 1385028
-  :site_id: 1890
-  :site_name: Broadcast Site 3 km NE of KATHERINE
-  :zone: 53
-  :easting: 205965
-  :northing: 8401195
-  :lat: "-14.4458333333333"
-  :lng: '132.2727777777778'
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 15000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003315
+  :license_number: 1384928
+  :site_id: 1207
+  :site_name: Broadcast Site Section 4456 (100) Deloraine Road BERRIMAH
+  :zone: 52
+  :easting: 713900
+  :northing: 8626700
+  :lat: "-12.4152777777778"
+  :lng: '130.9675'
   :state: NT
-  :bsl: 10167
-  :license_area: DARWIN RA1
-  :license_id: 494
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
   :operation_hours: 
   :status: Issued
 - :band: FM
@@ -53,29 +53,29 @@
   :license_id: 0
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Darwin
+- :band: AM
+  :area: Katherine
   :callsign: 8HOT
-  :frequency: 100.1
+  :frequency: 765.0
   :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 120
-  :antenna_pattern: DA
-  :maximum_erp: 15000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10003315
-  :license_number: 1384928
-  :site_id: 1207
-  :site_name: Broadcast Site Section 4456 (100) Deloraine Road BERRIMAH
-  :zone: 52
-  :easting: 713900
-  :northing: 8626700
-  :lat: "-12.4152777777778"
-  :lng: '130.9675'
+  :polarisation: V
+  :antenna_height: 54
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 220
+  :power: 500
+  :technical_specification_number: 10003316
+  :license_number: 1385028
+  :site_id: 1890
+  :site_name: Broadcast Site 3 km NE of KATHERINE
+  :zone: 53
+  :easting: 205965
+  :northing: 8401195
+  :lat: "-14.4458333333333"
+  :lng: '132.2727777777778'
   :state: NT
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
+  :bsl: 10167
+  :license_area: DARWIN RA1
+  :license_id: 494
   :operation_hours: 
   :status: Issued

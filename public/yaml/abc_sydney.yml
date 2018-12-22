@@ -1,32 +1,6 @@
 ---
 :title: ABC Sydney
 :transmitters:
-- :band: AM
-  :area: Sydney
-  :callsign: 2BL
-  :frequency: 702.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 224
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 3110
-  :power: 50000
-  :technical_specification_number: 4003001
-  :license_number: 1198573
-  :site_id: 151085
-  :site_name: ABC main tower Kurrajong Road PRESTONS
-  :zone: 56
-  :easting: 304482
-  :northing: 6242057
-  :lat: "-33.9436111111111"
-  :lng: '150.8841666666667'
-  :state: NSW
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Gosford
   :callsign: 2BL
@@ -47,6 +21,32 @@
   :northing: 6302130
   :lat: "-33.4080555555556"
   :lng: '151.2916666666667'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Sydney
+  :callsign: 2BL
+  :frequency: 702.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 224
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 3110
+  :power: 50000
+  :technical_specification_number: 4003001
+  :license_number: 1198573
+  :site_id: 151085
+  :site_name: ABC main tower Kurrajong Road PRESTONS
+  :zone: 56
+  :easting: 304482
+  :northing: 6242057
+  :lat: "-33.9436111111111"
+  :lng: '150.8841666666667'
   :state: NSW
   :bsl: 0
   :license_area: 

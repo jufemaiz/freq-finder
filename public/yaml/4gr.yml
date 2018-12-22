@@ -1,32 +1,6 @@
 ---
 :title: 4GR
 :transmitters:
-- :band: AM
-  :area: Toowoomba
-  :callsign: 4GR
-  :frequency: 864.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 85
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 440
-  :power: 2000
-  :technical_specification_number: 4174001
-  :license_number: 1384946
-  :site_id: 151428
-  :site_name: Broadcast Site Drayton TOOWOOMBA
-  :zone: 56
-  :easting: 392500
-  :northing: 6946600
-  :lat: "-27.6002777777778"
-  :lng: '151.9108333333333'
-  :state: QLD
-  :bsl: 4174
-  :license_area: TOOWOOMBA/WARWICK RA1
-  :license_id: 691
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Stanthorpe
   :callsign: 4GR
@@ -47,6 +21,32 @@
   :northing: 6829751
   :lat: "-28.655"
   :lng: '151.9458333333333'
+  :state: QLD
+  :bsl: 4174
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Toowoomba
+  :callsign: 4GR
+  :frequency: 864.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 85
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 4174001
+  :license_number: 1384946
+  :site_id: 151428
+  :site_name: Broadcast Site Drayton TOOWOOMBA
+  :zone: 56
+  :easting: 392500
+  :northing: 6946600
+  :lat: "-27.6002777777778"
+  :lng: '151.9108333333333'
   :state: QLD
   :bsl: 4174
   :license_area: TOOWOOMBA/WARWICK RA1

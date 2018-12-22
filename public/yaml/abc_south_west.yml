@@ -2,32 +2,6 @@
 :title: ABC South West
 :transmitters:
 - :band: AM
-  :area: Bridgetown
-  :callsign: 6BR
-  :frequency: 1044.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 33
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 310
-  :power: 1000
-  :technical_specification_number: 10002333
-  :license_number: 1198490
-  :site_id: 27926
-  :site_name: Broadcast Site BRIDGETOWN
-  :zone: 50
-  :easting: 418677
-  :northing: 6246098
-  :lat: "-33.9222222222222"
-  :lng: '116.12'
-  :state: WA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
   :area: Busselton
   :callsign: 6BS
   :frequency: 684.0
@@ -73,6 +47,32 @@
   :northing: 6201795
   :lat: "-34.3219444444445"
   :lng: '116.1433333333334'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Bridgetown
+  :callsign: 6BR
+  :frequency: 1044.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 33
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 310
+  :power: 1000
+  :technical_specification_number: 10002333
+  :license_number: 1198490
+  :site_id: 27926
+  :site_name: Broadcast Site BRIDGETOWN
+  :zone: 50
+  :easting: 418677
+  :northing: 6246098
+  :lat: "-33.9222222222222"
+  :lng: '116.12'
   :state: WA
   :bsl: 0
   :license_area: 

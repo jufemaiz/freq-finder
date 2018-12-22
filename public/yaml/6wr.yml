@@ -1,58 +1,6 @@
 ---
 :title: 6WR
 :transmitters:
-- :band: AM
-  :area: Kununurra
-  :callsign: 6WR
-  :frequency: 693.0
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 90
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 695
-  :power: 5000
-  :technical_specification_number: 10001824
-  :license_number: 1385122
-  :site_id: 151800
-  :site_name: MF Broadcast Site Lot 2229 Speargrass Road KUNUNURRA
-  :zone: 52
-  :easting: 471196
-  :northing: 8257001
-  :lat: "-15.7652777777778"
-  :lng: '128.7308333333333'
-  :state: WA
-  :bsl: 10355
-  :license_area: KUNUNURRA RA1
-  :license_id: 239
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Argyle
-  :callsign: 6WR
-  :frequency: 104.3
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 25
-  :antenna_pattern: OD
-  :maximum_erp: 50
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10001400
-  :license_number: 1154066
-  :site_id: 151786
-  :site_name: Broadcast Site SMOKE CREEK
-  :zone: 52
-  :easting: 435598
-  :northing: 8152400
-  :lat: "-16.71"
-  :lng: '128.3958333333333'
-  :state: WA
-  :bsl: 10355
-  :license_area: KUNUNURRA RA1
-  :license_id: 239
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Kalumburu
   :callsign: 6WR
@@ -125,6 +73,58 @@
   :northing: 8290000
   :lat: "-15.4652777777778"
   :lng: '128.1022222222222'
+  :state: WA
+  :bsl: 10355
+  :license_area: KUNUNURRA RA1
+  :license_id: 239
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Argyle
+  :callsign: 6WR
+  :frequency: 104.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001400
+  :license_number: 1154066
+  :site_id: 151786
+  :site_name: Broadcast Site SMOKE CREEK
+  :zone: 52
+  :easting: 435598
+  :northing: 8152400
+  :lat: "-16.71"
+  :lng: '128.3958333333333'
+  :state: WA
+  :bsl: 10355
+  :license_area: KUNUNURRA RA1
+  :license_id: 239
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Kununurra
+  :callsign: 6WR
+  :frequency: 693.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 90
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 695
+  :power: 5000
+  :technical_specification_number: 10001824
+  :license_number: 1385122
+  :site_id: 151800
+  :site_name: MF Broadcast Site Lot 2229 Speargrass Road KUNUNURRA
+  :zone: 52
+  :easting: 471196
+  :northing: 8257001
+  :lat: "-15.7652777777778"
+  :lng: '128.7308333333333'
   :state: WA
   :bsl: 10355
   :license_area: KUNUNURRA RA1

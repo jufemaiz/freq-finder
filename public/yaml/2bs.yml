@@ -1,26 +1,26 @@
 ---
 :title: 2BS
 :transmitters:
-- :band: AM
-  :area: Bathurst
+- :band: FM
+  :area: Burraga
   :callsign: 2BS
-  :frequency: 1503.0
+  :frequency: 88.1
   :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 104
+  :polarisation: M
+  :antenna_height: 30
   :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1100
-  :power: 5000
-  :technical_specification_number: 10004208
-  :license_number: 1385031
-  :site_id: 151141
-  :site_name: Broadcast Site EGLINTON
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013961
+  :license_number: 1159416
+  :site_id: 100877
+  :site_name: Evans Shire Council Hut Mt Ryan Triangle Flat via ABERCROMBIE
   :zone: 55
-  :easting: 735904
-  :northing: 6304498
-  :lat: "-33.3727777777778"
-  :lng: '149.5355555555556'
+  :easting: 726726
+  :northing: 6251735
+  :lat: "-33.85"
+  :lng: '149.4502777777778'
   :state: NSW
   :bsl: 10248
   :license_area: BATHURST RA1
@@ -54,25 +54,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Burraga
+  :area: Sofala
   :callsign: 2BS
-  :frequency: 88.1
+  :frequency: 90.1
   :purpose: Commercial
   :polarisation: M
   :antenna_height: 30
   :antenna_pattern: DA
-  :maximum_erp: 2000
+  :maximum_erp: 250
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10013961
-  :license_number: 1159416
-  :site_id: 100877
-  :site_name: Evans Shire Council Hut Mt Ryan Triangle Flat via ABERCROMBIE
+  :technical_specification_number: 10013957
+  :license_number: 1159418
+  :site_id: 35898
+  :site_name: Monkey Hill via Sofala Council Site SOFALA
   :zone: 55
-  :easting: 726726
-  :northing: 6251735
-  :lat: "-33.85"
-  :lng: '149.4502777777778'
+  :easting: 741100
+  :northing: 6342000
+  :lat: "-33.0336111111111"
+  :lng: '149.5813888888889'
   :state: NSW
   :bsl: 10248
   :license_area: BATHURST RA1
@@ -105,26 +105,26 @@
   :license_id: 0
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Sofala
+- :band: AM
+  :area: Bathurst
   :callsign: 2BS
-  :frequency: 90.1
+  :frequency: 1503.0
   :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 30
+  :polarisation: V
+  :antenna_height: 104
   :antenna_pattern: DA
-  :maximum_erp: 250
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10013957
-  :license_number: 1159418
-  :site_id: 35898
-  :site_name: Monkey Hill via Sofala Council Site SOFALA
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 10004208
+  :license_number: 1385031
+  :site_id: 151141
+  :site_name: Broadcast Site EGLINTON
   :zone: 55
-  :easting: 741100
-  :northing: 6342000
-  :lat: "-33.0336111111111"
-  :lng: '149.5813888888889'
+  :easting: 735904
+  :northing: 6304498
+  :lat: "-33.3727777777778"
+  :lng: '149.5355555555556'
   :state: NSW
   :bsl: 10248
   :license_area: BATHURST RA1

@@ -28,32 +28,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Glen Innes
-  :callsign: 2GEM
-  :frequency: 106.7
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10004869
-  :license_number: 1151802
-  :site_id: 35679
-  :site_name: Martins Lookout GLEN INNES
-  :zone: 56
-  :easting: 379200
-  :northing: 6708900
-  :lat: "-29.7438888888889"
-  :lng: '151.7505555555556'
-  :state: NSW
-  :bsl: 10322
-  :license_area: INVERELL RA1
-  :license_id: 379
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Inverell
   :callsign: 2GEM
   :frequency: 95.1
@@ -103,5 +77,31 @@
   :bsl: 0
   :license_area: 
   :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Glen Innes
+  :callsign: 2GEM
+  :frequency: 106.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004869
+  :license_number: 1151802
+  :site_id: 35679
+  :site_name: Martins Lookout GLEN INNES
+  :zone: 56
+  :easting: 379200
+  :northing: 6708900
+  :lat: "-29.7438888888889"
+  :lng: '151.7505555555556'
+  :state: NSW
+  :bsl: 10322
+  :license_area: INVERELL RA1
+  :license_id: 379
   :operation_hours: 
   :status: Issued

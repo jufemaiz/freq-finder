@@ -28,25 +28,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Apollo Bay
+  :area: Lorne
   :callsign: 3OCR
-  :frequency: 99.1
+  :frequency: 88.7
   :purpose: Community
   :polarisation: M
-  :antenna_height: 15
+  :antenna_height: 7
   :antenna_pattern: OD
-  :maximum_erp: 75
+  :maximum_erp: 50
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10009647
-  :license_number: 1170591
-  :site_id: 41970
-  :site_name: Crows Nest Lookout APOLLO BAY
+  :technical_specification_number: 10009764
+  :license_number: 1170592
+  :site_id: 136908
+  :site_name: Lorne Country Club Holiday Rd LORNE
   :zone: 54
-  :easting: 730480
-  :northing: 5709920
-  :lat: "-38.7291666666667"
-  :lng: '143.6513888888889'
+  :easting: 759031
+  :northing: 5731475
+  :lat: "-38.5272222222222"
+  :lng: '143.9713888888889'
   :state: VIC
   :bsl: 1150491
   :license_area: COLAC RA1
@@ -73,32 +73,6 @@
   :northing: 5766130
   :lat: "-38.2252777777778"
   :lng: '143.5280555555556'
-  :state: VIC
-  :bsl: 1150491
-  :license_area: COLAC RA1
-  :license_id: 817
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Lorne
-  :callsign: 3OCR
-  :frequency: 88.7
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 7
-  :antenna_pattern: OD
-  :maximum_erp: 50
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10009764
-  :license_number: 1170592
-  :site_id: 136908
-  :site_name: Lorne Country Club Holiday Rd LORNE
-  :zone: 54
-  :easting: 759031
-  :northing: 5731475
-  :lat: "-38.5272222222222"
-  :lng: '143.9713888888889'
   :state: VIC
   :bsl: 1150491
   :license_area: COLAC RA1

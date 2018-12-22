@@ -2,58 +2,6 @@
 :title: Sun FM
 :transmitters:
 - :band: FM
-  :area: Alice Springs
-  :callsign: 8SUN
-  :frequency: 96.9
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 7
-  :antenna_pattern: OD
-  :maximum_erp: 400
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10002362
-  :license_number: 1384923
-  :site_id: 53447
-  :site_name: Air Services Tower West Gap ALICE SPRINGS
-  :zone: 53
-  :easting: 383367
-  :northing: 7375870
-  :lat: "-23.7236111111111"
-  :lng: '133.8555555555556'
-  :state: NT
-  :bsl: 10145
-  :license_area: ALICE SPRINGS RA1
-  :license_id: 493
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Darwin
-  :callsign: 8TFM
-  :frequency: 104.1
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 46
-  :antenna_pattern: OD
-  :maximum_erp: 16000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10003311
-  :license_number: 1452114
-  :site_id: 1135
-  :site_name: Radio Station 8TOP-FM Dripstone Road CASUARINA
-  :zone: 52
-  :easting: 702800
-  :northing: 8631200
-  :lat: "-12.3755555555556"
-  :lng: '130.8652777777778'
-  :state: NT
-  :bsl: 10164
-  :license_area: DARWIN RA3
-  :license_id: 498
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Jabiru
   :callsign: 8TFM
   :frequency: 96.5
@@ -77,6 +25,32 @@
   :bsl: 10164
   :license_area: DARWIN RA3
   :license_id: 498
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Alice Springs
+  :callsign: 8SUN
+  :frequency: 96.9
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 7
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002362
+  :license_number: 1384923
+  :site_id: 53447
+  :site_name: Air Services Tower West Gap ALICE SPRINGS
+  :zone: 53
+  :easting: 383367
+  :northing: 7375870
+  :lat: "-23.7236111111111"
+  :lng: '133.8555555555556'
+  :state: NT
+  :bsl: 10145
+  :license_area: ALICE SPRINGS RA1
+  :license_id: 493
   :operation_hours: 
   :status: Issued
 - :band: FM
@@ -129,5 +103,31 @@
   :bsl: 10096
   :license_area: MILDURA RA1
   :license_id: 436
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Darwin
+  :callsign: 8TFM
+  :frequency: 104.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 46
+  :antenna_pattern: OD
+  :maximum_erp: 16000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003311
+  :license_number: 1452114
+  :site_id: 1135
+  :site_name: Radio Station 8TOP-FM Dripstone Road CASUARINA
+  :zone: 52
+  :easting: 702800
+  :northing: 8631200
+  :lat: "-12.3755555555556"
+  :lng: '130.8652777777778'
+  :state: NT
+  :bsl: 10164
+  :license_area: DARWIN RA3
+  :license_id: 498
   :operation_hours: 
   :status: Issued

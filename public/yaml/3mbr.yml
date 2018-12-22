@@ -2,26 +2,26 @@
 :title: 3MBR
 :transmitters:
 - :band: FM
-  :area: Lameroo
+  :area: Ouyen
   :callsign: 3MBR
-  :frequency: 107.5
+  :frequency: 92.9
   :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 25
+  :polarisation: M
+  :antenna_height: 0
   :antenna_pattern: OD
   :maximum_erp: 100
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10009654
-  :license_number: 1155705
-  :site_id: 152973
-  :site_name: Broadcast Site 1 Bews Tce LAMEROO
+  :technical_specification_number: 10013024
+  :license_number: 1158159
+  :site_id: 153475
+  :site_name: Broadcast Site Ouyen Hospital Britt St OUYEN
   :zone: 54
-  :easting: 456000
-  :northing: 6090000
-  :lat: "-35.3319444444444"
-  :lng: '140.5158333333334'
-  :state: SA
+  :easting: 619550
+  :northing: 6117820
+  :lat: "-35.075"
+  :lng: '142.3111111111111'
+  :state: VIC
   :bsl: 0
   :license_area: 
   :license_id: 0
@@ -54,26 +54,26 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Ouyen
+  :area: Lameroo
   :callsign: 3MBR
-  :frequency: 92.9
+  :frequency: 107.5
   :purpose: Retransmission
-  :polarisation: M
-  :antenna_height: 0
+  :polarisation: V
+  :antenna_height: 25
   :antenna_pattern: OD
   :maximum_erp: 100
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10013024
-  :license_number: 1158159
-  :site_id: 153475
-  :site_name: Broadcast Site Ouyen Hospital Britt St OUYEN
+  :technical_specification_number: 10009654
+  :license_number: 1155705
+  :site_id: 152973
+  :site_name: Broadcast Site 1 Bews Tce LAMEROO
   :zone: 54
-  :easting: 619550
-  :northing: 6117820
-  :lat: "-35.075"
-  :lng: '142.3111111111111'
-  :state: VIC
+  :easting: 456000
+  :northing: 6090000
+  :lat: "-35.3319444444444"
+  :lng: '140.5158333333334'
+  :state: SA
   :bsl: 0
   :license_area: 
   :license_id: 0

@@ -1,6 +1,32 @@
 ---
 :title: ABC Kimberley
 :transmitters:
+- :band: FM
+  :area: Argyle
+  :callsign: 6KW
+  :frequency: 105.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 21
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001399
+  :license_number: 1198511
+  :site_id: 151786
+  :site_name: Broadcast Site SMOKE CREEK
+  :zone: 52
+  :easting: 435598
+  :northing: 8152400
+  :lat: "-16.71"
+  :lng: '128.3958333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
 - :band: AM
   :area: Broome
   :callsign: 6BE
@@ -21,32 +47,6 @@
   :northing: 8021900
   :lat: "-17.8891666666667"
   :lng: '122.2616666666667'
-  :state: WA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Derby
-  :callsign: 6DB
-  :frequency: 873.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 40
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 640
-  :power: 2000
-  :technical_specification_number: 10001760
-  :license_number: 1198488
-  :site_id: 32290
-  :site_name: MF Broadcast Site DERBY
-  :zone: 51
-  :easting: 571003
-  :northing: 8081098
-  :lat: "-17.3544444444444"
-  :lng: '123.6680555555556'
   :state: WA
   :bsl: 0
   :license_area: 
@@ -80,6 +80,32 @@
   :operation_hours: 
   :status: Issued
 - :band: AM
+  :area: Derby
+  :callsign: 6DB
+  :frequency: 873.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 640
+  :power: 2000
+  :technical_specification_number: 10001760
+  :license_number: 1198488
+  :site_id: 32290
+  :site_name: MF Broadcast Site DERBY
+  :zone: 51
+  :easting: 571003
+  :northing: 8081098
+  :lat: "-17.3544444444444"
+  :lng: '123.6680555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
   :area: Wyndham
   :callsign: 6WH
   :frequency: 1017.0
@@ -99,32 +125,6 @@
   :northing: 8286634
   :lat: "-15.4958333333333"
   :lng: '128.1355555555556'
-  :state: WA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Argyle
-  :callsign: 6KW
-  :frequency: 105.9
-  :purpose: National
-  :polarisation: M
-  :antenna_height: 21
-  :antenna_pattern: OD
-  :maximum_erp: 50
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10001399
-  :license_number: 1198511
-  :site_id: 151786
-  :site_name: Broadcast Site SMOKE CREEK
-  :zone: 52
-  :easting: 435598
-  :northing: 8152400
-  :lat: "-16.71"
-  :lng: '128.3958333333333'
   :state: WA
   :bsl: 0
   :license_area: 

@@ -1,32 +1,6 @@
 ---
 :title: 2RG
 :transmitters:
-- :band: AM
-  :area: Griffith
-  :callsign: 2RG
-  :frequency: 963.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 53
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 840
-  :power: 5000
-  :technical_specification_number: 4132001
-  :license_number: 1384976
-  :site_id: 40478
-  :site_name: Broadcast Site Widgell 10 km SE of GRIFFITH
-  :zone: 55
-  :easting: 420200
-  :northing: 6200900
-  :lat: "-34.3297222222222"
-  :lng: '146.1325'
-  :state: NSW
-  :bsl: 4132
-  :license_area: GRIFFITH RA1
-  :license_id: 384
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Lake Cowal Mine
   :callsign: 2RG
@@ -51,5 +25,31 @@
   :bsl: 0
   :license_area: 
   :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Griffith
+  :callsign: 2RG
+  :frequency: 963.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 53
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 840
+  :power: 5000
+  :technical_specification_number: 4132001
+  :license_number: 1384976
+  :site_id: 40478
+  :site_name: Broadcast Site Widgell 10 km SE of GRIFFITH
+  :zone: 55
+  :easting: 420200
+  :northing: 6200900
+  :lat: "-34.3297222222222"
+  :lng: '146.1325'
+  :state: NSW
+  :bsl: 4132
+  :license_area: GRIFFITH RA1
+  :license_id: 384
   :operation_hours: 
   :status: Issued

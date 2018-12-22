@@ -2,32 +2,6 @@
 :title: ABC Sunshine Coast
 :transmitters:
 - :band: FM
-  :area: Gympie
-  :callsign: 4SCR
-  :frequency: 95.3
-  :purpose: National
-  :polarisation: M
-  :antenna_height: 49
-  :antenna_pattern: DA
-  :maximum_erp: 20000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 4236002
-  :license_number: 1150304
-  :site_id: 151485
-  :site_name: Broadcast Site BLACK MOUNTAIN
-  :zone: 56
-  :easting: 485320
-  :northing: 7077321
-  :lat: "-26.4241666666667"
-  :lng: '152.8527777777778'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Nambour
   :callsign: 4SCR
   :frequency: 90.3
@@ -47,6 +21,32 @@
   :northing: 7054133
   :lat: "-26.6336111111111"
   :lng: '152.9105555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gympie
+  :callsign: 4SCR
+  :frequency: 95.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 49
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4236002
+  :license_number: 1150304
+  :site_id: 151485
+  :site_name: Broadcast Site BLACK MOUNTAIN
+  :zone: 56
+  :easting: 485320
+  :northing: 7077321
+  :lat: "-26.4241666666667"
+  :lng: '152.8527777777778'
   :state: QLD
   :bsl: 0
   :license_area: 

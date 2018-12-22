@@ -1,32 +1,6 @@
 ---
 :title: ABC Melbourne
 :transmitters:
-- :band: AM
-  :area: Melbourne
-  :callsign: 3LO
-  :frequency: 774.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 215
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 3110
-  :power: 50000
-  :technical_specification_number: 4025001
-  :license_number: 1198445
-  :site_id: 40504
-  :site_name: Melbourne Broadcast Site Sydenham Road DELAHEY
-  :zone: 55
-  :easting: 304584
-  :northing: 5822694
-  :lat: "-37.7219444444444"
-  :lng: '144.7825'
-  :state: VIC
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Apollo Bay
   :callsign: 3LO
@@ -47,6 +21,32 @@
   :northing: 5704150
   :lat: "-38.7811111111111"
   :lng: '143.6494444444445'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Melbourne
+  :callsign: 3LO
+  :frequency: 774.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 215
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 3110
+  :power: 50000
+  :technical_specification_number: 4025001
+  :license_number: 1198445
+  :site_id: 40504
+  :site_name: Melbourne Broadcast Site Sydenham Road DELAHEY
+  :zone: 55
+  :easting: 304584
+  :northing: 5822694
+  :lat: "-37.7219444444444"
+  :lng: '144.7825'
   :state: VIC
   :bsl: 0
   :license_area: 

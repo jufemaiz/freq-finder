@@ -27,29 +27,3 @@
   :license_id: 912
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Melton
-  :callsign: 3RIM
-  :frequency: 97.9
-  :purpose: Community
-  :polarisation: V
-  :antenna_height: 14
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 2053001
-  :license_number: 1385175
-  :site_id: 35081
-  :site_name: 3RIM Site MT KOROROIT
-  :zone: 55
-  :easting: 293650
-  :northing: 5829800
-  :lat: "-37.6555555555556"
-  :lng: '144.6605555555556'
-  :state: VIC
-  :bsl: 2053
-  :license_area: MELTON RA1
-  :license_id: 912
-  :operation_hours: 
-  :status: Issued

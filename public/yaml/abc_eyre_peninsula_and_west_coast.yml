@@ -2,32 +2,6 @@
 :title: ABC Eyre Peninsula and West Coast
 :transmitters:
 - :band: AM
-  :area: Port Lincoln
-  :callsign: 5LN
-  :frequency: 1485.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 40
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 140
-  :power: 200
-  :technical_specification_number: 4055001
-  :license_number: 1198413
-  :site_id: 151021
-  :site_name: Broadcast/Telstra Site Cardiff Rd PORT LINCOLN
-  :zone: 53
-  :easting: 580381
-  :northing: 6156445
-  :lat: "-34.7305555555556"
-  :lng: '135.8777777777778'
-  :state: SA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
   :area: Streaky Bay
   :callsign: 5SY
   :frequency: 693.0
@@ -47,6 +21,32 @@
   :northing: 6375237
   :lat: "-32.7577777777778"
   :lng: '134.1886111111111'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Port Lincoln
+  :callsign: 5LN
+  :frequency: 1485.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 140
+  :power: 200
+  :technical_specification_number: 4055001
+  :license_number: 1198413
+  :site_id: 151021
+  :site_name: Broadcast/Telstra Site Cardiff Rd PORT LINCOLN
+  :zone: 53
+  :easting: 580381
+  :northing: 6156445
+  :lat: "-34.7305555555556"
+  :lng: '135.8777777777778'
   :state: SA
   :bsl: 0
   :license_area: 

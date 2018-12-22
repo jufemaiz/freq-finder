@@ -1,32 +1,6 @@
 ---
 :title: 2NM
 :transmitters:
-- :band: AM
-  :area: Muswellbrook
-  :callsign: 2NM
-  :frequency: 981.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 76
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 1010
-  :power: 5000
-  :technical_specification_number: 4125001
-  :license_number: 1384983
-  :site_id: 151203
-  :site_name: Broadcast Site 6 km SW of MUSWELLBROOK
-  :zone: 56
-  :easting: 295800
-  :northing: 6424798
-  :lat: "-32.2947222222222"
-  :lng: '150.8313888888889'
-  :state: NSW
-  :bsl: 4125
-  :license_area: MUSWELLBROOK RA1
-  :license_id: 378
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Glendell Mine
   :callsign: 2NM
@@ -51,5 +25,31 @@
   :bsl: 0
   :license_area: 
   :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Muswellbrook
+  :callsign: 2NM
+  :frequency: 981.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 76
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1010
+  :power: 5000
+  :technical_specification_number: 4125001
+  :license_number: 1384983
+  :site_id: 151203
+  :site_name: Broadcast Site 6 km SW of MUSWELLBROOK
+  :zone: 56
+  :easting: 295800
+  :northing: 6424798
+  :lat: "-32.2947222222222"
+  :lng: '150.8313888888889'
+  :state: NSW
+  :bsl: 4125
+  :license_area: MUSWELLBROOK RA1
+  :license_id: 378
   :operation_hours: 
   :status: Issued

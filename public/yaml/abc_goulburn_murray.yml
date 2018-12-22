@@ -28,32 +28,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Corryong
-  :callsign: 3MRR
-  :frequency: 99.7
-  :purpose: National
-  :polarisation: M
-  :antenna_height: 27
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10003517
-  :license_number: 1198456
-  :site_id: 40979
-  :site_name: Broadcast Site MT ELLIOT
-  :zone: 55
-  :easting: 587660
-  :northing: 5994880
-  :lat: "-36.1866666666667"
-  :lng: '147.9747222222222'
-  :state: VIC
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Myrtleford
   :callsign: 3MRR
   :frequency: 91.7
@@ -73,6 +47,32 @@
   :northing: 5953600
   :lat: "-36.5625"
   :lng: '146.7338888888889'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Corryong
+  :callsign: 3MRR
+  :frequency: 99.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 27
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003517
+  :license_number: 1198456
+  :site_id: 40979
+  :site_name: Broadcast Site MT ELLIOT
+  :zone: 55
+  :easting: 587660
+  :northing: 5994880
+  :lat: "-36.1866666666667"
+  :lng: '147.9747222222222'
   :state: VIC
   :bsl: 0
   :license_area: 

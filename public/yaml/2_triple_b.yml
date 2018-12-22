@@ -2,32 +2,6 @@
 :title: 2 Triple B
 :transmitters:
 - :band: FM
-  :area: Bellingen
-  :callsign: 2BBB
-  :frequency: 107.3
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 3041001
-  :license_number: 1385126
-  :site_id: 8011
-  :site_name: Broadcast Site 1 km West of BELLINGEN
-  :zone: 56
-  :easting: 489000
-  :northing: 6631000
-  :lat: "-30.4527777777778"
-  :lng: '152.8852777777778'
-  :state: NSW
-  :bsl: 3041
-  :license_area: BELLINGEN RA1
-  :license_id: 391
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Dorrigo
   :callsign: 2BBB
   :frequency: 93.3
@@ -47,6 +21,32 @@
   :northing: 6637040
   :lat: "-30.3980555555556"
   :lng: '152.6872222222222'
+  :state: NSW
+  :bsl: 3041
+  :license_area: BELLINGEN RA1
+  :license_id: 391
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bellingen
+  :callsign: 2BBB
+  :frequency: 107.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3041001
+  :license_number: 1385126
+  :site_id: 8011
+  :site_name: Broadcast Site 1 km West of BELLINGEN
+  :zone: 56
+  :easting: 489000
+  :northing: 6631000
+  :lat: "-30.4527777777778"
+  :lng: '152.8852777777778'
   :state: NSW
   :bsl: 3041
   :license_area: BELLINGEN RA1

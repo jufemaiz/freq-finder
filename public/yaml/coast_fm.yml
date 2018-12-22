@@ -28,25 +28,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Devonport
+  :area: Lileah
   :callsign: 7DBS
-  :frequency: 104.7
+  :frequency: 88.9
   :purpose: Community
-  :polarisation: V
-  :antenna_height: 10
-  :antenna_pattern: OD
-  :maximum_erp: 2000
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 1000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 3150003
-  :license_number: 1154577
-  :site_id: 34109
-  :site_name: Shell Hill Government Site FORTH
+  :technical_specification_number: 10010808
+  :license_number: 1159310
+  :site_id: 34349
+  :site_name: Broadcast Site WILLIS HILL
   :zone: 55
-  :easting: 439455
-  :northing: 5439335
-  :lat: "-41.1947222222222"
-  :lng: '146.2777777777778'
+  :easting: 347810
+  :northing: 5464024
+  :lat: "-40.9605555555556"
+  :lng: '145.1913888888889'
   :state: TAS
   :bsl: 3150
   :license_area: WYNYARD RA1
@@ -80,55 +80,29 @@
   :operation_hours: 
   :status: Renewal Pending
 - :band: FM
-  :area: Gosford
-  :callsign: 2CCC
-  :frequency: 96.3
-  :purpose: Community
+  :area: Warrnambool
+  :callsign: 3YFM
+  :frequency: 95.3
+  :purpose: Commercial
   :polarisation: M
-  :antenna_height: 50
-  :antenna_pattern: OD
-  :maximum_erp: 2000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 6527001
-  :license_number: 1385131
-  :site_id: 151138
-  :site_name: Broadcast Site MT PENANG
-  :zone: 56
-  :easting: 341146
-  :northing: 6302130
-  :lat: "-33.4080555555556"
-  :lng: '151.2916666666667'
-  :state: NSW
-  :bsl: 6527
-  :license_area: GOSFORD RA1
-  :license_id: 517
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Lileah
-  :callsign: 7DBS
-  :frequency: 88.9
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 60
+  :antenna_height: 40
   :antenna_pattern: DA
-  :maximum_erp: 1000
+  :maximum_erp: 20000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10010808
-  :license_number: 1159310
-  :site_id: 34349
-  :site_name: Broadcast Site WILLIS HILL
-  :zone: 55
-  :easting: 347810
-  :northing: 5464024
-  :lat: "-40.9605555555556"
-  :lng: '145.1913888888889'
-  :state: TAS
-  :bsl: 3150
-  :license_area: WYNYARD RA1
-  :license_id: 422
+  :technical_specification_number: 10010739
+  :license_number: 1170641
+  :site_id: 153176
+  :site_name: Broadcast Planning Site MT WARRNAMBOOL
+  :zone: 54
+  :easting: 651820
+  :northing: 5758750
+  :lat: "-38.3063888888889"
+  :lng: '142.7363888888889'
+  :state: VIC
+  :bsl: 1150778
+  :license_area: WARRNAMBOOL RA1
+  :license_id: 441
   :operation_hours: 
   :status: Issued
 - :band: FM
@@ -158,29 +132,29 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Warrnambool
-  :callsign: 3YFM
-  :frequency: 95.3
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 40
-  :antenna_pattern: DA
-  :maximum_erp: 20000
+  :area: Devonport
+  :callsign: 7DBS
+  :frequency: 104.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 2000
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10010739
-  :license_number: 1170641
-  :site_id: 153176
-  :site_name: Broadcast Planning Site MT WARRNAMBOOL
-  :zone: 54
-  :easting: 651820
-  :northing: 5758750
-  :lat: "-38.3063888888889"
-  :lng: '142.7363888888889'
-  :state: VIC
-  :bsl: 1150778
-  :license_area: WARRNAMBOOL RA1
-  :license_id: 441
+  :technical_specification_number: 3150003
+  :license_number: 1154577
+  :site_id: 34109
+  :site_name: Shell Hill Government Site FORTH
+  :zone: 55
+  :easting: 439455
+  :northing: 5439335
+  :lat: "-41.1947222222222"
+  :lng: '146.2777777777778'
+  :state: TAS
+  :bsl: 3150
+  :license_area: WYNYARD RA1
+  :license_id: 422
   :operation_hours: 
   :status: Issued
 - :band: FM

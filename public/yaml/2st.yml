@@ -1,26 +1,26 @@
 ---
 :title: 2ST
 :transmitters:
-- :band: AM
-  :area: Nowra
+- :band: FM
+  :area: St Georges Basin
   :callsign: 2ST
-  :frequency: 999.0
+  :frequency: 91.7
   :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 62
+  :polarisation: M
+  :antenna_height: 70
   :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 860
-  :power: 5000
-  :technical_specification_number: 4133001
-  :license_number: 1385013
-  :site_id: 151007
-  :site_name: Broadcast Site 6 km W of NOWRA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133225
+  :license_number: 1904975
+  :site_id: 9000991
+  :site_name: Shoalhaven City Council Tower, Council Waste Depot Huskisson Rd HUSKISSON
   :zone: 56
-  :easting: 274603
-  :northing: 6136299
-  :lat: "-34.8905555555556"
-  :lng: '150.5333333333333'
+  :easting: 286172
+  :northing: 6120482
+  :lat: "-35.0355555555556"
+  :lng: '150.6558333333333'
   :state: NSW
   :bsl: 4133
   :license_area: NOWRA RA1
@@ -55,32 +55,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: St Georges Basin
-  :callsign: 2ST
-  :frequency: 91.7
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 70
-  :antenna_pattern: DA
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1133225
-  :license_number: 1904975
-  :site_id: 9000991
-  :site_name: Shoalhaven City Council Tower, Council Waste Depot Huskisson Rd HUSKISSON
-  :zone: 56
-  :easting: 286172
-  :northing: 6120482
-  :lat: "-35.0355555555556"
-  :lng: '150.6558333333333'
-  :state: NSW
-  :bsl: 4133
-  :license_area: NOWRA RA1
-  :license_id: 536
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Ulladulla
   :callsign: 2ST
   :frequency: 106.7
@@ -100,6 +74,32 @@
   :northing: 6092265
   :lat: "-35.2833333333333"
   :lng: '150.3413888888889'
+  :state: NSW
+  :bsl: 4133
+  :license_area: NOWRA RA1
+  :license_id: 536
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Nowra
+  :callsign: 2ST
+  :frequency: 999.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 62
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 860
+  :power: 5000
+  :technical_specification_number: 4133001
+  :license_number: 1385013
+  :site_id: 151007
+  :site_name: Broadcast Site 6 km W of NOWRA
+  :zone: 56
+  :easting: 274603
+  :northing: 6136299
+  :lat: "-34.8905555555556"
+  :lng: '150.5333333333333'
   :state: NSW
   :bsl: 4133
   :license_area: NOWRA RA1

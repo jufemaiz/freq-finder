@@ -1,62 +1,10 @@
 ---
 :title: ABC Gippsland
 :transmitters:
-- :band: AM
-  :area: Omeo
-  :callsign: 3MT
-  :frequency: 720.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 107
-  :antenna_pattern: DA
-  :maximum_erp: 0
-  :maximum_cmf: 755
-  :power: 2000
-  :technical_specification_number: 10003770
-  :license_number: 1153089
-  :site_id: 40508
-  :site_name: Broadcast Site OMEO
-  :zone: 55
-  :easting: 558291
-  :northing: 5888516
-  :lat: "-37.1477777777778"
-  :lng: '147.6563888888889'
-  :state: VIC
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: AM
-  :area: Sale
-  :callsign: 3GI
-  :frequency: 828.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 152
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 1150
-  :power: 10000
-  :technical_specification_number: 4026001
-  :license_number: 1198446
-  :site_id: 12062
-  :site_name: 3GI MF Broadcast Tower LONGFORD
-  :zone: 55
-  :easting: 508230
-  :northing: 5773105
-  :lat: "-38.1897222222222"
-  :lng: '147.0938888888889'
-  :state: VIC
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
-  :area: Cann River
+  :area: Orbost
   :callsign: 3GLR
-  :frequency: 106.1
+  :frequency: 97.1
   :purpose: National
   :polarisation: M
   :antenna_height: 43
@@ -64,15 +12,15 @@
   :maximum_erp: 200
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 3869002
-  :license_number: 1198465
-  :site_id: 12096
-  :site_name: Telstra Radio Terminal 49 km ENE of Orbost DONALD KNOB
+  :technical_specification_number: 3869001
+  :license_number: 1198453
+  :site_id: 12090
+  :site_name: Telstra Radio Terminal/Police/SMR Site 12 km E of Orbost MT RAYMOND
   :zone: 55
-  :easting: 675978
-  :northing: 5837192
-  :lat: "-37.5952777777778"
-  :lng: '148.9933333333333'
+  :easting: 640910
+  :northing: 5824800
+  :lat: "-37.7130555555556"
+  :lng: '148.5986111111111'
   :state: VIC
   :bsl: 0
   :license_area: 
@@ -132,9 +80,9 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Orbost
+  :area: Cann River
   :callsign: 3GLR
-  :frequency: 97.1
+  :frequency: 106.1
   :purpose: National
   :polarisation: M
   :antenna_height: 43
@@ -142,15 +90,67 @@
   :maximum_erp: 200
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 3869001
-  :license_number: 1198453
-  :site_id: 12090
-  :site_name: Telstra Radio Terminal/Police/SMR Site 12 km E of Orbost MT RAYMOND
+  :technical_specification_number: 3869002
+  :license_number: 1198465
+  :site_id: 12096
+  :site_name: Telstra Radio Terminal 49 km ENE of Orbost DONALD KNOB
   :zone: 55
-  :easting: 640910
-  :northing: 5824800
-  :lat: "-37.7130555555556"
-  :lng: '148.5986111111111'
+  :easting: 675978
+  :northing: 5837192
+  :lat: "-37.5952777777778"
+  :lng: '148.9933333333333'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Omeo
+  :callsign: 3MT
+  :frequency: 720.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 107
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 755
+  :power: 2000
+  :technical_specification_number: 10003770
+  :license_number: 1153089
+  :site_id: 40508
+  :site_name: Broadcast Site OMEO
+  :zone: 55
+  :easting: 558291
+  :northing: 5888516
+  :lat: "-37.1477777777778"
+  :lng: '147.6563888888889'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Sale
+  :callsign: 3GI
+  :frequency: 828.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 152
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1150
+  :power: 10000
+  :technical_specification_number: 4026001
+  :license_number: 1198446
+  :site_id: 12062
+  :site_name: 3GI MF Broadcast Tower LONGFORD
+  :zone: 55
+  :easting: 508230
+  :northing: 5773105
+  :lat: "-38.1897222222222"
+  :lng: '147.0938888888889'
   :state: VIC
   :bsl: 0
   :license_area: 

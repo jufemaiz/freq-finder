@@ -2,25 +2,25 @@
 :title: Kool FM
 :transmitters:
 - :band: FM
-  :area: Babinda
+  :area: Tully
   :callsign: 4ZKZ
-  :frequency: 94.9
+  :frequency: 90.3
   :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: DA
-  :maximum_erp: 400
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 300
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10007532
-  :license_number: 1153669
-  :site_id: 440569
-  :site_name: TV Site GRAHAM RANGE
+  :technical_specification_number: 1132461
+  :license_number: 1906230
+  :site_id: 152495
+  :site_name: Broadcast Site Euramo 7 km S of TULLY
   :zone: 55
-  :easting: 393968
-  :northing: 8077612
-  :lat: "-17.3847222222222"
-  :lng: '146.0019444444444'
+  :easting: 387502
+  :northing: 8009895
+  :lat: "-17.9961111111111"
+  :lng: '145.9372222222222'
   :state: QLD
   :bsl: 10319
   :license_area: INNISFAIL RA1
@@ -54,25 +54,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: East Palmerston
+  :area: Babinda
   :callsign: 4ZKZ
-  :frequency: 103.3
+  :frequency: 94.9
   :purpose: Commercial
   :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 50
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 400
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 10011970
-  :license_number: 1157336
-  :site_id: 440422
-  :site_name: Broadcast Site Palmerston Highway East PALMERSTON
+  :technical_specification_number: 10007532
+  :license_number: 1153669
+  :site_id: 440569
+  :site_name: TV Site GRAHAM RANGE
   :zone: 55
-  :easting: 377500
-  :northing: 8052600
-  :lat: "-17.6097222222222"
-  :lng: '145.8452777777778'
+  :easting: 393968
+  :northing: 8077612
+  :lat: "-17.3847222222222"
+  :lng: '146.0019444444444'
   :state: QLD
   :bsl: 10319
   :license_area: INNISFAIL RA1
@@ -106,25 +106,25 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Tully
+  :area: East Palmerston
   :callsign: 4ZKZ
-  :frequency: 90.3
+  :frequency: 103.3
   :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 40
+  :polarisation: M
+  :antenna_height: 30
   :antenna_pattern: OD
-  :maximum_erp: 300
+  :maximum_erp: 50
   :maximum_cmf: 0
   :power: 0
-  :technical_specification_number: 1132461
-  :license_number: 1906230
-  :site_id: 152495
-  :site_name: Broadcast Site Euramo 7 km S of TULLY
+  :technical_specification_number: 10011970
+  :license_number: 1157336
+  :site_id: 440422
+  :site_name: Broadcast Site Palmerston Highway East PALMERSTON
   :zone: 55
-  :easting: 387502
-  :northing: 8009895
-  :lat: "-17.9961111111111"
-  :lng: '145.9372222222222'
+  :easting: 377500
+  :northing: 8052600
+  :lat: "-17.6097222222222"
+  :lng: '145.8452777777778'
   :state: QLD
   :bsl: 10319
   :license_area: INNISFAIL RA1

@@ -2,32 +2,6 @@
 :title: 4RR
 :transmitters:
 - :band: FM
-  :area: Charleville
-  :callsign: 4RR
-  :frequency: 105.7
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 40
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 6271001
-  :license_number: 1171045
-  :site_id: 15193
-  :site_name: Water Tower Parry St CHARLEVILLE
-  :zone: 55
-  :easting: 424520
-  :northing: 7079118
-  :lat: "-26.4058333333333"
-  :lng: '146.2430555555556'
-  :state: QLD
-  :bsl: 1150826
-  :license_area: CHARLEVILLE RA2
-  :license_id: 1254
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Cunnamulla
   :callsign: 4RR
   :frequency: 99.7
@@ -51,5 +25,31 @@
   :bsl: 0
   :license_area: 
   :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Charleville
+  :callsign: 4RR
+  :frequency: 105.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6271001
+  :license_number: 1171045
+  :site_id: 15193
+  :site_name: Water Tower Parry St CHARLEVILLE
+  :zone: 55
+  :easting: 424520
+  :northing: 7079118
+  :lat: "-26.4058333333333"
+  :lng: '146.2430555555556'
+  :state: QLD
+  :bsl: 1150826
+  :license_area: CHARLEVILLE RA2
+  :license_id: 1254
   :operation_hours: 
   :status: Issued

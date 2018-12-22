@@ -54,32 +54,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Mackay
-  :callsign: 4MMK
-  :frequency: 101.9
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 52
-  :antenna_pattern: DA
-  :maximum_erp: 100000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 6396001
-  :license_number: 1155488
-  :site_id: 18649
-  :site_name: Mackay Communications Site Mt Blackwood 28 km WNW of MACKAY
-  :zone: 55
-  :easting: 701835
-  :northing: 7672820
-  :lat: "-21.0341666666667"
-  :lng: '148.9419444444445'
-  :state: QLD
-  :bsl: 1150018
-  :license_area: MACKAY RA1
-  :license_id: 528
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Nebo
   :callsign: 4MMK
   :frequency: 92.3
@@ -103,5 +77,31 @@
   :bsl: 0
   :license_area: 
   :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mackay
+  :callsign: 4MMK
+  :frequency: 101.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 52
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6396001
+  :license_number: 1155488
+  :site_id: 18649
+  :site_name: Mackay Communications Site Mt Blackwood 28 km WNW of MACKAY
+  :zone: 55
+  :easting: 701835
+  :northing: 7672820
+  :lat: "-21.0341666666667"
+  :lng: '148.9419444444445'
+  :state: QLD
+  :bsl: 1150018
+  :license_area: MACKAY RA1
+  :license_id: 528
   :operation_hours: 
   :status: Issued

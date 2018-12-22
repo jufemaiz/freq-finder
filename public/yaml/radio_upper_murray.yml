@@ -2,6 +2,32 @@
 :title: Radio Upper Murray
 :transmitters:
 - :band: FM
+  :area: Walwa/Jingellic
+  :callsign: 3RUM
+  :frequency: 88.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007570
+  :license_number: 1171126
+  :site_id: 36134
+  :site_name: Broadcast Site 4 km East of JINGELLIC
+  :zone: 55
+  :easting: 566810
+  :northing: 6023130
+  :lat: "-35.9336111111111"
+  :lng: '147.7405555555556'
+  :state: NSW
+  :bsl: 1150022
+  :license_area: UPPER MURRAY RA1
+  :license_id: 1279
+  :operation_hours: 
+  :status: Issued
+- :band: FM
   :area: Corryong
   :callsign: 3RUM
   :frequency: 98.9
@@ -47,32 +73,6 @@
   :northing: 6026750
   :lat: "-35.8994444444444"
   :lng: '147.9480555555556'
-  :state: NSW
-  :bsl: 1150022
-  :license_area: UPPER MURRAY RA1
-  :license_id: 1279
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Walwa/Jingellic
-  :callsign: 3RUM
-  :frequency: 88.7
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10007570
-  :license_number: 1171126
-  :site_id: 36134
-  :site_name: Broadcast Site 4 km East of JINGELLIC
-  :zone: 55
-  :easting: 566810
-  :northing: 6023130
-  :lat: "-35.9336111111111"
-  :lng: '147.7405555555556'
   :state: NSW
   :bsl: 1150022
   :license_area: UPPER MURRAY RA1

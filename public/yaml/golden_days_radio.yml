@@ -2,32 +2,6 @@
 :title: Golden Days Radio
 :transmitters:
 - :band: FM
-  :area: Maryborough (Vic)
-  :callsign: 3GFM
-  :frequency: 99.1
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 250
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1132564
-  :license_number: 1171608
-  :site_id: 134116
-  :site_name: Community FM Radio Site 53 Burns Street Maryborough
-  :zone: 54
-  :easting: 743640
-  :northing: 5895936
-  :lat: "-37.0508333333333"
-  :lng: '143.7397222222222'
-  :state: VIC
-  :bsl: 1130028
-  :license_area: MARYBOROUGH RA2
-  :license_id: 1306
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Waverley(R15)
   :callsign: 3GDR
   :frequency: 95.7
@@ -51,5 +25,31 @@
   :bsl: 1150687
   :license_area: WAVERLEY VIC RA1
   :license_id: 866
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Maryborough (Vic)
+  :callsign: 3GFM
+  :frequency: 99.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132564
+  :license_number: 1171608
+  :site_id: 134116
+  :site_name: Community FM Radio Site 53 Burns Street Maryborough
+  :zone: 54
+  :easting: 743640
+  :northing: 5895936
+  :lat: "-37.0508333333333"
+  :lng: '143.7397222222222'
+  :state: VIC
+  :bsl: 1130028
+  :license_area: MARYBOROUGH RA2
+  :license_id: 1306
   :operation_hours: 
   :status: Issued

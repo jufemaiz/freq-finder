@@ -2,32 +2,6 @@
 :title: Mix FM
 :transmitters:
 - :band: FM
-  :area: Maryborough (Qld)
-  :callsign: 4MBB
-  :frequency: 103.5
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: DA
-  :maximum_erp: 10000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10007994
-  :license_number: 1156803
-  :site_id: 153198
-  :site_name: Broadcast Site Scrub Hill NIKENBAH
-  :zone: 56
-  :easting: 480650
-  :northing: 7200550
-  :lat: "-25.3111111111111"
-  :lng: '152.8075'
-  :state: QLD
-  :bsl: 1150054
-  :license_area: MARYBOROUGH (QLD) RA1
-  :license_id: 454
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Nambour
   :callsign: 4SSS
   :frequency: 92.7
@@ -77,5 +51,31 @@
   :bsl: 4184
   :license_area: NAMBOUR RA1
   :license_id: 458
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Maryborough (Qld)
+  :callsign: 4MBB
+  :frequency: 103.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007994
+  :license_number: 1156803
+  :site_id: 153198
+  :site_name: Broadcast Site Scrub Hill NIKENBAH
+  :zone: 56
+  :easting: 480650
+  :northing: 7200550
+  :lat: "-25.3111111111111"
+  :lng: '152.8075'
+  :state: QLD
+  :bsl: 1150054
+  :license_area: MARYBOROUGH (QLD) RA1
+  :license_id: 454
   :operation_hours: 
   :status: Issued

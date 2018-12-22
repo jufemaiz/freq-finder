@@ -1,32 +1,6 @@
 ---
 :title: FM 104.7
 :transmitters:
-- :band: AM
-  :area: Canberra
-  :callsign: 2CN
-  :frequency: 666.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 192
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 880
-  :power: 5000
-  :technical_specification_number: 4001001
-  :license_number: 1198316
-  :site_id: 150980
-  :site_name: Broadcast Site Barton Hwy GUNGAHLIN
-  :zone: 55
-  :easting: 693179
-  :northing: 6100570
-  :lat: "-35.2191666666667"
-  :lng: '149.1222222222222'
-  :state: ACT
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Grafton
   :callsign: 2CLR
@@ -51,5 +25,31 @@
   :bsl: 10413
   :license_area: GRAFTON RA1
   :license_id: 368
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Canberra
+  :callsign: 2CN
+  :frequency: 666.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 192
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 880
+  :power: 5000
+  :technical_specification_number: 4001001
+  :license_number: 1198316
+  :site_id: 150980
+  :site_name: Broadcast Site Barton Hwy GUNGAHLIN
+  :zone: 55
+  :easting: 693179
+  :northing: 6100570
+  :lat: "-35.2191666666667"
+  :lng: '149.1222222222222'
+  :state: ACT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
   :operation_hours: 
   :status: Issued

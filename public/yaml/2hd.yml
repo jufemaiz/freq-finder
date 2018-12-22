@@ -1,32 +1,6 @@
 ---
 :title: 2HD
 :transmitters:
-- :band: AM
-  :area: Newcastle
-  :callsign: 2HD
-  :frequency: 1143.0
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 134
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 550
-  :power: 2000
-  :technical_specification_number: 4115001
-  :license_number: 1384954
-  :site_id: 5981
-  :site_name: 2HD Broadcast Site SANDGATE
-  :zone: 56
-  :easting: 378604
-  :northing: 6362890
-  :lat: "-32.865"
-  :lng: '151.7022222222222'
-  :state: NSW
-  :bsl: 4115
-  :license_area: NEWCASTLE RA1
-  :license_id: 534
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Port Stephens
   :callsign: 2HD
@@ -51,5 +25,31 @@
   :bsl: 0
   :license_area: 
   :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Newcastle
+  :callsign: 2HD
+  :frequency: 1143.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 134
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 550
+  :power: 2000
+  :technical_specification_number: 4115001
+  :license_number: 1384954
+  :site_id: 5981
+  :site_name: 2HD Broadcast Site SANDGATE
+  :zone: 56
+  :easting: 378604
+  :northing: 6362890
+  :lat: "-32.865"
+  :lng: '151.7022222222222'
+  :state: NSW
+  :bsl: 4115
+  :license_area: NEWCASTLE RA1
+  :license_id: 534
   :operation_hours: 
   :status: Issued

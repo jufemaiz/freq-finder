@@ -28,32 +28,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Denham
-  :callsign: 6CAR
-  :frequency: 105.3
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 57
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1132613
-  :license_number: 1562976
-  :site_id: 31181
-  :site_name: Telstra Radio Terminal Monkey Mia Rd DENHAM
-  :zone: 49
-  :easting: 754660
-  :northing: 7130080
-  :lat: "-25.9252777777778"
-  :lng: '113.5422222222222'
-  :state: WA
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Onslow
   :callsign: 6CAR
   :frequency: 100.3
@@ -73,6 +47,32 @@
   :northing: 7605070
   :lat: "-21.6466666666667"
   :lng: '115.1136111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Denham
+  :callsign: 6CAR
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 57
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132613
+  :license_number: 1562976
+  :site_id: 31181
+  :site_name: Telstra Radio Terminal Monkey Mia Rd DENHAM
+  :zone: 49
+  :easting: 754660
+  :northing: 7130080
+  :lat: "-25.9252777777778"
+  :lng: '113.5422222222222'
   :state: WA
   :bsl: 0
   :license_area: 

@@ -1,32 +1,6 @@
 ---
 :title: ABC Southern Queensland
 :transmitters:
-- :band: AM
-  :area: Toowoomba
-  :callsign: 4QS
-  :frequency: 747.0
-  :purpose: National
-  :polarisation: V
-  :antenna_height: 219
-  :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 1250
-  :power: 10000
-  :technical_specification_number: 4044001
-  :license_number: 1198659
-  :site_id: 14706
-  :site_name: 4QS Broadcast Site 3km NE of DALBY
-  :zone: 56
-  :easting: 331600
-  :northing: 6996200
-  :lat: "-27.1463888888889"
-  :lng: '151.3005555555556'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
 - :band: FM
   :area: Southern Downs
   :callsign: 4QS
@@ -47,6 +21,32 @@
   :northing: 6842685
   :lat: "-28.5375"
   :lng: '151.8316666666667'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Toowoomba
+  :callsign: 4QS
+  :frequency: 747.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 219
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1250
+  :power: 10000
+  :technical_specification_number: 4044001
+  :license_number: 1198659
+  :site_id: 14706
+  :site_name: 4QS Broadcast Site 3km NE of DALBY
+  :zone: 56
+  :easting: 331600
+  :northing: 6996200
+  :lat: "-27.1463888888889"
+  :lng: '151.3005555555556'
   :state: QLD
   :bsl: 0
   :license_area: 

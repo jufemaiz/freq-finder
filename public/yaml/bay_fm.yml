@@ -2,32 +2,6 @@
 :title: Bay FM
 :transmitters:
 - :band: FM
-  :area: Byron Bay
-  :callsign: 2BAY
-  :frequency: 99.9
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 3000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10009939
-  :license_number: 1170703
-  :site_id: 8561
-  :site_name: Broadcast Site Telstra Tower Byron View Saint Helena BYRON BAY
-  :zone: 56
-  :easting: 554690
-  :northing: 6829200
-  :lat: "-28.6630555555556"
-  :lng: '153.5594444444445'
-  :state: NSW
-  :bsl: 1150719
-  :license_area: BYRON BAY RA1
-  :license_id: 933
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Geelong
   :callsign: 3BAY
   :frequency: 93.9
@@ -51,6 +25,32 @@
   :bsl: 5148
   :license_area: GEELONG RA1
   :license_id: 428
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Byron Bay
+  :callsign: 2BAY
+  :frequency: 99.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009939
+  :license_number: 1170703
+  :site_id: 8561
+  :site_name: Broadcast Site Telstra Tower Byron View Saint Helena BYRON BAY
+  :zone: 56
+  :easting: 554690
+  :northing: 6829200
+  :lat: "-28.6630555555556"
+  :lng: '153.5594444444445'
+  :state: NSW
+  :bsl: 1150719
+  :license_area: BYRON BAY RA1
+  :license_id: 933
   :operation_hours: 
   :status: Issued
 - :band: FM

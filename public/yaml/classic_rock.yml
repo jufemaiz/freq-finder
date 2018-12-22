@@ -28,32 +28,6 @@
   :operation_hours: 
   :status: Issued
 - :band: FM
-  :area: Deniliquin
-  :callsign: 2MOR
-  :frequency: 102.5
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 137
-  :antenna_pattern: OD
-  :maximum_erp: 50000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10003519
-  :license_number: 1384931
-  :site_id: 51934
-  :site_name: Broadcast Site Cobb Hwy DENILIQUIN
-  :zone: 55
-  :easting: 311000
-  :northing: 6050400
-  :lat: "-35.6719444444444"
-  :lng: '144.9116666666667'
-  :state: NSW
-  :bsl: 10408
-  :license_area: DENILIQUIN RA1
-  :license_id: 382
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Melbourne
   :callsign: 3PTV
   :frequency: 91.5
@@ -77,5 +51,31 @@
   :bsl: 1150692
   :license_area: MELBOURNE RA1
   :license_id: 531
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Deniliquin
+  :callsign: 2MOR
+  :frequency: 102.5
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 137
+  :antenna_pattern: OD
+  :maximum_erp: 50000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003519
+  :license_number: 1384931
+  :site_id: 51934
+  :site_name: Broadcast Site Cobb Hwy DENILIQUIN
+  :zone: 55
+  :easting: 311000
+  :northing: 6050400
+  :lat: "-35.6719444444444"
+  :lng: '144.9116666666667'
+  :state: NSW
+  :bsl: 10408
+  :license_area: DENILIQUIN RA1
+  :license_id: 382
   :operation_hours: 
   :status: Issued

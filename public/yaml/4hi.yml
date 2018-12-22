@@ -1,6 +1,318 @@
 ---
 :title: 4HI
 :transmitters:
+- :band: FM
+  :area: Blair Athol
+  :callsign: 4HI
+  :frequency: 88.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007818
+  :license_number: 1384933
+  :site_id: 17973
+  :site_name: Mine Water Tower BLAIR ATHOL MINE
+  :zone: 55
+  :easting: 555200
+  :northing: 7490300
+  :lat: "-22.6933333333333"
+  :lng: '147.5372222222222'
+  :state: QLD
+  :bsl: 4176
+  :license_area: EMERALD RA1
+  :license_id: 450
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Norwich Park
+  :callsign: 4HI
+  :frequency: 89.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014877
+  :license_number: 1564535
+  :site_id: 18871
+  :site_name: Radio Hill Mine Site NORWICH PARK
+  :zone: 55
+  :easting: 651293
+  :northing: 7487316
+  :lat: "-22.7147222222222"
+  :lng: '148.4730555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Burton Gorge
+  :callsign: 4HI
+  :frequency: 92.1
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 3
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7521001
+  :license_number: 1384875
+  :site_id: 151667
+  :site_name: Broadcast Site North Goonyella Village BURTON GORGE
+  :zone: 55
+  :easting: 616590
+  :northing: 7608703
+  :lat: "-21.6208333333333"
+  :lng: '148.1263888888889'
+  :state: QLD
+  :bsl: 4176
+  :license_area: EMERALD RA1
+  :license_id: 450
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Goonyella
+  :callsign: 4HI
+  :frequency: 93.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007086
+  :license_number: 1139493
+  :site_id: 18792
+  :site_name: Ramp 10 Conveyer South Site GOONYELLA
+  :zone: 55
+  :easting: 600221
+  :northing: 7595990
+  :lat: "-21.7366666666667"
+  :lng: '147.9688888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Eaglefield Coal Mine
+  :callsign: 4HI
+  :frequency: 99.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131077
+  :license_number: 1181012
+  :site_id: 135962
+  :site_name: Eaglefield Coal Mine North Suttor Development Road Via GLENDEN
+  :zone: 55
+  :easting: 598893
+  :northing: 7603113
+  :lat: "-21.6722222222222"
+  :lng: '147.9558333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Rolleston Mine
+  :callsign: 4HI
+  :frequency: 100.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 26
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133122
+  :license_number: 1910394
+  :site_id: 138049
+  :site_name: Security Hut Tower 20 km WNW of Rolleston ROLLESTON MINE
+  :zone: 55
+  :easting: 645150
+  :northing: 7301108
+  :lat: "-24.3963888888889"
+  :lng: '148.4313888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Curragh North Mine
+  :callsign: 4HI
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131074
+  :license_number: 1181369
+  :site_id: 404067
+  :site_name: Curragh North Mine Site BLACKWATER
+  :zone: 55
+  :easting: 692845
+  :northing: 7417691
+  :lat: "-23.3388888888889"
+  :lng: '148.8861111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Clermont
+  :callsign: 4HI
+  :frequency: 102.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 33
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007809
+  :license_number: 1384932
+  :site_id: 17942
+  :site_name: High Level Reservoir Jeffrey St CLERMONT
+  :zone: 55
+  :easting: 564280
+  :northing: 7474040
+  :lat: "-22.84"
+  :lng: '147.6263888888889'
+  :state: QLD
+  :bsl: 4176
+  :license_area: EMERALD RA1
+  :license_id: 450
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Blackwater Mine
+  :callsign: 4HI
+  :frequency: 103.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 17
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008640
+  :license_number: 1153315
+  :site_id: 17321
+  :site_name: Ramp 32 BLACKWATER MINE
+  :zone: 55
+  :easting: 683768
+  :northing: 7374928
+  :lat: "-23.7258333333333"
+  :lng: '148.8025'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Saraji Mine
+  :callsign: 4HI
+  :frequency: 104.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014319
+  :license_number: 1159200
+  :site_id: 18882
+  :site_name: Central Repeater Site SARAJI MINE
+  :zone: 55
+  :easting: 636363
+  :northing: 7513947
+  :lat: "-22.4752777777778"
+  :lng: '148.3252777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Minerva Mine
+  :callsign: 4HI
+  :frequency: 104.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133327
+  :license_number: 1916911
+  :site_id: 404952
+  :site_name: Minerva Coal Mine 20 km N of SPRINGSURE
+  :zone: 55
+  :easting: 607420
+  :northing: 7354515
+  :lat: "-23.9172222222222"
+  :lng: '148.0552777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Peak Downs Mine
+  :callsign: 4HI
+  :frequency: 106.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013175
+  :license_number: 1158572
+  :site_id: 403310
+  :site_name: ROM Site PEAK DOWNS
+  :zone: 55
+  :easting: 621826
+  :northing: 7538208
+  :lat: "-22.2572222222222"
+  :lng: '148.1822222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
 - :band: AM
   :area: Dysart
   :callsign: 4HI
@@ -77,317 +389,5 @@
   :bsl: 4176
   :license_area: EMERALD RA1
   :license_id: 450
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Blackwater Mine
-  :callsign: 4HI
-  :frequency: 103.7
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 17
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10008640
-  :license_number: 1153315
-  :site_id: 17321
-  :site_name: Ramp 32 BLACKWATER MINE
-  :zone: 55
-  :easting: 683768
-  :northing: 7374928
-  :lat: "-23.7258333333333"
-  :lng: '148.8025'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Blair Athol
-  :callsign: 4HI
-  :frequency: 88.1
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10007818
-  :license_number: 1384933
-  :site_id: 17973
-  :site_name: Mine Water Tower BLAIR ATHOL MINE
-  :zone: 55
-  :easting: 555200
-  :northing: 7490300
-  :lat: "-22.6933333333333"
-  :lng: '147.5372222222222'
-  :state: QLD
-  :bsl: 4176
-  :license_area: EMERALD RA1
-  :license_id: 450
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Burton Gorge
-  :callsign: 4HI
-  :frequency: 92.1
-  :purpose: Commercial
-  :polarisation: V
-  :antenna_height: 3
-  :antenna_pattern: OD
-  :maximum_erp: 20
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 7521001
-  :license_number: 1384875
-  :site_id: 151667
-  :site_name: Broadcast Site North Goonyella Village BURTON GORGE
-  :zone: 55
-  :easting: 616590
-  :northing: 7608703
-  :lat: "-21.6208333333333"
-  :lng: '148.1263888888889'
-  :state: QLD
-  :bsl: 4176
-  :license_area: EMERALD RA1
-  :license_id: 450
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Clermont
-  :callsign: 4HI
-  :frequency: 102.1
-  :purpose: Commercial
-  :polarisation: M
-  :antenna_height: 33
-  :antenna_pattern: OD
-  :maximum_erp: 200
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10007809
-  :license_number: 1384932
-  :site_id: 17942
-  :site_name: High Level Reservoir Jeffrey St CLERMONT
-  :zone: 55
-  :easting: 564280
-  :northing: 7474040
-  :lat: "-22.84"
-  :lng: '147.6263888888889'
-  :state: QLD
-  :bsl: 4176
-  :license_area: EMERALD RA1
-  :license_id: 450
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Curragh North Mine
-  :callsign: 4HI
-  :frequency: 100.5
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 30
-  :antenna_pattern: OD
-  :maximum_erp: 500
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1131074
-  :license_number: 1181369
-  :site_id: 404067
-  :site_name: Curragh North Mine Site BLACKWATER
-  :zone: 55
-  :easting: 692845
-  :northing: 7417691
-  :lat: "-23.3388888888889"
-  :lng: '148.8861111111111'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Eaglefield Coal Mine
-  :callsign: 4HI
-  :frequency: 99.1
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 35
-  :antenna_pattern: OD
-  :maximum_erp: 50
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1131077
-  :license_number: 1181012
-  :site_id: 135962
-  :site_name: Eaglefield Coal Mine North Suttor Development Road Via GLENDEN
-  :zone: 55
-  :easting: 598893
-  :northing: 7603113
-  :lat: "-21.6722222222222"
-  :lng: '147.9558333333333'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Goonyella
-  :callsign: 4HI
-  :frequency: 93.7
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 40
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10007086
-  :license_number: 1139493
-  :site_id: 18792
-  :site_name: Ramp 10 Conveyer South Site GOONYELLA
-  :zone: 55
-  :easting: 600221
-  :northing: 7595990
-  :lat: "-21.7366666666667"
-  :lng: '147.9688888888889'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Minerva Mine
-  :callsign: 4HI
-  :frequency: 104.9
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 10
-  :antenna_pattern: OD
-  :maximum_erp: 25
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1133327
-  :license_number: 1916911
-  :site_id: 404952
-  :site_name: Minerva Coal Mine 20 km N of SPRINGSURE
-  :zone: 55
-  :easting: 607420
-  :northing: 7354515
-  :lat: "-23.9172222222222"
-  :lng: '148.0552777777778'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Norwich Park
-  :callsign: 4HI
-  :frequency: 89.3
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 20
-  :antenna_pattern: OD
-  :maximum_erp: 25
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10014877
-  :license_number: 1564535
-  :site_id: 18871
-  :site_name: Radio Hill Mine Site NORWICH PARK
-  :zone: 55
-  :easting: 651293
-  :northing: 7487316
-  :lat: "-22.7147222222222"
-  :lng: '148.4730555555556'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Peak Downs Mine
-  :callsign: 4HI
-  :frequency: 106.9
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 50
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10013175
-  :license_number: 1158572
-  :site_id: 403310
-  :site_name: ROM Site PEAK DOWNS
-  :zone: 55
-  :easting: 621826
-  :northing: 7538208
-  :lat: "-22.2572222222222"
-  :lng: '148.1822222222222'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Rolleston Mine
-  :callsign: 4HI
-  :frequency: 100.1
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 26
-  :antenna_pattern: OD
-  :maximum_erp: 1000
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1133122
-  :license_number: 1910394
-  :site_id: 138049
-  :site_name: Security Hut Tower 20 km WNW of Rolleston ROLLESTON MINE
-  :zone: 55
-  :easting: 645150
-  :northing: 7301108
-  :lat: "-24.3963888888889"
-  :lng: '148.4313888888889'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
-  :operation_hours: 
-  :status: Issued
-- :band: FM
-  :area: Saraji Mine
-  :callsign: 4HI
-  :frequency: 104.1
-  :purpose: Retransmission
-  :polarisation: V
-  :antenna_height: 50
-  :antenna_pattern: OD
-  :maximum_erp: 100
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 10014319
-  :license_number: 1159200
-  :site_id: 18882
-  :site_name: Central Repeater Site SARAJI MINE
-  :zone: 55
-  :easting: 636363
-  :northing: 7513947
-  :lat: "-22.4752777777778"
-  :lng: '148.3252777777778'
-  :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
   :operation_hours: 
   :status: Issued

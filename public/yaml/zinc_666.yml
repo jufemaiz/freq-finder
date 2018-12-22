@@ -1,30 +1,30 @@
 ---
 :title: Zinc 666
 :transmitters:
-- :band: AM
-  :area: Cloncurry
+- :band: FM
+  :area: Lady Annie Mine
   :callsign: 4LM
-  :frequency: 693.0
-  :purpose: Commercial
+  :frequency: 95.7
+  :purpose: Retransmission
   :polarisation: V
-  :antenna_height: 45
+  :antenna_height: 20
   :antenna_pattern: OD
-  :maximum_erp: 0
-  :maximum_cmf: 220
-  :power: 500
-  :technical_specification_number: 10003732
-  :license_number: 1385063
-  :site_id: 20184
-  :site_name: 4LM Site CLONCURRY
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132668
+  :license_number: 1566758
+  :site_id: 137466
+  :site_name: Telstra Tower Admin Bdlg Accommodation Camp LADY ANNIE MINE
   :zone: 54
-  :easting: 447800
-  :northing: 7711200
-  :lat: "-20.6977777777778"
-  :lng: '140.4986111111111'
+  :easting: 301785
+  :northing: 7797650
+  :lat: "-19.9072222222222"
+  :lng: '139.1063888888889'
   :state: QLD
-  :bsl: 10224
-  :license_area: MT ISA RA1
-  :license_id: 453
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
   :operation_hours: 
   :status: Issued
 - :band: AM
@@ -53,29 +53,29 @@
   :license_id: 453
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Lady Annie Mine
+- :band: AM
+  :area: Cloncurry
   :callsign: 4LM
-  :frequency: 95.7
-  :purpose: Retransmission
+  :frequency: 693.0
+  :purpose: Commercial
   :polarisation: V
-  :antenna_height: 20
+  :antenna_height: 45
   :antenna_pattern: OD
-  :maximum_erp: 10
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1132668
-  :license_number: 1566758
-  :site_id: 137466
-  :site_name: Telstra Tower Admin Bdlg Accommodation Camp LADY ANNIE MINE
+  :maximum_erp: 0
+  :maximum_cmf: 220
+  :power: 500
+  :technical_specification_number: 10003732
+  :license_number: 1385063
+  :site_id: 20184
+  :site_name: 4LM Site CLONCURRY
   :zone: 54
-  :easting: 301785
-  :northing: 7797650
-  :lat: "-19.9072222222222"
-  :lng: '139.1063888888889'
+  :easting: 447800
+  :northing: 7711200
+  :lat: "-20.6977777777778"
+  :lng: '140.4986111111111'
   :state: QLD
-  :bsl: 0
-  :license_area: 
-  :license_id: 0
+  :bsl: 10224
+  :license_area: MT ISA RA1
+  :license_id: 453
   :operation_hours: 
   :status: Issued

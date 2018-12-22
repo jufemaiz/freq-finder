@@ -27,29 +27,3 @@
   :license_id: 467
   :operation_hours: 
   :status: Issued
-- :band: FM
-  :area: Melbourne South East Suburbs
-  :callsign: 3SER
-  :frequency: 97.7
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 12
-  :antenna_pattern: OD
-  :maximum_erp: 400
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 5170001
-  :license_number: 1139943
-  :site_id: 41778
-  :site_name: Lot 1 Quarry Road Berwick Tip NARRE WARREN NORTH
-  :zone: 55
-  :easting: 353100
-  :northing: 5792550
-  :lat: "-38.0025"
-  :lng: '145.3266666666667'
-  :state: VIC
-  :bsl: 5170
-  :license_area: MELBOURNE SOUTH EAST SUBURBS RA1
-  :license_id: 467
-  :operation_hours: 
-  :status: Issued

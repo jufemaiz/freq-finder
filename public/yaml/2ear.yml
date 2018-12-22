@@ -2,32 +2,6 @@
 :title: 2EAR
 :transmitters:
 - :band: FM
-  :area: Moruya
-  :callsign: 2EAR
-  :frequency: 107.5
-  :purpose: Community
-  :polarisation: M
-  :antenna_height: 10
-  :antenna_pattern: DA
-  :maximum_erp: 1600
-  :maximum_cmf: 0
-  :power: 0
-  :technical_specification_number: 1772001
-  :license_number: 1385133
-  :site_id: 8979
-  :site_name: Broadcast Site South Site 18 km WSW of Batemans Bay MT WANDERA
-  :zone: 56
-  :easting: 229280
-  :northing: 6034340
-  :lat: "-35.7975"
-  :lng: '150.0041666666667'
-  :state: NSW
-  :bsl: 1772
-  :license_area: MORUYA RA1
-  :license_id: 347
-  :operation_hours: 
-  :status: Issued
-- :band: FM
   :area: Narooma
   :callsign: 2EAR
   :frequency: 102.9
@@ -47,6 +21,32 @@
   :northing: 5989177
   :lat: "-36.2072222222222"
   :lng: '150.1169444444445'
+  :state: NSW
+  :bsl: 1772
+  :license_area: MORUYA RA1
+  :license_id: 347
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Moruya
+  :callsign: 2EAR
+  :frequency: 107.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 1600
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1772001
+  :license_number: 1385133
+  :site_id: 8979
+  :site_name: Broadcast Site South Site 18 km WSW of Batemans Bay MT WANDERA
+  :zone: 56
+  :easting: 229280
+  :northing: 6034340
+  :lat: "-35.7975"
+  :lng: '150.0041666666667'
   :state: NSW
   :bsl: 1772
   :license_area: MORUYA RA1
