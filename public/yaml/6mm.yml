@@ -1,0 +1,29 @@
+---
+:title: 6MM
+:transmitters:
+- :band: AM
+  :area: Mandurah
+  :callsign: 6MM
+  :frequency: 1116.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 73
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 450
+  :power: 2000
+  :technical_specification_number: 10002338
+  :license_number: 1385049
+  :site_id: 150509
+  :site_name: Broadcast Site Lot 334 Greenlands Rd WEST PINJARRA
+  :zone: 50
+  :easting: 387600
+  :northing: 6387700
+  :lat: "-32.6425"
+  :lng: '115.8016666666667'
+  :state: WA
+  :bsl: 10360
+  :license_area: MANDURAH RA1
+  :license_id: 482
+  :operation_hours: 
+  :status: Issued

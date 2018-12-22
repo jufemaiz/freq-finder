@@ -1,0 +1,29 @@
+---
+:title: 6EBA
+:transmitters:
+- :band: FM
+  :area: Perth
+  :callsign: 6EBA
+  :frequency: 95.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 16000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 185001
+  :license_number: 1385207
+  :site_id: 26620
+  :site_name: ABW2 Mast Television Road BICKLEY
+  :zone: 50
+  :easting: 413397
+  :northing: 6457863
+  :lat: "-32.0116666666667"
+  :lng: '116.0827777777778'
+  :state: WA
+  :bsl: 185
+  :license_area: PERTH RA1
+  :license_id: 538
+  :operation_hours: 
+  :status: Issued

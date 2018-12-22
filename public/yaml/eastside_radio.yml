@@ -1,0 +1,29 @@
+---
+:title: Eastside Radio
+:transmitters:
+- :band: FM
+  :area: Waverley (NSW)
+  :callsign: 2RES
+  :frequency: 89.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3056001
+  :license_number: 1385149
+  :site_id: 40562
+  :site_name: Broadcast Site Waverley College Birrell WAVERLEY
+  :zone: 56
+  :easting: 338600
+  :northing: 6247700
+  :lat: "-33.8986111111111"
+  :lng: '151.2541666666667'
+  :state: NSW
+  :bsl: 3056
+  :license_area: WAVERLEY RA1
+  :license_id: 402
+  :operation_hours: 
+  :status: Issued

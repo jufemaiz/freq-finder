@@ -1,0 +1,83 @@
+---
+:title: 5YYY
+:transmitters:
+- :band: FM
+  :area: Golden Grove Mine (WA)
+  :callsign: 6 SAT
+  :frequency: 101.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133863
+  :license_number: 1926775
+  :site_id: 139393
+  :site_name: Broadcast Mast Golden Grove Mine Accommodation Village GOLDEN GROVE
+    MINE
+  :zone: 50
+  :easting: 493766
+  :northing: 6815721
+  :lat: "-28.7858333333333"
+  :lng: '116.9361111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Golden Grove Mine (WA)
+  :callsign: 6 JJJ
+  :frequency: 103.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133856
+  :license_number: 1926776
+  :site_id: 139393
+  :site_name: Broadcast Mast Golden Grove Mine Accommodation Village GOLDEN GROVE
+    MINE
+  :zone: 50
+  :easting: 493766
+  :northing: 6815721
+  :lat: "-28.7858333333333"
+  :lng: '116.9361111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Whyalla
+  :callsign: 5YYY
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1099001
+  :license_number: 1385205
+  :site_id: 44203
+  :site_name: BHP Freestanding Tower Mt Laura WHYALLA
+  :zone: 53
+  :easting: 735715
+  :northing: 6346005
+  :lat: "-32.9988888888889"
+  :lng: '137.5227777777778'
+  :state: SA
+  :bsl: 1099
+  :license_area: WHYALLA RA1
+  :license_id: 338
+  :operation_hours: 
+  :status: Issued

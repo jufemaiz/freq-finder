@@ -1,0 +1,29 @@
+---
+:title: Rim FM
+:transmitters:
+- :band: FM
+  :area: Boonah
+  :callsign: 4RIM
+  :frequency: 100.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010274
+  :license_number: 1170793
+  :site_id: 14263
+  :site_name: Telstra Site Foxs Hill Greenhills Rd BOONAH
+  :zone: 56
+  :easting: 473290
+  :northing: 6899098
+  :lat: "-28.0327777777778"
+  :lng: '152.7280555555556'
+  :state: QLD
+  :bsl: 1150749
+  :license_area: BOONAH RA1
+  :license_id: 1037
+  :operation_hours: 
+  :status: Issued

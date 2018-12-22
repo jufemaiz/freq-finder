@@ -1,0 +1,29 @@
+---
+:title: FM 103.3
+:transmitters:
+- :band: FM
+  :area: Goulburn (town)
+  :callsign: 2GCR
+  :frequency: 103.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 11
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3113001
+  :license_number: 1385135
+  :site_id: 150368
+  :site_name: Broadcast Site Civic Centre Bourke St. GOULBURN
+  :zone: 55
+  :easting: 748700
+  :northing: 6151300
+  :lat: "-34.75"
+  :lng: '149.7166666666667'
+  :state: NSW
+  :bsl: 3113
+  :license_area: GOULBURN RA2
+  :license_id: 419
+  :operation_hours: 
+  :status: Issued

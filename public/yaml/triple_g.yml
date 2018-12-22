@@ -1,0 +1,29 @@
+---
+:title: Triple G
+:transmitters:
+- :band: FM
+  :area: Gunnedah
+  :callsign: 2GGG
+  :frequency: 97.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004785
+  :license_number: 1152597
+  :site_id: 35653
+  :site_name: TV Tower MOUNT DOWE
+  :zone: 56
+  :easting: 227432
+  :northing: 6646103
+  :lat: "-30.2861111111111"
+  :lng: '150.1663888888889'
+  :state: NSW
+  :bsl: 10317
+  :license_area: GUNNEDAH RA1
+  :license_id: 376
+  :operation_hours: 
+  :status: Issued

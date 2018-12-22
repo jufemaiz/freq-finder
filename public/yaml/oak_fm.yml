@@ -1,0 +1,29 @@
+---
+:title: OAK FM
+:transmitters:
+- :band: FM
+  :area: Wangaratta
+  :callsign: 3WPR
+  :frequency: 101.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005800
+  :license_number: 1154755
+  :site_id: 12002
+  :site_name: Allcom Site 14.5 km SE of Beechworth MT STANLEY
+  :zone: 55
+  :easting: 482245
+  :northing: 5966505
+  :lat: "-36.4463888888889"
+  :lng: '146.8016666666667'
+  :state: VIC
+  :bsl: 10382
+  :license_area: WANGARATTA RA2
+  :license_id: 658
+  :operation_hours: 
+  :status: Issued

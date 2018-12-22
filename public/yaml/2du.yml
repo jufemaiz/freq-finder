@@ -1,0 +1,55 @@
+---
+:title: 2DU
+:transmitters:
+- :band: AM
+  :area: Cobar
+  :callsign: 2DU
+  :frequency: 972.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 175
+  :power: 300
+  :technical_specification_number: 10004319
+  :license_number: 1385044
+  :site_id: 11141
+  :site_name: Broadcast Site 2 km South of COBAR
+  :zone: 55
+  :easting: 389400
+  :northing: 6512500
+  :lat: "-31.5169444444444"
+  :lng: '145.835'
+  :state: NSW
+  :bsl: 10249
+  :license_area: DUBBO RA1
+  :license_id: 366
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Dubbo
+  :callsign: 2DU
+  :frequency: 1251.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 90
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 605
+  :power: 2000
+  :technical_specification_number: 10004229
+  :license_number: 1385043
+  :site_id: 10941
+  :site_name: Broadcast Site 6 km ESE of Dubbo EULOMOGO
+  :zone: 55
+  :easting: 657806
+  :northing: 6428114
+  :lat: "-32.2725"
+  :lng: '148.6755555555556'
+  :state: NSW
+  :bsl: 10249
+  :license_area: DUBBO RA1
+  :license_id: 366
+  :operation_hours: 
+  :status: Issued

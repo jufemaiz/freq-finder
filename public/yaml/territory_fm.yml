@@ -1,0 +1,29 @@
+---
+:title: Territory FM
+:transmitters:
+- :band: FM
+  :area: Cook Oil Facility
+  :callsign: ABCRR
+  :frequency: 105.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133117
+  :license_number: 1911314
+  :site_id: 138229
+  :site_name: Comms Tower Cook Oil Facility 95 km NNW of BALLERA
+  :zone: 54
+  :easting: 528547
+  :northing: 7047105
+  :lat: "-26.6966666666667"
+  :lng: '141.2869444444444'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

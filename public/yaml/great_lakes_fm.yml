@@ -1,0 +1,29 @@
+---
+:title: Great Lakes FM
+:transmitters:
+- :band: FM
+  :area: Forster
+  :callsign: 2GLA
+  :frequency: 101.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1583001
+  :license_number: 1385136
+  :site_id: 7463
+  :site_name: 2GLA FM Broadcast Station Cabbage Tree Mountain via BULAHDELAH
+  :zone: 56
+  :easting: 417050
+  :northing: 6430505
+  :lat: "-32.2588888888889"
+  :lng: '152.1194444444445'
+  :state: NSW
+  :bsl: 1583
+  :license_area: FORSTER RA1
+  :license_id: 342
+  :operation_hours: 
+  :status: Issued

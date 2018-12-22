@@ -1,0 +1,81 @@
+---
+:title: '92.9'
+:transmitters:
+- :band: FM
+  :area: Perth
+  :callsign: 6PPM
+  :frequency: 92.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 105
+  :antenna_pattern: DA
+  :maximum_erp: 40000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4200001
+  :license_number: 1384852
+  :site_id: 26627
+  :site_name: FM Site Tvw7 Lease Television Road BICKLEY
+  :zone: 50
+  :easting: 413340
+  :northing: 6458261
+  :lat: "-32.0080555555556"
+  :lng: '116.0822222222222'
+  :state: WA
+  :bsl: 4200
+  :license_area: PERTH RA1
+  :license_id: 538
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tamworth
+  :callsign: 2TTT
+  :frequency: 92.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 46
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4865001
+  :license_number: 1384836
+  :site_id: 6532
+  :site_name: 2TM Tower Soma Mountain Near WERRIS CREEK
+  :zone: 56
+  :easting: 285822
+  :northing: 6532419
+  :lat: "-31.3227777777778"
+  :lng: '150.7488888888889'
+  :state: NSW
+  :bsl: 4865
+  :license_area: TAMWORTH RA1
+  :license_id: 385
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Toowoomba
+  :callsign: 4GOD
+  :frequency: 92.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008129
+  :license_number: 1170524
+  :site_id: 130214
+  :site_name: Optus/Comtel Site 82 Volker St Darling Heights TOOWOOMBA
+  :zone: 56
+  :easting: 393737
+  :northing: 6945298
+  :lat: "-27.6119444444444"
+  :lng: '151.9230555555556'
+  :state: QLD
+  :bsl: 1150095
+  :license_area: TOOWOOMBA RA2
+  :license_id: 412
+  :operation_hours: 
+  :status: Issued

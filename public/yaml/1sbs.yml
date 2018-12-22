@@ -1,0 +1,29 @@
+---
+:title: 1SBS
+:transmitters:
+- :band: AM
+  :area: Canberra
+  :callsign: 1SBS
+  :frequency: 1440.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 2213001
+  :license_number: 1144546
+  :site_id: 150980
+  :site_name: Broadcast Site Barton Hwy GUNGAHLIN
+  :zone: 55
+  :easting: 693179
+  :northing: 6100570
+  :lat: "-35.2191666666667"
+  :lng: '149.1222222222222'
+  :state: ACT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

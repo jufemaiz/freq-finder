@@ -1,0 +1,29 @@
+---
+:title: Good News Radio
+:transmitters:
+- :band: FM
+  :area: Ballarat (Warrenheip)
+  :callsign: 3BGR
+  :frequency: 103.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003798
+  :license_number: 1154113
+  :site_id: 11727
+  :site_name: Datafast Tower 9 km E of Ballarat MT WARRENHEIP
+  :zone: 54
+  :easting: 761045
+  :northing: 5836860
+  :lat: "-37.5780555555556"
+  :lng: '143.9558333333333'
+  :state: VIC
+  :bsl: 10285
+  :license_area: BALLARAT RA2
+  :license_id: 345
+  :operation_hours: 
+  :status: Issued

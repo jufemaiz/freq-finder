@@ -1,0 +1,55 @@
+---
+:title: ABC Mildura Swan Hill
+:transmitters:
+- :band: FM
+  :area: Mildura/Sunraysia
+  :callsign: 3MIL
+  :frequency: 104.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 129
+  :antenna_pattern: DA
+  :maximum_erp: 200000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002412
+  :license_number: 1150236
+  :site_id: 11763
+  :site_name: Broadcasting site 2 km S of railway siding YATPOOL
+  :zone: 54
+  :easting: 609130
+  :northing: 6194930
+  :lat: "-34.3811111111111"
+  :lng: '142.1869444444444'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Murray Valley
+  :callsign: 3MIL
+  :frequency: 102.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 101
+  :antenna_pattern: DA
+  :maximum_erp: 200000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005796
+  :license_number: 1150233
+  :site_id: 11885
+  :site_name: Broadcast Mast Television Site Ultima-Lake Boga Rd GOSCHEN
+  :zone: 54
+  :easting: 722700
+  :northing: 6071500
+  :lat: "-35.4747222222222"
+  :lng: '143.4544444444444'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

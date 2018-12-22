@@ -1,0 +1,29 @@
+---
+:title: ultra106five
+:transmitters:
+- :band: FM
+  :area: Hobart
+  :callsign: 7HFC
+  :frequency: 106.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 101
+  :antenna_pattern: OD
+  :maximum_erp: 36000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010799
+  :license_number: 1158770
+  :site_id: 32830
+  :site_name: NTA Tower MT WELLINGTON
+  :zone: 55
+  :easting: 519185
+  :northing: 5250351
+  :lat: "-42.8991666666667"
+  :lng: '147.235'
+  :state: TAS
+  :bsl: 3080
+  :license_area: HOBART RA1
+  :license_id: 520
+  :operation_hours: 
+  :status: Renewal Pending

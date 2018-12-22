@@ -1,0 +1,81 @@
+---
+:title: 3RPP
+:transmitters:
+- :band: FM
+  :area: Frankston
+  :callsign: 3RPP
+  :frequency: 98.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009573
+  :license_number: 1156105
+  :site_id: 152988
+  :site_name: Broadcast Site Somerset cnr Overport Rd Overport Park FRANKSTON
+  :zone: 55
+  :easting: 335300
+  :northing: 5772400
+  :lat: "-38.1811111111111"
+  :lng: '145.1194444444445'
+  :state: VIC
+  :bsl: 1969
+  :license_area: MORNINGTON RA1
+  :license_id: 354
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mornington
+  :callsign: 3RPP
+  :frequency: 98.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 790
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1969001
+  :license_number: 1385177
+  :site_id: 12127
+  :site_name: RPP Site Pindara Rd ARTHURS SEAT
+  :zone: 55
+  :easting: 320900
+  :northing: 5752510
+  :lat: "-38.3575"
+  :lng: '144.95'
+  :state: VIC
+  :bsl: 1969
+  :license_area: MORNINGTON RA1
+  :license_id: 354
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mornington
+  :callsign: 3RPP
+  :frequency: 98.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 800
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1969001
+  :license_number: 1385177
+  :site_id: 12127
+  :site_name: RPP Site Pindara Rd ARTHURS SEAT
+  :zone: 55
+  :easting: 320900
+  :northing: 5752510
+  :lat: "-38.3575"
+  :lng: '144.95'
+  :state: VIC
+  :bsl: 1969
+  :license_area: MORNINGTON RA1
+  :license_id: 354
+  :operation_hours: 
+  :status: Issued

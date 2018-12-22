@@ -1,0 +1,81 @@
+---
+:title: ABC Wide Bay
+:transmitters:
+- :band: AM
+  :area: Eidsvold
+  :callsign: 4QO
+  :frequency: 855.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 137
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1200
+  :power: 10000
+  :technical_specification_number: 4043001
+  :license_number: 1198664
+  :site_id: 151526
+  :site_name: 4QO AM Tx Site EIDSVOLD
+  :zone: 56
+  :easting: 311011
+  :northing: 7188379
+  :lat: "-25.4094444444444"
+  :lng: '151.1211111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Gympie
+  :callsign: 4GM
+  :frequency: 1566.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 37
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 140
+  :power: 200
+  :technical_specification_number: 4033001
+  :license_number: 1198671
+  :site_id: 16179
+  :site_name: Broadcast Site 3 km SE of GYMPIE
+  :zone: 56
+  :easting: 468800
+  :northing: 7100800
+  :lat: "-26.2116666666667"
+  :lng: '152.6875'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Pialba
+  :callsign: 4QB
+  :frequency: 855.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 150
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1785
+  :power: 10000
+  :technical_specification_number: 4039001
+  :license_number: 1150339
+  :site_id: 153631
+  :site_name: Broadcast Site Sorrensons Road DUNDOWRAN
+  :zone: 56
+  :easting: 478459
+  :northing: 7201396
+  :lat: "-25.3036111111111"
+  :lng: '152.7861111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

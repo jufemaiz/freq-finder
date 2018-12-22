@@ -1,0 +1,29 @@
+---
+:title: FM 99.3
+:transmitters:
+- :band: FM
+  :area: Chatswood
+  :callsign: 2NSB
+  :frequency: 99.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 95
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008273
+  :license_number: 1156203
+  :site_id: 53468
+  :site_name: Broadcast Site Victor St CHATSWOOD
+  :zone: 56
+  :easting: 331625
+  :northing: 6258630
+  :lat: "-33.7988888888889"
+  :lng: '151.1811111111111'
+  :state: NSW
+  :bsl: 3052
+  :license_area: CHATSWOOD RA1
+  :license_id: 398
+  :operation_hours: 
+  :status: Issued

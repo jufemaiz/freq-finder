@@ -1,0 +1,29 @@
+---
+:title: 5CC
+:transmitters:
+- :band: AM
+  :area: Port Lincoln
+  :callsign: 5CC
+  :frequency: 765.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 80
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 950
+  :power: 5000
+  :technical_specification_number: 1639001
+  :license_number: 1384969
+  :site_id: 24879
+  :site_name: Broadcast Site 18 km NNE of TUMBY BAY
+  :zone: 53
+  :easting: 610700
+  :northing: 6210600
+  :lat: "-34.2394444444444"
+  :lng: '136.2019444444444'
+  :state: SA
+  :bsl: 1639
+  :license_area: PORT LINCOLN RA1
+  :license_id: 469
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: KOFM
+:transmitters:
+- :band: FM
+  :area: Newcastle
+  :callsign: 2KKO
+  :frequency: 102.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 85
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4117001
+  :license_number: 1384876
+  :site_id: 5833
+  :site_name: Broadcast Site Sugarloaf Range NEWCASTLE
+  :zone: 56
+  :easting: 363200
+  :northing: 6359800
+  :lat: "-32.8911111111111"
+  :lng: '151.5372222222222'
+  :state: NSW
+  :bsl: 4117
+  :license_area: NEWCASTLE RA1
+  :license_id: 534
+  :operation_hours: 
+  :status: Issued

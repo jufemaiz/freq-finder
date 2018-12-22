@@ -1,0 +1,55 @@
+---
+:title: 1071 AM
+:transmitters:
+- :band: AM
+  :area: Kingaroy
+  :callsign: 4SB
+  :frequency: 1071.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 61
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 4183001
+  :license_number: 1384979
+  :site_id: 16320
+  :site_name: Broadcast Site 9.5km South of Wondai WOOROOLIN
+  :zone: 56
+  :easting: 382900
+  :northing: 7079300
+  :lat: "-26.4013888888889"
+  :lng: '151.8258333333333'
+  :state: QLD
+  :bsl: 4183
+  :license_area: KINGAROY RA1
+  :license_id: 457
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tarong Coal Mine
+  :callsign: 4SB
+  :frequency: 92.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008156
+  :license_number: 1153458
+  :site_id: 16377
+  :site_name: Mine Site TARONG
+  :zone: 56
+  :easting: 391550
+  :northing: 7034790
+  :lat: "-26.8041666666667"
+  :lng: '151.9088888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: 2MCE
+:transmitters:
+- :band: FM
+  :area: Bathurst (City)
+  :callsign: 2MCE
+  :frequency: 92.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001818
+  :license_number: 1385139
+  :site_id: 10611
+  :site_name: SBS Compound/Vertel Trunking Site Reid Park MT PANORAMA
+  :zone: 55
+  :easting: 736688
+  :northing: 6295716
+  :lat: "-33.4516666666667"
+  :lng: '149.5463888888889'
+  :state: NSW
+  :bsl: 10281
+  :license_area: BATHURST RA2
+  :license_id: 418
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Orange
+  :callsign: 2MCE
+  :frequency: 94.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004545
+  :license_number: 1385218
+  :site_id: 39013
+  :site_name: Broadcast Site MT CANOBOLAS
+  :zone: 55
+  :easting: 684400
+  :northing: 6308900
+  :lat: "-33.3430555555556"
+  :lng: '148.9813888888889'
+  :state: NSW
+  :bsl: 10281
+  :license_area: BATHURST RA2
+  :license_id: 418
+  :operation_hours: 
+  :status: Issued

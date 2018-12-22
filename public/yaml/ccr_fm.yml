@@ -1,0 +1,29 @@
+---
+:title: CCR FM
+:transmitters:
+- :band: FM
+  :area: Ceduna/Smoky Bay
+  :callsign: 5CCR
+  :frequency: 94.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003574
+  :license_number: 1152465
+  :site_id: 152820
+  :site_name: Broadcast Site CEDUNA AIRPORT
+  :zone: 53
+  :easting: 377394
+  :northing: 6444886
+  :lat: "-32.1255555555556"
+  :lng: '133.7'
+  :state: SA
+  :bsl: 10151
+  :license_area: CEDUNA RA2
+  :license_id: 509
+  :operation_hours: 
+  :status: Issued

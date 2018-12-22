@@ -1,0 +1,29 @@
+---
+:title: Heritage FM
+:transmitters:
+- :band: FM
+  :area: Armadale
+  :callsign: 6HFM
+  :frequency: 107.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010711
+  :license_number: 1170805
+  :site_id: 152646
+  :site_name: Mills Road GOSNELLS
+  :zone: 50
+  :easting: 408791
+  :northing: 6448788
+  :lat: "-32.0933333333333"
+  :lng: '116.0333333333333'
+  :state: WA
+  :bsl: 1150745
+  :license_area: ARMADALE RA1
+  :license_id: 791
+  :operation_hours: 
+  :status: Issued

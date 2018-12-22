@@ -1,0 +1,55 @@
+---
+:title: Radio 531
+:transmitters:
+- :band: AM
+  :area: Kempsey
+  :callsign: 2PM
+  :frequency: 531.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 140
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1085
+  :power: 5000
+  :technical_specification_number: 4121001
+  :license_number: 1384977
+  :site_id: 151292
+  :site_name: Broadcast Site 2 km S of KEMPSEY
+  :zone: 56
+  :easting: 483998
+  :northing: 6558394
+  :lat: "-31.1080555555556"
+  :lng: '152.8319444444445'
+  :state: NSW
+  :bsl: 4121
+  :license_area: KEMPSEY RA1
+  :license_id: 374
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Port Macquarie
+  :callsign: 2PM
+  :frequency: 93.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008375
+  :license_number: 1182706
+  :site_id: 280165
+  :site_name: Vodafone Site 24 km WNW of Port Macquarie MT CAIRNCROSS
+  :zone: 56
+  :easting: 469685
+  :northing: 6532362
+  :lat: "-31.3425"
+  :lng: '152.6811111111111'
+  :state: NSW
+  :bsl: 4121
+  :license_area: KEMPSEY RA1
+  :license_id: 374
+  :operation_hours: 
+  :status: Issued

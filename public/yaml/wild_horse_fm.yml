@@ -1,0 +1,29 @@
+---
+:title: Wild Horse FM
+:transmitters:
+- :band: FM
+  :area: Yarraman
+  :callsign: 4WHO
+  :frequency: 99.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133682
+  :license_number: 1170990
+  :site_id: 139351
+  :site_name: Broadcast Site 12090 Daguilar Hwy Yarraman
+  :zone: 56
+  :easting: 398569
+  :northing: 7031558
+  :lat: "-26.8336111111111"
+  :lng: '151.9791666666667'
+  :state: QLD
+  :bsl: 1130140
+  :license_area: YARRAMAN DRAFT RA1
+  :license_id: 1371
+  :operation_hours: 
+  :status: Issued

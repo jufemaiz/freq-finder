@@ -1,0 +1,29 @@
+---
+:title: Crow FM
+:transmitters:
+- :band: FM
+  :area: Wondai
+  :callsign: 4CSB
+  :frequency: 90.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008135
+  :license_number: 1170201
+  :site_id: 400413
+  :site_name: Wondai Shire Council Site CUSHNIE HILL
+  :zone: 56
+  :easting: 376650
+  :northing: 7086500
+  :lat: "-26.3361111111111"
+  :lng: '151.7638888888889'
+  :state: QLD
+  :bsl: 1150097
+  :license_area: WONDAI RA1
+  :license_id: 700
+  :operation_hours: 
+  :status: Issued

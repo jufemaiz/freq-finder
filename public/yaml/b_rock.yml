@@ -1,0 +1,55 @@
+---
+:title: B-Rock
+:transmitters:
+- :band: FM
+  :area: Bathurst
+  :callsign: 2BXS
+  :frequency: 99.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001355
+  :license_number: 1151398
+  :site_id: 150418
+  :site_name: Broadcast Site OVENS RANGES
+  :zone: 55
+  :easting: 760758
+  :northing: 6297185
+  :lat: "-33.4327777777778"
+  :lng: '149.8044444444445'
+  :state: NSW
+  :bsl: 10276
+  :license_area: BATHURST RA1
+  :license_id: 364
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bathurst
+  :callsign: 2BXS
+  :frequency: 99.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001355
+  :license_number: 1151413
+  :site_id: 41077
+  :site_name: Broadcast Site 109 George St BATHURST
+  :zone: 55
+  :easting: 739900
+  :northing: 6299500
+  :lat: "-33.4169444444444"
+  :lng: '149.5797222222222'
+  :state: NSW
+  :bsl: 10276
+  :license_area: BATHURST RA1
+  :license_id: 364
+  :operation_hours: 
+  :status: Issued

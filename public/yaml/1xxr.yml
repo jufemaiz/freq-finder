@@ -1,0 +1,29 @@
+---
+:title: 1XXR
+:transmitters:
+- :band: FM
+  :area: Canberra
+  :callsign: 1XXR
+  :frequency: 98.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 147
+  :antenna_pattern: OD
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008251
+  :license_number: 1155601
+  :site_id: 9580
+  :site_name: Telecom Tower BLACK MOUNTAIN
+  :zone: 55
+  :easting: 690683
+  :northing: 6094201
+  :lat: "-35.2769444444444"
+  :lng: '149.0963888888889'
+  :state: ACT
+  :bsl: 4226
+  :license_area: CANBERRA RA1
+  :license_id: 508
+  :operation_hours: 
+  :status: Issued

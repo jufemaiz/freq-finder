@@ -1,0 +1,29 @@
+---
+:title: Triple T
+:transmitters:
+- :band: FM
+  :area: Townsville
+  :callsign: 4TTT
+  :frequency: 103.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 150
+  :antenna_pattern: OD
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3072001
+  :license_number: 1385194
+  :site_id: 19489
+  :site_name: 4TTT Site MT STUART
+  :zone: 55
+  :easting: 476800
+  :northing: 7860970
+  :lat: "-19.345"
+  :lng: '146.7791666666667'
+  :state: QLD
+  :bsl: 3072
+  :license_area: TOWNSVILLE RA3
+  :license_id: 663
+  :operation_hours: 
+  :status: Issued

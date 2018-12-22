@@ -1,0 +1,81 @@
+---
+:title: 6iX
+:transmitters:
+- :band: AM
+  :area: Perth
+  :callsign: 6IX
+  :frequency: 1080.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 79
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 450
+  :power: 2000
+  :technical_specification_number: 4198001
+  :license_number: 1384975
+  :site_id: 26800
+  :site_name: Broadcast Site Crake St ASCOT WATERS
+  :zone: 50
+  :easting: 397300
+  :northing: 6466100
+  :lat: "-31.9361111111111"
+  :lng: '115.9133333333334'
+  :state: WA
+  :bsl: 4198
+  :license_area: PERTH RA1
+  :license_id: 538
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Rockingham
+  :callsign: 6IX
+  :frequency: 105.7
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 90
+  :antenna_pattern: DA
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010930
+  :license_number: 1158943
+  :site_id: 27363
+  :site_name: CBH Grain Terminal Rockingham Road ROCKINGHAM
+  :zone: 50
+  :easting: 382280
+  :northing: 6429900
+  :lat: "-32.2613888888889"
+  :lng: '115.7502777777778'
+  :state: WA
+  :bsl: 4198
+  :license_area: PERTH RA1
+  :license_id: 538
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Wanneroo
+  :callsign: 6IX
+  :frequency: 105.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131423
+  :license_number: 1186424
+  :site_id: 26566
+  :site_name: Doss Site High Road WANNEROO
+  :zone: 50
+  :easting: 387734
+  :northing: 6485830
+  :lat: "-31.7575"
+  :lng: '115.8147222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

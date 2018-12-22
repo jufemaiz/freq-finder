@@ -1,0 +1,29 @@
+---
+:title: ABC South Coast
+:transmitters:
+- :band: AM
+  :area: Albany
+  :callsign: 6AL
+  :frequency: 630.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 86
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 700
+  :power: 5000
+  :technical_specification_number: 10002330
+  :license_number: 1198477
+  :site_id: 28446
+  :site_name: Gledhow Rd South ALBANY
+  :zone: 50
+  :easting: 574800
+  :northing: 6125300
+  :lat: "-35.0119444444444"
+  :lng: '117.8197222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

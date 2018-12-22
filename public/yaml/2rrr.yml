@@ -1,0 +1,29 @@
+---
+:title: 2RRR
+:transmitters:
+- :band: FM
+  :area: Ryde
+  :callsign: 2RRR
+  :frequency: 88.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3057001
+  :license_number: 1385150
+  :site_id: 4429
+  :site_name: Goulding Road Trig Point NORTH RYDE
+  :zone: 56
+  :easting: 325440
+  :northing: 6258130
+  :lat: "-33.8025"
+  :lng: '151.1141666666667'
+  :state: NSW
+  :bsl: 3057
+  :license_area: RYDE RA1
+  :license_id: 403
+  :operation_hours: 
+  :status: Issued

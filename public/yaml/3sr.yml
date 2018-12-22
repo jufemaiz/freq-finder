@@ -1,0 +1,55 @@
+---
+:title: 3SR
+:transmitters:
+- :band: FM
+  :area: Mount Buller
+  :callsign: 3SRR
+  :frequency: 91.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: DA
+  :maximum_erp: 1200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013266
+  :license_number: 1159432
+  :site_id: 11978
+  :site_name: Telstra Tower MT BULLER
+  :zone: 55
+  :easting: 450140
+  :northing: 5889120
+  :lat: "-37.1427777777778"
+  :lng: '146.4383333333333'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Shepparton
+  :callsign: 3SRR
+  :frequency: 95.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 80
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005713
+  :license_number: 1154946
+  :site_id: 150894
+  :site_name: Broadcast Site 27 km E of Shepparton MOUNT MAJOR
+  :zone: 55
+  :easting: 383039
+  :northing: 5974908
+  :lat: "-36.3636111111111"
+  :lng: '145.6961111111111'
+  :state: VIC
+  :bsl: 10390
+  :license_area: SHEPPARTON RA1
+  :license_id: 541
+  :operation_hours: 
+  :status: Issued

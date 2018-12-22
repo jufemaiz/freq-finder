@@ -1,0 +1,55 @@
+---
+:title: 2GZ
+:transmitters:
+- :band: FM
+  :area: Cadia Mine Site
+  :callsign: 2OAG
+  :frequency: 90.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132741
+  :license_number: 1568130
+  :site_id: 203459
+  :site_name: Main Comms Hut Cadia Minesite CADIA
+  :zone: 55
+  :easting: 684511
+  :northing: 6296218
+  :lat: "-33.4575"
+  :lng: '148.9852777777778'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Orange
+  :callsign: 2OAG
+  :frequency: 105.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001552
+  :license_number: 1170026
+  :site_id: 35066
+  :site_name: Broadcast Site MT CANOBOLAS
+  :zone: 55
+  :easting: 684425
+  :northing: 6308875
+  :lat: "-33.3433333333333"
+  :lng: '148.9816666666667'
+  :state: NSW
+  :bsl: 10277
+  :license_area: ORANGE RA1
+  :license_id: 370
+  :operation_hours: 
+  :status: Issued

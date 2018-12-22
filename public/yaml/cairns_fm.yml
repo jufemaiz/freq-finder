@@ -1,0 +1,29 @@
+---
+:title: Cairns FM
+:transmitters:
+- :band: FM
+  :area: Cairns (Mt Yarrabah)
+  :callsign: 4CCR
+  :frequency: 89.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007329
+  :license_number: 1385189
+  :site_id: 150047
+  :site_name: Broadcast Site MT YARRABAH
+  :zone: 55
+  :easting: 376600
+  :northing: 8130400
+  :lat: "-16.9066666666667"
+  :lng: '145.8411111111111'
+  :state: QLD
+  :bsl: 1883
+  :license_area: CAIRNS RA2
+  :license_id: 350
+  :operation_hours: 
+  :status: Issued

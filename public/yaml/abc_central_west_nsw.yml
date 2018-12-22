@@ -1,0 +1,81 @@
+---
+:title: ABC Central West NSW
+:transmitters:
+- :band: AM
+  :area: Cumnock
+  :callsign: 2CR
+  :frequency: 549.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 198
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 2900
+  :power: 50000
+  :technical_specification_number: 10004201
+  :license_number: 1198567
+  :site_id: 151166
+  :site_name: Broadcast Site CUMNOCK
+  :zone: 55
+  :easting: 659896
+  :northing: 6354575
+  :lat: "-32.9352777777778"
+  :lng: '148.7102777777778'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Lithgow (City)
+  :callsign: 2LG
+  :frequency: 1395.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 37
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 140
+  :power: 200
+  :technical_specification_number: 10004206
+  :license_number: 1198581
+  :site_id: 151130
+  :site_name: MF Broadcast Site near Bracys Lookout LITHGOW
+  :zone: 56
+  :easting: 236102
+  :northing: 6290799
+  :lat: "-33.4894444444444"
+  :lng: '150.1594444444445'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Portland/Wallerawang
+  :callsign: 2CR
+  :frequency: 94.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004543
+  :license_number: 1198607
+  :site_id: 10579
+  :site_name: North East Lattice Tower Broadcast Site GARLANDS HILL
+  :zone: 55
+  :easting: 774018
+  :northing: 6299731
+  :lat: "-33.4066666666667"
+  :lng: '149.9461111111111'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

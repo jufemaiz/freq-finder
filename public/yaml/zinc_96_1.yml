@@ -1,0 +1,55 @@
+---
+:title: Zinc 96.1
+:transmitters:
+- :band: FM
+  :area: Gympie
+  :callsign: 4NNN
+  :frequency: 96.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004976
+  :license_number: 1152110
+  :site_id: 150339
+  :site_name: Broadcast Site MT WOLVI
+  :zone: 56
+  :easting: 486048
+  :northing: 7103574
+  :lat: "-26.1872222222222"
+  :lng: '152.8602777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Noosa/Tewantin
+  :callsign: 4NNN
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 48
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130996
+  :license_number: 1149278
+  :site_id: 51085
+  :site_name: Optus Vodafone Site Panorama Dr DOONAN
+  :zone: 56
+  :easting: 497871
+  :northing: 7073599
+  :lat: "-26.4577777777778"
+  :lng: '152.9786111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: Radio 639
+:transmitters:
+- :band: AM
+  :area: Coffs Harbour
+  :callsign: 2HC
+  :frequency: 639.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 170
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1265
+  :power: 5000
+  :technical_specification_number: 1759001
+  :license_number: 1384986
+  :site_id: 8014
+  :site_name: Broadcast Site 3 km N of Urunga RALEIGH
+  :zone: 56
+  :easting: 503000
+  :northing: 6628900
+  :lat: "-30.4719444444444"
+  :lng: '153.0311111111111'
+  :state: NSW
+  :bsl: 1759
+  :license_area: COFFS HARBOUR RA1
+  :license_id: 365
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Woolgoolga
+  :callsign: 2HC
+  :frequency: 100.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133375
+  :license_number: 1920978
+  :site_id: 280107
+  :site_name: Vodafone site 43a Saye Place EMERALD HEIGHTS
+  :zone: 56
+  :easting: 517520
+  :northing: 6663620
+  :lat: "-30.1583333333333"
+  :lng: '153.1816666666667'
+  :state: NSW
+  :bsl: 1759
+  :license_area: COFFS HARBOUR RA1
+  :license_id: 365
+  :operation_hours: 
+  :status: Issued

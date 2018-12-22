@@ -1,0 +1,29 @@
+---
+:title: 3GG
+:transmitters:
+- :band: AM
+  :area: Warragul
+  :callsign: 3GG
+  :frequency: 531.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 85
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1000
+  :power: 5000
+  :technical_specification_number: 4158001
+  :license_number: 1384962
+  :site_id: 40534
+  :site_name: Broadcast Site WARRAGUL
+  :zone: 55
+  :easting: 405699
+  :northing: 5781885
+  :lat: "-38.1055555555556"
+  :lng: '145.9241666666667'
+  :state: VIC
+  :bsl: 4158
+  :license_area: WARRAGUL RA1
+  :license_id: 433
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: 1WAY
+:transmitters:
+- :band: FM
+  :area: Canberra
+  :callsign: 1WAY
+  :frequency: 91.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 147
+  :antenna_pattern: OD
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008253
+  :license_number: 1170310
+  :site_id: 9580
+  :site_name: Telecom Tower BLACK MOUNTAIN
+  :zone: 55
+  :easting: 690683
+  :northing: 6094201
+  :lat: "-35.2769444444444"
+  :lng: '149.0963888888889'
+  :state: ACT
+  :bsl: 1150191
+  :license_area: CANBERRA RA1
+  :license_id: 508
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tuggeranong
+  :callsign: 1WAY
+  :frequency: 94.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012794
+  :license_number: 1159374
+  :site_id: 9621
+  :site_name: Electronic Services/Philips Site ISAACS RIDGE
+  :zone: 55
+  :easting: 692928
+  :northing: 6082428
+  :lat: "-35.3827777777778"
+  :lng: '149.1238888888889'
+  :state: ACT
+  :bsl: 1150191
+  :license_area: CANBERRA RA1
+  :license_id: 508
+  :operation_hours: 
+  :status: Issued

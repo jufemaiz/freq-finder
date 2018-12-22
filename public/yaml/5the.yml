@@ -1,0 +1,29 @@
+---
+:title: 5THE
+:transmitters:
+- :band: FM
+  :area: Millicent
+  :callsign: 5THE
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5703001
+  :license_number: 1385204
+  :site_id: 23800
+  :site_name: Broadcast site 11 km E of Millicent MT BURR
+  :zone: 54
+  :easting: 454200
+  :northing: 5838000
+  :lat: "-37.6036111111111"
+  :lng: '140.4811111111111'
+  :state: SA
+  :bsl: 5703
+  :license_area: MILLICENT RA1
+  :license_id: 784
+  :operation_hours: 
+  :status: Issued

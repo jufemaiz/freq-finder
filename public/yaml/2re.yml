@@ -1,0 +1,81 @@
+---
+:title: 2RE
+:transmitters:
+- :band: AM
+  :area: Taree
+  :callsign: 2RE
+  :frequency: 1557.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 100
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 585
+  :power: 2000
+  :technical_specification_number: 4131001
+  :license_number: 1384995
+  :site_id: 7540
+  :site_name: Greater Taree Council Site Pacific Highway Cubba Cubba Ck TAREE
+  :zone: 56
+  :easting: 449375
+  :northing: 6467500
+  :lat: "-31.9269444444444"
+  :lng: '152.4644444444445'
+  :state: NSW
+  :bsl: 4131
+  :license_area: TAREE RA1
+  :license_id: 383
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Forster
+  :callsign: 2RE
+  :frequency: 100.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1600
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4131003
+  :license_number: 1384845
+  :site_id: 6042
+  :site_name: Broadcast Site Bundacree near FORSTER
+  :zone: 56
+  :easting: 441100
+  :northing: 6441700
+  :lat: "-32.1594444444444"
+  :lng: '152.3752777777778'
+  :state: NSW
+  :bsl: 4131
+  :license_area: TAREE RA1
+  :license_id: 383
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gloucester
+  :callsign: 2RE
+  :frequency: 100.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 80
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4131002
+  :license_number: 1384844
+  :site_id: 7445
+  :site_name: FM Broadcast Site Kiaora Lookout GLOUCESTER
+  :zone: 56
+  :easting: 400350
+  :northing: 6463060
+  :lat: "-31.9638888888889"
+  :lng: '151.9452777777778'
+  :state: NSW
+  :bsl: 4131
+  :license_area: TAREE RA1
+  :license_id: 383
+  :operation_hours: 
+  :status: Issued

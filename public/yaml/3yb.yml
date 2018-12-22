@@ -1,0 +1,29 @@
+---
+:title: 3YB
+:transmitters:
+- :band: AM
+  :area: Warrnambool
+  :callsign: 3YB
+  :frequency: 882.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 62
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 450
+  :power: 2000
+  :technical_specification_number: 4160001
+  :license_number: 1384964
+  :site_id: 153566
+  :site_name: Broadcast Planning Site Siberia Blighs Rd PURNIM
+  :zone: 54
+  :easting: 641150
+  :northing: 5766250
+  :lat: "-38.2405555555556"
+  :lng: '142.6127777777778'
+  :state: VIC
+  :bsl: 4160
+  :license_area: WARRNAMBOOL RA1
+  :license_id: 441
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 3WM
+:transmitters:
+- :band: AM
+  :area: Horsham
+  :callsign: 3WM
+  :frequency: 1089.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 55
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 840
+  :power: 5000
+  :technical_specification_number: 4159001
+  :license_number: 1384957
+  :site_id: 40371
+  :site_name: Broadcast Site 29 km E of Horsham LUBECK
+  :zone: 54
+  :easting: 635603
+  :northing: 5932380
+  :lat: "-36.7444444444445"
+  :lng: '142.5188888888889'
+  :state: VIC
+  :bsl: 4159
+  :license_area: HORSHAM RA1
+  :license_id: 440
+  :operation_hours: 
+  :status: Issued

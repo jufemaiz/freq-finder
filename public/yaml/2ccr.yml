@@ -1,0 +1,29 @@
+---
+:title: 2CCR
+:transmitters:
+- :band: FM
+  :area: Parramatta
+  :callsign: 2CCR
+  :frequency: 90.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1251001
+  :license_number: 1385132
+  :site_id: 4902
+  :site_name: Broadcast Site Seven Hills Rd BAULKHAM HILLS
+  :zone: 56
+  :easting: 312900
+  :northing: 6261800
+  :lat: "-33.7672222222222"
+  :lng: '150.9794444444445'
+  :state: NSW
+  :bsl: 1251
+  :license_area: PARRAMATTA RA1
+  :license_id: 339
+  :operation_hours: 
+  :status: Issued

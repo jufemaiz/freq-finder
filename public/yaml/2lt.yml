@@ -1,0 +1,29 @@
+---
+:title: 2LT
+:transmitters:
+- :band: AM
+  :area: Lithgow
+  :callsign: 2LT
+  :frequency: 900.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 76
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 880
+  :power: 5000
+  :technical_specification_number: 10004230
+  :license_number: 1385037
+  :site_id: 151140
+  :site_name: Broadcast Site 3.5 km E of WALLERAWANG
+  :zone: 56
+  :easting: 230305
+  :northing: 6299897
+  :lat: "-33.4061111111111"
+  :lng: '150.1'
+  :state: NSW
+  :bsl: 10250
+  :license_area: LITHGOW RA1
+  :license_id: 373
+  :operation_hours: 
+  :status: Issued

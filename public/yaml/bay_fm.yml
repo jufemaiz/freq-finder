@@ -1,0 +1,81 @@
+---
+:title: Bay FM
+:transmitters:
+- :band: FM
+  :area: Byron Bay
+  :callsign: 2BAY
+  :frequency: 99.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009939
+  :license_number: 1170703
+  :site_id: 8561
+  :site_name: Broadcast Site Telstra Tower Byron View Saint Helena BYRON BAY
+  :zone: 56
+  :easting: 554690
+  :northing: 6829200
+  :lat: "-28.6630555555556"
+  :lng: '153.5594444444445'
+  :state: NSW
+  :bsl: 1150719
+  :license_area: BYRON BAY RA1
+  :license_id: 933
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Geelong
+  :callsign: 3BAY
+  :frequency: 93.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 110
+  :antenna_pattern: DA
+  :maximum_erp: 55000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5148001
+  :license_number: 1384869
+  :site_id: 40824
+  :site_name: BAY-FM Site Founds Road MURRADOC HILL
+  :zone: 55
+  :easting: 289920
+  :northing: 5773220
+  :lat: "-38.1641666666667"
+  :lng: '144.6019444444444'
+  :state: VIC
+  :bsl: 5148
+  :license_area: GEELONG RA1
+  :license_id: 428
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wynnum Redlands
+  :callsign: 4BAY
+  :frequency: 100.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009903
+  :license_number: 1385187
+  :site_id: 151427
+  :site_name: Broadcast Site Off 196 Mount View Road MOUNT COTTON
+  :zone: 56
+  :easting: 520996
+  :northing: 6945195
+  :lat: "-27.6169444444444"
+  :lng: '153.2127777777778'
+  :state: QLD
+  :bsl: 6019
+  :license_area: WYNNUM RA1
+  :license_id: 867
+  :operation_hours: 
+  :status: Issued

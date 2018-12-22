@@ -1,0 +1,29 @@
+---
+:title: 3BA
+:transmitters:
+- :band: FM
+  :area: Ballarat (Warrenheip)
+  :callsign: 3RBA
+  :frequency: 102.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005653
+  :license_number: 1153686
+  :site_id: 150365
+  :site_name: Radio Ballarat Site 9 km E of Ballarat MT WARRENHEIP
+  :zone: 54
+  :easting: 761295
+  :northing: 5837000
+  :lat: "-37.5766666666667"
+  :lng: '143.9586111111111'
+  :state: VIC
+  :bsl: 10364
+  :license_area: BALLARAT RA1
+  :license_id: 427
+  :operation_hours: 
+  :status: Issued

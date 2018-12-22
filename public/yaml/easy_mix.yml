@@ -1,0 +1,81 @@
+---
+:title: Easy Mix
+:transmitters:
+- :band: AM
+  :area: Maryborough (Vic)
+  :callsign: 3EL
+  :frequency: 1071.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 79
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 840
+  :power: 5000
+  :technical_specification_number: 10003810
+  :license_number: 1385056
+  :site_id: 150856
+  :site_name: Broadcast Site CARISBROOK
+  :zone: 54
+  :easting: 750398
+  :northing: 5896602
+  :lat: "-37.0430555555556"
+  :lng: '143.8152777777778'
+  :state: VIC
+  :bsl: 10368
+  :license_area: MARYBOROUGH (VIC) RA1
+  :license_id: 432
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Mildura/Sunraysia
+  :callsign: 3ML
+  :frequency: 1467.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 53
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 10002419
+  :license_number: 1385047
+  :site_id: 53326
+  :site_name: 3MA Transmitter Flora Avenue MILDURA
+  :zone: 54
+  :easting: 603300
+  :northing: 6217400
+  :lat: "-34.1791666666667"
+  :lng: '142.1208333333334'
+  :state: VIC
+  :bsl: 10098
+  :license_area: MILDURA RA1
+  :license_id: 436
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bendigo (City)
+  :callsign: 3EL
+  :frequency: 98.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10006081
+  :license_number: 1158819
+  :site_id: 300440
+  :site_name: CETV Site Specimen Hill Reservoir SPECIMEN HILL
+  :zone: 55
+  :easting: 253900
+  :northing: 5927400
+  :lat: "-36.7669444444444"
+  :lng: '144.2427777777778'
+  :state: VIC
+  :bsl: 10368
+  :license_area: MARYBOROUGH (VIC) RA1
+  :license_id: 432
+  :operation_hours: 
+  :status: Issued

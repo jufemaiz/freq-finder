@@ -1,0 +1,29 @@
+---
+:title: Gulf FM
+:transmitters:
+- :band: FM
+  :area: Arthurton
+  :callsign: 5GFM
+  :frequency: 89.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010706
+  :license_number: 1170718
+  :site_id: 152830
+  :site_name: Broadcast Site Arthurton to Winulta Rd 1.5 km East of ARTHURTON
+  :zone: 53
+  :easting: 755200
+  :northing: 6205950
+  :lat: "-34.2561111111111"
+  :lng: '137.7713888888889'
+  :state: SA
+  :bsl: 1150769
+  :license_area: YORKE PENINSULA RA1
+  :license_id: 945
+  :operation_hours: 
+  :status: Issued

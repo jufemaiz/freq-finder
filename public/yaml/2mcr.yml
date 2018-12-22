@@ -1,0 +1,29 @@
+---
+:title: 2MCR
+:transmitters:
+- :band: FM
+  :area: Campbelltown
+  :callsign: 2MCR
+  :frequency: 100.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008284
+  :license_number: 1170428
+  :site_id: 138507
+  :site_name: Metwide 2MCR Razorback Mt Prudhoe RAZORBACK RANGE
+  :zone: 56
+  :easting: 284570
+  :northing: 6219811
+  :lat: "-34.1402777777778"
+  :lng: '150.6633333333333'
+  :state: NSW
+  :bsl: 1150150
+  :license_area: CAMPBELLTOWN RA1
+  :license_id: 753
+  :operation_hours: 
+  :status: Renewal Pending

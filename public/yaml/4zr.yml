@@ -1,0 +1,108 @@
+---
+:title: 4ZR
+:transmitters:
+- :band: AM
+  :area: Roma/St George
+  :callsign: 4ZR
+  :frequency: 1476.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 52
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 424
+  :power: 2000
+  :technical_specification_number: 10003832
+  :license_number: 1385064
+  :site_id: 151483
+  :site_name: Broadcast Site 3 km E of ROMA
+  :zone: 55
+  :easting: 681004
+  :northing: 7059995
+  :lat: "-26.5688888888889"
+  :lng: '148.8172222222222'
+  :state: QLD
+  :bsl: 10227
+  :license_area: ROMA RA1
+  :license_id: 462
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mitchell
+  :callsign: 4ZR
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 167001
+  :license_number: 1159627
+  :site_id: 153039
+  :site_name: Broadcast Site 15km ESE of MITCHELL
+  :zone: 55
+  :easting: 610602
+  :northing: 7063562
+  :lat: "-26.5438888888889"
+  :lng: '148.1102777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Spring Gully
+  :callsign: 4ZR
+  :frequency: 106.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 4
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014616
+  :license_number: 1159522
+  :site_id: 153639
+  :site_name: Broadcast Planning Property construction site 73 km NE of Roma SPRING
+    GULLY
+  :zone: 55
+  :easting: 706612
+  :northing: 7127282
+  :lat: "-25.9583333333333"
+  :lng: '149.0633333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: St George
+  :callsign: 4ZR
+  :frequency: 105.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 36
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133379
+  :license_number: 1567605
+  :site_id: 401200
+  :site_name: Optus Site Reservoir Grey St & Klinge La ST GEORGE
+  :zone: 55
+  :easting: 655341
+  :northing: 6897466
+  :lat: "-28.0388888888889"
+  :lng: '148.5802777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

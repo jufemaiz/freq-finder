@@ -1,0 +1,29 @@
+---
+:title: ABC Illawarra
+:transmitters:
+- :band: FM
+  :area: Illawarra
+  :callsign: 2ILA
+  :frequency: 97.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 167
+  :antenna_pattern: DA
+  :maximum_erp: 150000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 2111601
+  :license_number: 1150268
+  :site_id: 40499
+  :site_name: Broadcast Australia Analog Television Mast KNIGHTS HILL
+  :zone: 56
+  :easting: 288539
+  :northing: 6166096
+  :lat: "-34.625"
+  :lng: '150.6933333333333'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

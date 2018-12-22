@@ -1,0 +1,706 @@
+---
+:title: Star FM
+:transmitters:
+- :band: FM
+  :area: Albury
+  :callsign: 2AAY
+  :frequency: 104.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004577
+  :license_number: 1384929
+  :site_id: 11949
+  :site_name: Broadcast Site 14 km S of Wodonga MT BARANDUDA
+  :zone: 55
+  :easting: 487000
+  :northing: 5987700
+  :lat: "-36.2552777777778"
+  :lng: '146.8552777777778'
+  :state: VIC
+  :bsl: 10289
+  :license_area: ALBURY RA1
+  :license_id: 363
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Alexandra/Eildon
+  :callsign: 3SUN
+  :frequency: 93.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008644
+  :license_number: 1154706
+  :site_id: 42163
+  :site_name: Dept of Conservation Site DEVILS RIVER
+  :zone: 55
+  :easting: 397100
+  :northing: 5881100
+  :lat: "-37.2105555555556"
+  :lng: '145.8402777777778'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bendigo
+  :callsign: 3BDG
+  :frequency: 91.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 85
+  :antenna_pattern: DA
+  :maximum_erp: 120000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004472
+  :license_number: 1170027
+  :site_id: 11742
+  :site_name: Broadcast Tower 26 km S of Bendigo MT ALEXANDER
+  :zone: 55
+  :easting: 260345
+  :northing: 5902420
+  :lat: "-36.9936111111111"
+  :lng: '144.3069444444445'
+  :state: VIC
+  :bsl: 10258
+  :license_area: BENDIGO RA1
+  :license_id: 429
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bicheno
+  :callsign: 7BOD
+  :frequency: 98.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014408
+  :license_number: 1171450
+  :site_id: 33490
+  :site_name: Tas Ambulance Service Site near TV Translator Site BICHENO
+  :zone: 55
+  :easting: 607437
+  :northing: 5362396
+  :lat: "-41.8827777777778"
+  :lng: '148.2947222222222'
+  :state: TAS
+  :bsl: 1150792
+  :license_area: BREAK ODAY RA1
+  :license_id: 1153
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cadia Mine Site
+  :callsign: 2GZF
+  :frequency: 92.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132743
+  :license_number: 1568132
+  :site_id: 203459
+  :site_name: Main Comms Hut Cadia Minesite CADIA
+  :zone: 55
+  :easting: 684511
+  :northing: 6296218
+  :lat: "-33.4575"
+  :lng: '148.9852777777778'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Coffs Harbour
+  :callsign: 2CSF
+  :frequency: 105.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 15000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10006008
+  :license_number: 1152574
+  :site_id: 7833
+  :site_name: Broadcast/Comms Site Bruxner Park COFFS HARBOUR
+  :zone: 56
+  :easting: 510406
+  :northing: 6652612
+  :lat: "-30.2577777777778"
+  :lng: '153.1080555555556'
+  :state: NSW
+  :bsl: 10410
+  :license_area: COFFS HARBOUR RA1
+  :license_id: 365
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Corryong
+  :callsign: 2AAY
+  :frequency: 95.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007548
+  :license_number: 1158225
+  :site_id: 40979
+  :site_name: Broadcast Site MT ELLIOT
+  :zone: 55
+  :easting: 587660
+  :northing: 5994880
+  :lat: "-36.1866666666667"
+  :lng: '147.9747222222222'
+  :state: VIC
+  :bsl: 10289
+  :license_area: ALBURY RA1
+  :license_id: 363
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Dubbo
+  :callsign: 2DBO
+  :frequency: 93.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002059
+  :license_number: 1159640
+  :site_id: 153070
+  :site_name: FM BCast Site On Sappa Bulga Range Via DUBBO
+  :zone: 55
+  :easting: 646190
+  :northing: 6427180
+  :lat: "-32.2825"
+  :lng: '148.5522222222223'
+  :state: NSW
+  :bsl: 10053
+  :license_area: DUBBO RA1
+  :license_id: 366
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Falls Creek
+  :callsign: 2AAY
+  :frequency: 100.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013681
+  :license_number: 1158226
+  :site_id: 55649
+  :site_name: Ski Patrol Buildings FALLS CREEK
+  :zone: 55
+  :easting: 524467
+  :northing: 5919228
+  :lat: "-36.8722222222222"
+  :lng: '147.2744444444445'
+  :state: VIC
+  :bsl: 10289
+  :license_area: ALBURY RA1
+  :license_id: 363
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gilgandra
+  :callsign: 2DBO
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013569
+  :license_number: 1159325
+  :site_id: 153620
+  :site_name: Broadcast Site Warren Rd Water Tower 79 Pines Drive GILGANDRA
+  :zone: 55
+  :easting: 656000
+  :northing: 6490300
+  :lat: "-31.7119444444444"
+  :lng: '148.6461111111111'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Griffith
+  :callsign: 2RGF
+  :frequency: 99.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 85
+  :antenna_pattern: OD
+  :maximum_erp: 50000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004674
+  :license_number: 1151395
+  :site_id: 9921
+  :site_name: Broadcast Tower MT BINGAR
+  :zone: 55
+  :easting: 429350
+  :northing: 6223920
+  :lat: "-34.1230555555556"
+  :lng: '146.2336111111111'
+  :state: NSW
+  :bsl: 10310
+  :license_area: GRIFFITH RA1
+  :license_id: 384
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kempsey
+  :callsign: 2ROX
+  :frequency: 105.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 2161001
+  :license_number: 1384867
+  :site_id: 7648
+  :site_name: Ten TV Tower on Western Edge of Lookout 21 km SSW of Nambucca Heads
+    MOUNT YARRAHAPINNI
+  :zone: 56
+  :easting: 492187
+  :northing: 6590850
+  :lat: "-30.8152777777778"
+  :lng: '152.9180555555556'
+  :state: NSW
+  :bsl: 2161
+  :license_area: KEMPSEY RA1
+  :license_id: 374
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lake Cowal Mine
+  :callsign: 2RGF
+  :frequency: 94.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 8
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131671
+  :license_number: 1184467
+  :site_id: 405031
+  :site_name: Process Plant Lake Cowal Minesite WEST WYALONG
+  :zone: 55
+  :easting: 536850
+  :northing: 6277430
+  :lat: "-33.6419444444444"
+  :lng: '147.3972222222222'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mildura/Sunraysia
+  :callsign: 3MDA
+  :frequency: 99.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 80
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004872
+  :license_number: 1151140
+  :site_id: 500411
+  :site_name: Broadcast Site Sturt Highway TRENTHAM CLIFFS
+  :zone: 54
+  :easting: 616320
+  :northing: 6213565
+  :lat: "-34.2122222222222"
+  :lng: '142.2625'
+  :state: NSW
+  :bsl: 10094
+  :license_area: MILDURA RA1
+  :license_id: 436
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Buller
+  :callsign: 3SUN
+  :frequency: 93.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: DA
+  :maximum_erp: 1200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007626
+  :license_number: 1151401
+  :site_id: 11978
+  :site_name: Telstra Tower MT BULLER
+  :zone: 55
+  :easting: 450140
+  :northing: 5889120
+  :lat: "-37.1427777777778"
+  :lng: '146.4383333333333'
+  :state: VIC
+  :bsl: 10389
+  :license_area: SHEPPARTON RA1
+  :license_id: 541
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Gambier
+  :callsign: 5SEF
+  :frequency: 96.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004702
+  :license_number: 1153709
+  :site_id: 23959
+  :site_name: Austar MDS Site The Bluff (SE) 21 km WNW MOUNT GAMBIER
+  :zone: 54
+  :easting: 462046
+  :northing: 5824313
+  :lat: "-37.7275"
+  :lng: '140.5691666666667'
+  :state: SA
+  :bsl: 10312
+  :license_area: MT GAMBIER RA1
+  :license_id: 474
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Naracoorte
+  :callsign: 5SEF
+  :frequency: 100.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010529
+  :license_number: 1155311
+  :site_id: 23720
+  :site_name: Council & CFS site Smith Street East NARACOORTE
+  :zone: 54
+  :easting: 479357
+  :northing: 5910387
+  :lat: "-36.9522222222222"
+  :lng: '140.7680555555556'
+  :state: SA
+  :bsl: 10312
+  :license_area: MT GAMBIER RA1
+  :license_id: 474
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Narromine
+  :callsign: 2DBO
+  :frequency: 94.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013570
+  :license_number: 1159326
+  :site_id: 153619
+  :site_name: Broadcast Site Nymagee St Water Tower cnr Nymagee & Temoin Sts NARROMINE
+  :zone: 55
+  :easting: 616975
+  :northing: 6432775
+  :lat: "-32.2352777777778"
+  :lng: '148.2413888888889'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Orange
+  :callsign: 2GZF
+  :frequency: 105.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004542
+  :license_number: 1158896
+  :site_id: 35066
+  :site_name: Broadcast Site MT CANOBOLAS
+  :zone: 55
+  :easting: 684425
+  :northing: 6308875
+  :lat: "-33.3433333333333"
+  :lng: '148.9816666666667'
+  :state: NSW
+  :bsl: 10286
+  :license_area: ORANGE RA1
+  :license_id: 370
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Port Macquarie
+  :callsign: 2ROX
+  :frequency: 102.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 2161002
+  :license_number: 1384868
+  :site_id: 7759
+  :site_name: ROX FM Site G167 24 km WNW of Port Macquarie MT CAIRNCROSS
+  :zone: 56
+  :easting: 469683
+  :northing: 6532340
+  :lat: "-31.3427777777778"
+  :lng: '152.6811111111111'
+  :state: NSW
+  :bsl: 2161
+  :license_area: KEMPSEY RA1
+  :license_id: 374
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Port Macquarie
+  :callsign: 2ROX
+  :frequency: 102.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 2161002
+  :license_number: 1384868
+  :site_id: 7759
+  :site_name: ROX FM Site G167 24 km WNW of Port Macquarie MT CAIRNCROSS
+  :zone: 56
+  :easting: 469683
+  :northing: 6532340
+  :lat: "-31.3427777777778"
+  :lng: '152.6811111111111'
+  :state: NSW
+  :bsl: 2161
+  :license_area: KEMPSEY RA1
+  :license_id: 374
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Shepparton
+  :callsign: 3SUN
+  :frequency: 96.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 80
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003779
+  :license_number: 1384926
+  :site_id: 150894
+  :site_name: Broadcast Site 27 km E of Shepparton MOUNT MAJOR
+  :zone: 55
+  :easting: 383039
+  :northing: 5974908
+  :lat: "-36.3636111111111"
+  :lng: '145.6961111111111'
+  :state: VIC
+  :bsl: 10389
+  :license_area: SHEPPARTON RA1
+  :license_id: 541
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: St Helens
+  :callsign: 7BOD
+  :frequency: 93.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10011376
+  :license_number: 1170803
+  :site_id: 700695
+  :site_name: Lookout FLAGSTAFF HILL
+  :zone: 55
+  :easting: 603235
+  :northing: 5420760
+  :lat: "-41.3577777777778"
+  :lng: '148.2341666666667'
+  :state: TAS
+  :bsl: 1150792
+  :license_area: BREAK ODAY RA1
+  :license_id: 1153
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: St Marys
+  :callsign: 7BOD
+  :frequency: 100.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 16
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010793
+  :license_number: 1170802
+  :site_id: 153394
+  :site_name: Break ODay FM Broadcast Site South Sister ST MARYS
+  :zone: 55
+  :easting: 597616
+  :northing: 5401059
+  :lat: "-41.5361111111111"
+  :lng: '148.1702777777778'
+  :state: TAS
+  :bsl: 1150792
+  :license_area: BREAK ODAY RA1
+  :license_id: 1153
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Traralgon
+  :callsign: 3SEA
+  :frequency: 97.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: DA
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013420
+  :license_number: 1159342
+  :site_id: 304564
+  :site_name: Telstra Site Tyers-Walhalla Road TYRES
+  :zone: 55
+  :easting: 453400
+  :northing: 5779500
+  :lat: "-38.1308333333333"
+  :lng: '146.4680555555556'
+  :state: VIC
+  :bsl: 1150752
+  :license_area: WARRAGUL RA1
+  :license_id: 433
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Warragul
+  :callsign: 3SEA
+  :frequency: 94.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 7000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010637
+  :license_number: 1170643
+  :site_id: 403248
+  :site_name: FM Broadcast Site Mirboo Yarragon Rd ALLAMBEE
+  :zone: 55
+  :easting: 416450
+  :northing: 5764500
+  :lat: "-38.2633333333333"
+  :lng: '146.0447222222222'
+  :state: VIC
+  :bsl: 1150752
+  :license_area: WARRAGUL RA1
+  :license_id: 433
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yea
+  :callsign: 3SUN
+  :frequency: 93.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007274
+  :license_number: 1152708
+  :site_id: 11913
+  :site_name: Broadcast Site 10 km N of Yea MT BROUGHTON
+  :zone: 55
+  :easting: 358900
+  :northing: 5890400
+  :lat: "-37.1219444444444"
+  :lng: '145.4116666666667'
+  :state: VIC
+  :bsl: 10389
+  :license_area: SHEPPARTON RA1
+  :license_id: 541
+  :operation_hours: 
+  :status: Issued

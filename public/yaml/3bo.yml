@@ -1,0 +1,29 @@
+---
+:title: 3BO
+:transmitters:
+- :band: FM
+  :area: Bendigo
+  :callsign: 3BBO
+  :frequency: 93.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 83
+  :antenna_pattern: DA
+  :maximum_erp: 120000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003803
+  :license_number: 1384924
+  :site_id: 11742
+  :site_name: Broadcast Tower 26 km S of Bendigo MT ALEXANDER
+  :zone: 55
+  :easting: 260345
+  :northing: 5902420
+  :lat: "-36.9936111111111"
+  :lng: '144.3069444444445'
+  :state: VIC
+  :bsl: 10367
+  :license_area: BENDIGO RA1
+  :license_id: 429
+  :operation_hours: 
+  :status: Issued

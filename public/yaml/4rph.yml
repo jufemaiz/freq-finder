@@ -1,0 +1,29 @@
+---
+:title: 4RPH
+:transmitters:
+- :band: AM
+  :area: Brisbane
+  :callsign: 4RPH
+  :frequency: 1296.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 77
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 950
+  :power: 5000
+  :technical_specification_number: 5193001
+  :license_number: 1385115
+  :site_id: 13352
+  :site_name: 4RPH Site Fleming Rd TINGALPA
+  :zone: 56
+  :easting: 512130
+  :northing: 6962000
+  :lat: "-27.4652777777778"
+  :lng: '153.1225'
+  :state: QLD
+  :bsl: 5193
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 5MU
+:transmitters:
+- :band: AM
+  :area: Murray Bridge
+  :callsign: 5MU
+  :frequency: 1125.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 140
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1200
+  :power: 5000
+  :technical_specification_number: 4194001
+  :license_number: 1384992
+  :site_id: 150984
+  :site_name: 5MU MF site 6 km SW of Murray Bridge GIFFORD HILL
+  :zone: 54
+  :easting: 337190
+  :northing: 6108340
+  :lat: "-35.1544444444444"
+  :lng: '139.2125'
+  :state: SA
+  :bsl: 4194
+  :license_area: MURRAY BRIDGE RA1
+  :license_id: 471
+  :operation_hours: 
+  :status: Issued

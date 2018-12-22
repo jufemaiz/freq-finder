@@ -1,0 +1,29 @@
+---
+:title: Heart FM
+:transmitters:
+- :band: FM
+  :area: Northern Midlands
+  :callsign: 7HRT
+  :frequency: 95.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010807
+  :license_number: 1170834
+  :site_id: 33952
+  :site_name: Telstra Radio Terminal MT BLACKWOOD
+  :zone: 55
+  :easting: 490611
+  :northing: 5370812
+  :lat: "-41.8141666666667"
+  :lng: '146.8869444444444'
+  :state: TAS
+  :bsl: 1150790
+  :license_area: NORTHERN MIDLANDS RA1
+  :license_id: 1152
+  :operation_hours: 
+  :status: Issued

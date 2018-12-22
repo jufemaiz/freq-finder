@@ -1,0 +1,29 @@
+---
+:title: Hot Tomato
+:transmitters:
+- :band: FM
+  :area: Gold Coast
+  :callsign: 4HTB
+  :frequency: 102.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 63
+  :antenna_pattern: DA
+  :maximum_erp: 25000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013951
+  :license_number: 1170842
+  :site_id: 403573
+  :site_name: Large Link Tower within Broadcast Enclosure Golf Course Rd MOUNT TAMBORINE
+  :zone: 56
+  :easting: 520880
+  :northing: 6905960
+  :lat: "-27.9711111111111"
+  :lng: '153.2122222222222'
+  :state: QLD
+  :bsl: 1150463
+  :license_area: GOLD COAST RA1
+  :license_id: 515
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,133 @@
+---
+:title: ABC Capricornia
+:transmitters:
+- :band: AM
+  :area: Emerald
+  :callsign: 4QD
+  :frequency: 1548.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 95
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 2790
+  :power: 50000
+  :technical_specification_number: 4040001
+  :license_number: 1198670
+  :site_id: 17878
+  :site_name: 4QD Tower EMERALD
+  :zone: 55
+  :easting: 617277
+  :northing: 7404942
+  :lat: "-23.4611111111111"
+  :lng: '148.1480555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Rockhampton
+  :callsign: 4RK
+  :frequency: 837.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 128
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1300
+  :power: 10000
+  :technical_specification_number: 4047001
+  :license_number: 1198662
+  :site_id: 17152
+  :site_name: Broadcast site 1.2 km S of Gracemere ROCKHAMPTON
+  :zone: 56
+  :easting: 240100
+  :northing: 7404000
+  :lat: "-23.4530555555556"
+  :lng: '150.4558333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Alpha
+  :callsign: 4QD
+  :frequency: 105.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 70
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003846
+  :license_number: 1198707
+  :site_id: 18059
+  :site_name: Broadcast Site 4 km N of ALPHA
+  :zone: 55
+  :easting: 461689
+  :northing: 7388338
+  :lat: "-23.6147222222222"
+  :lng: '146.6244444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gladstone
+  :callsign: 4RK
+  :frequency: 99.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 23
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 2278001
+  :license_number: 1198693
+  :site_id: 17085
+  :site_name: Broadcast Site Boles St Round Hill GLADSTONE
+  :zone: 56
+  :easting: 322243
+  :northing: 7359050
+  :lat: "-23.87"
+  :lng: '151.2541666666667'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jellimbah Central Mine
+  :callsign: 4QD
+  :frequency: 104.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133850
+  :license_number: 1930097
+  :site_id: 402505
+  :site_name: Jellinbah Central Mine BLUFF
+  :zone: 55
+  :easting: 699575
+  :northing: 7412077
+  :lat: "-23.3886111111111"
+  :lng: '148.9527777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

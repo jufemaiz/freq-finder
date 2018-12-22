@@ -1,0 +1,55 @@
+---
+:title: Mix 102.3
+:transmitters:
+- :band: FM
+  :area: Adelaide
+  :callsign: 5ADD
+  :frequency: 102.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4191001
+  :license_number: 1911525
+  :site_id: 23132
+  :site_name: NWS 9 site 109 Summit Road CRAFERS
+  :zone: 54
+  :easting: 290698
+  :northing: 6126331
+  :lat: "-34.9838888888889"
+  :lng: '138.7069444444445'
+  :state: SA
+  :bsl: 4191
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Adelaide Foothills
+  :callsign: 5ADD
+  :frequency: 96.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 90
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4191002
+  :license_number: 1911524
+  :site_id: 22155
+  :site_name: 77 Grenfell Street ADELAIDE
+  :zone: 54
+  :easting: 280900
+  :northing: 6132500
+  :lat: "-34.9261111111111"
+  :lng: '138.6011111111111'
+  :state: SA
+  :bsl: 4191
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued

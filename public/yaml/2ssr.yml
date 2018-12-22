@@ -1,0 +1,29 @@
+---
+:title: 2SSR
+:transmitters:
+- :band: FM
+  :area: Sutherland
+  :callsign: 2SSR
+  :frequency: 99.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4842001
+  :license_number: 1385153
+  :site_id: 205385
+  :site_name: Sutherland Council Chambers Eton Street SUTHERLAND
+  :zone: 56
+  :easting: 320772
+  :northing: 6232579
+  :lat: "-34.0319444444444"
+  :lng: '151.0586111111111'
+  :state: NSW
+  :bsl: 4842
+  :license_area: SUTHERLAND RA1
+  :license_id: 739
+  :operation_hours: 
+  :status: Issued

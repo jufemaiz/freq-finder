@@ -1,0 +1,55 @@
+---
+:title: Alpine Radio
+:transmitters:
+- :band: FM
+  :area: Bright
+  :callsign: 3VKV
+  :frequency: 92.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133759
+  :license_number: 1929230
+  :site_id: 150876
+  :site_name: Broadcast Site Apex Lookout 1.5 km NE of BRIGHT
+  :zone: 55
+  :easting: 497499
+  :northing: 5936495
+  :lat: "-36.7169444444444"
+  :lng: '146.9719444444445'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Beauty
+  :callsign: 3VKV
+  :frequency: 96.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133183
+  :license_number: 1171043
+  :site_id: 11959
+  :site_name: Telstra CMTS Site BIG HILL
+  :zone: 55
+  :easting: 517500
+  :northing: 5928775
+  :lat: "-36.7863888888889"
+  :lng: '147.1961111111111'
+  :state: VIC
+  :bsl: 1150015
+  :license_area: MT BEAUTY RA1
+  :license_id: 647
+  :operation_hours: 
+  :status: Issued

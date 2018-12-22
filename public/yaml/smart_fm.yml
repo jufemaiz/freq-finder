@@ -1,0 +1,29 @@
+---
+:title: Smart FM
+:transmitters:
+- :band: FM
+  :area: Swan Hill (town)
+  :callsign: 3SFM
+  :frequency: 99.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007006
+  :license_number: 1170982
+  :site_id: 51636
+  :site_name: Water Tower Splatt Street SWAN HILL
+  :zone: 54
+  :easting: 732450
+  :northing: 6085450
+  :lat: "-35.3469444444444"
+  :lng: '143.5577777777778'
+  :state: VIC
+  :bsl: 1150003
+  :license_area: SWAN HILL RA2
+  :license_id: 671
+  :operation_hours: 
+  :status: Issued

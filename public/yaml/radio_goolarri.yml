@@ -1,0 +1,29 @@
+---
+:title: Radio Goolarri
+:transmitters:
+- :band: FM
+  :area: Broome
+  :callsign: 6GME
+  :frequency: 99.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001437
+  :license_number: 1153293
+  :site_id: 570600
+  :site_name: Broadcast Site 7 Blackman Street BROOME
+  :zone: 51
+  :easting: 417434
+  :northing: 8013439
+  :lat: "-17.9655555555556"
+  :lng: '122.22'
+  :state: WA
+  :bsl: 10032
+  :license_area: BROOME RA1
+  :license_id: 505
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,81 @@
+---
+:title: 3MBR
+:transmitters:
+- :band: FM
+  :area: Lameroo
+  :callsign: 3MBR
+  :frequency: 107.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009654
+  :license_number: 1155705
+  :site_id: 152973
+  :site_name: Broadcast Site 1 Bews Tce LAMEROO
+  :zone: 54
+  :easting: 456000
+  :northing: 6090000
+  :lat: "-35.3319444444444"
+  :lng: '140.5158333333334'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Murrayville
+  :callsign: 3MBR
+  :frequency: 103.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 63
+  :antenna_pattern: OD
+  :maximum_erp: 4800
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005717
+  :license_number: 1385225
+  :site_id: 150969
+  :site_name: Broadcast Site 6 km S of MURRAYVILLE
+  :zone: 54
+  :easting: 515897
+  :northing: 6091098
+  :lat: "-35.3230555555556"
+  :lng: '141.1747222222222'
+  :state: VIC
+  :bsl: 10374
+  :license_area: MURRAYVILLE RA1
+  :license_id: 409
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ouyen
+  :callsign: 3MBR
+  :frequency: 92.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 0
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013024
+  :license_number: 1158159
+  :site_id: 153475
+  :site_name: Broadcast Site Ouyen Hospital Britt St OUYEN
+  :zone: 54
+  :easting: 619550
+  :northing: 6117820
+  :lat: "-35.075"
+  :lng: '142.3111111111111'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

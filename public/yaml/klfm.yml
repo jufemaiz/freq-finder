@@ -1,0 +1,55 @@
+---
+:title: KLFM
+:transmitters:
+- :band: FM
+  :area: Bendigo (City)
+  :callsign: 3EON
+  :frequency: 96.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009660
+  :license_number: 1170172
+  :site_id: 8000012
+  :site_name: Broadcast Site Big Hill BENDIGO
+  :zone: 55
+  :easting: 254000
+  :northing: 5916800
+  :lat: "-36.8625"
+  :lng: '144.2402777777778'
+  :state: VIC
+  :bsl: 1150008
+  :license_area: BENDIGO RA3
+  :license_id: 669
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Castlemaine
+  :callsign: 3EON
+  :frequency: 106.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 8
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009503
+  :license_number: 1170174
+  :site_id: 53323
+  :site_name: Broadcast Site Golf Club CASTLEMAINE
+  :zone: 55
+  :easting: 253095
+  :northing: 5895287
+  :lat: "-37.0558333333333"
+  :lng: '144.2230555555556'
+  :state: VIC
+  :bsl: 1150008
+  :license_area: BENDIGO RA3
+  :license_id: 669
+  :operation_hours: 
+  :status: Issued

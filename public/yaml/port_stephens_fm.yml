@@ -1,0 +1,29 @@
+---
+:title: Port Stephens FM
+:transmitters:
+- :band: FM
+  :area: Port Stephens
+  :callsign: 2PSR
+  :frequency: 100.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007804
+  :license_number: 1170095
+  :site_id: 53725
+  :site_name: Port Stephens Council site Gan Gan Hill NELSON BAY
+  :zone: 56
+  :easting: 418500
+  :northing: 6377900
+  :lat: "-32.7333333333333"
+  :lng: '152.13'
+  :state: NSW
+  :bsl: 1150042
+  :license_area: PORT STEPHENS RA1
+  :license_id: 694
+  :operation_hours: 
+  :status: Issued

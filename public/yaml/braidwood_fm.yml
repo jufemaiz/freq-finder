@@ -1,0 +1,29 @@
+---
+:title: Braidwood FM
+:transmitters:
+- :band: FM
+  :area: Braidwood
+  :callsign: 2BRW
+  :frequency: 94.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013016
+  :license_number: 1170993
+  :site_id: 9722
+  :site_name: Broadcast Site 2.8 km SW of Braidwood MT GILLAMATONG
+  :zone: 55
+  :easting: 751400
+  :northing: 6072800
+  :lat: "-35.4563888888889"
+  :lng: '149.77'
+  :state: NSW
+  :bsl: 1150816
+  :license_area: BRAIDWOOD RA1
+  :license_id: 1240
+  :operation_hours: 
+  :status: Issued

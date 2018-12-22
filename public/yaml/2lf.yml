@@ -1,0 +1,29 @@
+---
+:title: 2LF
+:transmitters:
+- :band: AM
+  :area: Young
+  :callsign: 2LF
+  :frequency: 1350.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 108
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1000
+  :power: 5000
+  :technical_specification_number: 4118001
+  :license_number: 1384963
+  :site_id: 151055
+  :site_name: Broadcast Site 5 km SE of YOUNG
+  :zone: 55
+  :easting: 622696
+  :northing: 6198804
+  :lat: "-34.3444444444445"
+  :lng: '148.3338888888889'
+  :state: NSW
+  :bsl: 4118
+  :license_area: YOUNG RA1
+  :license_id: 371
+  :operation_hours: 
+  :status: Issued

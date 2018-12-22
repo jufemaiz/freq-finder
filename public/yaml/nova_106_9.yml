@@ -1,0 +1,29 @@
+---
+:title: Nova 106.9
+:transmitters:
+- :band: FM
+  :area: Brisbane
+  :callsign: 4BNE
+  :frequency: 106.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 95
+  :antenna_pattern: OD
+  :maximum_erp: 12000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010257
+  :license_number: 1170968
+  :site_id: 12752
+  :site_name: Channel 2 Site MOUNT COOT-THA
+  :zone: 56
+  :easting: 494700
+  :northing: 6961920
+  :lat: "-27.4661111111111"
+  :lng: '152.9463888888889'
+  :state: QLD
+  :bsl: 1150703
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,81 @@
+---
+:title: 8HA
+:transmitters:
+- :band: AM
+  :area: Alice Springs
+  :callsign: 8HA
+  :frequency: 900.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 46
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 10003118
+  :license_number: 1385025
+  :site_id: 2467
+  :site_name: Broadcast Site Lot 3697 South Stuart Hwy ALICE SPRINGS
+  :zone: 53
+  :easting: 384950
+  :northing: 7370880
+  :lat: "-23.7688888888889"
+  :lng: '133.8708333333334'
+  :state: NT
+  :bsl: 10232
+  :license_area: ALICE SPRINGS RA1
+  :license_id: 493
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mereenie Gas/Oil Field
+  :callsign: 8HA
+  :frequency: 99.5
+  :purpose: s212 Retransmission
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131116
+  :license_number: 1562256
+  :site_id: 150175
+  :site_name: Gas & Oil Field Base Camp 240 km W of Alice Springs MEREENIE
+  :zone: 52
+  :easting: 760000
+  :northing: 7344000
+  :lat: "-23.9944444444444"
+  :lng: '131.5555555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yulara
+  :callsign: 8HA
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 17
+  :antenna_pattern: OD
+  :maximum_erp: 320
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4225002
+  :license_number: 1153879
+  :site_id: 2715
+  :site_name: Broadcast Site Tourist Resort YULARA
+  :zone: 52
+  :easting: 700523
+  :northing: 7207400
+  :lat: "-25.2361111111111"
+  :lng: '130.9905555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

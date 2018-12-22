@@ -1,0 +1,29 @@
+---
+:title: 2CH
+:transmitters:
+- :band: AM
+  :area: Sydney
+  :callsign: 2CH
+  :frequency: 1170.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 137
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 920
+  :power: 5000
+  :technical_specification_number: 4098001
+  :license_number: 1183487
+  :site_id: 4624
+  :site_name: Broadcast Site Salt Marsh HOMEBUSH BAY
+  :zone: 56
+  :easting: 322050
+  :northing: 6253750
+  :lat: "-33.8413888888889"
+  :lng: '151.0766666666667'
+  :state: NSW
+  :bsl: 4098
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Renewal Pending

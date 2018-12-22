@@ -1,0 +1,81 @@
+---
+:title: RPH
+:transmitters:
+- :band: AM
+  :area: Hobart
+  :callsign: 7RPH
+  :frequency: 864.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 87
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 420
+  :power: 2000
+  :technical_specification_number: 5508001
+  :license_number: 1385120
+  :site_id: 150683
+  :site_name: 7RPH Broadcast Site SANDFORD
+  :zone: 55
+  :easting: 541185
+  :northing: 5244555
+  :lat: "-42.9502777777778"
+  :lng: '147.5047222222222'
+  :state: TAS
+  :bsl: 5508
+  :license_area: HOBART RA4
+  :license_id: 1176
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Launceston
+  :callsign: 7RPH
+  :frequency: 106.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 3200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10011338
+  :license_number: 1157889
+  :site_id: 700657
+  :site_name: State Government Trunking Site Brougham Street WEST LAUNCESTON
+  :zone: 55
+  :easting: 510370
+  :northing: 5410590
+  :lat: "-41.4561111111111"
+  :lng: '147.1241666666667'
+  :state: TAS
+  :bsl: 5508
+  :license_area: HOBART RA4
+  :license_id: 1176
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Rosebery
+  :callsign: 7SBS FM
+  :frequency: 91.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1134131
+  :license_number: 1934125
+  :site_id: 34450
+  :site_name: Broadcast Site MT READ
+  :zone: 55
+  :easting: 378870
+  :northing: 5366311
+  :lat: "-41.8455555555556"
+  :lng: '145.5408333333333'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

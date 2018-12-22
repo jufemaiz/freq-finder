@@ -1,0 +1,133 @@
+---
+:title: 2CUZ
+:transmitters:
+- :band: FM
+  :area: Bourke
+  :callsign: 2CUZ
+  :frequency: 106.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004309
+  :license_number: 1155210
+  :site_id: 150201
+  :site_name: Broadcast Site Mt Oxley BOURKE
+  :zone: 55
+  :easting: 426800
+  :northing: 6658700
+  :lat: "-30.2008333333333"
+  :lng: '146.2394444444445'
+  :state: NSW
+  :bsl: 10212
+  :license_area: BOURKE RA2
+  :license_id: 767
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Goodooga
+  :callsign: 2CUZ
+  :frequency: 97.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013226
+  :license_number: 1156141
+  :site_id: 153105
+  :site_name: 2CUZ Site GOODOOGA
+  :zone: 55
+  :easting: 543781
+  :northing: 6778994
+  :lat: "-29.1163888888889"
+  :lng: '147.4497222222222'
+  :state: NSW
+  :bsl: 10212
+  :license_area: BOURKE RA2
+  :license_id: 767
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lightning Ridge
+  :callsign: 2CUZ
+  :frequency: 96.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013227
+  :license_number: 1156143
+  :site_id: 150017
+  :site_name: Water Tower Butterfly Street LIGHTNING RIDGE
+  :zone: 55
+  :easting: 595152
+  :northing: 6742955
+  :lat: "-29.4388888888889"
+  :lng: '147.9808333333333'
+  :state: NSW
+  :bsl: 10212
+  :license_area: BOURKE RA2
+  :license_id: 767
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Walgett
+  :callsign: 2CUZ
+  :frequency: 102.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013228
+  :license_number: 1156144
+  :site_id: 153106
+  :site_name: 2CUZ Site WALGETT
+  :zone: 55
+  :easting: 607686
+  :northing: 6678831
+  :lat: "-30.0166666666667"
+  :lng: '148.1166666666667'
+  :state: NSW
+  :bsl: 10212
+  :license_area: BOURKE RA2
+  :license_id: 767
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Weilmoringle
+  :callsign: 2CUZ
+  :frequency: 100.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013229
+  :license_number: 1156142
+  :site_id: 41336
+  :site_name: Broadcast Site Weilmoringle WEILMORINGLE
+  :zone: 55
+  :easting: 491900
+  :northing: 6766100
+  :lat: "-29.2336111111111"
+  :lng: '146.9163888888889'
+  :state: NSW
+  :bsl: 10212
+  :license_area: BOURKE RA2
+  :license_id: 767
+  :operation_hours: 
+  :status: Issued

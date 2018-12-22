@@ -1,0 +1,29 @@
+---
+:title: MOB FM
+:transmitters:
+- :band: FM
+  :area: Mount Isa
+  :callsign: 4MOB
+  :frequency: 100.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 600
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004644
+  :license_number: 1153224
+  :site_id: 41317
+  :site_name: Broadcast/Comm Site Emma Smith Vista MOUNT ISA
+  :zone: 54
+  :easting: 343038
+  :northing: 7706358
+  :lat: "-20.7355555555556"
+  :lng: '139.4922222222222'
+  :state: QLD
+  :bsl: 10305
+  :license_area: MOUNT ISA RA2
+  :license_id: 766
+  :operation_hours: 
+  :status: Issued

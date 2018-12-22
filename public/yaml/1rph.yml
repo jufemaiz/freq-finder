@@ -1,0 +1,55 @@
+---
+:title: 1RPH
+:transmitters:
+- :band: AM
+  :area: Canberra
+  :callsign: 1RPH
+  :frequency: 1125.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 58
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 591
+  :power: 2000
+  :technical_specification_number: 5292001
+  :license_number: 172880
+  :site_id: 150981
+  :site_name: Broadcast Site GUNGAHLIN
+  :zone: 55
+  :easting: 692657
+  :northing: 6100859
+  :lat: "-35.2166666666667"
+  :lng: '149.1166666666667'
+  :state: ACT
+  :bsl: 5292
+  :license_area: CANBERRA RA2
+  :license_id: 442
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wagga Wagga
+  :callsign: 1RPH
+  :frequency: 89.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012905
+  :license_number: 1566260
+  :site_id: 34807
+  :site_name: 2AAA-FM Site WILLANS HILL
+  :zone: 55
+  :easting: 534000
+  :northing: 6112470
+  :lat: "-35.1297222222222"
+  :lng: '147.3730555555556'
+  :state: NSW
+  :bsl: 5292
+  :license_area: CANBERRA RA2
+  :license_id: 442
+  :operation_hours: 
+  :status: Issued

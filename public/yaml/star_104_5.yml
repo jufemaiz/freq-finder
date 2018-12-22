@@ -1,0 +1,29 @@
+---
+:title: Star 104.5
+:transmitters:
+- :band: FM
+  :area: Gosford
+  :callsign: 2GOS
+  :frequency: 104.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 80
+  :antenna_pattern: OD
+  :maximum_erp: 16000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008353
+  :license_number: 1170886
+  :site_id: 151138
+  :site_name: Broadcast Site MT PENANG
+  :zone: 56
+  :easting: 341146
+  :northing: 6302130
+  :lat: "-33.4080555555556"
+  :lng: '151.2916666666667'
+  :state: NSW
+  :bsl: 1150647
+  :license_area: GOSFORD RA1
+  :license_id: 517
+  :operation_hours: 
+  :status: Issued

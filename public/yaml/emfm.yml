@@ -1,0 +1,55 @@
+---
+:title: EMFM
+:transmitters:
+- :band: FM
+  :area: Echuca
+  :callsign: 3GRR
+  :frequency: 104.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005447
+  :license_number: 1148661
+  :site_id: 134142
+  :site_name: Echuca East Recreation Reserve 36-54 Sutton St ECHUCA
+  :zone: 55
+  :easting: 298599
+  :northing: 5998382
+  :lat: "-36.1380555555556"
+  :lng: '144.7613888888889'
+  :state: VIC
+  :bsl: 10419
+  :license_area: ECHUCA RA1
+  :license_id: 668
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Echuca
+  :callsign: 3GRR
+  :frequency: 104.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005447
+  :license_number: 1154873
+  :site_id: 134142
+  :site_name: Echuca East Recreation Reserve 36-54 Sutton St ECHUCA
+  :zone: 55
+  :easting: 298599
+  :northing: 5998382
+  :lat: "-36.1380555555556"
+  :lng: '144.7613888888889'
+  :state: VIC
+  :bsl: 10419
+  :license_area: ECHUCA RA1
+  :license_id: 668
+  :operation_hours: 
+  :status: Renewal Pending

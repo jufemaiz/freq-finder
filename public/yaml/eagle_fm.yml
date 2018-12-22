@@ -1,0 +1,29 @@
+---
+:title: Eagle FM
+:transmitters:
+- :band: FM
+  :area: Goulburn
+  :callsign: 2SNO
+  :frequency: 93.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 40000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004710
+  :license_number: 1151392
+  :site_id: 150432
+  :site_name: Radio Goulburn Broadcast Site MT GRAY
+  :zone: 55
+  :easting: 752811
+  :northing: 6150200
+  :lat: "-34.7588888888889"
+  :lng: '149.7619444444445'
+  :state: NSW
+  :bsl: 10313
+  :license_area: GOULBURN RA1
+  :license_id: 369
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 2QN
+:transmitters:
+- :band: AM
+  :area: Deniliquin
+  :callsign: 2QN
+  :frequency: 1521.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 102
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 600
+  :power: 2000
+  :technical_specification_number: 10003518
+  :license_number: 1385035
+  :site_id: 150954
+  :site_name: Broadcast Site 11 km SSW of DENILIQUIN
+  :zone: 55
+  :easting: 310899
+  :northing: 6055400
+  :lat: "-35.6269444444445"
+  :lng: '144.9116666666667'
+  :state: NSW
+  :bsl: 10407
+  :license_area: DENILIQUIN RA1
+  :license_id: 382
+  :operation_hours: 
+  :status: Issued

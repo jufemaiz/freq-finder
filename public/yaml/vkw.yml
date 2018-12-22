@@ -1,0 +1,55 @@
+---
+:title: VKW
+:transmitters:
+- :band: FM
+  :area: Cocos Islands
+  :callsign: 6CKI
+  :frequency: 102.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013423
+  :license_number: 1159163
+  :site_id: 38732
+  :site_name: Home Island COCOS ISLAND
+  :zone: 47
+  :easting: 270748
+  :northing: 8659697
+  :lat: "-12.1161111111111"
+  :lng: '96.8933333333334'
+  :state: WA
+  :bsl: 1170505
+  :license_area: COCOS ISLANDS RA1
+  :license_id: 797
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cocos Islands (West Island)
+  :callsign: 6CKI
+  :frequency: 96.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005567
+  :license_number: 1159162
+  :site_id: 152320
+  :site_name: West Island COCOS ISLAND
+  :zone: 47
+  :easting: 263790
+  :northing: 8651670
+  :lat: "-12.1880555555556"
+  :lng: '96.8291666666667'
+  :state: WA
+  :bsl: 1170505
+  :license_area: COCOS ISLANDS RA1
+  :license_id: 797
+  :operation_hours: 
+  :status: Issued

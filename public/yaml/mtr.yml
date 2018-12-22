@@ -1,0 +1,29 @@
+---
+:title: MTR
+:transmitters:
+- :band: AM
+  :area: Melbourne
+  :callsign: 3MP
+  :frequency: 1377.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 92
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1200
+  :power: 5000
+  :technical_specification_number: 4144001
+  :license_number: 1188157
+  :site_id: 41700
+  :site_name: Broadcast Site Water Retarding Basin Police Rd ROWVILLE
+  :zone: 55
+  :easting: 343285
+  :northing: 5799905
+  :lat: "-37.9347222222222"
+  :lng: '145.2166666666667'
+  :state: VIC
+  :bsl: 4144
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: Magic 1278
+:transmitters:
+- :band: AM
+  :area: Melbourne
+  :callsign: 3EE
+  :frequency: 1278.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 99
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 780
+  :power: 5000
+  :technical_specification_number: 4146001
+  :license_number: 1384952
+  :site_id: 40523
+  :site_name: Broadcast Site LOWER PLENTY
+  :zone: 55
+  :easting: 333415
+  :northing: 5820624
+  :lat: "-37.7463888888889"
+  :lng: '145.1091666666667'
+  :state: VIC
+  :bsl: 4146
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued

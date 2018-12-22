@@ -1,0 +1,107 @@
+---
+:title: ABC Darwin
+:transmitters:
+- :band: AM
+  :area: Jabiru
+  :callsign: 8JB
+  :frequency: 747.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 135
+  :power: 200
+  :technical_specification_number: 10003176
+  :license_number: 1198346
+  :site_id: 151820
+  :site_name: MF Broadcast Site 2km NE of JABIRU
+  :zone: 53
+  :easting: 266299
+  :northing: 8599795
+  :lat: "-12.6572222222222"
+  :lng: '132.8480555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Nhulunbuy
+  :callsign: 8GO
+  :frequency: 990.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 62
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 220
+  :power: 500
+  :technical_specification_number: 10003175
+  :license_number: 1198400
+  :site_id: 3100
+  :site_name: MF Broadcast Site NHULUNBUY
+  :zone: 53
+  :easting: 694962
+  :northing: 8651707
+  :lat: "-12.1905555555556"
+  :lng: '136.7919444444445'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Darwin
+  :callsign: 8DDD
+  :frequency: 105.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 32000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003327
+  :license_number: 1150181
+  :site_id: 1207
+  :site_name: Broadcast Site Section 4456 (100) Deloraine Road BERRIMAH
+  :zone: 52
+  :easting: 713900
+  :northing: 8626700
+  :lat: "-12.4152777777778"
+  :lng: '130.9675'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tipperary
+  :callsign: 8DDD
+  :frequency: 88.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 2
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009270
+  :license_number: 1154926
+  :site_id: 152940
+  :site_name: Broadcast Site Tipperary Station via Daly River TIPPERARY
+  :zone: 52
+  :easting: 720776
+  :northing: 8480826
+  :lat: "-13.7330555555556"
+  :lng: '131.0413888888889'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

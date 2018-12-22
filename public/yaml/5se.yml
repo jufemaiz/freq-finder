@@ -1,0 +1,29 @@
+---
+:title: 5SE
+:transmitters:
+- :band: AM
+  :area: Mount Gambier
+  :callsign: 5SE
+  :frequency: 963.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 61
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 4197001
+  :license_number: 1139640
+  :site_id: 23955
+  :site_name: Broadcast Site Stonehaven 6 km Northwest of MOUNT GAMBIER
+  :zone: 54
+  :easting: 475400
+  :northing: 5816600
+  :lat: "-37.7975"
+  :lng: '140.7205555555556'
+  :state: SA
+  :bsl: 4197
+  :license_area: MT GAMBIER RA1
+  :license_id: 474
+  :operation_hours: 
+  :status: Issued

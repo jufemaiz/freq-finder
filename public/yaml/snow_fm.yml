@@ -1,0 +1,159 @@
+---
+:title: Snow FM
+:transmitters:
+- :band: FM
+  :area: Bombala
+  :callsign: 2SKI
+  :frequency: 91.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008266
+  :license_number: 1159476
+  :site_id: 40714
+  :site_name: Broadcast Site 7 km NNW of BOMBALA
+  :zone: 55
+  :easting: 697500
+  :northing: 5919200
+  :lat: "-36.8522222222222"
+  :lng: '149.215'
+  :state: NSW
+  :bsl: 10345
+  :license_area: COOMA RA1
+  :license_id: 388
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Charlotte Pass
+  :callsign: 2SKI
+  :frequency: 91.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132734
+  :license_number: 1567112
+  :site_id: 137424
+  :site_name: Chairlift Head Kangaroo Ridge CHARLOTTE PASS
+  :zone: 55
+  :easting: 618607
+  :northing: 5966491
+  :lat: "-36.4391666666667"
+  :lng: '148.3230555555556'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cooma
+  :callsign: 2SKI
+  :frequency: 97.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 50000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005274
+  :license_number: 1151875
+  :site_id: 40749
+  :site_name: Radio 2XL site MT ROBERTS
+  :zone: 55
+  :easting: 682500
+  :northing: 6015900
+  :lat: "-35.9838888888889"
+  :lng: '149.0241666666667'
+  :state: NSW
+  :bsl: 10345
+  :license_area: COOMA RA1
+  :license_id: 388
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jindabyne
+  :callsign: 2SKI
+  :frequency: 94.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005249
+  :license_number: 1151873
+  :site_id: 9741
+  :site_name: Broadcast Site JINDERBOINE HILL
+  :zone: 55
+  :easting: 649200
+  :northing: 5970100
+  :lat: "-36.4025"
+  :lng: '148.6638888888889'
+  :state: NSW
+  :bsl: 10345
+  :license_area: COOMA RA1
+  :license_id: 388
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Perisher
+  :callsign: 2SKI
+  :frequency: 101.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 240
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005666
+  :license_number: 1152717
+  :site_id: 201689
+  :site_name: Quad Chairlift Top Terminal Back Perisher Mtn PERISHER
+  :zone: 55
+  :easting: 624800
+  :northing: 5970550
+  :lat: "-36.4019444444444"
+  :lng: '148.3916666666667'
+  :state: NSW
+  :bsl: 10345
+  :license_area: COOMA RA1
+  :license_id: 388
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Thredbo
+  :callsign: 2SKI
+  :frequency: 92.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005303
+  :license_number: 1151722
+  :site_id: 9734
+  :site_name: Eagles Nest Restaurant MT CRACKENBACK
+  :zone: 55
+  :easting: 615200
+  :northing: 5960400
+  :lat: "-36.4947222222222"
+  :lng: '148.2861111111111'
+  :state: NSW
+  :bsl: 10345
+  :license_area: COOMA RA1
+  :license_id: 388
+  :operation_hours: 
+  :status: Issued

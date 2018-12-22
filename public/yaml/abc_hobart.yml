@@ -1,0 +1,107 @@
+---
+:title: ABC Hobart
+:transmitters:
+- :band: AM
+  :area: Hobart
+  :callsign: 7ZR
+  :frequency: 936.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 198
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1504
+  :power: 10000
+  :technical_specification_number: 4085001
+  :license_number: 1150207
+  :site_id: 199245
+  :site_name: Broadcast Site RALPHS BAY
+  :zone: 55
+  :easting: 540580
+  :northing: 5247170
+  :lat: "-42.9269444444444"
+  :lng: '147.4972222222222'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: McArthur River Mine
+  :callsign: 8 KIN
+  :frequency: 103.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133675
+  :license_number: 1928016
+  :site_id: 53837
+  :site_name: Mining Communications Hut Off Carpentaria Highway MCARTHUR RIVER MINE
+  :zone: 53
+  :easting: 616959
+  :northing: 8182809
+  :lat: "-16.4330555555556"
+  :lng: '136.0952777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: McArthur River Mine
+  :callsign: 8 ABCRR
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133674
+  :license_number: 1928014
+  :site_id: 53837
+  :site_name: Mining Communications Hut Off Carpentaria Highway MCARTHUR RIVER MINE
+  :zone: 53
+  :easting: 616959
+  :northing: 8182809
+  :lat: "-16.4330555555556"
+  :lng: '136.0952777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: McArthur River Mine
+  :callsign: 8 JJJ
+  :frequency: 106.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 9
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133673
+  :license_number: 1928015
+  :site_id: 53837
+  :site_name: Mining Communications Hut Off Carpentaria Highway MCARTHUR RIVER MINE
+  :zone: 53
+  :easting: 616959
+  :northing: 8182809
+  :lat: "-16.4330555555556"
+  :lng: '136.0952777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

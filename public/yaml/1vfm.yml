@@ -1,0 +1,29 @@
+---
+:title: 1VFM
+:transmitters:
+- :band: FM
+  :area: Tuggeranong
+  :callsign: 1VFM
+  :frequency: 89.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 14
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008236
+  :license_number: 1170239
+  :site_id: 152957
+  :site_name: Broadcast Site Grattan Crt & Comrie St WANNIASSA
+  :zone: 55
+  :easting: 690600
+  :northing: 6080200
+  :lat: "-35.4030555555556"
+  :lng: '149.0988888888889'
+  :state: ACT
+  :bsl: 1150646
+  :license_area: TUGGERANONG RA1
+  :license_id: 827
+  :operation_hours: 
+  :status: Issued

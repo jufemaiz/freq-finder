@@ -1,0 +1,29 @@
+---
+:title: 2GLF
+:transmitters:
+- :band: FM
+  :area: Liverpool
+  :callsign: 2GLF
+  :frequency: 89.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 80
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3046001
+  :license_number: 1139598
+  :site_id: 5110
+  :site_name: Corner Elizabeth Drive and Reservoir Road MOUNT PRITCHARD
+  :zone: 56
+  :easting: 305670
+  :northing: 6245859
+  :lat: "-33.9094444444444"
+  :lng: '150.8980555555556'
+  :state: NSW
+  :bsl: 3046
+  :license_area: LIVERPOOL RA1
+  :license_id: 394
+  :operation_hours: 
+  :status: Issued

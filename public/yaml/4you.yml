@@ -1,0 +1,29 @@
+---
+:title: 4YOU
+:transmitters:
+- :band: FM
+  :area: Rockhampton
+  :callsign: 4YOU
+  :frequency: 98.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007942
+  :license_number: 1385195
+  :site_id: 100043
+  :site_name: New 4YOU Site MT ARCHER
+  :zone: 56
+  :easting: 252285
+  :northing: 7416725
+  :lat: "-23.3402777777778"
+  :lng: '150.5772222222222'
+  :state: QLD
+  :bsl: 1295
+  :license_area: ROCKHAMPTON RA2
+  :license_id: 340
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 5MBS
+:transmitters:
+- :band: FM
+  :area: Adelaide Foothills
+  :callsign: 5MBS
+  :frequency: 99.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 108
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004794
+  :license_number: 1170716
+  :site_id: 22129
+  :site_name: 208 South Terrace ADELAIDE
+  :zone: 54
+  :easting: 281075
+  :northing: 6131357
+  :lat: "-34.9366666666667"
+  :lng: '138.6030555555556'
+  :state: SA
+  :bsl: 1150742
+  :license_area: ADELAIDE FOOTHILLS RA1
+  :license_id: 987
+  :operation_hours: 
+  :status: Issued

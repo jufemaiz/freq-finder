@@ -1,0 +1,29 @@
+---
+:title: York FM
+:transmitters:
+- :band: FM
+  :area: York
+  :callsign: 6YCR
+  :frequency: 101.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005358
+  :license_number: 1170601
+  :site_id: 44729
+  :site_name: CB Repeater Site Mt Bakewell YORK
+  :zone: 50
+  :easting: 477274
+  :northing: 6475898
+  :lat: "-31.8522222222222"
+  :lng: '116.7597222222222'
+  :state: WA
+  :bsl: 10349
+  :license_area: YORK RA1
+  :license_id: 548
+  :operation_hours: 
+  :status: Renewal Pending

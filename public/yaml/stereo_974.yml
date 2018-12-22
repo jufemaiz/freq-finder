@@ -1,0 +1,55 @@
+---
+:title: Stereo 974
+:transmitters:
+- :band: FM
+  :area: Melbourne Western Suburbs
+  :callsign: 3WRB
+  :frequency: 97.4
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 62
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1943001
+  :license_number: 1385183
+  :site_id: 150803
+  :site_name: Broadcast Site TOTTENHAM
+  :zone: 55
+  :easting: 311201
+  :northing: 5813995
+  :lat: "-37.8016666666667"
+  :lng: '144.8552777777778'
+  :state: VIC
+  :bsl: 1943
+  :license_area: MELBOURNE WEST RA1
+  :license_id: 352
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Melbourne Western Suburbs
+  :callsign: 3WRB
+  :frequency: 97.4
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 36
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1943001
+  :license_number: 1156076
+  :site_id: 302387
+  :site_name: Broadcast Site 594 Geelong Rd BROOKLYN
+  :zone: 55
+  :easting: 310240
+  :northing: 5812220
+  :lat: "-37.8175"
+  :lng: '144.8438888888889'
+  :state: VIC
+  :bsl: 1943
+  :license_area: MELBOURNE WEST RA1
+  :license_id: 352
+  :operation_hours: 
+  :status: Issued

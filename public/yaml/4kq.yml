@@ -1,0 +1,29 @@
+---
+:title: 4KQ
+:transmitters:
+- :band: AM
+  :area: Brisbane
+  :callsign: 4KQ
+  :frequency: 693.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 141
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 4165001
+  :license_number: 1385007
+  :site_id: 13410
+  :site_name: Broadcast Site ST HELENA ISLAND
+  :zone: 56
+  :easting: 523200
+  :northing: 6971200
+  :lat: "-27.3822222222222"
+  :lng: '153.2347222222222'
+  :state: QLD
+  :bsl: 4165
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: 
+  :status: Issued

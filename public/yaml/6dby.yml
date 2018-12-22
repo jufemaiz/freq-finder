@@ -1,0 +1,29 @@
+---
+:title: 6DBY
+:transmitters:
+- :band: FM
+  :area: Derby
+  :callsign: 6DBY
+  :frequency: 97.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 80
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001456
+  :license_number: 1170362
+  :site_id: 151766
+  :site_name: Broadcast Site Dampier Tce DERBY
+  :zone: 51
+  :easting: 569594
+  :northing: 8085605
+  :lat: "-17.3136111111111"
+  :lng: '123.6547222222222'
+  :state: WA
+  :bsl: 10033
+  :license_area: DERBY RA1
+  :license_id: 512
+  :operation_hours: 
+  :status: Issued

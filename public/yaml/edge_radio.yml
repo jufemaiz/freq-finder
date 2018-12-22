@@ -1,0 +1,29 @@
+---
+:title: Edge Radio
+:transmitters:
+- :band: FM
+  :area: Hobart South
+  :callsign: 7EDG
+  :frequency: 99.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 42
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010802
+  :license_number: 1170794
+  :site_id: 32801
+  :site_name: Old Outside Broadcast Tower 5-7 Sandy Bay Road HOBART
+  :zone: 55
+  :easting: 526650
+  :northing: 5251510
+  :lat: "-42.8883333333333"
+  :lng: '147.3261111111111'
+  :state: TAS
+  :bsl: 1150787
+  :license_area: HOBART RA3
+  :license_id: 1140
+  :operation_hours: 
+  :status: Issued

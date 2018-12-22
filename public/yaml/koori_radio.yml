@@ -1,0 +1,29 @@
+---
+:title: Koori Radio
+:transmitters:
+- :band: FM
+  :area: Sydney
+  :callsign: 2LND
+  :frequency: 93.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 179
+  :antenna_pattern: DA
+  :maximum_erp: 50000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6228001
+  :license_number: 1170783
+  :site_id: 3493
+  :site_name: 60 Park Street SYDNEY
+  :zone: 56
+  :easting: 334290
+  :northing: 6250277
+  :lat: "-33.8747222222222"
+  :lng: '151.2083333333333'
+  :state: NSW
+  :bsl: 1150111
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Issued

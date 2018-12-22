@@ -1,0 +1,55 @@
+---
+:title: 4K1G
+:transmitters:
+- :band: FM
+  :area: Townsville
+  :callsign: 4KIG
+  :frequency: 107.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 16000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5552001
+  :license_number: 1385227
+  :site_id: 19494
+  :site_name: Main Tower National Broadcast Site MT STUART
+  :zone: 55
+  :easting: 476825
+  :northing: 7860960
+  :lat: "-19.3452777777778"
+  :lng: '146.7794444444445'
+  :state: QLD
+  :bsl: 5552
+  :license_area: TOWNSVILLE RA2
+  :license_id: 413
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Weipa
+  :callsign: 4KIG
+  :frequency: 100.9
+  :purpose: s212 Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004107
+  :license_number: 1155209
+  :site_id: 152872
+  :site_name: Broadcast Site Napranum Community NAPRANUM
+  :zone: 54
+  :easting: 596423
+  :northing: 8597437
+  :lat: "-12.6858333333333"
+  :lng: '141.8877777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

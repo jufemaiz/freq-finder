@@ -1,0 +1,81 @@
+---
+:title: ABC North and West
+:transmitters:
+- :band: AM
+  :area: Leigh Creek South
+  :callsign: 5LC
+  :frequency: 1602.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 140
+  :power: 200
+  :technical_specification_number: 10003203
+  :license_number: 1198416
+  :site_id: 151322
+  :site_name: Broadcasting site SSE of LEIGH CREEK
+  :zone: 54
+  :easting: 250996
+  :northing: 6611752
+  :lat: "-30.6008333333333"
+  :lng: '138.4027777777778'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Port Pirie
+  :callsign: 5CK
+  :frequency: 639.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 183
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1250
+  :power: 10000
+  :technical_specification_number: 4053001
+  :license_number: 1198408
+  :site_id: 24593
+  :site_name: Telstra Site CRYSTAL BROOK
+  :zone: 54
+  :easting: 244303
+  :northing: 6306935
+  :lat: "-33.3463888888889"
+  :lng: '138.2525'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Woomera
+  :callsign: 5WM
+  :frequency: 1584.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 21
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 70
+  :power: 50
+  :technical_specification_number: 10003201
+  :license_number: 1198415
+  :site_id: 151286
+  :site_name: Broadcast Site WOOMERA
+  :zone: 53
+  :easting: 673948
+  :northing: 6546596
+  :lat: "-31.2016666666667"
+  :lng: '136.8255555555556'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

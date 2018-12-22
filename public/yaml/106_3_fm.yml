@@ -1,0 +1,29 @@
+---
+:title: 106.3 FM
+:transmitters:
+- :band: FM
+  :area: Townsville
+  :callsign: 4RGT
+  :frequency: 106.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6430001
+  :license_number: 1155513
+  :site_id: 19490
+  :site_name: QTV Tower MT STUART
+  :zone: 55
+  :easting: 477016
+  :northing: 7861063
+  :lat: "-19.3441666666667"
+  :lng: '146.7811111111111'
+  :state: QLD
+  :bsl: 1150009
+  :license_area: TOWNSVILLE RA1
+  :license_id: 545
+  :operation_hours: 
+  :status: Issued

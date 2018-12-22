@@ -1,0 +1,29 @@
+---
+:title: ABC Alice Springs
+:transmitters:
+- :band: AM
+  :area: Alice Springs
+  :callsign: 8AL
+  :frequency: 783.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 46
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 10003114
+  :license_number: 1150891
+  :site_id: 2467
+  :site_name: Broadcast Site Lot 3697 South Stuart Hwy ALICE SPRINGS
+  :zone: 53
+  :easting: 384950
+  :northing: 7370880
+  :lat: "-23.7688888888889"
+  :lng: '133.8708333333334'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

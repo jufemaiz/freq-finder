@@ -1,0 +1,29 @@
+---
+:title: 3MDR
+:transmitters:
+- :band: FM
+  :area: Mountain Districts
+  :callsign: 3MDR
+  :frequency: 97.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5561001
+  :license_number: 1385165
+  :site_id: 302567
+  :site_name: Water Tower Ridge Rd KALISTA
+  :zone: 55
+  :easting: 359420
+  :northing: 5803546
+  :lat: "-37.9047222222222"
+  :lng: '145.4008333333334'
+  :state: VIC
+  :bsl: 5561
+  :license_area: MOUNTAIN DISTRICTS RA1
+  :license_id: 742
+  :operation_hours: 
+  :status: Issued

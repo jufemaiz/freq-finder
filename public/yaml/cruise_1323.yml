@@ -1,0 +1,55 @@
+---
+:title: Cruise 1323
+:transmitters:
+- :band: AM
+  :area: Adelaide
+  :callsign: 5DN
+  :frequency: 1323.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 84
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 465
+  :power: 2000
+  :technical_specification_number: 4190001
+  :license_number: 1384941
+  :site_id: 22857
+  :site_name: MF Broadcast Site Cavan Road GEPPS CROSS
+  :zone: 54
+  :easting: 279910
+  :northing: 6141915
+  :lat: "-34.8411111111111"
+  :lng: '138.5930555555556'
+  :state: SA
+  :bsl: 4190
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Angaston
+  :callsign: 5DN
+  :frequency: 94.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 5
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008574
+  :license_number: 1151707
+  :site_id: 24206
+  :site_name: Tappa Pass 1.5 km NE of ANGASTON
+  :zone: 54
+  :easting: 321978
+  :northing: 6181299
+  :lat: "-34.4944444444445"
+  :lng: '139.0608333333333'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

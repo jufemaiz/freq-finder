@@ -1,0 +1,29 @@
+---
+:title: Umeewarra Radio
+:transmitters:
+- :band: FM
+  :area: Port Augusta
+  :callsign: 5UMA
+  :frequency: 89.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 12
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133166
+  :license_number: 1171443
+  :site_id: 24519
+  :site_name: Major Radio Site Trig Point Mount Brown 20km South of QUORN
+  :zone: 54
+  :easting: 218784
+  :northing: 6399324
+  :lat: "-32.5075"
+  :lng: '138.0066666666667'
+  :state: SA
+  :bsl: 1130059
+  :license_area: PORT AUGUSTA RA1
+  :license_id: 1296
+  :operation_hours: 
+  :status: Issued

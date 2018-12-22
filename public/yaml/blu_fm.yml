@@ -1,0 +1,29 @@
+---
+:title: BLU FM
+:transmitters:
+- :band: FM
+  :area: Katoomba
+  :callsign: 2BLU
+  :frequency: 89.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 160
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5661001
+  :license_number: 1150479
+  :site_id: 10341
+  :site_name: Blue Mountains City Council 2 Civic Place KATOOMBA
+  :zone: 56
+  :easting: 250858
+  :northing: 6266479
+  :lat: "-33.7122222222222"
+  :lng: '150.3116666666667'
+  :state: NSW
+  :bsl: 1150185
+  :license_area: KATOOMBA RA2
+  :license_id: 710
+  :operation_hours: 
+  :status: Issued

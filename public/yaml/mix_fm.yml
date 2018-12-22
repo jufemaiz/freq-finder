@@ -1,0 +1,81 @@
+---
+:title: Mix FM
+:transmitters:
+- :band: FM
+  :area: Maryborough (Qld)
+  :callsign: 4MBB
+  :frequency: 103.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007994
+  :license_number: 1156803
+  :site_id: 153198
+  :site_name: Broadcast Site Scrub Hill NIKENBAH
+  :zone: 56
+  :easting: 480650
+  :northing: 7200550
+  :lat: "-25.3111111111111"
+  :lng: '152.8075'
+  :state: QLD
+  :bsl: 1150054
+  :license_area: MARYBOROUGH (QLD) RA1
+  :license_id: 454
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Nambour
+  :callsign: 4SSS
+  :frequency: 92.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4184601
+  :license_number: 1384874
+  :site_id: 151471
+  :site_name: Broadcast Site BALD KNOB
+  :zone: 56
+  :easting: 491799
+  :northing: 7036600
+  :lat: "-26.7916666666667"
+  :lng: '152.9172222222222'
+  :state: QLD
+  :bsl: 4184
+  :license_area: NAMBOUR RA1
+  :license_id: 458
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Noosa/Tewantin
+  :callsign: 4SSS
+  :frequency: 103.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010282
+  :license_number: 1157259
+  :site_id: 39913
+  :site_name: Broadcast Site Sunrise Rd TEWANTIN
+  :zone: 56
+  :easting: 500100
+  :northing: 7077900
+  :lat: "-26.4188888888889"
+  :lng: '153.0008333333333'
+  :state: QLD
+  :bsl: 4184
+  :license_area: NAMBOUR RA1
+  :license_id: 458
+  :operation_hours: 
+  :status: Issued

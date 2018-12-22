@@ -1,0 +1,55 @@
+---
+:title: 4TO
+:transmitters:
+- :band: FM
+  :area: Bowen
+  :callsign: 4TOO
+  :frequency: 98.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4185002
+  :license_number: 1154095
+  :site_id: 19235
+  :site_name: Broadcast and Pagex Site SPROLE CASTLE
+  :zone: 55
+  :easting: 615500
+  :northing: 7788550
+  :lat: "-19.9961111111111"
+  :lng: '148.1041666666667'
+  :state: QLD
+  :bsl: 4185
+  :license_area: TOWNSVILLE RA1
+  :license_id: 545
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Townsville
+  :callsign: 4TOO
+  :frequency: 102.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4185001
+  :license_number: 1384842
+  :site_id: 480225
+  :site_name: Hot FM Mast QTV Site MT STUART
+  :zone: 55
+  :easting: 477031
+  :northing: 7861083
+  :lat: "-19.3441666666667"
+  :lng: '146.7813888888889'
+  :state: QLD
+  :bsl: 4185
+  :license_area: TOWNSVILLE RA1
+  :license_id: 545
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: FM 107.5
+:transmitters:
+- :band: FM
+  :area: Orange
+  :callsign: 2OCB
+  :frequency: 107.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004546
+  :license_number: 1153677
+  :site_id: 35066
+  :site_name: Broadcast Site MT CANOBOLAS
+  :zone: 55
+  :easting: 684425
+  :northing: 6308875
+  :lat: "-33.3433333333333"
+  :lng: '148.9816666666667'
+  :state: NSW
+  :bsl: 10287
+  :license_area: ORANGE RA1
+  :license_id: 370
+  :operation_hours: 
+  :status: Issued

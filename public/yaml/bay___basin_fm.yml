@@ -1,0 +1,29 @@
+---
+:title: Bay & Basin FM
+:transmitters:
+- :band: FM
+  :area: Sanctuary Point
+  :callsign: 2BAB
+  :frequency: 92.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013000
+  :license_number: 1171136
+  :site_id: 9080
+  :site_name: Broadcast Planning Site Water Reservoir VINCENTIA
+  :zone: 56
+  :easting: 288260
+  :northing: 6114900
+  :lat: "-35.0861111111111"
+  :lng: '150.6772222222222'
+  :state: NSW
+  :bsl: 1150818
+  :license_area: SANCTUARY POINT RA1
+  :license_id: 1193
+  :operation_hours: 
+  :status: Renewal Pending

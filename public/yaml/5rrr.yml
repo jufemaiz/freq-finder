@@ -1,0 +1,55 @@
+---
+:title: 5RRR
+:transmitters:
+- :band: FM
+  :area: Mintabie
+  :callsign: 5SBS
+  :frequency: 105.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 19
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014360
+  :license_number: 1159122
+  :site_id: 151448
+  :site_name: Broadcast site MINTABIE
+  :zone: 53
+  :easting: 331794
+  :northing: 6977331
+  :lat: "-27.3166666666667"
+  :lng: '133.2997222222222'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Woomera
+  :callsign: 5RRR
+  :frequency: 107.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 48
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002896
+  :license_number: 1139628
+  :site_id: 135192
+  :site_name: Woomera Access Radio Dardurr Crescent WOOMERA
+  :zone: 53
+  :easting: 673729
+  :northing: 6546530
+  :lat: "-31.2022222222222"
+  :lng: '136.8233333333333'
+  :state: SA
+  :bsl: 10155
+  :license_area: WOOMERA RA1
+  :license_id: 473
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: 7BU
+:transmitters:
+- :band: AM
+  :area: Burnie
+  :callsign: 7BU
+  :frequency: 558.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 85
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 10005340
+  :license_number: 1384965
+  :site_id: 130231
+  :site_name: 7BU Transmitter Site TABLE CAPE
+  :zone: 55
+  :easting: 392500
+  :northing: 5464500
+  :lat: "-40.9633333333333"
+  :lng: '145.7225'
+  :state: TAS
+  :bsl: 4219
+  :license_area: BURNIE RA1
+  :license_id: 490
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Smithton
+  :callsign: 7BU
+  :frequency: 94.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013265
+  :license_number: 1159613
+  :site_id: 152971
+  :site_name: Broadcast/Hydro Site Tier Hill Massey St SMITHTON
+  :zone: 55
+  :easting: 342295
+  :northing: 5476725
+  :lat: "-40.845"
+  :lng: '145.1291666666667'
+  :state: TAS
+  :bsl: 4219
+  :license_area: BURNIE RA1
+  :license_id: 490
+  :operation_hours: 
+  :status: Issued

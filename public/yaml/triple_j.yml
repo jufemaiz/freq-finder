@@ -1,0 +1,5912 @@
+---
+:title: Triple J
+:transmitters:
+- :band: FM
+  :area: Adelaide
+  :callsign: 5JJJ
+  :frequency: 105.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 104
+  :antenna_pattern: OD
+  :maximum_erp: 32000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133189
+  :license_number: 1198426
+  :site_id: 23139
+  :site_name: ntl Tower Summit Road CRAFERS
+  :zone: 54
+  :easting: 290707
+  :northing: 6126723
+  :lat: "-34.9802777777778"
+  :lng: '138.7069444444445'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Adelaide Foothills
+  :callsign: 5JJJ
+  :frequency: 95.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 90
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3997002
+  :license_number: 1150209
+  :site_id: 22155
+  :site_name: 77 Grenfell Street ADELAIDE
+  :zone: 54
+  :easting: 280900
+  :northing: 6132500
+  :lat: "-34.9261111111111"
+  :lng: '138.6011111111111'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Adelaide River
+  :callsign: 8JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 17
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005143
+  :license_number: 1159562
+  :site_id: 1736
+  :site_name: Broadcast Site 1 km SE of ADELAIDE RIVER
+  :zone: 52
+  :easting: 728395
+  :northing: 8534687
+  :lat: "-13.2458333333333"
+  :lng: '131.1077777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Alice Springs
+  :callsign: 8JJJ
+  :frequency: 94.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 13
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003990
+  :license_number: 1198406
+  :site_id: 53447
+  :site_name: Air Services Tower West Gap ALICE SPRINGS
+  :zone: 53
+  :easting: 383367
+  :northing: 7375870
+  :lat: "-23.7236111111111"
+  :lng: '133.8555555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ali Curung
+  :callsign: 8JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130415
+  :license_number: 1141775
+  :site_id: 3026
+  :site_name: Broadcast Site ALI CURUNG
+  :zone: 53
+  :easting: 439000
+  :northing: 7678000
+  :lat: "-20.9975"
+  :lng: '134.4130555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Armidale
+  :callsign: 2JJJ
+  :frequency: 101.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007939
+  :license_number: 1153032
+  :site_id: 6645
+  :site_name: Broadcast Bldg Little Duval ARMIDALE
+  :zone: 56
+  :easting: 365300
+  :northing: 6638300
+  :lat: "-30.3794444444444"
+  :lng: '151.5980555555556'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Balgo
+  :callsign: 6JJJ
+  :frequency: 102.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130597
+  :license_number: 1142647
+  :site_id: 151708
+  :site_name: Broadcast Site BALGO
+  :zone: 52
+  :easting: 393624
+  :northing: 7772305
+  :lat: "-20.1433333333333"
+  :lng: '127.9819444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ballarat (Lookout Hill)
+  :callsign: 3JJJ
+  :frequency: 107.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 93
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003796
+  :license_number: 1153093
+  :site_id: 36240
+  :site_name: Broadcast Tower LOOKOUT HILL
+  :zone: 54
+  :easting: 699150
+  :northing: 5871250
+  :lat: "-37.2838888888889"
+  :lng: '143.2463888888889'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ballera
+  :callsign: 4JJJ
+  :frequency: 104.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7060001
+  :license_number: 1155960
+  :site_id: 14943
+  :site_name: Santos Site BALLERA
+  :zone: 54
+  :easting: 579449
+  :northing: 6968845
+  :lat: "-27.4011111111111"
+  :lng: '141.8036111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Barcaldine
+  :callsign: 4JJJ
+  :frequency: 105.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 52
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132871
+  :license_number: 1900045
+  :site_id: 18096
+  :site_name: Water Tower Pine & Yew Sts BARCALDINE
+  :zone: 55
+  :easting: 325676
+  :northing: 7393646
+  :lat: "-23.5580555555556"
+  :lng: '145.2919444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Barrow Island
+  :callsign: 6JJJ
+  :frequency: 105.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133363
+  :license_number: 1917704
+  :site_id: 9010301
+  :site_name: Construction Village Barrow Island BARROW ISLAND
+  :zone: 50
+  :easting: 337359
+  :northing: 7697080
+  :lat: "-20.8188888888889"
+  :lng: '115.4369444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Barunga
+  :callsign: 8JJJ
+  :frequency: 98.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130633
+  :license_number: 1143017
+  :site_id: 2182
+  :site_name: Broadcast Site BARUNGA
+  :zone: 53
+  :easting: 270000
+  :northing: 8393000
+  :lat: "-14.5261111111111"
+  :lng: '132.8655555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Batchelor
+  :callsign: 8JJJ
+  :frequency: 92.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130719
+  :license_number: 1159649
+  :site_id: 1707
+  :site_name: Broadcast Site Mardango Crescent BATCHELOR
+  :zone: 52
+  :easting: 719776
+  :northing: 8556935
+  :lat: "-13.0455555555556"
+  :lng: '131.0263888888889'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bathurst (City)
+  :callsign: 2JJJ
+  :frequency: 95.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007024
+  :license_number: 1156596
+  :site_id: 10621
+  :site_name: Telstra Radio Terminal Reid Park MT PANORAMA
+  :zone: 55
+  :easting: 736648
+  :northing: 6295690
+  :lat: "-33.4519444444445"
+  :lng: '149.5458333333333'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bedourie
+  :callsign: 4JJJ
+  :frequency: 99.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 14
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 9661001
+  :license_number: 1147662
+  :site_id: 152695
+  :site_name: Broadcast Site Water Tower Wodonga St BEDOURIE
+  :zone: 54
+  :easting: 344530
+  :northing: 7304670
+  :lat: "-24.3633333333333"
+  :lng: '139.4672222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bega/Cooma
+  :callsign: 2JJJ
+  :frequency: 100.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 116
+  :antenna_pattern: DA
+  :maximum_erp: 112000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7631001
+  :license_number: 1153094
+  :site_id: 9795
+  :site_name: Broadcast/Comm Site BROWN MOUNTAIN
+  :zone: 55
+  :easting: 713160
+  :northing: 5946872
+  :lat: "-36.5997222222222"
+  :lng: '149.3830555555556'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bendigo
+  :callsign: 3JJJ
+  :frequency: 90.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 101
+  :antenna_pattern: DA
+  :maximum_erp: 250000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003808
+  :license_number: 1153095
+  :site_id: 11742
+  :site_name: Broadcast Tower 26 km S of Bendigo MT ALEXANDER
+  :zone: 55
+  :easting: 260345
+  :northing: 5902420
+  :lat: "-36.9936111111111"
+  :lng: '144.3069444444445'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Beswick
+  :callsign: 8JJJ
+  :frequency: 102.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130631
+  :license_number: 1143018
+  :site_id: 2176
+  :site_name: Broadcast Site BESWICK
+  :zone: 53
+  :easting: 296500
+  :northing: 8390000
+  :lat: "-14.5552777777778"
+  :lng: '133.1111111111111'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Billiluna
+  :callsign: 6JJJ
+  :frequency: 105.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 15
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130725
+  :license_number: 1143464
+  :site_id: 151721
+  :site_name: Broadcast Site Station Homestead BILLILUNA
+  :zone: 52
+  :easting: 358375
+  :northing: 7837749
+  :lat: "-19.5497222222222"
+  :lng: '127.6497222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Birdsville
+  :callsign: 4JJJ
+  :frequency: 102.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 14
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 9665001
+  :license_number: 1147663
+  :site_id: 151514
+  :site_name: Broadcast Site Water Tower Eyre Developmental Road BIRDSVILLE
+  :zone: 54
+  :easting: 334830
+  :northing: 7134540
+  :lat: "-25.8980555555556"
+  :lng: '139.3511111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Blackwater Mine
+  :callsign: 4JJJ
+  :frequency: 102.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133522
+  :license_number: 1920167
+  :site_id: 17768
+  :site_name: Ramp 48 BLACKWATER MINE
+  :zone: 55
+  :easting: 689629
+  :northing: 7368078
+  :lat: "-23.7872222222222"
+  :lng: '148.8611111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bollon
+  :callsign: 4JJJ
+  :frequency: 99.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131512
+  :license_number: 1188101
+  :site_id: 136166
+  :site_name: Broadcast Site 14 Main Street Bollon
+  :zone: 55
+  :easting: 547240
+  :northing: 6898940
+  :lat: "-28.0336111111111"
+  :lng: '147.4805555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Borden
+  :callsign: 6JJJ
+  :frequency: 103.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 22
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130804
+  :license_number: 1145462
+  :site_id: 153083
+  :site_name: Broadcast Site Community Sports Centre BORDEN
+  :zone: 50
+  :easting: 616863
+  :northing: 6227880
+  :lat: "-34.0830555555556"
+  :lng: '118.2663888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Borroloola
+  :callsign: 8JJJ
+  :frequency: 99.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130601
+  :license_number: 1142646
+  :site_id: 2239
+  :site_name: Broadcast Site Robinson Road BORROLOOLA
+  :zone: 53
+  :easting: 639609
+  :northing: 8224523
+  :lat: "-16.055"
+  :lng: '136.305'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Boulia
+  :callsign: 4JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132614
+  :license_number: 1564116
+  :site_id: 460880
+  :site_name: Water Tower Herbert St BOULIA
+  :zone: 54
+  :easting: 387335
+  :northing: 7465810
+  :lat: "-22.9119444444444"
+  :lng: '139.9013888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bourke
+  :callsign: 2JJJ
+  :frequency: 100.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130812
+  :license_number: 1145473
+  :site_id: 250628
+  :site_name: Rural Fire Service site MT OXLEY
+  :zone: 55
+  :easting: 426710
+  :northing: 6658800
+  :lat: "-30.1997222222222"
+  :lng: '146.2383333333333'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bremer Bay
+  :callsign: 6JJJ
+  :frequency: 105.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130176
+  :license_number: 1159655
+  :site_id: 601436
+  :site_name: WABFB Site Tooreburrup Hill BREMER BAY
+  :zone: 50
+  :easting: 717800
+  :northing: 6186200
+  :lat: "-34.4427777777778"
+  :lng: '119.3705555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Brisbane
+  :callsign: 4JJJ
+  :frequency: 107.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 124
+  :antenna_pattern: DA
+  :maximum_erp: 96000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4179001
+  :license_number: 1150333
+  :site_id: 12752
+  :site_name: Channel 2 Site MOUNT COOT-THA
+  :zone: 56
+  :easting: 494700
+  :northing: 6961920
+  :lat: "-27.4661111111111"
+  :lng: '152.9463888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Brockman 4 Mine
+  :callsign: 6JJJ
+  :frequency: 103.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 27
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133398
+  :license_number: 1919560
+  :site_id: 9004054
+  :site_name: RBS-1 Brockman 4 Mine, 56 km NW of TOM PRICE
+  :zone: 50
+  :easting: 523588
+  :northing: 7501206
+  :lat: "-22.5958333333333"
+  :lng: '117.2294444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Brockman Village
+  :callsign: 6JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013182
+  :license_number: 1158592
+  :site_id: 601974
+  :site_name: Broadcast Site Brockman Mine Village RBS TOM PRICE
+  :zone: 50
+  :easting: 538960
+  :northing: 7524480
+  :lat: "-22.385"
+  :lng: '117.3783333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Broken Hill
+  :callsign: 2JJJ
+  :frequency: 102.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 46
+  :antenna_pattern: OD
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004135
+  :license_number: 1153099
+  :site_id: 40467
+  :site_name: Broadcasting site Rocky Hill BROKEN HILL
+  :zone: 54
+  :easting: 541500
+  :northing: 6464680
+  :lat: "-31.9527777777778"
+  :lng: '141.4388888888889'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Broome
+  :callsign: 6JJJ
+  :frequency: 94.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131045
+  :license_number: 1159521
+  :site_id: 153632
+  :site_name: Broadcast Site Shire of Broome Lot 1816 Farrell Street BROOME
+  :zone: 51
+  :easting: 417264
+  :northing: 8013072
+  :lat: "-17.9688888888889"
+  :lng: '122.2186111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bulman
+  :callsign: 8JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130644
+  :license_number: 1193057
+  :site_id: 2193
+  :site_name: Broadcast Site BULMAN
+  :zone: 53
+  :easting: 427900
+  :northing: 8489000
+  :lat: "-13.6669444444444"
+  :lng: '134.3330555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bunbury
+  :callsign: 6JJJ
+  :frequency: 94.1
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 156
+  :antenna_pattern: OD
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002142
+  :license_number: 1153101
+  :site_id: 41032
+  :site_name: Broadcast Site Mt Lennard BUNBURY
+  :zone: 50
+  :easting: 399100
+  :northing: 6304200
+  :lat: "-33.3963888888889"
+  :lng: '115.915'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Burketown
+  :callsign: 4JJJ
+  :frequency: 97.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 527001
+  :license_number: 1157411
+  :site_id: 40701
+  :site_name: Broadcast Site cnr Anthony and Burke Street BURKETOWN
+  :zone: 54
+  :easting: 345716
+  :northing: 8037786
+  :lat: "-17.7416666666667"
+  :lng: '139.5447222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cadia Mine Site
+  :callsign: 2JJJ
+  :frequency: 96.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132773
+  :license_number: 1900640
+  :site_id: 203459
+  :site_name: Main Comms Hut Cadia Minesite CADIA
+  :zone: 55
+  :easting: 684511
+  :northing: 6296218
+  :lat: "-33.4575"
+  :lng: '148.9852777777778'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cairns
+  :callsign: 4JJJ
+  :frequency: 107.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 53
+  :antenna_pattern: OD
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007421
+  :license_number: 1198741
+  :site_id: 21158
+  :site_name: Radio Terminal 38 km SSE of Cairns MT BELLENDEN KER
+  :zone: 55
+  :easting: 378034
+  :northing: 8090678
+  :lat: "-17.2655555555556"
+  :lng: '145.8525'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cairns North
+  :callsign: 4JJJ
+  :frequency: 97.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 37
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007430
+  :license_number: 1151779
+  :site_id: 150281
+  :site_name: Broadcast Site BUCHAN POINT
+  :zone: 55
+  :easting: 357300
+  :northing: 8148900
+  :lat: "-16.7383333333333"
+  :lng: '145.6613888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Canberra
+  :callsign: 2JJJ
+  :frequency: 101.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 147
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3999601
+  :license_number: 1198286
+  :site_id: 9580
+  :site_name: Telecom Tower BLACK MOUNTAIN
+  :zone: 55
+  :easting: 690683
+  :northing: 6094201
+  :lat: "-35.2769444444444"
+  :lng: '149.0963888888889'
+  :state: ACT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cannington Mine McKinlay
+  :callsign: 4JJJ
+  :frequency: 99.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007479
+  :license_number: 1140041
+  :site_id: 152469
+  :site_name: Broadcast Site BHP Cannington Mine Via MCKINLAY
+  :zone: 54
+  :easting: 490760
+  :northing: 7585300
+  :lat: "-21.8361111111111"
+  :lng: '140.9105555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Carnamah
+  :callsign: 6JJJ
+  :frequency: 99.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 5
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132970
+  :license_number: 1904733
+  :site_id: 30700
+  :site_name: Radio Site Rubbish Tip Hill Radhill RD CARNAMAH
+  :zone: 50
+  :easting: 391374
+  :northing: 6714197
+  :lat: "-29.6972222222222"
+  :lng: '115.8769444444444'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Carnarvon
+  :callsign: 6JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001068
+  :license_number: 1157286
+  :site_id: 153112
+  :site_name: Broadcast Site OTC Tracking Station CARNARVON
+  :zone: 49
+  :easting: 773144
+  :northing: 7246753
+  :lat: "-24.8697222222222"
+  :lng: '113.7030555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Central Agricultural
+  :callsign: 6JJJ
+  :frequency: 98.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 140
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000031
+  :license_number: 1153435
+  :site_id: 28153
+  :site_name: TV Tower NTA Site Doodenanning Road MAWSON
+  :zone: 50
+  :easting: 517793
+  :northing: 6461130
+  :lat: "-31.9855555555556"
+  :lng: '117.1883333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Central Tablelands
+  :callsign: 2JJJ
+  :frequency: 101.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 63
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004072
+  :license_number: 1153106
+  :site_id: 35066
+  :site_name: Broadcast Site MT CANOBOLAS
+  :zone: 55
+  :easting: 684425
+  :northing: 6308875
+  :lat: "-33.3433333333333"
+  :lng: '148.9816666666667'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Central Western Slopes
+  :callsign: 2JJJ
+  :frequency: 102.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 114
+  :antenna_pattern: DA
+  :maximum_erp: 220000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001860
+  :license_number: 1153107
+  :site_id: 151279
+  :site_name: Broadcast Site MT CENN CRUAICH
+  :zone: 55
+  :easting: 692645
+  :northing: 6530745
+  :lat: "-31.3416666666667"
+  :lng: '149.025'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Channar Mine
+  :callsign: 6JJJ
+  :frequency: 100.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013263
+  :license_number: 1158595
+  :site_id: 48307
+  :site_name: Channar Mine Site D PARABURDOO
+  :zone: 50
+  :easting: 580250
+  :northing: 7423781
+  :lat: "-23.2933333333333"
+  :lng: '117.7847222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Channel Point
+  :callsign: 8JJJ
+  :frequency: 96.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010791
+  :license_number: 1156511
+  :site_id: 153186
+  :site_name: Broadcast Site CHANNEL POINT
+  :zone: 52
+  :easting: 622180
+  :northing: 8544100
+  :lat: "-13.1669444444444"
+  :lng: '130.1272222222222'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Christmas Creek Mine
+  :callsign: 6JJJ
+  :frequency: 94.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 300
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1134117
+  :license_number: 1934049
+  :site_id: 9011556
+  :site_name: Harridan Hill RBS TPI RBS Christmas Creek Mine, 285km SSE of PORT HEDLAND
+  :zone: 50
+  :easting: 776032
+  :northing: 7526502
+  :lat: "-22.3452777777778"
+  :lng: '119.68'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Christmas Island
+  :callsign: 6JJJ
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005572
+  :license_number: 1152344
+  :site_id: 150512
+  :site_name: Broadcast Site Drumsite CHRISTMAS ISLAND
+  :zone: 48
+  :easting: 573271
+  :northing: 8846595
+  :lat: "-10.4330555555556"
+  :lng: '105.6694444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cloncurry
+  :callsign: 4JJJ
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 583001
+  :license_number: 1156024
+  :site_id: 150102
+  :site_name: Water Tower Phillips Street CLONCURRY
+  :zone: 54
+  :easting: 447879
+  :northing: 7709103
+  :lat: "-20.7166666666667"
+  :lng: '140.4991666666667'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cloudbreak Mine
+  :callsign: 6JJJ
+  :frequency: 103.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 300
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132872
+  :license_number: 1568034
+  :site_id: 137574
+  :site_name: Broadcast Tower Comms Site CLOUDBREAK MINE
+  :zone: 50
+  :easting: 747385
+  :northing: 7529456
+  :lat: "-22.3227777777778"
+  :lng: '119.4013888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cobar
+  :callsign: 2JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 8
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130146
+  :license_number: 1159660
+  :site_id: 11153
+  :site_name: Broadcast Site Fort Bourke Hill COBAR
+  :zone: 55
+  :easting: 391260
+  :northing: 6512330
+  :lat: "-31.5186111111111"
+  :lng: '145.8547222222222'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Coober Pedy
+  :callsign: 5JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 150
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131048
+  :license_number: 1147344
+  :site_id: 153004
+  :site_name: Broadcast Site Area School COOBER PEDY
+  :zone: 53
+  :easting: 476032
+  :northing: 6790470
+  :lat: "-29.0136111111111"
+  :lng: '134.7538888888889'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Crookwell
+  :callsign: 2JJJ
+  :frequency: 91.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131071
+  :license_number: 1146066
+  :site_id: 41454
+  :site_name: Hay Street Reservoir CROOKWELL
+  :zone: 55
+  :easting: 728075
+  :northing: 6184610
+  :lat: "-34.4547222222222"
+  :lng: '149.4825'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cunnamulla
+  :callsign: 4JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130596
+  :license_number: 1143013
+  :site_id: 152947
+  :site_name: Broadcast Site Council Water Tower 5 Watson St CUNNAMULLA
+  :zone: 55
+  :easting: 370888
+  :northing: 6894625
+  :lat: "-28.0672222222222"
+  :lng: '145.6858333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Currie
+  :callsign: 7JJJ
+  :frequency: 98.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131424
+  :license_number: 1147345
+  :site_id: 138162
+  :site_name: Council Site Tower Hill CURRIE
+  :zone: 55
+  :easting: 231027
+  :northing: 5576678
+  :lat: "-39.9169444444444"
+  :lng: '143.8527777777778'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Daly River
+  :callsign: 8JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130651
+  :license_number: 1142645
+  :site_id: 41313
+  :site_name: Broadcast Site Daly River Mission DALY RIVER
+  :zone: 52
+  :easting: 682503
+  :northing: 8479015
+  :lat: "-13.7522222222222"
+  :lng: '130.6877777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Dampier
+  :callsign: 6JJJ
+  :frequency: 99.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010376
+  :license_number: 1155863
+  :site_id: 40414
+  :site_name: Broadcast/Comm Site Kangaroo Hill DAMPIER
+  :zone: 50
+  :easting: 471407
+  :northing: 7715688
+  :lat: "-20.6577777777778"
+  :lng: '116.7252777777778'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Darling Downs
+  :callsign: 4JJJ
+  :frequency: 104.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 137
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1157001
+  :license_number: 1151713
+  :site_id: 16355
+  :site_name: Broadcast Australia Site MT MOWBULLAN
+  :zone: 56
+  :easting: 361650
+  :northing: 7024550
+  :lat: "-26.8938888888889"
+  :lng: '151.6069444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Darwin
+  :callsign: 8JJJ
+  :frequency: 103.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 32000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003328
+  :license_number: 1150182
+  :site_id: 1207
+  :site_name: Broadcast Site Section 4456 (100) Deloraine Road BERRIMAH
+  :zone: 52
+  :easting: 713900
+  :northing: 8626700
+  :lat: "-12.4152777777778"
+  :lng: '130.9675'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Denham
+  :callsign: 6JJJ
+  :frequency: 103.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001083
+  :license_number: 1155764
+  :site_id: 31181
+  :site_name: Telstra Radio Terminal Monkey Mia Rd DENHAM
+  :zone: 49
+  :easting: 754660
+  :northing: 7130080
+  :lat: "-25.9252777777778"
+  :lng: '113.5422222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Derby
+  :callsign: 6JJJ
+  :frequency: 105.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 22
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001451
+  :license_number: 1145470
+  :site_id: 137441
+  :site_name: Derby Wharf Reserve 26818 Jetty Rd DERBY DERBY
+  :zone: 51
+  :easting: 564651
+  :northing: 8087825
+  :lat: "-17.2936111111111"
+  :lng: '123.6080555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Dirranbandi
+  :callsign: 4JJJ
+  :frequency: 96.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131524
+  :license_number: 1188051
+  :site_id: 15468
+  :site_name: Water Tower DIRRANBANDI
+  :zone: 55
+  :easting: 619250
+  :northing: 6837250
+  :lat: "-28.5861111111111"
+  :lng: '148.2194444444444'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Eaglefield Coal Mine
+  :callsign: 4JJJ
+  :frequency: 98.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131076
+  :license_number: 1181009
+  :site_id: 135962
+  :site_name: Eaglefield Coal Mine North Suttor Development Road Via GLENDEN
+  :zone: 55
+  :easting: 598893
+  :northing: 7603113
+  :lat: "-21.6722222222222"
+  :lng: '147.9558333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Einsleigh
+  :callsign: 4JJJ
+  :frequency: 93.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131133
+  :license_number: 1180796
+  :site_id: 199236
+  :site_name: Broadcast Site Railway Station EINASLEIGH
+  :zone: 55
+  :easting: 192600
+  :northing: 7950200
+  :lat: "-18.5161111111111"
+  :lng: '144.0886111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ernest Henry Mine
+  :callsign: 4JJJ
+  :frequency: 89.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 5
+  :antenna_pattern: OD
+  :maximum_erp: 5
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010923
+  :license_number: 1156701
+  :site_id: 480317
+  :site_name: Crusher Control Room ERNEST HENRY MINE
+  :zone: 54
+  :easting: 470042
+  :northing: 7739630
+  :lat: "-20.4413888888889"
+  :lng: '140.7127777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Esperance
+  :callsign: 6JJJ
+  :frequency: 105.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 82
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004992
+  :license_number: 1154125
+  :site_id: 30253
+  :site_name: Telstra / NTA Site Wireless Hill ESPERANCE
+  :zone: 51
+  :easting: 397651
+  :northing: 6250986
+  :lat: "-33.8761111111111"
+  :lng: '121.8930555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Exmouth
+  :callsign: 6JJJ
+  :frequency: 98.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000719
+  :license_number: 1152836
+  :site_id: 153134
+  :site_name: Broadcast Site Welch St EXMOUTH
+  :zone: 50
+  :easting: 203494
+  :northing: 7570440
+  :lat: "-21.9452777777778"
+  :lng: '114.1291666666667'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Forsayth
+  :callsign: 4JJJ
+  :frequency: 103.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130359
+  :license_number: 1180800
+  :site_id: 21432
+  :site_name: QR Site FORSAYTH
+  :zone: 54
+  :easting: 774531
+  :northing: 7942663
+  :lat: "-18.5888888888889"
+  :lng: '143.6011111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gairdner
+  :callsign: 6JJJ
+  :frequency: 104.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001089
+  :license_number: 1159654
+  :site_id: 28561
+  :site_name: TV Broadcast Site Southeast of GAIRDNER
+  :zone: 50
+  :easting: 685700
+  :northing: 6210100
+  :lat: "-34.2333333333333"
+  :lng: '119.0161111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Galiwinku
+  :callsign: 8JJJ
+  :frequency: 105.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130726
+  :license_number: 1143465
+  :site_id: 1592
+  :site_name: Broadcast Site Galiwinku ELCHO ISLAND
+  :zone: 53
+  :easting: 562197
+  :northing: 8670797
+  :lat: "-12.0233333333333"
+  :lng: '135.5713888888889'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Georgetown
+  :callsign: 4JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 16
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 660001
+  :license_number: 1180794
+  :site_id: 40403
+  :site_name: Broadcast Site Forsyth Road 1 km S of GEORGETOWN
+  :zone: 54
+  :easting: 768901
+  :northing: 7974199
+  :lat: "-18.3047222222222"
+  :lng: '143.5436111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Geraldton
+  :callsign: 6JJJ
+  :frequency: 98.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 93
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005297
+  :license_number: 1151762
+  :site_id: 31071
+  :site_name: Broadcast Site Moresby Range GERALDTON
+  :zone: 50
+  :easting: 272868
+  :northing: 6824889
+  :lat: "-28.6830555555556"
+  :lng: '114.6752777777778'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Glendell Mine
+  :callsign: 2JJJ
+  :frequency: 100.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133508
+  :license_number: 1921001
+  :site_id: 139001
+  :site_name: Broadcast Mast Glendell Mine Off Hebden Rd HEBDEN
+  :zone: 56
+  :easting: 319114
+  :northing: 6411528
+  :lat: "-32.4183333333333"
+  :lng: '151.0761111111111'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Glenmore Downs
+  :callsign: 4JJJ
+  :frequency: 95.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133424
+  :license_number: 1919970
+  :site_id: 138816
+  :site_name: Office Bdlg Glenmore Downs 1381 Kenlogan Rd 31km North of CLERMONT
+  :zone: 55
+  :easting: 563091
+  :northing: 7506206
+  :lat: "-22.5494444444444"
+  :lng: '147.6133333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gnowangerup
+  :callsign: 6JJJ
+  :frequency: 104.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 22
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130803
+  :license_number: 1145463
+  :site_id: 150624
+  :site_name: Broadcast Site Cecil St GNOWANGERUP
+  :zone: 50
+  :easting: 592700
+  :northing: 6243700
+  :lat: "-33.9427777777778"
+  :lng: '118.0030555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gold Coast
+  :callsign: 4JJJ
+  :frequency: 97.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 32
+  :antenna_pattern: DA
+  :maximum_erp: 26000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7329601
+  :license_number: 1150308
+  :site_id: 13564
+  :site_name: NTL Broadcast Site cnr North & Freemans Rds LOWER BEECHMONT
+  :zone: 56
+  :easting: 523715
+  :northing: 6898850
+  :lat: "-28.0352777777778"
+  :lng: '153.2413888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Goonyella
+  :callsign: 4JJJ
+  :frequency: 100.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 150
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133000
+  :license_number: 1906615
+  :site_id: 18792
+  :site_name: Ramp 10 Conveyer South Site GOONYELLA
+  :zone: 55
+  :easting: 600221
+  :northing: 7595990
+  :lat: "-21.7366666666667"
+  :lng: '147.9688888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Goulburn (town)
+  :callsign: 2JJJ
+  :frequency: 88.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3999002
+  :license_number: 1153111
+  :site_id: 9493
+  :site_name: Telstra Site MT GRAY
+  :zone: 55
+  :easting: 752849
+  :northing: 6150221
+  :lat: "-34.7586111111111"
+  :lng: '149.7625'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Goulburn Valley
+  :callsign: 3JJJ
+  :frequency: 94.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 132
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003777
+  :license_number: 1153113
+  :site_id: 150896
+  :site_name: Broadcast Site 27 km E of Shepparton MT MAJOR
+  :zone: 55
+  :easting: 382808
+  :northing: 5975359
+  :lat: "-36.3594444444445"
+  :lng: '145.6936111111111'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Grafton/Kempsey
+  :callsign: 2JJJ
+  :frequency: 91.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 113
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003251
+  :license_number: 1156737
+  :site_id: 7952
+  :site_name: Broadcast Mast 26 km WSW of Coffs Harbour MOUNT MOOMBIL
+  :zone: 56
+  :easting: 486410
+  :northing: 6645845
+  :lat: "-30.3188888888889"
+  :lng: '152.8586111111111'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Green Head
+  :callsign: 6JJJ
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009821
+  :license_number: 1155798
+  :site_id: 30635
+  :site_name: Broadcast Site Lot 183 Farley St GREEN HEAD
+  :zone: 50
+  :easting: 304043
+  :northing: 6671144
+  :lat: "-30.075"
+  :lng: '114.9669444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Groote Eylandt
+  :callsign: 8JJJ
+  :frequency: 98.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132991
+  :license_number: 1904737
+  :site_id: 3136
+  :site_name: Commercial Site Cypress Rd Alyangula GROOTE EYLANDT
+  :zone: 53
+  :easting: 653900
+  :northing: 8468200
+  :lat: "-13.8516666666667"
+  :lng: '136.4238888888889'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gunpowder
+  :callsign: 4JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 712001
+  :license_number: 1155539
+  :site_id: 20226
+  :site_name: Broadcast Site Tank Hill GUNPOWDER
+  :zone: 54
+  :easting: 330100
+  :northing: 7819600
+  :lat: "-19.7116666666667"
+  :lng: '139.3788888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hobart
+  :callsign: 7JJJ
+  :frequency: 92.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 101
+  :antenna_pattern: OD
+  :maximum_erp: 56000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3998601
+  :license_number: 1198324
+  :site_id: 32830
+  :site_name: NTA Tower MT WELLINGTON
+  :zone: 55
+  :easting: 519185
+  :northing: 5250351
+  :lat: "-42.8991666666667"
+  :lng: '147.235'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hope Downs Village
+  :callsign: 6JJJ
+  :frequency: 93.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 12
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131142
+  :license_number: 1180684
+  :site_id: 136171
+  :site_name: Hamersley Iron Admistration Building Hope Downs Village HOPE DOWNS
+  :zone: 50
+  :easting: 707040
+  :northing: 7449400
+  :lat: "-23.0508333333333"
+  :lng: '119.0205555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hughenden
+  :callsign: 4JJJ
+  :frequency: 105.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013176
+  :license_number: 1158573
+  :site_id: 20018
+  :site_name: Flinders Shire Council Alyss Street HUGHENDEN
+  :zone: 55
+  :easting: 207120
+  :northing: 7692245
+  :lat: "-20.8466666666667"
+  :lng: '144.1855555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ilfracombe
+  :callsign: 4JJJ
+  :frequency: 102.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132381
+  :license_number: 1190777
+  :site_id: 153088
+  :site_name: Broadcast Site Council Depot ILFRACOMBE
+  :zone: 55
+  :easting: 245122
+  :northing: 7399900
+  :lat: "-23.4908333333333"
+  :lng: '144.5041666666667'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Illawarra
+  :callsign: 2JJJ
+  :frequency: 98.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 167
+  :antenna_pattern: DA
+  :maximum_erp: 150000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7335001
+  :license_number: 1153116
+  :site_id: 40499
+  :site_name: Broadcast Australia Analog Television Mast KNIGHTS HILL
+  :zone: 56
+  :easting: 288539
+  :northing: 6166096
+  :lat: "-34.625"
+  :lng: '150.6933333333333'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jabiru
+  :callsign: 8JJJ
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 8021001
+  :license_number: 1156553
+  :site_id: 3169
+  :site_name: Telstra Repeater Site Gregory Place JABIRU
+  :zone: 53
+  :easting: 264686
+  :northing: 8598275
+  :lat: "-12.6708333333333"
+  :lng: '132.8330555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jacinth-Ambrosia Project
+  :callsign: 5JJJ
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133146
+  :license_number: 1912037
+  :site_id: 9008806
+  :site_name: Jacinth Ambrosia Site 195km NW of Ceduna GREAT VICTORIA DESERT
+  :zone: 53
+  :easting: 232335
+  :northing: 6577530
+  :lat: "-30.9052777777778"
+  :lng: '132.1994444444445'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jack Hills Mine
+  :callsign: 6JJJ
+  :frequency: 96.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 0
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131434
+  :license_number: 1184857
+  :site_id: 9001585
+  :site_name: Broadcast Site Jack Hills Mine 138 km NW of MEEKATHARRA
+  :zone: 50
+  :easting: 526735
+  :northing: 7121755
+  :lat: "-26.0227777777778"
+  :lng: '117.2672222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jackson Oil Field
+  :callsign: 4JJJ
+  :frequency: 106.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 8
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 9746001
+  :license_number: 1139588
+  :site_id: 14957
+  :site_name: Santos Oil Field Site JACKSON
+  :zone: 54
+  :easting: 638018
+  :northing: 6942213
+  :lat: "-27.6369444444444"
+  :lng: '142.3988888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jindabyne
+  :callsign: 2JJJ
+  :frequency: 105.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131103
+  :license_number: 1147341
+  :site_id: 9740
+  :site_name: Southern Cross Broadcast Site JINDERBOINE HILL
+  :zone: 55
+  :easting: 649165
+  :northing: 5970070
+  :lat: "-36.4027777777778"
+  :lng: '148.6633333333333'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jundee Mine
+  :callsign: 6JJJ
+  :frequency: 107.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133355
+  :license_number: 1916253
+  :site_id: 138612
+  :site_name: Broadcast Mast Managers Office Jundee Mine Accommodation Village JUNDEE
+    MINE
+  :zone: 51
+  :easting: 264200
+  :northing: 7078280
+  :lat: "-26.3958333333333"
+  :lng: '120.6361111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jurien
+  :callsign: 6JJJ
+  :frequency: 96.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130174
+  :license_number: 1159616
+  :site_id: 138453
+  :site_name: Works Depot Shire of Dandaragan Lot 663 Carmella St JURIEN BAY JURIEN
+    BAY
+  :zone: 50
+  :easting: 312387
+  :northing: 6646826
+  :lat: "-30.2955555555556"
+  :lng: '115.0488888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kalgoorlie
+  :callsign: 6JJJ
+  :frequency: 93.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 6
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132804
+  :license_number: 1901207
+  :site_id: 136814
+  :site_name: Harvey House KCGM Mine Site Black Street Kalgoorlie
+  :zone: 51
+  :easting: 357553
+  :northing: 6593553
+  :lat: "-30.7822222222222"
+  :lng: '121.5111111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kalgoorlie
+  :callsign: 6JJJ
+  :frequency: 98.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 47
+  :antenna_pattern: DA
+  :maximum_erp: 6000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000248
+  :license_number: 1150250
+  :site_id: 29450
+  :site_name: Broadcast Site Peters Hill 4km NW of KALGOORLIE
+  :zone: 51
+  :easting: 350503
+  :northing: 6600553
+  :lat: "-30.7183333333333"
+  :lng: '121.4386111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Karara Mine
+  :callsign: 6JJJ
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133725
+  :license_number: 1928906
+  :site_id: 9011128
+  :site_name: Karara Mining Comms Tower Karara Mining Accommodation Village off Mongada
+    Road KARARA MINE
+  :zone: 50
+  :easting: 471120
+  :northing: 6771723
+  :lat: "-29.1825"
+  :lng: '116.7027777777778'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Karratha
+  :callsign: 6JJJ
+  :frequency: 103.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009851
+  :license_number: 1155865
+  :site_id: 153020
+  :site_name: Broadcast Site Jaburara Hill Baynton KARRATHA
+  :zone: 50
+  :easting: 482361
+  :northing: 7705503
+  :lat: "-20.7497222222222"
+  :lng: '116.8305555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Karumba
+  :callsign: 4JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 0
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008642
+  :license_number: 1153701
+  :site_id: 40402
+  :site_name: Broadcast Site KARUMBA
+  :zone: 54
+  :easting: 481043
+  :northing: 8064208
+  :lat: "-17.5080555555556"
+  :lng: '140.8213888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Katherine
+  :callsign: 8JJJ
+  :frequency: 99.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130953
+  :license_number: 1145432
+  :site_id: 1888
+  :site_name: 12 Ml Water Tank KATHERINE
+  :zone: 53
+  :easting: 208316
+  :northing: 8401130
+  :lat: "-14.4469444444444"
+  :lng: '132.2944444444445'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kintore
+  :callsign: 8JJJ
+  :frequency: 98.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 14
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130409
+  :license_number: 1141755
+  :site_id: 151611
+  :site_name: Broadcast Site KINTORE
+  :zone: 52
+  :easting: 539599
+  :northing: 7425798
+  :lat: "-23.2763888888889"
+  :lng: '129.3869444444444'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Koodaideri Mine
+  :callsign: 6JJJ
+  :frequency: 89.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133961
+  :license_number: 1932641
+  :site_id: 9012860
+  :site_name: Pilbara Iron Site Koodaideri Exploration Camp RBS, 118 km NW of NEWMAN
+  :zone: 50
+  :easting: 707861
+  :northing: 7508756
+  :lat: "-22.515"
+  :lng: '119.0208333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Koolyanobbing
+  :callsign: 6JJJ
+  :frequency: 104.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014547
+  :license_number: 1159447
+  :site_id: 480696
+  :site_name: Microwave Tower Mine Site KOOLYANOBBING
+  :zone: 50
+  :easting: 741661
+  :northing: 6588359
+  :lat: "-30.8130555555556"
+  :lng: '119.5258333333334'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kowanyama
+  :callsign: 4JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130722
+  :license_number: 1142643
+  :site_id: 40426
+  :site_name: Broadcast Site KOWANYAMA
+  :zone: 54
+  :easting: 579500
+  :northing: 8289300
+  :lat: "-15.4719444444444"
+  :lng: '141.7411111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kununurra East
+  :callsign: 6JJJ
+  :frequency: 100.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010239
+  :license_number: 1156064
+  :site_id: 153093
+  :site_name: Broadcast Site Shire Depot Bandicoot Drive KUNUNURRA
+  :zone: 52
+  :easting: 471350
+  :northing: 8254829
+  :lat: "-15.7847222222222"
+  :lng: '128.7325'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lajamanu
+  :callsign: 8JJJ
+  :frequency: 98.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130414
+  :license_number: 1142063
+  :site_id: 1951
+  :site_name: Broadcast Site Arts Centre LAJAMANU
+  :zone: 52
+  :easting: 672797
+  :northing: 7971690
+  :lat: "-18.3375"
+  :lng: '130.635'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lake Cowal Mine
+  :callsign: 2JJJ
+  :frequency: 90.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 8
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131668
+  :license_number: 1184466
+  :site_id: 405031
+  :site_name: Process Plant Lake Cowal Minesite WEST WYALONG
+  :zone: 55
+  :easting: 536850
+  :northing: 6277430
+  :lat: "-33.6419444444444"
+  :lng: '147.3972222222222'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Laramba
+  :callsign: 8JJJ
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130385
+  :license_number: 1141677
+  :site_id: 153132
+  :site_name: Broadcast Site LARAMBA
+  :zone: 53
+  :easting: 268877
+  :northing: 7506208
+  :lat: "-22.5347222222222"
+  :lng: '132.7527777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Latrobe Valley
+  :callsign: 3JJJ
+  :frequency: 96.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 91
+  :antenna_pattern: DA
+  :maximum_erp: 200000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7602001
+  :license_number: 1151658
+  :site_id: 12044
+  :site_name: ABLV NTL Broadcast Tower 23 km S of Traralgon MT TASSIE
+  :zone: 55
+  :easting: 461875
+  :northing: 5749630
+  :lat: "-38.4005555555556"
+  :lng: '146.5633333333333'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Laverton
+  :callsign: 6JJJ
+  :frequency: 98.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001175
+  :license_number: 1157161
+  :site_id: 29911
+  :site_name: Telstra Exchange LAVERTON
+  :zone: 51
+  :easting: 441316
+  :northing: 6833363
+  :lat: "-28.6252777777778"
+  :lng: '122.3994444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Leigh Ck Coalfield
+  :callsign: 5JJJ
+  :frequency: 100.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7682001
+  :license_number: 1151577
+  :site_id: 150499
+  :site_name: Broadcast Site LEIGH CREEK COALFIELD
+  :zone: 54
+  :easting: 254000
+  :northing: 6623000
+  :lat: "-30.5"
+  :lng: '138.4366666666667'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Leonora
+  :callsign: 6JJJ
+  :frequency: 96.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001168
+  :license_number: 1156130
+  :site_id: 151370
+  :site_name: Broadcast Site Lot 240 Hoover St LEONORA
+  :zone: 51
+  :easting: 336799
+  :northing: 6804202
+  :lat: "-28.8794444444444"
+  :lng: '121.3263888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lockhart River
+  :callsign: 4JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 16
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 801001
+  :license_number: 1159570
+  :site_id: 40425
+  :site_name: Broadcast Site LOCKHART RIVER
+  :zone: 54
+  :easting: 754175
+  :northing: 8585221
+  :lat: "-12.7872222222222"
+  :lng: '143.3411111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Longreach
+  :callsign: 4JJJ
+  :frequency: 106.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005026
+  :license_number: 1156332
+  :site_id: 150375
+  :site_name: Broadcast Site Borewater Tower Wonga St LONGREACH
+  :zone: 55
+  :easting: 219865
+  :northing: 7404790
+  :lat: "-23.4425"
+  :lng: '144.2580555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lord Howe Island
+  :callsign: 2JJJ
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009795
+  :license_number: 1155754
+  :site_id: 152952
+  :site_name: Southern Satellite Dish near Lovers Bay LORD HOWE ISLAND
+  :zone: 57
+  :easting: 507117
+  :northing: 6509317
+  :lat: "-31.5508333333333"
+  :lng: '159.0747222222222'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mackay
+  :callsign: 4JJJ
+  :frequency: 99.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 67
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7603001
+  :license_number: 1151769
+  :site_id: 18651
+  :site_name: Main Broadcast Tower Mt Blackwood 28 km WNW of MACKAY
+  :zone: 55
+  :easting: 701854
+  :northing: 7672862
+  :lat: "-21.0338888888889"
+  :lng: '148.9422222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Maningrida
+  :callsign: 8JJJ
+  :frequency: 102.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130750
+  :license_number: 1144480
+  :site_id: 1582
+  :site_name: Broadcast Site Council Office MANINGRIDA
+  :zone: 53
+  :easting: 415300
+  :northing: 8667500
+  :lat: "-12.0525"
+  :lng: '134.2216666666667'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Manning River
+  :callsign: 2JJJ
+  :frequency: 96.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 94
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7360001
+  :license_number: 1151711
+  :site_id: 7658
+  :site_name: Main Broadcast Tower MIDDLE BROTHER
+  :zone: 56
+  :easting: 469447
+  :northing: 6492349
+  :lat: "-31.7036111111111"
+  :lng: '152.6775'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Marandoo
+  :callsign: 6JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000663
+  :license_number: 1158594
+  :site_id: 52919
+  :site_name: Marandoo RBS TOM PRICE
+  :zone: 50
+  :easting: 614200
+  :northing: 7496450
+  :lat: "-22.6347222222222"
+  :lng: '118.1111111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Marble Bar
+  :callsign: 6JJJ
+  :frequency: 101.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130591
+  :license_number: 1143015
+  :site_id: 151671
+  :site_name: Broadcast Site Augusta St MARBLE BAR
+  :zone: 50
+  :easting: 785102
+  :northing: 7656395
+  :lat: "-21.1713888888889"
+  :lng: '119.7455555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Marvel Loch
+  :callsign: 6JJJ
+  :frequency: 103.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013731
+  :license_number: 1158902
+  :site_id: 152955
+  :site_name: Broadcast Site MARVEL LOCH
+  :zone: 50
+  :easting: 736300
+  :northing: 6515250
+  :lat: "-31.4730555555556"
+  :lng: '119.4872222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Melbourne
+  :callsign: 3JJJ
+  :frequency: 107.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 113
+  :antenna_pattern: OD
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3994001
+  :license_number: 1198467
+  :site_id: 12014
+  :site_name: NTL (ABV-2) Tower Eyre Road MT DANDENONG
+  :zone: 55
+  :easting: 354580
+  :northing: 5811035
+  :lat: "-37.8363888888889"
+  :lng: '145.3472222222222'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mereenie Gas/Oil Field
+  :callsign: 8JJJ
+  :frequency: 104.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 8
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010868
+  :license_number: 1156552
+  :site_id: 150175
+  :site_name: Gas & Oil Field Base Camp 240 km W of Alice Springs MEREENIE
+  :zone: 52
+  :easting: 760000
+  :northing: 7344000
+  :lat: "-23.9944444444444"
+  :lng: '131.5555555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mesa A Mine
+  :callsign: 6JJJ
+  :frequency: 100.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 12
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132672
+  :license_number: 1566634
+  :site_id: 9009007
+  :site_name: RBS-1 Great North Western Highway MESA A MINE, PILBARA
+  :zone: 50
+  :easting: 387434
+  :northing: 7603626
+  :lat: "-21.6669444444444"
+  :lng: '115.9119444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mesa J Mine
+  :callsign: 6JJJ
+  :frequency: 99.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010466
+  :license_number: 1156422
+  :site_id: 44765
+  :site_name: Mesa J Workshop RBS PANNAWONICA
+  :zone: 50
+  :easting: 422585
+  :northing: 7595080
+  :lat: "-21.7458333333333"
+  :lng: '116.2511111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mildura/Sunraysia
+  :callsign: 3JJJ
+  :frequency: 101.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 129
+  :antenna_pattern: DA
+  :maximum_erp: 200000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002414
+  :license_number: 1153120
+  :site_id: 11763
+  :site_name: Broadcasting site 2 km S of railway siding YATPOOL
+  :zone: 54
+  :easting: 609130
+  :northing: 6194930
+  :lat: "-34.3811111111111"
+  :lng: '142.1869444444444'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Milingimbi
+  :callsign: 8JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002249
+  :license_number: 1159574
+  :site_id: 41041
+  :site_name: Broadcast Site MILINGIMBI
+  :zone: 53
+  :easting: 491000
+  :northing: 8661600
+  :lat: "-12.1069444444444"
+  :lng: '134.9172222222222'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Moly Metals Mine
+  :callsign: 6JJJ
+  :frequency: 104.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132946
+  :license_number: 1904037
+  :site_id: 9008314
+  :site_name: Moly Metals Tower Communications Hill Spinifex Ridge 2.7 km W of COPPIN
+    GAP
+  :zone: 51
+  :easting: 197345
+  :northing: 7687832
+  :lat: "-20.8847222222222"
+  :lng: '120.0908333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Moomba
+  :callsign: 5JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000479
+  :license_number: 1156551
+  :site_id: 501694
+  :site_name: Santos Communications Mast MOOMBA
+  :zone: 54
+  :easting: 422449
+  :northing: 6889296
+  :lat: "-28.1194444444444"
+  :lng: '140.2102777777778'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Moora
+  :callsign: 6JJJ
+  :frequency: 105.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132877
+  :license_number: 1567354
+  :site_id: 137573
+  :site_name: Council Depot Cnr Roberts and Drummond St MOORA
+  :zone: 50
+  :easting: 404813
+  :northing: 6609120
+  :lat: "-30.6466666666667"
+  :lng: '116.0063888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Morawa
+  :callsign: 6JJJ
+  :frequency: 106.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 65
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002469
+  :license_number: 1142574
+  :site_id: 31413
+  :site_name: Mount Campbell 17 km SW of MORAWA
+  :zone: 50
+  :easting: 391100
+  :northing: 6756200
+  :lat: "-29.3183333333333"
+  :lng: '115.8783333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Cuthbert
+  :callsign: 4JJJ
+  :frequency: 104.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132575
+  :license_number: 1562512
+  :site_id: 136920
+  :site_name: Broadcast Tower Communications Room 1km SE of Mount Cuthbert Copper
+    Project MOUNT CUTHBERT
+  :zone: 54
+  :easting: 387075
+  :northing: 7788150
+  :lat: "-19.9997222222222"
+  :lng: '139.9202777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Gambier
+  :callsign: 5JJJ
+  :frequency: 102.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 44
+  :antenna_pattern: DA
+  :maximum_erp: 240000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7565001
+  :license_number: 1151771
+  :site_id: 23800
+  :site_name: Broadcast site 11 km E of Millicent MT BURR
+  :zone: 54
+  :easting: 454200
+  :northing: 5838000
+  :lat: "-37.6036111111111"
+  :lng: '140.4811111111111'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Isa
+  :callsign: 4JJJ
+  :frequency: 104.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 31
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003945
+  :license_number: 1153123
+  :site_id: 39695
+  :site_name: Broadcast Site DCA Hill MOUNT ISA
+  :zone: 54
+  :easting: 345010
+  :northing: 7706420
+  :lat: "-20.7352777777778"
+  :lng: '139.5113888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Liebig
+  :callsign: 8JJJ
+  :frequency: 100.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130297
+  :license_number: 1142059
+  :site_id: 153133
+  :site_name: Broadcast Site MT LIEBIG
+  :zone: 52
+  :easting: 732300
+  :northing: 7425040
+  :lat: "-23.2672222222222"
+  :lng: '131.2705555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Magnet
+  :callsign: 6JJJ
+  :frequency: 99.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001200
+  :license_number: 1156046
+  :site_id: 151399
+  :site_name: Broadcast Site School MT MAGNET
+  :zone: 50
+  :easting: 582652
+  :northing: 6896118
+  :lat: "-28.0575"
+  :lng: '117.8408333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Surprise
+  :callsign: 4JJJ
+  :frequency: 103.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 14
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131120
+  :license_number: 1180798
+  :site_id: 21433
+  :site_name: QR Site MT SURPRISE
+  :zone: 55
+  :easting: 216091
+  :northing: 7991323
+  :lat: "-18.1483333333333"
+  :lng: '144.3166666666667'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mt Jackson
+  :callsign: 6JJJ
+  :frequency: 104.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013864
+  :license_number: 1159073
+  :site_id: 480698
+  :site_name: Microwave Tower Mt Jackson Mine 65 km NW KOOLYANOBBING
+  :zone: 50
+  :easting: 715623
+  :northing: 6649661
+  :lat: "-30.2652777777778"
+  :lng: '119.2411111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mt Keith
+  :callsign: 6JJJ
+  :frequency: 98.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10011673
+  :license_number: 1156863
+  :site_id: 153280
+  :site_name: Broadcast Site Mt Keith Nickel Operation via Leinster Goldfields Hwy
+    MT KEITH
+  :zone: 51
+  :easting: 238000
+  :northing: 6972000
+  :lat: "-27.35"
+  :lng: '120.3513888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mt Keith (Mine Village)
+  :callsign: 6JJJ
+  :frequency: 100.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010946
+  :license_number: 1156703
+  :site_id: 29744
+  :site_name: Broadcast Site Mine Village Mt Keith 75km North of LEINSTER
+  :zone: 51
+  :easting: 261000
+  :northing: 6985000
+  :lat: "-27.2369444444444"
+  :lng: '120.5863888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mukinbudin
+  :callsign: 6JJJ
+  :frequency: 89.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000164
+  :license_number: 1157293
+  :site_id: 30454
+  :site_name: North East Rd MUKINBUDIN
+  :zone: 50
+  :easting: 624400
+  :northing: 6582000
+  :lat: "-30.8886111111111"
+  :lng: '118.3013888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Murray Valley
+  :callsign: 3JJJ
+  :frequency: 105.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 101
+  :antenna_pattern: DA
+  :maximum_erp: 200000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005792
+  :license_number: 1153125
+  :site_id: 11885
+  :site_name: Broadcast Mast Television Site Ultima-Lake Boga Rd GOSCHEN
+  :zone: 54
+  :easting: 722700
+  :northing: 6071500
+  :lat: "-35.4747222222222"
+  :lng: '143.4544444444444'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Murrin Murrin Open Cut Mine
+  :callsign: 6JJJ
+  :frequency: 100.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130974
+  :license_number: 1147335
+  :site_id: 600861
+  :site_name: Murrin Murrin Nickel Plant 50 km East of LEONORA
+  :zone: 51
+  :easting: 390920
+  :northing: 6816970
+  :lat: "-28.77"
+  :lng: '121.8825'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Murrumbidgee Irrigation Area
+  :callsign: 2JJJ
+  :frequency: 96.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: OD
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008032
+  :license_number: 1152938
+  :site_id: 9921
+  :site_name: Broadcast Tower MT BINGAR
+  :zone: 55
+  :easting: 429350
+  :northing: 6223920
+  :lat: "-34.1230555555556"
+  :lng: '146.2336111111111'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Nambour
+  :callsign: 4JJJ
+  :frequency: 89.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 34
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4179002
+  :license_number: 1150297
+  :site_id: 151477
+  :site_name: Broadcast Planning Site DULONG LOOKOUT
+  :zone: 56
+  :easting: 491091
+  :northing: 7054133
+  :lat: "-26.6336111111111"
+  :lng: '152.9105555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: NE Tasmania
+  :callsign: 7JJJ
+  :frequency: 90.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 70
+  :antenna_pattern: DA
+  :maximum_erp: 192000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012742
+  :license_number: 1150542
+  :site_id: 33804
+  :site_name: NTA Site Microwave Tower MT BARROW
+  :zone: 55
+  :easting: 535520
+  :northing: 5417485
+  :lat: "-41.3930555555556"
+  :lng: '147.4247222222222'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Newcastle
+  :callsign: 2JJJ
+  :frequency: 102.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 134
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4000001
+  :license_number: 1198631
+  :site_id: 5839
+  :site_name: Broadcast Australia Site MT SUGARLOAF
+  :zone: 56
+  :easting: 363171
+  :northing: 6359558
+  :lat: "-32.8933333333333"
+  :lng: '151.5369444444444'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Newman
+  :callsign: 6JJJ
+  :frequency: 95.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 300
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132898
+  :license_number: 1902587
+  :site_id: 137651
+  :site_name: Community Radio Tower TV Hill NEWMAN
+  :zone: 50
+  :easting: 778497
+  :northing: 7415051
+  :lat: "-23.3502777777778"
+  :lng: '119.7238888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ngukurr
+  :callsign: 8JJJ
+  :frequency: 98.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130630
+  :license_number: 1188195
+  :site_id: 2160
+  :site_name: Broadcast Site NGUKURR
+  :zone: 53
+  :easting: 471000
+  :northing: 8370800
+  :lat: "-14.7363888888889"
+  :lng: '134.7305555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Normanton
+  :callsign: 4JJJ
+  :frequency: 100.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008634
+  :license_number: 1153700
+  :site_id: 40354
+  :site_name: Broadcast Site Hospital Hill NORMANTON
+  :zone: 54
+  :easting: 508979
+  :northing: 8045107
+  :lat: "-17.6808333333333"
+  :lng: '141.0847222222223'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Norwich Park
+  :callsign: 4JJJ
+  :frequency: 94.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014878
+  :license_number: 1564551
+  :site_id: 18868
+  :site_name: Northern Pit Mine Site NORWICH PARK
+  :zone: 55
+  :easting: 648595
+  :northing: 7495120
+  :lat: "-22.6444444444444"
+  :lng: '148.4461111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Nullagine
+  :callsign: 6JJJ
+  :frequency: 104.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130599
+  :license_number: 1143014
+  :site_id: 151659
+  :site_name: Broadcast Site Lot 20 Clemensen St NULLAGINE
+  :zone: 51
+  :easting: 201103
+  :northing: 7576902
+  :lat: "-21.8863888888889"
+  :lng: '120.1072222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Numbulwar
+  :callsign: 8JJJ
+  :frequency: 97.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130594
+  :license_number: 1143022
+  :site_id: 1369
+  :site_name: Broadcast Site Numbulwar Council Office NUMBULWAR
+  :zone: 53
+  :easting: 579800
+  :northing: 8421200
+  :lat: "-14.2797222222222"
+  :lng: '135.7397222222222'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ongerup
+  :callsign: 6JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 22
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130802
+  :license_number: 1145461
+  :site_id: 150623
+  :site_name: Broadcast Site ONGERUP
+  :zone: 50
+  :easting: 637000
+  :northing: 6240400
+  :lat: "-33.9677777777778"
+  :lng: '118.4827777777778'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Onslow
+  :callsign: 6JJJ
+  :frequency: 105.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130600
+  :license_number: 1143466
+  :site_id: 151665
+  :site_name: Broadcast Site Lot 694 Payne Way ONSLOW
+  :zone: 50
+  :easting: 304800
+  :northing: 7605070
+  :lat: "-21.6466666666667"
+  :lng: '115.1136111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Pannawonica
+  :callsign: 6JJJ
+  :frequency: 106.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000637
+  :license_number: 1155796
+  :site_id: 40416
+  :site_name: Broadcast Site 2 km South of PANNAWONICA
+  :zone: 50
+  :easting: 430000
+  :northing: 7605600
+  :lat: "-21.6511111111111"
+  :lng: '116.3233333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Paraburdoo
+  :callsign: 6JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000676
+  :license_number: 1158597
+  :site_id: 38846
+  :site_name: Mt Mysery RBS PARABURDOO
+  :zone: 50
+  :easting: 567980
+  :northing: 7430379
+  :lat: "-23.2341666666667"
+  :lng: '117.6644444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Pasminco Century Mine
+  :callsign: 4JJJ
+  :frequency: 101.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009564
+  :license_number: 1155424
+  :site_id: 152958
+  :site_name: Broadcast Site Water Tower CENTURY MINE
+  :zone: 54
+  :easting: 248697
+  :northing: 7927216
+  :lat: "-18.7311111111111"
+  :lng: '138.6166666666667'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Peak Downs Mine
+  :callsign: 4JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133152
+  :license_number: 1911822
+  :site_id: 403310
+  :site_name: ROM Site PEAK DOWNS
+  :zone: 55
+  :easting: 621826
+  :northing: 7538208
+  :lat: "-22.2572222222222"
+  :lng: '148.1822222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Perth
+  :callsign: 6JJJ
+  :frequency: 99.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 97
+  :antenna_pattern: OD
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3996601
+  :license_number: 1198502
+  :site_id: 26620
+  :site_name: ABW2 Mast Television Road BICKLEY
+  :zone: 50
+  :easting: 413397
+  :northing: 6457863
+  :lat: "-32.0116666666667"
+  :lng: '116.0827777777778'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Plutonic Gold Mine
+  :callsign: 6JJJ
+  :frequency: 103.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014347
+  :license_number: 1159304
+  :site_id: 199015
+  :site_name: Broadcast Site Plutonic Gold Mine 172 km NE of MEEKATHARRA
+  :zone: 50
+  :easting: 745800
+  :northing: 7198900
+  :lat: "-25.3061111111111"
+  :lng: '119.4413888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Pormpuraaw
+  :callsign: 4JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130724
+  :license_number: 1143105
+  :site_id: 134013
+  :site_name: BRACS Centre Yalu Street PORMPURAAW
+  :zone: 54
+  :easting: 566594
+  :northing: 8352572
+  :lat: "-14.9005555555556"
+  :lng: '141.6188888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Port Hedland
+  :callsign: 6JJJ
+  :frequency: 98.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009581
+  :license_number: 1155550
+  :site_id: 40802
+  :site_name: Broadcast Site adj Railway Line 7km S of PORT HEDLAND
+  :zone: 50
+  :easting: 662582
+  :northing: 7746940
+  :lat: "-20.3686111111111"
+  :lng: '118.5575'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Port Lincoln
+  :callsign: 5JJJ
+  :frequency: 92.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10011671
+  :license_number: 1156785
+  :site_id: 153279
+  :site_name: Nelson Square Cnr Cardiff Dr/Barnard St PORT LINCOLN
+  :zone: 53
+  :easting: 580145
+  :northing: 6156377
+  :lat: "-34.7313888888889"
+  :lng: '135.8755555555556'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Queenstown/Zeehan
+  :callsign: 7JJJ
+  :frequency: 88.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 12
+  :antenna_pattern: DA
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131059
+  :license_number: 1147346
+  :site_id: 34399
+  :site_name: Broadcast Site MT OWEN
+  :zone: 55
+  :easting: 384632
+  :northing: 5338886
+  :lat: "-42.0936111111111"
+  :lng: '145.605'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Renmark/Loxton
+  :callsign: 5JJJ
+  :frequency: 101.9
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 156
+  :antenna_pattern: DA
+  :maximum_erp: 152000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003435
+  :license_number: 1153127
+  :site_id: 24073
+  :site_name: Broadcast Site Bookpurnong Terrace 4 km WSW of LOXTON
+  :zone: 54
+  :easting: 457031
+  :northing: 6186081
+  :lat: "-34.4655555555556"
+  :lng: '140.5319444444445'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Richmond
+  :callsign: 4JJJ
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133960
+  :license_number: 1932272
+  :site_id: 150174
+  :site_name: Council Broadcast Site Concrete Water Tower Goldring St RICHMOND
+  :zone: 54
+  :easting: 723335
+  :northing: 7705553
+  :lat: "-20.7361111111111"
+  :lng: '143.1447222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Richmond/Tweed
+  :callsign: 2JJJ
+  :frequency: 96.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 69
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7361601
+  :license_number: 1150263
+  :site_id: 8533
+  :site_name: ABRN6 TV Tower 30 km N of Lismore MT NARDI
+  :zone: 56
+  :easting: 528030
+  :northing: 6842140
+  :lat: "-28.5469444444444"
+  :lng: '153.2863888888889'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Rockhampton
+  :callsign: 4JJJ
+  :frequency: 104.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 100
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7419001
+  :license_number: 1150324
+  :site_id: 17442
+  :site_name: Broadcast Australia Site 38 km S of Rockhampton MT HOPEFUL
+  :zone: 56
+  :easting: 248705
+  :northing: 7373345
+  :lat: "-23.7311111111111"
+  :lng: '150.5347222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Roebourne
+  :callsign: 6JJJ
+  :frequency: 104.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 100
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008625
+  :license_number: 1153723
+  :site_id: 38307
+  :site_name: KP5 Robe River Mining Comms Site off Cape Lambert Rd 5km N of Wickham
+    WICKHAM
+  :zone: 50
+  :easting: 515776
+  :northing: 7718338
+  :lat: "-20.6338888888889"
+  :lng: '117.1513888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Roma
+  :callsign: 4JJJ
+  :frequency: 103.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009810
+  :license_number: 1155833
+  :site_id: 153008
+  :site_name: Water tower 68 Bowen Street ROMA
+  :zone: 55
+  :easting: 677071
+  :northing: 7059485
+  :lat: "-26.5741666666667"
+  :lng: '148.7777777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Rosebery
+  :callsign: 7JJJ
+  :frequency: 102.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 22
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131062
+  :license_number: 1147347
+  :site_id: 34450
+  :site_name: Broadcast Site MT READ
+  :zone: 55
+  :easting: 378870
+  :northing: 5366311
+  :lat: "-41.8455555555556"
+  :lng: '145.5408333333333'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Sinclair Nickel
+  :callsign: 6JJJ
+  :frequency: 105.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132890
+  :license_number: 1902317
+  :site_id: 137650
+  :site_name: Xstrata Tower Comms Site SINCLAIR NICKEL
+  :zone: 51
+  :easting: 289719
+  :northing: 6861214
+  :lat: "-28.3583333333333"
+  :lng: '120.8544444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Smithton
+  :callsign: 7JJJ
+  :frequency: 105.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009657
+  :license_number: 1155631
+  :site_id: 152971
+  :site_name: Broadcast/Hydro Site Tier Hill Massey St SMITHTON
+  :zone: 55
+  :easting: 342295
+  :northing: 5476725
+  :lat: "-40.845"
+  :lng: '145.1291666666667'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Southern Agricultural
+  :callsign: 6JJJ
+  :frequency: 92.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 126
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000038
+  :license_number: 1153129
+  :site_id: 41036
+  :site_name: Broadcast Site MT BARKER
+  :zone: 50
+  :easting: 559200
+  :northing: 6164800
+  :lat: "-34.6569444444444"
+  :lng: '117.6461111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Southern Cross
+  :callsign: 6JJJ
+  :frequency: 103.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000171
+  :license_number: 1158357
+  :site_id: 150147
+  :site_name: Wimmera Hill Reserve SOUTHERN CROSS
+  :zone: 50
+  :easting: 721200
+  :northing: 6542000
+  :lat: "-31.235"
+  :lng: '119.3225'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Southern Downs
+  :callsign: 4JJJ
+  :frequency: 103.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 150
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 8561001
+  :license_number: 1151831
+  :site_id: 151386
+  :site_name: Broadcast Site PASSCHENDAELE
+  :zone: 56
+  :easting: 384985
+  :northing: 6842712
+  :lat: "-28.5372222222222"
+  :lng: '151.8244444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Spencer Gulf North
+  :callsign: 5JJJ
+  :frequency: 103.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 82
+  :antenna_pattern: OD
+  :maximum_erp: 70000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007690
+  :license_number: 1152238
+  :site_id: 24650
+  :site_name: Television Tower via Wirrabara THE BLUFF
+  :zone: 54
+  :easting: 235222
+  :northing: 6333440
+  :lat: "-33.1052777777778"
+  :lng: '138.1625'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Strahan
+  :callsign: 7JJJ
+  :frequency: 101.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 26
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131064
+  :license_number: 1147348
+  :site_id: 199243
+  :site_name: Broadcast Site Ocean Beach Rd STRAHAN
+  :zone: 55
+  :easting: 359640
+  :northing: 5332095
+  :lat: "-42.1505555555556"
+  :lng: '145.3011111111111'
+  :state: TAS
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Streaky Bay
+  :callsign: 5JJJ
+  :frequency: 103.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 90
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010681
+  :license_number: 1156482
+  :site_id: 25224
+  :site_name: Broadcast Site 5 km NNW of STREAKY BAY
+  :zone: 53
+  :easting: 424285
+  :northing: 6375228
+  :lat: "-32.7580555555556"
+  :lng: '134.1916666666667'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: SW Slopes/E Riverina
+  :callsign: 2JJJ
+  :frequency: 90.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 61
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7730001
+  :license_number: 1153132
+  :site_id: 9957
+  :site_name: TV Transmitter 23 km SW of Cootamundra MT ULANDRA
+  :zone: 55
+  :easting: 582311
+  :northing: 6146329
+  :lat: "-34.8216666666667"
+  :lng: '147.9'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Sydney
+  :callsign: 2JJJ
+  :frequency: 105.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 145
+  :antenna_pattern: DA
+  :maximum_erp: 150000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3005001
+  :license_number: 1198645
+  :site_id: 48711
+  :site_name: ABC Tower 221 Pacific Highway GORE HILL
+  :zone: 56
+  :easting: 331921
+  :northing: 6256122
+  :lat: "-33.8213888888889"
+  :lng: '151.1836111111111'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tamworth
+  :callsign: 2JJJ
+  :frequency: 94.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 65
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007940
+  :license_number: 1153033
+  :site_id: 6531
+  :site_name: Prime Site Soma Mountain Werris Creek via TAMWORTH
+  :zone: 56
+  :easting: 285775
+  :northing: 6532400
+  :lat: "-31.3227777777778"
+  :lng: '150.7486111111111'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tarbat
+  :callsign: 4JJJ
+  :frequency: 106.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 55
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132516
+  :license_number: 1191497
+  :site_id: 9000392
+  :site_name: Santos Site Tarbat 26 km South EROMANGA
+  :zone: 54
+  :easting: 727500
+  :northing: 7021787
+  :lat: "-26.9069444444444"
+  :lng: '143.2908333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Telfer
+  :callsign: 6JJJ
+  :frequency: 98.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 160
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133679
+  :license_number: 1928029
+  :site_id: 139356
+  :site_name: Comms Site Maindome Telfer Mine TELFER
+  :zone: 51
+  :easting: 419496
+  :northing: 7597633
+  :lat: "-21.7227777777778"
+  :lng: '122.2213888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tennant Creek
+  :callsign: 8JJJ
+  :frequency: 107.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130805
+  :license_number: 1145472
+  :site_id: 137442
+  :site_name: Territory Communications 183 Paterson St TENNANT CREEK
+  :zone: 53
+  :easting: 415084
+  :northing: 7827953
+  :lat: "-19.6416666666667"
+  :lng: '134.19'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Thargomindah
+  :callsign: 4JJJ
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013651
+  :license_number: 1158930
+  :site_id: 151407
+  :site_name: Broadcast Site Frew St THARGOMINDAH
+  :zone: 54
+  :easting: 777500
+  :northing: 6899999
+  :lat: "-27.9961111111111"
+  :lng: '143.8213888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: The Monument
+  :callsign: 4JJJ
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 5
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1046001
+  :license_number: 1156515
+  :site_id: 20266
+  :site_name: Broadcast Site Post Office THE MONUMENT
+  :zone: 54
+  :easting: 388000
+  :northing: 7593000
+  :lat: "-21.7630555555556"
+  :lng: '139.9166666666667'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ti Tree (WA)
+  :callsign: 6JJJ
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013934
+  :license_number: 1159108
+  :site_id: 153103
+  :site_name: Broadcast Site Village B TI TREE
+  :zone: 50
+  :easting: 562470
+  :northing: 7585520
+  :lat: "-21.8330555555556"
+  :lng: '117.6044444444445'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tirrawarra
+  :callsign: 5JJJ
+  :frequency: 107.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 100
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000482
+  :license_number: 1139589
+  :site_id: 25773
+  :site_name: Santos Site Tirrawarra 48 km North of MOOMBA
+  :zone: 54
+  :easting: 411337
+  :northing: 6936766
+  :lat: "-27.6902777777778"
+  :lng: '140.1005555555556'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tom Price
+  :callsign: 6JJJ
+  :frequency: 98.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 17
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014333
+  :license_number: 1159283
+  :site_id: 49573
+  :site_name: Prongs Hut TOM PRICE
+  :zone: 50
+  :easting: 580751
+  :northing: 7481100
+  :lat: "-22.7755555555556"
+  :lng: '117.7866666666667'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tom Price
+  :callsign: 6JJJ
+  :frequency: 100.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 14
+  :antenna_pattern: OD
+  :maximum_erp: 70
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000687
+  :license_number: 1158599
+  :site_id: 40637
+  :site_name: Mt Nameless TOM PRICE
+  :zone: 50
+  :easting: 578043
+  :northing: 7487134
+  :lat: "-22.7211111111111"
+  :lng: '117.7597222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Townsville
+  :callsign: 4JJJ
+  :frequency: 105.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 103
+  :antenna_pattern: DA
+  :maximum_erp: 104000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7326001
+  :license_number: 1153133
+  :site_id: 19494
+  :site_name: Main Tower National Broadcast Site MT STUART
+  :zone: 55
+  :easting: 476825
+  :northing: 7860960
+  :lat: "-19.3452777777778"
+  :lng: '146.7794444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Townsville North
+  :callsign: 4JJJ
+  :frequency: 97.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 23
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007309
+  :license_number: 1153310
+  :site_id: 151727
+  :site_name: Seacom Site YARRAWONGA
+  :zone: 55
+  :easting: 478803
+  :northing: 7871402
+  :lat: "-19.2505555555556"
+  :lng: '146.7980555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tuggeranong
+  :callsign: 2JJJ
+  :frequency: 95.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008239
+  :license_number: 1901266
+  :site_id: 150963
+  :site_name: Broadcast Site TUGGERANONG HILL
+  :zone: 55
+  :easting: 690631
+  :northing: 6074489
+  :lat: "-35.4544444444445"
+  :lng: '149.1005555555556'
+  :state: ACT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tumbarumba
+  :callsign: 2JJJ
+  :frequency: 106.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130712
+  :license_number: 1143011
+  :site_id: 9899
+  :site_name: Broadcast/Comms Site Mt Ikes 14.5 km SSW of TUMBARUMBA
+  :zone: 55
+  :easting: 585580
+  :northing: 6026750
+  :lat: "-35.8994444444444"
+  :lng: '147.9480555555556'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Uluru
+  :callsign: 8JJJ
+  :frequency: 92.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 21
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007388
+  :license_number: 1152594
+  :site_id: 151529
+  :site_name: Broadcast Site Mutitjulu Community ULURU
+  :zone: 52
+  :easting: 708325
+  :northing: 7194357
+  :lat: "-25.3527777777778"
+  :lng: '131.07'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Upper Murray
+  :callsign: 3JJJ
+  :frequency: 103.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 78
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003788
+  :license_number: 1153136
+  :site_id: 11949
+  :site_name: Broadcast Site 14 km S of Wodonga MT BARANDUDA
+  :zone: 55
+  :easting: 487000
+  :northing: 5987700
+  :lat: "-36.2552777777778"
+  :lng: '146.8552777777778'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Upper Namoi
+  :callsign: 2JJJ
+  :frequency: 99.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 122
+  :antenna_pattern: DA
+  :maximum_erp: 200000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007938
+  :license_number: 1153031
+  :site_id: 35653
+  :site_name: TV Tower MOUNT DOWE
+  :zone: 56
+  :easting: 227432
+  :northing: 6646103
+  :lat: "-30.2861111111111"
+  :lng: '150.1663888888889'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Useless Loop
+  :callsign: 6JJJ
+  :frequency: 102.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 12
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008630
+  :license_number: 1153608
+  :site_id: 31062
+  :site_name: Broadcast Site Community Hall USELESS LOOP
+  :zone: 49
+  :easting: 741580
+  :northing: 7107850
+  :lat: "-26.1280555555556"
+  :lng: '113.4158333333334'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Varley
+  :callsign: 6JJJ
+  :frequency: 104.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 150
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013269
+  :license_number: 1158692
+  :site_id: 153497
+  :site_name: Broadcast Site Varley North Rd 10 km VARLEY
+  :zone: 50
+  :easting: 736099
+  :northing: 6377859
+  :lat: "-32.7113888888889"
+  :lng: '119.5186111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wadeye
+  :callsign: 8JJJ
+  :frequency: 98.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130148
+  :license_number: 1159567
+  :site_id: 153140
+  :site_name: Broadcast Site Sport and Rec Hall Lot 460 Perdjert St WADEYE
+  :zone: 52
+  :easting: 555948
+  :northing: 8425681
+  :lat: "-14.2397222222222"
+  :lng: '129.5186111111111'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wagga Wagga
+  :callsign: 2JJJ
+  :frequency: 101.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 41
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010747
+  :license_number: 1152939
+  :site_id: 9883
+  :site_name: Capital TV Site Willans Hill WAGGA WAGGA
+  :zone: 55
+  :easting: 533770
+  :northing: 6112000
+  :lat: "-35.1341666666667"
+  :lng: '147.3705555555556'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Warmun
+  :callsign: 6JJJ
+  :frequency: 106.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005079
+  :license_number: 1157996
+  :site_id: 32353
+  :site_name: Broadcast Site WARMUN
+  :zone: 52
+  :easting: 416300
+  :northing: 8116500
+  :lat: "-17.0338888888889"
+  :lng: '128.2133333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Warrnambool
+  :callsign: 3JJJ
+  :frequency: 89.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 51
+  :antenna_pattern: DA
+  :maximum_erp: 3200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6744001
+  :license_number: 1153283
+  :site_id: 51181
+  :site_name: Broadcast/Comm Site Spencer Rd TOWER HILL
+  :zone: 54
+  :easting: 620330
+  :northing: 5757915
+  :lat: "-38.3186111111111"
+  :lng: '142.3763888888889'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Weipa
+  :callsign: 4JJJ
+  :frequency: 99.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132938
+  :license_number: 1903192
+  :site_id: 55783
+  :site_name: Water Tower WEIPA
+  :zone: 54
+  :easting: 595465
+  :northing: 8603480
+  :lat: "-12.6311111111111"
+  :lng: '141.8788888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: West Angelas
+  :callsign: 6JJJ
+  :frequency: 98.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132750
+  :license_number: 1567126
+  :site_id: 137450
+  :site_name: Comms Site Hill 807E WEST ANGELAS
+  :zone: 50
+  :easting: 682085
+  :northing: 7438101
+  :lat: "-23.1558333333333"
+  :lng: '118.7783333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Western Victoria
+  :callsign: 3JJJ
+  :frequency: 94.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 105
+  :antenna_pattern: DA
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7601001
+  :license_number: 1153138
+  :site_id: 38531
+  :site_name: Broadcast Australia Tower 32 km NNW of Hamilton MT DUNDAS
+  :zone: 54
+  :easting: 580896
+  :northing: 5853658
+  :lat: "-37.4602777777778"
+  :lng: '141.9144444444445'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Westonia
+  :callsign: 6JJJ
+  :frequency: 99.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009259
+  :license_number: 1154859
+  :site_id: 29306
+  :site_name: Broadcast Site Lot 33 WESTONIA
+  :zone: 50
+  :easting: 661100
+  :northing: 6536300
+  :lat: "-31.2963888888889"
+  :lng: '118.6925'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wide Bay
+  :callsign: 4JJJ
+  :frequency: 99.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 77
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000958
+  :license_number: 1151789
+  :site_id: 151525
+  :site_name: Broadcast Site 60 km WNW of Maryborough MT GOONANEMAN
+  :zone: 56
+  :easting: 411105
+  :northing: 7187299
+  :lat: "-25.4283333333333"
+  :lng: '152.1158333333334'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Willowra
+  :callsign: 8JJJ
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130417
+  :license_number: 1141676
+  :site_id: 151670
+  :site_name: Broadcast Site Mt Barkly WILLOWRA
+  :zone: 53
+  :easting: 252580
+  :northing: 7648540
+  :lat: "-21.2477777777778"
+  :lng: '132.6158333333334'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Windarling
+  :callsign: 6JJJ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 52
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013862
+  :license_number: 1159076
+  :site_id: 480699
+  :site_name: Microwave Tower Mine Site Windarling NW KOOLYANOBBING
+  :zone: 50
+  :easting: 720649
+  :northing: 6675592
+  :lat: "-30.0305555555556"
+  :lng: '119.2880555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Winton
+  :callsign: 4JJJ
+  :frequency: 96.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 2
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004234
+  :license_number: 1150597
+  :site_id: 150100
+  :site_name: Broadcast Site Shire Council Building WINTON
+  :zone: 54
+  :easting: 709000
+  :northing: 7523000
+  :lat: "-22.3861111111111"
+  :lng: '143.03'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wodgina
+  :callsign: 6JJJ
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132690
+  :license_number: 1158736
+  :site_id: 137198
+  :site_name: Talison Comms Site Minesite Hill WODGINA
+  :zone: 50
+  :easting: 673904
+  :northing: 7656213
+  :lat: "-21.1869444444444"
+  :lng: '118.675'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Woomera
+  :callsign: 5JJJ
+  :frequency: 104.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004385
+  :license_number: 1151432
+  :site_id: 25533
+  :site_name: Broadcast Site Old Techarea Road WOOMERA
+  :zone: 53
+  :easting: 672931
+  :northing: 6547017
+  :lat: "-31.1980555555556"
+  :lng: '136.815'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wudinna
+  :callsign: 5JJJ
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000573
+  :license_number: 1156521
+  :site_id: 25155
+  :site_name: Major Radio Site Pygery Rocks WUDINNA
+  :zone: 53
+  :easting: 544812
+  :northing: 6351095
+  :lat: "-32.9775"
+  :lng: '135.4794444444445'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wurreranginy Community
+  :callsign: 6JJJ
+  :frequency: 92.5
+  :purpose: Retransmission
+  :polarisation: H
+  :antenna_height: 8
+  :antenna_pattern: OD
+  :maximum_erp: 1
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001560
+  :license_number: 1157748
+  :site_id: 153370
+  :site_name: Broadcast Site Wurreranginy Community Great Northern Highway via KUNUNURRA
+  :zone: 52
+  :easting: 399000
+  :northing: 8089600
+  :lat: "-17.2763888888889"
+  :lng: '128.0497222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Wyndham
+  :callsign: 6JJJ
+  :frequency: 98.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001783
+  :license_number: 1147362
+  :site_id: 32403
+  :site_name: Broadcast Site Mt Albany WYNDHAM
+  :zone: 52
+  :easting: 403700
+  :northing: 8290000
+  :lat: "-15.4652777777778"
+  :lng: '128.1022222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yandicoogina
+  :callsign: 6JJJ
+  :frequency: 104.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000725
+  :license_number: 1158591
+  :site_id: 601361
+  :site_name: Yandi RBS NEWMAN
+  :zone: 50
+  :easting: 729000
+  :northing: 7480050
+  :lat: "-22.7713888888889"
+  :lng: '119.2302777777778'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yandicoogina Village
+  :callsign: 6JJJ
+  :frequency: 100.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 26
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131292
+  :license_number: 1183631
+  :site_id: 9001655
+  :site_name: Yandi RBS - 3 Yandi Mine 78 Km North East of NEWMAN
+  :zone: 50
+  :easting: 730689
+  :northing: 7476752
+  :lat: "-22.8008333333333"
+  :lng: '119.2472222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yowah
+  :callsign: 4JJJ
+  :frequency: 104.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 12
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133525
+  :license_number: 1922538
+  :site_id: 152949
+  :site_name: Broadcast Site Old Paroo Shire Council Library 16 Harlequin Drive YOWAH
+  :zone: 55
+  :easting: 267207
+  :northing: 6903636
+  :lat: "-27.9719444444444"
+  :lng: '144.6333333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yuelamu
+  :callsign: 8JJJ
+  :frequency: 97.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 9236001
+  :license_number: 1182746
+  :site_id: 54080
+  :site_name: Broadcast Site Mt Allan Station YUELAMU
+  :zone: 53
+  :easting: 212000
+  :northing: 7535500
+  :lat: "-22.2619444444444"
+  :lng: '132.2052777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yuendumu
+  :callsign: 8JJJ
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130947
+  :license_number: 1141685
+  :site_id: 151643
+  :site_name: Broadcast Studio Conniston Road and Walpiri Ave YUENDUMU
+  :zone: 52
+  :easting: 787950
+  :northing: 7536175
+  :lat: "-22.2558333333333"
+  :lng: '131.7936111111111'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yulara
+  :callsign: 8JJJ
+  :frequency: 95.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 27
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 9249001
+  :license_number: 1186104
+  :site_id: 2715
+  :site_name: Broadcast Site Tourist Resort YULARA
+  :zone: 52
+  :easting: 700523
+  :northing: 7207400
+  :lat: "-25.2361111111111"
+  :lng: '130.9905555555556'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yungngora
+  :callsign: 6JJJ
+  :frequency: 103.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130723
+  :license_number: 1144285
+  :site_id: 151732
+  :site_name: Broadcast Site YUNGNGORA
+  :zone: 51
+  :easting: 692848
+  :northing: 7952992
+  :lat: "-18.5044444444444"
+  :lng: '124.8266666666667'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

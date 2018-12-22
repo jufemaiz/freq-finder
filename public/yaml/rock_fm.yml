@@ -1,0 +1,81 @@
+---
+:title: Rock FM
+:transmitters:
+- :band: FM
+  :area: Goonyella
+  :callsign: 4RFM
+  :frequency: 102.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 150
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133003
+  :license_number: 1906614
+  :site_id: 18792
+  :site_name: Ramp 10 Conveyer South Site GOONYELLA
+  :zone: 55
+  :easting: 600221
+  :northing: 7595990
+  :lat: "-21.7366666666667"
+  :lng: '147.9688888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Moranbah
+  :callsign: 4RFM
+  :frequency: 96.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013634
+  :license_number: 1170874
+  :site_id: 18885
+  :site_name: ABC NTL Site CARBOROUGH RANGE
+  :zone: 55
+  :easting: 636065
+  :northing: 7574611
+  :lat: "-21.9275"
+  :lng: '148.3175'
+  :state: QLD
+  :bsl: 1150804
+  :license_area: MORANBAH RA1
+  :license_id: 918
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Peak Downs Mine
+  :callsign: 4RFM
+  :frequency: 98.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133126
+  :license_number: 1910415
+  :site_id: 403310
+  :site_name: ROM Site PEAK DOWNS
+  :zone: 55
+  :easting: 621826
+  :northing: 7538208
+  :lat: "-22.2572222222222"
+  :lng: '148.1822222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

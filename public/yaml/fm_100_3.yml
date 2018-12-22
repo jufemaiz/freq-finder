@@ -1,0 +1,55 @@
+---
+:title: FM 100.3
+:transmitters:
+- :band: FM
+  :area: Armidale
+  :callsign: 2NEB
+  :frequency: 100.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004773
+  :license_number: 1152598
+  :site_id: 6645
+  :site_name: Broadcast Bldg Little Duval ARMIDALE
+  :zone: 56
+  :easting: 365300
+  :northing: 6638300
+  :lat: "-30.3794444444444"
+  :lng: '151.5980555555556'
+  :state: NSW
+  :bsl: 10316
+  :license_area: ARMIDALE RA1
+  :license_id: 362
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Walcha
+  :callsign: 2NEB
+  :frequency: 89.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132351
+  :license_number: 1152599
+  :site_id: 151299
+  :site_name: Broadcast Site 1km SW of WALCHA
+  :zone: 56
+  :easting: 364713
+  :northing: 6570600
+  :lat: "-30.9902777777778"
+  :lng: '151.5830555555556'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

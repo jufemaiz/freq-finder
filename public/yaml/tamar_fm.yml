@@ -1,0 +1,30 @@
+---
+:title: Tamar FM
+:transmitters:
+- :band: FM
+  :area: George Town
+  :callsign: 7TFM
+  :frequency: 95.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010792
+  :license_number: 1170996
+  :site_id: 153220
+  :site_name: Broadcast Site Mount George Lookout Reserve off East Tamar Hwy GEORGE
+    TOWN
+  :zone: 55
+  :easting: 489108
+  :northing: 5449532
+  :lat: "-41.1052777777778"
+  :lng: '146.8702777777778'
+  :state: TAS
+  :bsl: 1150789
+  :license_area: GEORGE TOWN RA1
+  :license_id: 1143
+  :operation_hours: 
+  :status: Issued

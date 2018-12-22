@@ -1,0 +1,29 @@
+---
+:title: ABC North Queensland
+:transmitters:
+- :band: AM
+  :area: Townsville
+  :callsign: 4QN
+  :frequency: 630.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 198
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 2790
+  :power: 50000
+  :technical_specification_number: 4042001
+  :license_number: 1198656
+  :site_id: 19386
+  :site_name: MF Broadcast Site Jack Rd BRANDON
+  :zone: 55
+  :easting: 535600
+  :northing: 7842500
+  :lat: "-19.5116666666667"
+  :lng: '147.3391666666667'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

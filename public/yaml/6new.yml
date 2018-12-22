@@ -1,0 +1,29 @@
+---
+:title: 6NEW
+:transmitters:
+- :band: FM
+  :area: Newman
+  :callsign: 6NEW
+  :frequency: 92.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000735
+  :license_number: 1385231
+  :site_id: 137651
+  :site_name: Community Radio Tower TV Hill NEWMAN
+  :zone: 50
+  :easting: 778497
+  :northing: 7415051
+  :lat: "-23.3502777777778"
+  :lng: '119.7238888888889'
+  :state: WA
+  :bsl: 10357
+  :license_area: NEWMAN RA1
+  :license_id: 262
+  :operation_hours: 
+  :status: Renewal Pending

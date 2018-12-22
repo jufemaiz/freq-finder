@@ -1,0 +1,159 @@
+---
+:title: Life FM
+:transmitters:
+- :band: FM
+  :area: Adelaide
+  :callsign: 5RAM
+  :frequency: 107.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5269001
+  :license_number: 1569070
+  :site_id: 23139
+  :site_name: ntl Tower Summit Road CRAFERS
+  :zone: 54
+  :easting: 290707
+  :northing: 6126723
+  :lat: "-34.9802777777778"
+  :lng: '138.7069444444445'
+  :state: SA
+  :bsl: 5269
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bathurst
+  :callsign: 2BCB
+  :frequency: 100.1
+  :purpose: Community
+  :polarisation: H
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001354
+  :license_number: 1155585
+  :site_id: 152498
+  :site_name: Broadcast Site 12 Littlebourne St KELSO
+  :zone: 55
+  :easting: 743000
+  :northing: 6298000
+  :lat: "-33.4297222222222"
+  :lng: '149.6136111111111'
+  :state: NSW
+  :bsl: 10275
+  :license_area: BATHURST RA3
+  :license_id: 789
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bathurst
+  :callsign: 2BCB
+  :frequency: 100.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001354
+  :license_number: 1155585
+  :site_id: 150418
+  :site_name: Broadcast Site OVENS RANGES
+  :zone: 55
+  :easting: 760758
+  :northing: 6297185
+  :lat: "-33.4327777777778"
+  :lng: '149.8044444444445'
+  :state: NSW
+  :bsl: 10275
+  :license_area: BATHURST RA3
+  :license_id: 789
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gold Coast
+  :callsign: 4CAB
+  :frequency: 107.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 63
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013954
+  :license_number: 1170589
+  :site_id: 403573
+  :site_name: Large Link Tower within Broadcast Enclosure Golf Course Rd MOUNT TAMBORINE
+  :zone: 56
+  :easting: 520880
+  :northing: 6905960
+  :lat: "-27.9711111111111"
+  :lng: '153.2122222222222'
+  :state: QLD
+  :bsl: 1150708
+  :license_area: GOLD COAST RA1
+  :license_id: 515
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Grafton
+  :callsign: 2CVC
+  :frequency: 103.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005048
+  :license_number: 1170214
+  :site_id: 8166
+  :site_name: Grafton District Golf Club Bent Street SOUTH GRAFTON
+  :zone: 56
+  :easting: 492355
+  :northing: 6710828
+  :lat: "-29.7325"
+  :lng: '152.9208333333333'
+  :state: NSW
+  :bsl: 1150059
+  :license_area: GRAFTON RA2
+  :license_id: 684
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Latrobe Valley
+  :callsign: 3GCB
+  :frequency: 103.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 91
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010733
+  :license_number: 1170981
+  :site_id: 12044
+  :site_name: ABLV NTL Broadcast Tower 23 km S of Traralgon MT TASSIE
+  :zone: 55
+  :easting: 461875
+  :northing: 5749630
+  :lat: "-38.4005555555556"
+  :lng: '146.5633333333333'
+  :state: VIC
+  :bsl: 1150777
+  :license_area: LATROBE VALLEY RA2
+  :license_id: 1081
+  :operation_hours: 
+  :status: Issued

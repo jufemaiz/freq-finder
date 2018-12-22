@@ -1,0 +1,29 @@
+---
+:title: RPH Adelaide
+:transmitters:
+- :band: AM
+  :area: Adelaide
+  :callsign: 5RPH
+  :frequency: 1197.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 84
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 455
+  :power: 2000
+  :technical_specification_number: 5272001
+  :license_number: 1170627
+  :site_id: 22338
+  :site_name: Broadcasting site South Terrace WINGFIELD
+  :zone: 54
+  :easting: 277600
+  :northing: 6142200
+  :lat: "-34.8380555555556"
+  :lng: '138.5677777777778'
+  :state: SA
+  :bsl: 5272
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued

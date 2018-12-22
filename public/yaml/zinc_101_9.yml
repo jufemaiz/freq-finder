@@ -1,0 +1,107 @@
+---
+:title: Zinc 101.9
+:transmitters:
+- :band: FM
+  :area: Airlie Beach
+  :callsign: 4MMK
+  :frequency: 90.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007569
+  :license_number: 1144032
+  :site_id: 39472
+  :site_name: Broadcast/CMTS Site Shingley Hill AIRLIE BEACH
+  :zone: 55
+  :easting: 678477
+  :northing: 7757179
+  :lat: "-20.2747222222222"
+  :lng: '148.7088888888889'
+  :state: QLD
+  :bsl: 1150018
+  :license_area: MACKAY RA1
+  :license_id: 528
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Glenden
+  :callsign: 4MMK
+  :frequency: 91.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013398
+  :license_number: 1159630
+  :site_id: 151669
+  :site_name: Broadcast Site Water Treatment Plant GLENDEN
+  :zone: 55
+  :easting: 614910
+  :northing: 7637650
+  :lat: "-21.3594444444444"
+  :lng: '148.1080555555556'
+  :state: QLD
+  :bsl: 1150018
+  :license_area: MACKAY RA1
+  :license_id: 528
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mackay
+  :callsign: 4MMK
+  :frequency: 101.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 52
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6396001
+  :license_number: 1155488
+  :site_id: 18649
+  :site_name: Mackay Communications Site Mt Blackwood 28 km WNW of MACKAY
+  :zone: 55
+  :easting: 701835
+  :northing: 7672820
+  :lat: "-21.0341666666667"
+  :lng: '148.9419444444445'
+  :state: QLD
+  :bsl: 1150018
+  :license_area: MACKAY RA1
+  :license_id: 528
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Nebo
+  :callsign: 4MMK
+  :frequency: 92.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130150
+  :license_number: 1142494
+  :site_id: 18733
+  :site_name: Telstra Radio Terminal Smiths Hill 6km NNE of NEBO
+  :zone: 55
+  :easting: 676498
+  :northing: 7606578
+  :lat: "-21.6352777777778"
+  :lng: '148.7052777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

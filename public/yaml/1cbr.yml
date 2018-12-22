@@ -1,0 +1,55 @@
+---
+:title: 1CBR
+:transmitters:
+- :band: FM
+  :area: Canberra
+  :callsign: 1CBR
+  :frequency: 106.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 147
+  :antenna_pattern: OD
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1060901
+  :license_number: 1384866
+  :site_id: 9580
+  :site_name: Telecom Tower BLACK MOUNTAIN
+  :zone: 55
+  :easting: 690683
+  :northing: 6094201
+  :lat: "-35.2769444444444"
+  :lng: '149.0963888888889'
+  :state: ACT
+  :bsl: 1060
+  :license_area: CANBERRA RA1
+  :license_id: 508
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tuggeranong
+  :callsign: 1CBR
+  :frequency: 107.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008244
+  :license_number: 1157400
+  :site_id: 150963
+  :site_name: Broadcast Site TUGGERANONG HILL
+  :zone: 55
+  :easting: 690631
+  :northing: 6074489
+  :lat: "-35.4544444444445"
+  :lng: '149.1005555555556'
+  :state: ACT
+  :bsl: 1060
+  :license_area: CANBERRA RA1
+  :license_id: 508
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,81 @@
+---
+:title: 5EFM
+:transmitters:
+- :band: FM
+  :area: Strathalbyn
+  :callsign: 5EFM
+  :frequency: 94.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 17
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010700
+  :license_number: 1170799
+  :site_id: 150378
+  :site_name: Broadcast Site 42 km NE of Victor Harbor SUMMER HILL
+  :zone: 54
+  :easting: 310800
+  :northing: 6094900
+  :lat: "-35.2708333333333"
+  :lng: '138.9197222222222'
+  :state: SA
+  :bsl: 1150781
+  :license_area: VICTOR HARBOR RA1
+  :license_id: 810
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Victor Harbor
+  :callsign: 5EFM
+  :frequency: 89.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 12
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010844
+  :license_number: 1170801
+  :site_id: 25767
+  :site_name: Link site 6km NNE of Victor Harbor BROWN HILL
+  :zone: 54
+  :easting: 286416
+  :northing: 6068145
+  :lat: "-35.5072222222222"
+  :lng: '138.645'
+  :state: SA
+  :bsl: 1150781
+  :license_area: VICTOR HARBOR RA1
+  :license_id: 810
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yankalilla
+  :callsign: 5EFM
+  :frequency: 94.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 17
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133140
+  :license_number: 1923482
+  :site_id: 23304
+  :site_name: Bennett Property Cnr Wilson & Bower Roads NORMANVILLE
+  :zone: 54
+  :easting: 258345
+  :northing: 6074346
+  :lat: "-35.445"
+  :lng: '138.3375'
+  :state: SA
+  :bsl: 1150781
+  :license_area: VICTOR HARBOR RA1
+  :license_id: 810
+  :operation_hours: 
+  :status: Issued

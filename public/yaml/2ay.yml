@@ -1,0 +1,29 @@
+---
+:title: 2AY
+:transmitters:
+- :band: AM
+  :area: Albury
+  :callsign: 2AY
+  :frequency: 1494.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 53
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 450
+  :power: 2000
+  :technical_specification_number: 10005809
+  :license_number: 1385029
+  :site_id: 150923
+  :site_name: Broadcast Site Corrys Rd THURGOONA
+  :zone: 55
+  :easting: 496703
+  :northing: 6009804
+  :lat: "-36.0561111111111"
+  :lng: '146.9633333333333'
+  :state: NSW
+  :bsl: 10387
+  :license_area: ALBURY RA1
+  :license_id: 363
+  :operation_hours: 
+  :status: Issued

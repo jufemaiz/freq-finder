@@ -1,0 +1,107 @@
+---
+:title: ABC Goulburn Murray
+:transmitters:
+- :band: FM
+  :area: Bright
+  :callsign: 3MRR
+  :frequency: 89.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 33
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003513
+  :license_number: 1198452
+  :site_id: 150876
+  :site_name: Broadcast Site Apex Lookout 1.5 km NE of BRIGHT
+  :zone: 55
+  :easting: 497499
+  :northing: 5936495
+  :lat: "-36.7169444444444"
+  :lng: '146.9719444444445'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Corryong
+  :callsign: 3MRR
+  :frequency: 99.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 27
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003517
+  :license_number: 1198456
+  :site_id: 40979
+  :site_name: Broadcast Site MT ELLIOT
+  :zone: 55
+  :easting: 587660
+  :northing: 5994880
+  :lat: "-36.1866666666667"
+  :lng: '147.9747222222222'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Myrtleford
+  :callsign: 3MRR
+  :frequency: 91.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 19
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003769
+  :license_number: 1198451
+  :site_id: 41099
+  :site_name: Broadcast/Comms Site Lookout Hill MYRTLEFORD
+  :zone: 55
+  :easting: 476200
+  :northing: 5953600
+  :lat: "-36.5625"
+  :lng: '146.7338888888889'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Upper Murray
+  :callsign: 3MRR
+  :frequency: 106.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 78
+  :antenna_pattern: OD
+  :maximum_erp: 80000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003787
+  :license_number: 1198466
+  :site_id: 11949
+  :site_name: Broadcast Site 14 km S of Wodonga MT BARANDUDA
+  :zone: 55
+  :easting: 487000
+  :northing: 5987700
+  :lat: "-36.2552777777778"
+  :lng: '146.8552777777778'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

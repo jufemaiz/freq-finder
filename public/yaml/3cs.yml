@@ -1,0 +1,29 @@
+---
+:title: 3CS
+:transmitters:
+- :band: AM
+  :area: Colac
+  :callsign: 3CS
+  :frequency: 1134.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 73
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1000
+  :power: 5000
+  :technical_specification_number: 4149001
+  :license_number: 1384956
+  :site_id: 150769
+  :site_name: Broadcast Site ROSSMOYNE
+  :zone: 54
+  :easting: 721601
+  :northing: 5755202
+  :lat: "-38.3236111111111"
+  :lng: '143.5347222222222'
+  :state: VIC
+  :bsl: 4149
+  :license_area: COLAC RA1
+  :license_id: 817
+  :operation_hours: 
+  :status: Issued

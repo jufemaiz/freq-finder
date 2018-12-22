@@ -1,0 +1,133 @@
+---
+:title: Mix 104.9
+:transmitters:
+- :band: FM
+  :area: Adelaide River
+  :callsign: 8MIX
+  :frequency: 98.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 17
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003334
+  :license_number: 1159357
+  :site_id: 1736
+  :site_name: Broadcast Site 1 km SE of ADELAIDE RIVER
+  :zone: 52
+  :easting: 728395
+  :northing: 8534687
+  :lat: "-13.2458333333333"
+  :lng: '131.1077777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bathurst Island
+  :callsign: 8MIX
+  :frequency: 89.7
+  :purpose: s212 Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 7874001
+  :license_number: 1158985
+  :site_id: 41238
+  :site_name: Broadcast Site Mission Hill BATHURST ISLAND
+  :zone: 52
+  :easting: 670632
+  :northing: 8697632
+  :lat: "-11.7766666666667"
+  :lng: '130.5658333333334'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Darwin
+  :callsign: 8MIX
+  :frequency: 104.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 30000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003317
+  :license_number: 1151946
+  :site_id: 1207
+  :site_name: Broadcast Site Section 4456 (100) Deloraine Road BERRIMAH
+  :zone: 52
+  :easting: 713900
+  :northing: 8626700
+  :lat: "-12.4152777777778"
+  :lng: '130.9675'
+  :state: NT
+  :bsl: 10168
+  :license_area: DARWIN RA1
+  :license_id: 494
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Katherine
+  :callsign: 8MIX
+  :frequency: 106.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 38
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003318
+  :license_number: 1157268
+  :site_id: 151812
+  :site_name: Broadcast Site Lot 3135 (13) Chardon Street KATHERINE
+  :zone: 53
+  :easting: 207259
+  :northing: 8397943
+  :lat: "-14.4752777777778"
+  :lng: '132.2841666666667'
+  :state: NT
+  :bsl: 10168
+  :license_area: DARWIN RA1
+  :license_id: 494
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Pine Creek
+  :callsign: 8MIX
+  :frequency: 96.7
+  :purpose: s212 Retransmission
+  :polarisation: V
+  :antenna_height: 27
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009212
+  :license_number: 1155216
+  :site_id: 152927
+  :site_name: RT Broadcast Site Water Tank Hill PINE CREEK
+  :zone: 52
+  :easting: 806250
+  :northing: 8469500
+  :lat: "-13.8277777777778"
+  :lng: '131.8325'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

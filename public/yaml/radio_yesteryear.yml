@@ -1,0 +1,29 @@
+---
+:title: Radio Yesteryear
+:transmitters:
+- :band: FM
+  :area: Lake Macquarie
+  :callsign: 2OLD
+  :frequency: 97.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007821
+  :license_number: 1171486
+  :site_id: 137772
+  :site_name: Big Prawn Service Station 557 Pacific Hwy FRASER PARK
+  :zone: 56
+  :easting: 370167
+  :northing: 6328446
+  :lat: "-33.1747222222222"
+  :lng: '151.6072222222222'
+  :state: NSW
+  :bsl: 1150043
+  :license_area: LAKE MACQUARIE RA1
+  :license_id: 695
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: NIM FM
+:transmitters:
+- :band: FM
+  :area: Nimbin
+  :callsign: 2NIM
+  :frequency: 102.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009943
+  :license_number: 1170680
+  :site_id: 55624
+  :site_name: Broadcast Site 93 Cullen St NIMBIN
+  :zone: 56
+  :easting: 521600
+  :northing: 6836500
+  :lat: "-28.5980555555556"
+  :lng: '153.2208333333333'
+  :state: NSW
+  :bsl: 1150713
+  :license_area: NIMBIN RA1
+  :license_id: 871
+  :operation_hours: 
+  :status: Issued

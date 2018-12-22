@@ -1,0 +1,159 @@
+---
+:title: ABC South East NSW
+:transmitters:
+- :band: AM
+  :area: Bega
+  :callsign: 2BA
+  :frequency: 810.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 137
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1200
+  :power: 10000
+  :technical_specification_number: 4006001
+  :license_number: 1198577
+  :site_id: 150877
+  :site_name: Broadcast Site BEGA
+  :zone: 55
+  :easting: 751837
+  :northing: 5933245
+  :lat: "-36.7127777777778"
+  :lng: '149.8194444444444'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Cooma
+  :callsign: 2CP
+  :frequency: 1602.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 24
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 70
+  :power: 50
+  :technical_specification_number: 4009001
+  :license_number: 1198587
+  :site_id: 150907
+  :site_name: Broadcast Site COOMA
+  :zone: 55
+  :easting: 691932
+  :northing: 5988501
+  :lat: "-36.2291666666667"
+  :lng: '149.1355555555556'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Batemans Bay/Moruya
+  :callsign: 2BA
+  :frequency: 103.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 37
+  :antenna_pattern: DA
+  :maximum_erp: 40000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3316001
+  :license_number: 1150278
+  :site_id: 8979
+  :site_name: Broadcast Site South Site 18 km WSW of Batemans Bay MT WANDERA
+  :zone: 56
+  :easting: 229280
+  :northing: 6034340
+  :lat: "-35.7975"
+  :lng: '150.0041666666667'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bombala
+  :callsign: 2BA
+  :frequency: 94.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4006002
+  :license_number: 1198605
+  :site_id: 40714
+  :site_name: Broadcast Site 7 km NNW of BOMBALA
+  :zone: 55
+  :easting: 697500
+  :northing: 5919200
+  :lat: "-36.8522222222222"
+  :lng: '149.215'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Eden
+  :callsign: 2BA
+  :frequency: 106.3
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 41
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4006003
+  :license_number: 1198650
+  :site_id: 9145
+  :site_name: Broadcast Site 6 km NNW of Eden BIMMIL HILL
+  :zone: 55
+  :easting: 756986
+  :northing: 5899805
+  :lat: "-37.0125"
+  :lng: '149.8883333333333'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jindabyne
+  :callsign: 2CP
+  :frequency: 95.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 27
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4009002
+  :license_number: 1198611
+  :site_id: 9741
+  :site_name: Broadcast Site JINDERBOINE HILL
+  :zone: 55
+  :easting: 649200
+  :northing: 5970100
+  :lat: "-36.4025"
+  :lng: '148.6638888888889'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

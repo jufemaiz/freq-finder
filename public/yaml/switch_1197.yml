@@ -1,0 +1,55 @@
+---
+:title: Switch 1197
+:transmitters:
+- :band: AM
+  :area: Brisbane
+  :callsign: 4BI
+  :frequency: 1197.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 72
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 220
+  :power: 500
+  :technical_specification_number: 10009960
+  :license_number: 1170692
+  :site_id: 151436
+  :site_name: 4BI Site Meiers Rd LONG POCKET
+  :zone: 56
+  :easting: 499660
+  :northing: 6956330
+  :lat: "-27.5163888888889"
+  :lng: '152.9963888888889'
+  :state: QLD
+  :bsl: 1150706
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: night-time
+  :status: Issued
+- :band: AM
+  :area: Brisbane
+  :callsign: 4BI
+  :frequency: 1197.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 72
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 310
+  :power: 1000
+  :technical_specification_number: 10009960
+  :license_number: 1170692
+  :site_id: 151436
+  :site_name: 4BI Site Meiers Rd LONG POCKET
+  :zone: 56
+  :easting: 499660
+  :northing: 6956330
+  :lat: "-27.5163888888889"
+  :lng: '152.9963888888889'
+  :state: QLD
+  :bsl: 1150706
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: day-time
+  :status: Issued

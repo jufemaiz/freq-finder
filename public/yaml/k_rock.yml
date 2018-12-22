@@ -1,0 +1,29 @@
+---
+:title: K-Rock
+:transmitters:
+- :band: FM
+  :area: Geelong
+  :callsign: 3CAT
+  :frequency: 95.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 110
+  :antenna_pattern: DA
+  :maximum_erp: 55000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4151001
+  :license_number: 1384885
+  :site_id: 40824
+  :site_name: BAY-FM Site Founds Road MURRADOC HILL
+  :zone: 55
+  :easting: 289920
+  :northing: 5773220
+  :lat: "-38.1641666666667"
+  :lng: '144.6019444444444'
+  :state: VIC
+  :bsl: 4151
+  :license_area: GEELONG RA1
+  :license_id: 428
+  :operation_hours: 
+  :status: Issued

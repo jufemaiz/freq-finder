@@ -1,0 +1,55 @@
+---
+:title: Triple C
+:transmitters:
+- :band: FM
+  :area: Charleville
+  :callsign: 4CCC
+  :frequency: 101.7
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004431
+  :license_number: 1158127
+  :site_id: 15193
+  :site_name: Water Tower Parry St CHARLEVILLE
+  :zone: 55
+  :easting: 424520
+  :northing: 7079118
+  :lat: "-26.4058333333333"
+  :lng: '146.2430555555556'
+  :state: QLD
+  :bsl: 10220
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cunnamulla
+  :callsign: 4CCC
+  :frequency: 96.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 70
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004434
+  :license_number: 1158247
+  :site_id: 153595
+  :site_name: Broadcast Site 5km South of Cunnamulla CUNNAMULLA
+  :zone: 55
+  :easting: 372419
+  :northing: 6890909
+  :lat: "-28.1008333333333"
+  :lng: '145.7011111111111'
+  :state: QLD
+  :bsl: 10220
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: 
+  :status: Issued

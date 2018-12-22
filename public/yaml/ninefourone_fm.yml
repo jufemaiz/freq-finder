@@ -1,0 +1,29 @@
+---
+:title: NineFourOne FM
+:transmitters:
+- :band: FM
+  :area: Wollongong/Nowra
+  :callsign: 2LIV
+  :frequency: 94.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008291
+  :license_number: 1170245
+  :site_id: 8955
+  :site_name: Tower 2 Saddleback Mountain KIAMA
+  :zone: 56
+  :easting: 297670
+  :northing: 6157960
+  :lat: "-34.7"
+  :lng: '150.7908333333333'
+  :state: NSW
+  :bsl: 1150163
+  :license_area: WOLLONGONG RA2
+  :license_id: 823
+  :operation_hours: 
+  :status: Issued

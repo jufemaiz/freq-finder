@@ -1,0 +1,55 @@
+---
+:title: 2GN
+:transmitters:
+- :band: AM
+  :area: Goulburn
+  :callsign: 2GN
+  :frequency: 1368.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 55
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 4112001
+  :license_number: 1384960
+  :site_id: 40585
+  :site_name: Broadcast Site 2 km West of GOULBURN
+  :zone: 55
+  :easting: 746800
+  :northing: 6151700
+  :lat: "-34.7466666666667"
+  :lng: '149.6958333333333'
+  :state: NSW
+  :bsl: 4112
+  :license_area: GOULBURN RA1
+  :license_id: 369
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Crookwell
+  :callsign: 2GN
+  :frequency: 106.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009495
+  :license_number: 1158222
+  :site_id: 41454
+  :site_name: Hay Street Reservoir CROOKWELL
+  :zone: 55
+  :easting: 728075
+  :northing: 6184610
+  :lat: "-34.4547222222222"
+  :lng: '149.4825'
+  :state: NSW
+  :bsl: 4112
+  :license_area: GOULBURN RA1
+  :license_id: 369
+  :operation_hours: 
+  :status: Issued

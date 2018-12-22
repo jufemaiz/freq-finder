@@ -1,0 +1,29 @@
+---
+:title: 3WAY FM
+:transmitters:
+- :band: FM
+  :area: Warrnambool
+  :callsign: 3WAY
+  :frequency: 103.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6743001
+  :license_number: 1385182
+  :site_id: 153176
+  :site_name: Broadcast Planning Site MT WARRNAMBOOL
+  :zone: 54
+  :easting: 651820
+  :northing: 5758750
+  :lat: "-38.3063888888889"
+  :lng: '142.7363888888889'
+  :state: VIC
+  :bsl: 5146
+  :license_area: WARRNAMBOOL RA2
+  :license_id: 465
+  :operation_hours: 
+  :status: Issued

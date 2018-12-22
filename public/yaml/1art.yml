@@ -1,0 +1,55 @@
+---
+:title: 1ART
+:transmitters:
+- :band: FM
+  :area: Canberra
+  :callsign: 1ART
+  :frequency: 92.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 147
+  :antenna_pattern: OD
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008276
+  :license_number: 1170293
+  :site_id: 9580
+  :site_name: Telecom Tower BLACK MOUNTAIN
+  :zone: 55
+  :easting: 690683
+  :northing: 6094201
+  :lat: "-35.2769444444444"
+  :lng: '149.0963888888889'
+  :state: ACT
+  :bsl: 1150190
+  :license_area: CANBERRA RA1
+  :license_id: 508
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Tuggeranong
+  :callsign: 1ART
+  :frequency: 90.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008235
+  :license_number: 1186756
+  :site_id: 9651
+  :site_name: Broadcast site MT TAYLOR
+  :zone: 55
+  :easting: 688410
+  :northing: 6083465
+  :lat: "-35.3741666666667"
+  :lng: '149.0738888888889'
+  :state: ACT
+  :bsl: 1150190
+  :license_area: CANBERRA RA1
+  :license_id: 508
+  :operation_hours: 
+  :status: Renewal Pending

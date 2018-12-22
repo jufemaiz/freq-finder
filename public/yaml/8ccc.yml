@@ -1,0 +1,55 @@
+---
+:title: 8CCC
+:transmitters:
+- :band: FM
+  :area: Alice Springs
+  :callsign: 8CCC
+  :frequency: 102.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002365
+  :license_number: 1171473
+  :site_id: 2486
+  :site_name: Telstra Tower West Gap ALICE SPRINGS
+  :zone: 53
+  :easting: 383331
+  :northing: 7375892
+  :lat: "-23.7236111111111"
+  :lng: '133.8552777777778'
+  :state: NT
+  :bsl: 10179
+  :license_area: ALICE SPRINGS RA2
+  :license_id: 417
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tennant Creek
+  :callsign: 8CCC
+  :frequency: 102.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 55
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003111
+  :license_number: 1171474
+  :site_id: 151719
+  :site_name: Imparja Broadcast Site 3 km NNE of TENNANT CREEK
+  :zone: 53
+  :easting: 418249
+  :northing: 7828682
+  :lat: "-19.6352777777778"
+  :lng: '134.2202777777778'
+  :state: NT
+  :bsl: 10179
+  :license_area: ALICE SPRINGS RA2
+  :license_id: 417
+  :operation_hours: 
+  :status: Issued

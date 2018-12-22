@@ -1,0 +1,29 @@
+---
+:title: Phoenix FM
+:transmitters:
+- :band: FM
+  :area: Bendigo (City)
+  :callsign: 3PFM
+  :frequency: 106.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 150
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133092
+  :license_number: 1171469
+  :site_id: 300440
+  :site_name: CETV Site Specimen Hill Reservoir SPECIMEN HILL
+  :zone: 55
+  :easting: 253900
+  :northing: 5927400
+  :lat: "-36.7669444444444"
+  :lng: '144.2427777777778'
+  :state: VIC
+  :bsl: 1130053
+  :license_area: BENDIGO RA5
+  :license_id: 1322
+  :operation_hours: 
+  :status: Issued

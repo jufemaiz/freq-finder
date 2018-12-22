@@ -1,0 +1,29 @@
+---
+:title: 2AD
+:transmitters:
+- :band: AM
+  :area: Armidale
+  :callsign: 2AD
+  :frequency: 1134.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 680
+  :power: 2000
+  :technical_specification_number: 4105001
+  :license_number: 1384955
+  :site_id: 151326
+  :site_name: Broadcast Site 7 km SW of ARMIDALE
+  :zone: 56
+  :easting: 365904
+  :northing: 6619801
+  :lat: "-30.5463888888889"
+  :lng: '151.6019444444444'
+  :state: NSW
+  :bsl: 4105
+  :license_area: ARMIDALE RA1
+  :license_id: 362
+  :operation_hours: 
+  :status: Issued

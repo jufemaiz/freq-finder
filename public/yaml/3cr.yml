@@ -1,0 +1,29 @@
+---
+:title: 3CR
+:transmitters:
+- :band: AM
+  :area: Melbourne
+  :callsign: 3CR
+  :frequency: 855.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 86
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 670
+  :power: 2000
+  :technical_specification_number: 10009986
+  :license_number: 1151101
+  :site_id: 100353
+  :site_name: 3CR East Tower Old Sneydes Road HOPPERS CROSSING
+  :zone: 55
+  :easting: 298020
+  :northing: 5804110
+  :lat: "-37.8877777777778"
+  :lng: '144.7030555555556'
+  :state: VIC
+  :bsl: 4141
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued

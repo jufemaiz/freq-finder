@@ -1,0 +1,29 @@
+---
+:title: River FM
+:transmitters:
+- :band: FM
+  :area: Lismore
+  :callsign: 2NCR
+  :frequency: 92.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 6000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3051001
+  :license_number: 1159206
+  :site_id: 41012
+  :site_name: Broadcast Site PARROTS NEST
+  :zone: 56
+  :easting: 522200
+  :northing: 6807700
+  :lat: "-28.8580555555556"
+  :lng: '153.2275'
+  :state: NSW
+  :bsl: 3051
+  :license_area: LISMORE RA2
+  :license_id: 397
+  :operation_hours: 
+  :status: Issued

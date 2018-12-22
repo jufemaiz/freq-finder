@@ -1,0 +1,29 @@
+---
+:title: Gippsland FM
+:transmitters:
+- :band: FM
+  :area: Latrobe Valley
+  :callsign: 3GCR
+  :frequency: 104.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 7900
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3063001
+  :license_number: 1385162
+  :site_id: 40423
+  :site_name: Broadcast Site Haunted Hills Rd HAUNTED HILLS
+  :zone: 55
+  :easting: 439800
+  :northing: 5771400
+  :lat: "-38.2030555555556"
+  :lng: '146.3122222222222'
+  :state: VIC
+  :bsl: 3063
+  :license_area: LATROBE VALLEY RA1
+  :license_id: 408
+  :operation_hours: 
+  :status: Issued

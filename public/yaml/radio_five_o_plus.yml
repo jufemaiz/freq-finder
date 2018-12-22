@@ -1,0 +1,29 @@
+---
+:title: Radio Five-O-Plus
+:transmitters:
+- :band: FM
+  :area: Gosford
+  :callsign: 2SNR
+  :frequency: 93.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008330
+  :license_number: 1170721
+  :site_id: 151138
+  :site_name: Broadcast Site MT PENANG
+  :zone: 56
+  :easting: 341146
+  :northing: 6302130
+  :lat: "-33.4080555555556"
+  :lng: '151.2916666666667'
+  :state: NSW
+  :bsl: 1150187
+  :license_area: GOSFORD RA1
+  :license_id: 517
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: ROK FM
+:transmitters:
+- :band: FM
+  :area: Condobolin
+  :callsign: 2ROK
+  :frequency: 90.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003781
+  :license_number: 1180741
+  :site_id: 151161
+  :site_name: Broadcast Site Hospital Hill Lookout CONDOBOLIN
+  :zone: 55
+  :easting: 514494
+  :northing: 6339854
+  :lat: "-33.0794444444445"
+  :lng: '147.1552777777778'
+  :state: NSW
+  :bsl: 10056
+  :license_area: PARKES RA1
+  :license_id: 381
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Parkes/Forbes
+  :callsign: 2ROK
+  :frequency: 95.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001424
+  :license_number: 1152678
+  :site_id: 151148
+  :site_name: 2ROK FM 20 km SE of Parkes MOUNT COONAMBRO
+  :zone: 55
+  :easting: 624385
+  :northing: 6319824
+  :lat: "-33.2530555555556"
+  :lng: '148.3352777777778'
+  :state: NSW
+  :bsl: 10056
+  :license_area: PARKES RA1
+  :license_id: 381
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: Meeka FM
+:transmitters:
+- :band: FM
+  :area: Meekatharra
+  :callsign: 6MKA
+  :frequency: 98.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001046
+  :license_number: 1155295
+  :site_id: 500706
+  :site_name: 68 Hill Street MEEKATHARRA
+  :zone: 50
+  :easting: 649091
+  :northing: 7057883
+  :lat: "-26.5919444444444"
+  :lng: '118.4972222222222'
+  :state: WA
+  :bsl: 10356
+  :license_area: MEEKATHARRA RA1
+  :license_id: 530
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: KIX FM
+:transmitters:
+- :band: FM
+  :area: Kangaroo Island
+  :callsign: 5KIX
+  :frequency: 90.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005691
+  :license_number: 1152999
+  :site_id: 55535
+  :site_name: Broadcast Site Charing Cross Kingscote Rd PENNESHAW
+  :zone: 53
+  :easting: 763810
+  :northing: 6041778
+  :lat: "-35.7325"
+  :lng: '137.9166666666667'
+  :state: SA
+  :bsl: 10254
+  :license_area: KANGAROO ISLAND RA1
+  :license_id: 523
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,107 @@
+---
+:title: 4WK
+:transmitters:
+- :band: AM
+  :area: Toowoomba (City)
+  :callsign: 4WK
+  :frequency: 1359.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 65
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 160
+  :power: 250
+  :technical_specification_number: 4187002
+  :license_number: 1384972
+  :site_id: 151433
+  :site_name: Broadcast Site 37/41 Jones St TOOWOOMBA
+  :zone: 56
+  :easting: 396153
+  :northing: 6953401
+  :lat: "-27.5388888888889"
+  :lng: '151.9480555555556'
+  :state: QLD
+  :bsl: 4187
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Warwick
+  :callsign: 4WK
+  :frequency: 963.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 137
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 4187001
+  :license_number: 1384973
+  :site_id: 151406
+  :site_name: 4WK Site Allora Rd CLIFTON
+  :zone: 56
+  :easting: 399405
+  :northing: 6899695
+  :lat: "-28.0238888888889"
+  :lng: '151.9766666666667'
+  :state: QLD
+  :bsl: 4187
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Dalby
+  :callsign: 4WK
+  :frequency: 95.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 150
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008669
+  :license_number: 1180743
+  :site_id: 204260
+  :site_name: NAS Site Lot 21 Warrego Hwy DALBY
+  :zone: 56
+  :easting: 331455
+  :northing: 6989100
+  :lat: "-27.2105555555556"
+  :lng: '151.2980555555556'
+  :state: QLD
+  :bsl: 4187
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Stanthorpe
+  :callsign: 4WK
+  :frequency: 91.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008581
+  :license_number: 1158884
+  :site_id: 130337
+  :site_name: Optus/Vodafone/Telstra Site Mt Marlay STANTHORPE
+  :zone: 56
+  :easting: 396938
+  :northing: 6829732
+  :lat: "-28.6552777777778"
+  :lng: '151.9452777777778'
+  :state: QLD
+  :bsl: 4187
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued

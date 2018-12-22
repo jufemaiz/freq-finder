@@ -1,0 +1,55 @@
+---
+:title: Plenty Valley FM
+:transmitters:
+- :band: FM
+  :area: Plenty Valley
+  :callsign: 3PVR
+  :frequency: 88.6
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5159001
+  :license_number: 1385172
+  :site_id: 42805
+  :site_name: Broadcast Site Yan Yean Rd YARRAMBAT
+  :zone: 55
+  :easting: 335000
+  :northing: 5832460
+  :lat: "-37.64"
+  :lng: '145.1297222222222'
+  :state: VIC
+  :bsl: 5159
+  :license_area: PLENTY VALLEY RA1
+  :license_id: 466
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Plenty Valley
+  :callsign: 3PVR
+  :frequency: 88.6
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5159001
+  :license_number: 1385172
+  :site_id: 36269
+  :site_name: Telstra Tower Yan Yean Road Joyce Hill YARRAMBAT
+  :zone: 55
+  :easting: 334945
+  :northing: 5832404
+  :lat: "-37.6405555555556"
+  :lng: '145.1291666666667'
+  :state: VIC
+  :bsl: 5159
+  :license_area: PLENTY VALLEY RA1
+  :license_id: 466
+  :operation_hours: 
+  :status: Issued

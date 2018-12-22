@@ -1,0 +1,29 @@
+---
+:title: Beau FM
+:transmitters:
+- :band: FM
+  :area: Beaudesert
+  :callsign: 4BSR
+  :frequency: 101.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010215
+  :license_number: 1170685
+  :site_id: 14030
+  :site_name: Water Tower Brayford Park BEAUDESERT
+  :zone: 56
+  :easting: 502500
+  :northing: 6903000
+  :lat: "-27.9980555555556"
+  :lng: '153.0255555555556'
+  :state: QLD
+  :bsl: 1150712
+  :license_area: BEAUDESERT RA1
+  :license_id: 737
+  :operation_hours: 
+  :status: Issued

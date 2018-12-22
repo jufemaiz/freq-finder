@@ -1,0 +1,29 @@
+---
+:title: 2PK
+:transmitters:
+- :band: AM
+  :area: Parkes/Forbes
+  :callsign: 2PK
+  :frequency: 1404.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 53
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 445
+  :power: 2000
+  :technical_specification_number: 10004236
+  :license_number: 1385052
+  :site_id: 151153
+  :site_name: Broadcast Site 5 km SE of PARKES
+  :zone: 55
+  :easting: 612496
+  :northing: 6329494
+  :lat: "-33.1672222222222"
+  :lng: '148.2063888888889'
+  :state: NSW
+  :bsl: 10253
+  :license_area: PARKES RA1
+  :license_id: 381
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 2MG
+:transmitters:
+- :band: AM
+  :area: Mudgee
+  :callsign: 2MG
+  :frequency: 1449.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 33
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1145
+  :power: 5000
+  :technical_specification_number: 10004233
+  :license_number: 1154097
+  :site_id: 11322
+  :site_name: Broadcast Site 2 km Northwest of MUDGEE
+  :zone: 55
+  :easting: 741211
+  :northing: 6392007
+  :lat: "-32.5830555555556"
+  :lng: '149.5697222222222'
+  :state: NSW
+  :bsl: 10251
+  :license_area: MUDGEE RA1
+  :license_id: 375
+  :operation_hours: 
+  :status: Issued

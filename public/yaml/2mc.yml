@@ -1,0 +1,108 @@
+---
+:title: 2MC
+:transmitters:
+- :band: FM
+  :area: Kempsey
+  :callsign: 2PQQ
+  :frequency: 106.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005043
+  :license_number: 1170129
+  :site_id: 7648
+  :site_name: Ten TV Tower on Western Edge of Lookout 21 km SSW of Nambucca Heads
+    MOUNT YARRAHAPINNI
+  :zone: 56
+  :easting: 492187
+  :northing: 6590850
+  :lat: "-30.8152777777778"
+  :lng: '152.9180555555556'
+  :state: NSW
+  :bsl: 1150051
+  :license_area: KEMPSEY RA1
+  :license_id: 374
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: North Haven
+  :callsign: 2PQQ
+  :frequency: 90.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013481
+  :license_number: 1159061
+  :site_id: 403753
+  :site_name: Fettel Site Camp Ridge Rd 19 km SSW of Port Macquarie JOLLY NOSE HILL
+  :zone: 56
+  :easting: 480820
+  :northing: 6506005
+  :lat: "-31.5805555555556"
+  :lng: '152.7977777777778'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Port Macquarie
+  :callsign: 2PQQ
+  :frequency: 100.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005045
+  :license_number: 1170130
+  :site_id: 7759
+  :site_name: ROX FM Site G167 24 km WNW of Port Macquarie MT CAIRNCROSS
+  :zone: 56
+  :easting: 469683
+  :northing: 6532340
+  :lat: "-31.3427777777778"
+  :lng: '152.6811111111111'
+  :state: NSW
+  :bsl: 1150051
+  :license_area: KEMPSEY RA1
+  :license_id: 374
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Urunga
+  :callsign: 2PQQ
+  :frequency: 89.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013742
+  :license_number: 1159062
+  :site_id: 8014
+  :site_name: Broadcast Site 3 km N of Urunga RALEIGH
+  :zone: 56
+  :easting: 503000
+  :northing: 6628900
+  :lat: "-30.4719444444444"
+  :lng: '153.0311111111111'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

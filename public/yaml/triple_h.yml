@@ -1,0 +1,55 @@
+---
+:title: Triple H
+:transmitters:
+- :band: FM
+  :area: Hornsby
+  :callsign: 2HHH
+  :frequency: 100.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008289
+  :license_number: 1170568
+  :site_id: 4189
+  :site_name: Broadcast Site 10 Romsey St WAITARA
+  :zone: 56
+  :easting: 324061
+  :northing: 6268196
+  :lat: "-33.7113888888889"
+  :lng: '151.1011111111111'
+  :state: NSW
+  :bsl: 1150154
+  :license_area: HORNSBY RA1
+  :license_id: 726
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Horsham
+  :callsign: 3HHH
+  :frequency: 96.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 87
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6489001
+  :license_number: 1170862
+  :site_id: 47905
+  :site_name: Broadcast/Comms Site 17-19 McLachlan St HORSHAM
+  :zone: 54
+  :easting: 607100
+  :northing: 5936100
+  :lat: "-36.7144444444444"
+  :lng: '142.1991666666667'
+  :state: VIC
+  :bsl: 1150779
+  :license_area: HORSHAM RA2
+  :license_id: 1111
+  :operation_hours: 
+  :status: Issued

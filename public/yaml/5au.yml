@@ -1,0 +1,81 @@
+---
+:title: 5AU
+:transmitters:
+- :band: AM
+  :area: Port Augusta
+  :callsign: 5AU
+  :frequency: 1242.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 92
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 800
+  :power: 2000
+  :technical_specification_number: 4193001
+  :license_number: 1384974
+  :site_id: 151178
+  :site_name: Broadcast Site MAMBRAY CREEK
+  :zone: 53
+  :easting: 774700
+  :northing: 6363597
+  :lat: "-32.8311111111111"
+  :lng: '137.9344444444445'
+  :state: SA
+  :bsl: 4193
+  :license_area: SPENCER GULF NORTH RA1
+  :license_id: 1164
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Port Pirie
+  :callsign: 5AU
+  :frequency: 1044.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 152
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 605
+  :power: 2000
+  :technical_specification_number: 10011570
+  :license_number: 1158903
+  :site_id: 152608
+  :site_name: Broadcast Site HUDDLESTON
+  :zone: 54
+  :easting: 246426
+  :northing: 6309048
+  :lat: "-33.3277777777778"
+  :lng: '138.2758333333334'
+  :state: SA
+  :bsl: 4193
+  :license_area: SPENCER GULF NORTH RA1
+  :license_id: 1164
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Roxby Downs
+  :callsign: 5AU
+  :frequency: 96.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000539
+  :license_number: 1185148
+  :site_id: 136444
+  :site_name: Broadcast Site 5AU Gosse Street ROXBY DOWNS
+  :zone: 53
+  :easting: 681582
+  :northing: 6618234
+  :lat: "-30.5544444444444"
+  :lng: '136.8930555555556'
+  :state: SA
+  :bsl: 4193
+  :license_area: SPENCER GULF NORTH RA1
+  :license_id: 1164
+  :operation_hours: 
+  :status: Issued

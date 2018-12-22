@@ -1,0 +1,55 @@
+---
+:title: 3REG
+:transmitters:
+- :band: FM
+  :area: Bairnsdale
+  :callsign: 3REG
+  :frequency: 105.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 320
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5266002
+  :license_number: 1385174
+  :site_id: 12067
+  :site_name: Broadcast Tower 14 km NNW of Bairnsdale MT TAYLOR
+  :zone: 55
+  :easting: 549290
+  :northing: 5826490
+  :lat: "-37.7072222222222"
+  :lng: '147.5591666666667'
+  :state: VIC
+  :bsl: 5266
+  :license_area: EAST GIPPSLAND RA1
+  :license_id: 1012
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lakes Entrance
+  :callsign: 3REG
+  :frequency: 90.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 160
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5266001
+  :license_number: 1385173
+  :site_id: 40933
+  :site_name: Broadcast Site Kalimna LAKES ENTRANCE
+  :zone: 55
+  :easting: 584700
+  :northing: 5807000
+  :lat: "-37.8802777777778"
+  :lng: '147.9630555555556'
+  :state: VIC
+  :bsl: 5266
+  :license_area: EAST GIPPSLAND RA1
+  :license_id: 1012
+  :operation_hours: 
+  :status: Issued

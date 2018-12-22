@@ -1,0 +1,29 @@
+---
+:title: Apple FM
+:transmitters:
+- :band: FM
+  :area: Bacchus Marsh
+  :callsign: 3APL
+  :frequency: 98.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009587
+  :license_number: 1156590
+  :site_id: 152917
+  :site_name: Broadcast Site Bacchus Marsh Rifle Club Dog Trap Rd GORROCK
+  :zone: 55
+  :easting: 268840
+  :northing: 5825060
+  :lat: "-37.6922222222222"
+  :lng: '144.3780555555556'
+  :state: VIC
+  :bsl: 1150675
+  :license_area: BACCHUS MARSH RA3
+  :license_id: 832
+  :operation_hours: 
+  :status: Issued

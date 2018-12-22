@@ -1,0 +1,29 @@
+---
+:title: Sunshine FM
+:transmitters:
+- :band: FM
+  :area: Nambour
+  :callsign: 4SFM
+  :frequency: 104.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009958
+  :license_number: 1170732
+  :site_id: 151471
+  :site_name: Broadcast Site BALD KNOB
+  :zone: 56
+  :easting: 491799
+  :northing: 7036600
+  :lat: "-26.7916666666667"
+  :lng: '152.9172222222222'
+  :state: QLD
+  :bsl: 1150113
+  :license_area: NAMBOUR RA2
+  :license_id: 713
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: Hope FM
+:transmitters:
+- :band: FM
+  :area: Esperance
+  :callsign: 6ESP
+  :frequency: 103.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 82
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004991
+  :license_number: 1170082
+  :site_id: 30253
+  :site_name: Telstra / NTA Site Wireless Hill ESPERANCE
+  :zone: 51
+  :easting: 397651
+  :northing: 6250986
+  :lat: "-33.8761111111111"
+  :lng: '121.8930555555556'
+  :state: WA
+  :bsl: 10328
+  :license_area: ESPERANCE RA2
+  :license_id: 513
+  :operation_hours: 
+  :status: Issued

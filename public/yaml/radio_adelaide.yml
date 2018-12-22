@@ -1,0 +1,29 @@
+---
+:title: Radio Adelaide
+:transmitters:
+- :band: FM
+  :area: Adelaide
+  :callsign: 5UV
+  :frequency: 101.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6457001
+  :license_number: 1156865
+  :site_id: 23139
+  :site_name: ntl Tower Summit Road CRAFERS
+  :zone: 54
+  :easting: 290707
+  :northing: 6126723
+  :lat: "-34.9802777777778"
+  :lng: '138.7069444444445'
+  :state: SA
+  :bsl: 4229
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued

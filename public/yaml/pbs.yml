@@ -1,0 +1,55 @@
+---
+:title: PBS
+:transmitters:
+- :band: FM
+  :area: Melbourne
+  :callsign: 3PBS
+  :frequency: 106.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: DA
+  :maximum_erp: 16000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009499
+  :license_number: 1385171
+  :site_id: 12014
+  :site_name: NTL (ABV-2) Tower Eyre Road MT DANDENONG
+  :zone: 55
+  :easting: 354580
+  :northing: 5811035
+  :lat: "-37.8363888888889"
+  :lng: '145.3472222222222'
+  :state: VIC
+  :bsl: 3066
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Melbourne
+  :callsign: 3PBS
+  :frequency: 106.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 56000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009499
+  :license_number: 1385171
+  :site_id: 12014
+  :site_name: NTL (ABV-2) Tower Eyre Road MT DANDENONG
+  :zone: 55
+  :easting: 354580
+  :northing: 5811035
+  :lat: "-37.8363888888889"
+  :lng: '145.3472222222222'
+  :state: VIC
+  :bsl: 3066
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued

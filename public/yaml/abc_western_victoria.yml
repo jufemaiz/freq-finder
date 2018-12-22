@@ -1,0 +1,29 @@
+---
+:title: ABC Western Victoria
+:transmitters:
+- :band: AM
+  :area: Horsham
+  :callsign: 3WV
+  :frequency: 594.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 201
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 2900
+  :power: 50000
+  :technical_specification_number: 4029001
+  :license_number: 1198443
+  :site_id: 40474
+  :site_name: Broadcast Site HORSHAM
+  :zone: 54
+  :easting: 612121
+  :northing: 5944090
+  :lat: "-36.6419444444444"
+  :lng: '142.2541666666667'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

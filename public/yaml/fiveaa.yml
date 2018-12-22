@@ -1,0 +1,29 @@
+---
+:title: FIVEaa
+:transmitters:
+- :band: AM
+  :area: Adelaide
+  :callsign: 5AA
+  :frequency: 1395.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 53
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1200
+  :power: 5000
+  :technical_specification_number: 4189001
+  :license_number: 1384970
+  :site_id: 151018
+  :site_name: Broadcast Site Burton Rd PARALOWIE
+  :zone: 54
+  :easting: 281002
+  :northing: 6150995
+  :lat: "-34.7594444444445"
+  :lng: '138.6072222222222'
+  :state: SA
+  :bsl: 4189
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued

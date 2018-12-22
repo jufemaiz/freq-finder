@@ -1,0 +1,55 @@
+---
+:title: 3MGB
+:transmitters:
+- :band: FM
+  :area: Genoa
+  :callsign: 3MGB
+  :frequency: 96.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5242002
+  :license_number: 1153802
+  :site_id: 41176
+  :site_name: Broadcast Site Princes Hwy GENOA
+  :zone: 55
+  :easting: 729000
+  :northing: 5849000
+  :lat: "-37.4772222222222"
+  :lng: '149.5897222222222'
+  :state: VIC
+  :bsl: 5242
+  :license_area: MALLACOOTA RA1
+  :license_id: 729
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mallacoota
+  :callsign: 3MGB
+  :frequency: 101.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 160
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5242001
+  :license_number: 1385169
+  :site_id: 12113
+  :site_name: Mallacoota Radio Terminal Site MALLACOOTA
+  :zone: 55
+  :easting: 742900
+  :northing: 5840800
+  :lat: "-37.5475"
+  :lng: '149.7494444444444'
+  :state: VIC
+  :bsl: 5242
+  :license_area: MALLACOOTA RA1
+  :license_id: 729
+  :operation_hours: 
+  :status: Issued

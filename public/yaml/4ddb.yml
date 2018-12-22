@@ -1,0 +1,29 @@
+---
+:title: 4DDB
+:transmitters:
+- :band: FM
+  :area: Toowoomba
+  :callsign: 4DDB
+  :frequency: 102.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 48
+  :antenna_pattern: OD
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3070001
+  :license_number: 1385191
+  :site_id: 14502
+  :site_name: University of Southern Queensland English Bldg Darling Hts TOOWOOMBA
+  :zone: 56
+  :easting: 394500
+  :northing: 6946000
+  :lat: "-27.6058333333333"
+  :lng: '151.9308333333333'
+  :state: QLD
+  :bsl: 3070
+  :license_area: TOOWOOMBA RA2
+  :license_id: 412
+  :operation_hours: 
+  :status: Renewal Pending

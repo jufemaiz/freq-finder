@@ -1,0 +1,29 @@
+---
+:title: 4RO
+:transmitters:
+- :band: AM
+  :area: Rockhampton
+  :callsign: 4RO
+  :frequency: 990.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 123
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1200
+  :power: 5000
+  :technical_specification_number: 4182001
+  :license_number: 1385004
+  :site_id: 17124
+  :site_name: 4RO MF Tx Towers PORT ALMA
+  :zone: 56
+  :easting: 280000
+  :northing: 7390050
+  :lat: "-23.585"
+  :lng: '150.8441666666667'
+  :state: QLD
+  :bsl: 4182
+  :license_area: ROCKHAMPTON RA1
+  :license_id: 456
+  :operation_hours: 
+  :status: Issued

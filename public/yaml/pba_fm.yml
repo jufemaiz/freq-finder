@@ -1,0 +1,29 @@
+---
+:title: PBA FM
+:transmitters:
+- :band: FM
+  :area: Salisbury
+  :callsign: 5PBA
+  :frequency: 89.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010212
+  :license_number: 1385201
+  :site_id: 22833
+  :site_name: Broadcast Site East Para Primary School Caroona Ave PARA HILLS
+  :zone: 54
+  :easting: 286500
+  :northing: 6144500
+  :lat: "-34.8191666666667"
+  :lng: '138.6655555555556'
+  :state: SA
+  :bsl: 1515
+  :license_area: SALISBURY RA1
+  :license_id: 341
+  :operation_hours: 
+  :status: Issued

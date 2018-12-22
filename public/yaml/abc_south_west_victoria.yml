@@ -1,0 +1,55 @@
+---
+:title: ABC South West Victoria
+:transmitters:
+- :band: AM
+  :area: Warrnambool
+  :callsign: 3WL
+  :frequency: 1602.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 31
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 160
+  :power: 250
+  :technical_specification_number: 4028001
+  :license_number: 1198449
+  :site_id: 150760
+  :site_name: Broadcast Site WARRNAMBOOL
+  :zone: 54
+  :easting: 631041
+  :northing: 5752418
+  :lat: "-38.3666666666667"
+  :lng: '142.4997222222222'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Portland
+  :callsign: 3SWR
+  :frequency: 96.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 34
+  :antenna_pattern: DA
+  :maximum_erp: 2600
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3324001
+  :license_number: 1150226
+  :site_id: 42517
+  :site_name: TV Tower MT CLAY
+  :zone: 54
+  :easting: 561460
+  :northing: 5769720
+  :lat: "-38.2180555555556"
+  :lng: '141.7019444444444'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

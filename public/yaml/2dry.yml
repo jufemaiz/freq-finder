@@ -1,0 +1,29 @@
+---
+:title: 2DRY
+:transmitters:
+- :band: FM
+  :area: Broken Hill
+  :callsign: 2DRY
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 125
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004141
+  :license_number: 1385216
+  :site_id: 136540
+  :site_name: Community Inc Building 200 Beryl Street BROKEN HILL
+  :zone: 54
+  :easting: 543782
+  :northing: 6464247
+  :lat: "-31.9566666666667"
+  :lng: '141.4630555555556'
+  :state: NSW
+  :bsl: 10246
+  :license_area: BROKEN HILL RA1
+  :license_id: 502
+  :operation_hours: 
+  :status: Renewal Pending

@@ -1,0 +1,2083 @@
+---
+:title: National Indigenous Radio Service
+:transmitters:
+- :band: FM
+  :area: Ali Curung
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002282
+  :license_number: 1154008
+  :site_id: 3026
+  :site_name: Broadcast Site ALI CURUNG
+  :zone: 53
+  :easting: 439000
+  :northing: 7678000
+  :lat: "-20.9975"
+  :lng: '134.4130555555556'
+  :state: NT
+  :bsl: 10110
+  :license_area: ALI CURUNG RA1
+  :license_id: 163
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Aurukun
+  :callsign: 4ACR
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003474
+  :license_number: 1154010
+  :site_id: 40875
+  :site_name: BRACS Studio AURUKUN
+  :zone: 54
+  :easting: 578607
+  :northing: 8523131
+  :lat: "-13.3580555555556"
+  :lng: '141.7258333333333'
+  :state: QLD
+  :bsl: 10182
+  :license_area: AURUKUN RA1
+  :license_id: 171
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Badu Island
+  :callsign: 4ACR
+  :frequency: 107.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003475
+  :license_number: 1154555
+  :site_id: 40901
+  :site_name: Broadcast Site BADU ISLAND
+  :zone: 54
+  :easting: 627800
+  :northing: 8876300
+  :lat: "-10.1630555555556"
+  :lng: '142.1663888888889'
+  :state: QLD
+  :bsl: 10183
+  :license_area: BADU ISLAND RA1
+  :license_id: 173
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Balgo
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001408
+  :license_number: 1154011
+  :site_id: 151708
+  :site_name: Broadcast Site BALGO
+  :zone: 52
+  :easting: 393624
+  :northing: 7772305
+  :lat: "-20.1433333333333"
+  :lng: '127.9819444444445'
+  :state: WA
+  :bsl: 10019
+  :license_area: BALGO RA1
+  :license_id: 175
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bamaga
+  :callsign: 4ACR
+  :frequency: 106.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003476
+  :license_number: 1139673
+  :site_id: 40897
+  :site_name: Broadcast Site Anu St BAMAGA
+  :zone: 54
+  :easting: 651810
+  :northing: 8795808
+  :lat: "-10.89"
+  :lng: '142.3888888888889'
+  :state: QLD
+  :bsl: 10184
+  :license_area: BAMAGA RA1
+  :license_id: 176
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Barunga
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003452
+  :license_number: 1171194
+  :site_id: 2182
+  :site_name: Broadcast Site BARUNGA
+  :zone: 53
+  :easting: 270000
+  :northing: 8393000
+  :lat: "-14.5261111111111"
+  :lng: '132.8655555555556'
+  :state: NT
+  :bsl: 10111
+  :license_area: BARUNGA RA1
+  :license_id: 178
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bathurst Island
+  :callsign: 8ACR
+  :frequency: 98.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 43
+  :antenna_pattern: OD
+  :maximum_erp: 75
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003453
+  :license_number: 1170908
+  :site_id: 41238
+  :site_name: Broadcast Site Mission Hill BATHURST ISLAND
+  :zone: 52
+  :easting: 670632
+  :northing: 8697632
+  :lat: "-11.7766666666667"
+  :lng: '130.5658333333334'
+  :state: NT
+  :bsl: 10112
+  :license_area: BATHURST ISLAND RA1
+  :license_id: 180
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Beagle Bay
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001460
+  :license_number: 1154014
+  :site_id: 32231
+  :site_name: Broadcast Site BEAGLE BAY
+  :zone: 51
+  :easting: 464300
+  :northing: 8122300
+  :lat: "-16.9827777777778"
+  :lng: '122.6644444444445'
+  :state: WA
+  :bsl: 10020
+  :license_area: BEAGLE BAY RA1
+  :license_id: 183
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Beagle Bay
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001460
+  :license_number: 1171396
+  :site_id: 32231
+  :site_name: Broadcast Site BEAGLE BAY
+  :zone: 51
+  :easting: 464300
+  :northing: 8122300
+  :lat: "-16.9827777777778"
+  :lng: '122.6644444444445'
+  :state: WA
+  :bsl: 10020
+  :license_area: BEAGLE BAY RA1
+  :license_id: 183
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Beswick
+  :callsign: 8ACR
+  :frequency: 105.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003454
+  :license_number: 1171190
+  :site_id: 2176
+  :site_name: Broadcast Site BESWICK
+  :zone: 53
+  :easting: 296500
+  :northing: 8390000
+  :lat: "-14.5552777777778"
+  :lng: '133.1111111111111'
+  :state: NT
+  :bsl: 10113
+  :license_area: BESWICK RA1
+  :license_id: 184
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Boigu Island
+  :callsign: 4ACR
+  :frequency: 105.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003477
+  :license_number: 1154557
+  :site_id: 151843
+  :site_name: Broadcast Site BOIGU ISLAND
+  :zone: 54
+  :easting: 634805
+  :northing: 8977900
+  :lat: "-9.2441666666667"
+  :lng: '142.2269444444445'
+  :state: QLD
+  :bsl: 10185
+  :license_area: BOIGU ISLAND RA1
+  :license_id: 187
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bulman
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003456
+  :license_number: 1171192
+  :site_id: 2193
+  :site_name: Broadcast Site BULMAN
+  :zone: 53
+  :easting: 427900
+  :northing: 8489000
+  :lat: "-13.6669444444444"
+  :lng: '134.3330555555556'
+  :state: NT
+  :bsl: 10114
+  :license_area: BULMAN RA1
+  :license_id: 190
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Coconut Island
+  :callsign: 4ACR
+  :frequency: 105.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003478
+  :license_number: 1171166
+  :site_id: 41051
+  :site_name: Broadcast Site COCONUT ISLAND
+  :zone: 54
+  :easting: 726000
+  :northing: 8888100
+  :lat: "-10.0519444444444"
+  :lng: '143.0619444444445'
+  :state: QLD
+  :bsl: 10186
+  :license_area: COCONUT ISLAND RA1
+  :license_id: 192
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Daguragu
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003012
+  :license_number: 1154017
+  :site_id: 1981
+  :site_name: Broadcast Site DAGURAGU
+  :zone: 52
+  :easting: 691500
+  :northing: 8075000
+  :lat: "-17.4025"
+  :lng: '130.8027777777778'
+  :state: NT
+  :bsl: 10115
+  :license_area: DAGURAGU RA1
+  :license_id: 194
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Daly River
+  :callsign: 8ACR
+  :frequency: 101.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131421
+  :license_number: 1184933
+  :site_id: 41313
+  :site_name: Broadcast Site Daly River Mission DALY RIVER
+  :zone: 52
+  :easting: 682503
+  :northing: 8479015
+  :lat: "-13.7522222222222"
+  :lng: '130.6877777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Darnley Island
+  :callsign: 4ACR
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4711001
+  :license_number: 1153390
+  :site_id: 151838
+  :site_name: Broadcast Site DARNLEY ISLAND
+  :zone: 54
+  :easting: 803005
+  :northing: 8938000
+  :lat: "-9.5961111111111"
+  :lng: '143.7602777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Darnley Island
+  :callsign: 4ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003480
+  :license_number: 1154559
+  :site_id: 151838
+  :site_name: Broadcast Site DARNLEY ISLAND
+  :zone: 54
+  :easting: 803005
+  :northing: 8938000
+  :lat: "-9.5961111111111"
+  :lng: '143.7602777777778'
+  :state: QLD
+  :bsl: 10187
+  :license_area: DARNLEY ISLAND RA1
+  :license_id: 196
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Djarindjin
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001468
+  :license_number: 1154018
+  :site_id: 32235
+  :site_name: Broadcast Site LOMBADINA
+  :zone: 51
+  :easting: 488600
+  :northing: 8173900
+  :lat: "-16.5166666666667"
+  :lng: '122.8930555555556'
+  :state: WA
+  :bsl: 10021
+  :license_area: DJARINDJIN RA1
+  :license_id: 200
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Doomadgee
+  :callsign: 4ACR
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003482
+  :license_number: 1171296
+  :site_id: 40680
+  :site_name: Next To Store DOOMADGEE
+  :zone: 54
+  :easting: 269400
+  :northing: 8014800
+  :lat: "-17.9425"
+  :lng: '138.8227777777778'
+  :state: QLD
+  :bsl: 10189
+  :license_area: DOOMADGEE RA1
+  :license_id: 201
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Finke
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003013
+  :license_number: 1154021
+  :site_id: 2682
+  :site_name: Broadcast Site FINKE
+  :zone: 53
+  :easting: 457025
+  :northing: 7170035
+  :lat: "-25.5863888888889"
+  :lng: '134.5719444444445'
+  :state: NT
+  :bsl: 10116
+  :license_area: FINKE RA1
+  :license_id: 205
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Galiwinku
+  :callsign: 8ACR
+  :frequency: 106.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003015
+  :license_number: 1154023
+  :site_id: 1589
+  :site_name: Broadcast Site Galiwinku Council Office Galiwinku ELCHO ISLAND
+  :zone: 53
+  :easting: 561500
+  :northing: 8670400
+  :lat: "-12.0266666666667"
+  :lng: '135.5647222222222'
+  :state: NT
+  :bsl: 10117
+  :license_area: GALIWINKU RA1
+  :license_id: 209
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gununa
+  :callsign: 4ACR
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003483
+  :license_number: 1152910
+  :site_id: 40709
+  :site_name: TV Site Gununa MORNINGTON ISLAND
+  :zone: 54
+  :easting: 304900
+  :northing: 8156300
+  :lat: "-16.6675"
+  :lng: '139.1705555555556'
+  :state: QLD
+  :bsl: 10190
+  :license_area: GUNUNA RA1
+  :license_id: 214
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hermannsburg
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 450
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003018
+  :license_number: 1154024
+  :site_id: 2421
+  :site_name: Broadcast Site HERMANNSBURG
+  :zone: 53
+  :easting: 273000
+  :northing: 7350000
+  :lat: "-23.9452777777778"
+  :lng: '132.7694444444445'
+  :state: NT
+  :bsl: 10118
+  :license_area: HERMANNSBURG RA1
+  :license_id: 216
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hope Vale
+  :callsign: 4ACR
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003485
+  :license_number: 1154025
+  :site_id: 40704
+  :site_name: BRACS Site HOPE VALE
+  :zone: 55
+  :easting: 296816
+  :northing: 8308018
+  :lat: "-15.2961111111111"
+  :lng: '145.1075'
+  :state: QLD
+  :bsl: 10191
+  :license_area: HOPE VALE RA1
+  :license_id: 218
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Imanpa
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003019
+  :license_number: 1154026
+  :site_id: 151539
+  :site_name: Broadcast Site Mt Ebenezer Station IMANPA
+  :zone: 53
+  :easting: 254997
+  :northing: 7218596
+  :lat: "-25.1283333333333"
+  :lng: '132.5697222222222'
+  :state: NT
+  :bsl: 10119
+  :license_area: IMANPA RA1
+  :license_id: 220
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Indulkana
+  :callsign: 5ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002894
+  :license_number: 1154027
+  :site_id: 151463
+  :site_name: Broadcast Site Media Centre INDULKANA
+  :zone: 53
+  :easting: 332897
+  :northing: 7016096
+  :lat: "-26.9669444444444"
+  :lng: '133.3163888888889'
+  :state: SA
+  :bsl: 10154
+  :license_area: INDULKANA RA1
+  :license_id: 223
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Injinoo
+  :callsign: 4ACR
+  :frequency: 107.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003486
+  :license_number: 1154561
+  :site_id: 40884
+  :site_name: Broadcast Site Community Centre INJINOO
+  :zone: 54
+  :easting: 644725
+  :northing: 8793740
+  :lat: "-10.9091666666667"
+  :lng: '142.3241666666667'
+  :state: QLD
+  :bsl: 10192
+  :license_area: INJINOO RA1
+  :license_id: 225
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jigalong
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000740
+  :license_number: 1154028
+  :site_id: 151607
+  :site_name: Broadcast Site JIGGALONG
+  :zone: 51
+  :easting: 273119
+  :northing: 7414909
+  :lat: "-23.3594444444444"
+  :lng: '120.7805555555556'
+  :state: WA
+  :bsl: 10022
+  :license_area: JIGALONG RA1
+  :license_id: 228
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kalumburu
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001476
+  :license_number: 1154029
+  :site_id: 32420
+  :site_name: Broadcast Site KALUMBURU
+  :zone: 52
+  :easting: 245600
+  :northing: 8418300
+  :lat: "-14.2952777777778"
+  :lng: '126.6416666666667'
+  :state: WA
+  :bsl: 10023
+  :license_area: KALUMBURU RA1
+  :license_id: 231
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Kintore
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003021
+  :license_number: 1154030
+  :site_id: 2871
+  :site_name: Broadcast Site KINTORE
+  :zone: 52
+  :easting: 540000
+  :northing: 7426000
+  :lat: "-23.2747222222222"
+  :lng: '129.3908333333333'
+  :state: NT
+  :bsl: 10120
+  :license_area: KINTORE RA1
+  :license_id: 232
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kiwirrkurra
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001484
+  :license_number: 1140028
+  :site_id: 31717
+  :site_name: Broadcast Site Kiwikurra MT WEBB
+  :zone: 52
+  :easting: 373000
+  :northing: 7476000
+  :lat: "-22.8186111111111"
+  :lng: '127.7622222222222'
+  :state: WA
+  :bsl: 10031
+  :license_area: KIWIRRKURRA RA1
+  :license_id: 234
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kowanyama
+  :callsign: 4ACR
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003487
+  :license_number: 1154032
+  :site_id: 151805
+  :site_name: Broadcast Site Training Centre KOWANYAMA
+  :zone: 54
+  :easting: 580000
+  :northing: 8288604
+  :lat: "-15.4783333333333"
+  :lng: '141.7455555555556'
+  :state: QLD
+  :bsl: 10193
+  :license_area: KOWANYAMA RA1
+  :license_id: 235
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kubin
+  :callsign: 4ACR
+  :frequency: 105.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003488
+  :license_number: 1140229
+  :site_id: 40914
+  :site_name: Broadcast Site Kubin MOA ISLAND
+  :zone: 54
+  :easting: 633400
+  :northing: 8867900
+  :lat: "-10.2388888888889"
+  :lng: '142.2177777777778'
+  :state: QLD
+  :bsl: 10194
+  :license_area: KUBIN RA1
+  :license_id: 237
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lagrange
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001492
+  :license_number: 1154033
+  :site_id: 32127
+  :site_name: Broadcast Site LA GRANGE
+  :zone: 51
+  :easting: 370300
+  :northing: 7933400
+  :lat: "-18.6863888888889"
+  :lng: '121.77'
+  :state: WA
+  :bsl: 10024
+  :license_area: LAGRANGE RA1
+  :license_id: 240
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lajamanu
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003022
+  :license_number: 1154034
+  :site_id: 1951
+  :site_name: Broadcast Site Arts Centre LAJAMANU
+  :zone: 52
+  :easting: 672797
+  :northing: 7971690
+  :lat: "-18.3375"
+  :lng: '130.635'
+  :state: NT
+  :bsl: 10121
+  :license_area: LAJAMANU RA1
+  :license_id: 241
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lockhart River
+  :callsign: 4ACR
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003490
+  :license_number: 1154035
+  :site_id: 40425
+  :site_name: Broadcast Site LOCKHART RIVER
+  :zone: 54
+  :easting: 754175
+  :northing: 8585221
+  :lat: "-12.7872222222222"
+  :lng: '143.3411111111111'
+  :state: QLD
+  :bsl: 10195
+  :license_area: LOCKHART RIVER RA1
+  :license_id: 243
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Looma
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001502
+  :license_number: 1154036
+  :site_id: 32247
+  :site_name: Broadcast Site LOOMA
+  :zone: 51
+  :easting: 621700
+  :northing: 8002100
+  :lat: "-18.0661111111111"
+  :lng: '124.1497222222222'
+  :state: WA
+  :bsl: 10025
+  :license_area: LOOMA RA1
+  :license_id: 245
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Mabuiag Island
+  :callsign: 4ACR
+  :frequency: 106.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003491
+  :license_number: 1154563
+  :site_id: 40898
+  :site_name: Broadcast Site MABUIAG ISLAND
+  :zone: 54
+  :easting: 630500
+  :northing: 8899400
+  :lat: "-9.9541666666667"
+  :lng: '142.1902777777778'
+  :state: QLD
+  :bsl: 10196
+  :license_area: MABUIAG ISLAND RA1
+  :license_id: 246
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Maningrida
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003457
+  :license_number: 1154037
+  :site_id: 1582
+  :site_name: Broadcast Site Council Office MANINGRIDA
+  :zone: 53
+  :easting: 415300
+  :northing: 8667500
+  :lat: "-12.0525"
+  :lng: '134.2216666666667'
+  :state: NT
+  :bsl: 10122
+  :license_area: MANINGRIDA RA1
+  :license_id: 248
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Milikapiti
+  :callsign: 8ACR
+  :frequency: 99.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003458
+  :license_number: 1170906
+  :site_id: 41040
+  :site_name: Broadcast Site Milikapiti MELVILLE ISLAND
+  :zone: 52
+  :easting: 682720
+  :northing: 8736437
+  :lat: "-11.4252777777778"
+  :lng: '130.6747222222222'
+  :state: NT
+  :bsl: 10123
+  :license_area: MILIKAPITI RA1
+  :license_id: 251
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Milingimbi
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002245
+  :license_number: 1154039
+  :site_id: 41041
+  :site_name: Broadcast Site MILINGIMBI
+  :zone: 53
+  :easting: 491000
+  :northing: 8661600
+  :lat: "-12.1069444444444"
+  :lng: '134.9172222222222'
+  :state: NT
+  :bsl: 10124
+  :license_area: MILINGIMBI RA1
+  :license_id: 253
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Minjilang
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003459
+  :license_number: 1154040
+  :site_id: 1620
+  :site_name: Broadcast Site Minjilang Council Office Minjilang CROKER ISLAND
+  :zone: 53
+  :easting: 235000
+  :northing: 8765000
+  :lat: "-11.1619444444444"
+  :lng: '132.5733333333333'
+  :state: NT
+  :bsl: 10125
+  :license_area: MINJILANG RA1
+  :license_id: 255
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Murray Islands
+  :callsign: 4ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003494
+  :license_number: 1154564
+  :site_id: 41050
+  :site_name: Broadcast Site Maer MURRAY ISLAND
+  :zone: 55
+  :easting: 176200
+  :northing: 8902700
+  :lat: "-9.9133333333333"
+  :lng: '144.0475'
+  :state: QLD
+  :bsl: 10197
+  :license_area: MURRAY ISLAND RA1
+  :license_id: 258
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: New Mapoon
+  :callsign: 4ACR
+  :frequency: 107.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003495
+  :license_number: 1154565
+  :site_id: 40885
+  :site_name: Broadcast Site NEW MAPOON
+  :zone: 54
+  :easting: 650887
+  :northing: 8797943
+  :lat: "-10.8708333333333"
+  :lng: '142.3802777777778'
+  :state: QLD
+  :bsl: 10198
+  :license_area: NEW MAPOON RA1
+  :license_id: 260
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ngukurr
+  :callsign: 8ACR
+  :frequency: 101.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 9114001
+  :license_number: 1154041
+  :site_id: 2160
+  :site_name: Broadcast Site NGUKURR
+  :zone: 53
+  :easting: 471000
+  :northing: 8370800
+  :lat: "-14.7363888888889"
+  :lng: '134.7305555555556'
+  :state: NT
+  :bsl: 10126
+  :license_area: NGUKURR RA1
+  :license_id: 263
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Numbulwar
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003026
+  :license_number: 1154043
+  :site_id: 1369
+  :site_name: Broadcast Site Numbulwar Council Office NUMBULWAR
+  :zone: 53
+  :easting: 579800
+  :northing: 8421200
+  :lat: "-14.2797222222222"
+  :lng: '135.7397222222222'
+  :state: NT
+  :bsl: 10128
+  :license_area: NUMBULWAR RA1
+  :license_id: 268
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Oenpelli
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003461
+  :license_number: 1154044
+  :site_id: 1542
+  :site_name: Broadcast Site OENPELLI
+  :zone: 53
+  :easting: 288500
+  :northing: 8636500
+  :lat: "-12.3269444444444"
+  :lng: '133.055'
+  :state: NT
+  :bsl: 10129
+  :license_area: OENPELLI RA1
+  :license_id: 270
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Oombulgurri
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001510
+  :license_number: 1154045
+  :site_id: 32414
+  :site_name: Broadcast Site OOMBULGURRI
+  :zone: 52
+  :easting: 375600
+  :northing: 8325900
+  :lat: "-15.1394444444444"
+  :lng: '127.8419444444444'
+  :state: WA
+  :bsl: 10026
+  :license_area: OOMBULGURRI RA1
+  :license_id: 272
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Palumpa
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003462
+  :license_number: 1154046
+  :site_id: 1365
+  :site_name: Broadcast Site PALUMPA
+  :zone: 52
+  :easting: 595000
+  :northing: 8413000
+  :lat: "-14.3533333333333"
+  :lng: '129.8811111111111'
+  :state: NT
+  :bsl: 10130
+  :license_area: PALUMPA RA1
+  :license_id: 273
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Papunya
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003027
+  :license_number: 1171415
+  :site_id: 151613
+  :site_name: Broadcast Site Pump House PAPUNYA
+  :zone: 52
+  :easting: 797699
+  :northing: 7430001
+  :lat: "-23.2119444444444"
+  :lng: '131.9083333333333'
+  :state: NT
+  :bsl: 10131
+  :license_area: PAPUNYA RA1
+  :license_id: 275
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Peppimenarti
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003463
+  :license_number: 1154048
+  :site_id: 1386
+  :site_name: Broadcast Site PEPPIMENARTI
+  :zone: 52
+  :easting: 615100
+  :northing: 8437300
+  :lat: "-14.1327777777778"
+  :lng: '130.0663888888889'
+  :state: NT
+  :bsl: 10132
+  :license_area: PEPPIMENARTI RA1
+  :license_id: 277
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Pmara Jutunta
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003028
+  :license_number: 1154049
+  :site_id: 151646
+  :site_name: Broadcast Site Pmara Jutunta 9 km South of TI TREE
+  :zone: 53
+  :easting: 337601
+  :northing: 7542999
+  :lat: "-22.2105555555556"
+  :lng: '133.4244444444445'
+  :state: NT
+  :bsl: 10133
+  :license_area: PMARA JUTUNTA RA1
+  :license_id: 280
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Pormpuraaw
+  :callsign: 4ACR
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003496
+  :license_number: 1154050
+  :site_id: 40427
+  :site_name: Broadcast site Community Hall Edward River PORMPURAAW
+  :zone: 54
+  :easting: 566500
+  :northing: 8352500
+  :lat: "-14.9011111111111"
+  :lng: '141.6180555555556'
+  :state: QLD
+  :bsl: 10199
+  :license_area: PORMPURAAW RA1
+  :license_id: 282
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Pularumpi
+  :callsign: 8ACR
+  :frequency: 98.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003464
+  :license_number: 1170904
+  :site_id: 40736
+  :site_name: Broadcast Site 2 Pularumpi MELVILLE ISLAND
+  :zone: 52
+  :easting: 655000
+  :northing: 8739000
+  :lat: "-11.4036111111111"
+  :lng: '130.4205555555556'
+  :state: NT
+  :bsl: 10134
+  :license_area: PULARUMPI RA1
+  :license_id: 284
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ramingining
+  :callsign: 8ACR
+  :frequency: 97.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 9156001
+  :license_number: 1156731
+  :site_id: 1535
+  :site_name: Broadcast Site RAMINGINING
+  :zone: 53
+  :easting: 490000
+  :northing: 8635000
+  :lat: "-12.3475"
+  :lng: '134.9077777777778'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ramingining
+  :callsign: 8ACR
+  :frequency: 105.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003029
+  :license_number: 1154052
+  :site_id: 1535
+  :site_name: Broadcast Site RAMINGINING
+  :zone: 53
+  :easting: 490000
+  :northing: 8635000
+  :lat: "-12.3475"
+  :lng: '134.9077777777778'
+  :state: NT
+  :bsl: 10135
+  :license_area: RAMINGINING RA1
+  :license_id: 287
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Saibai Island
+  :callsign: 4ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003497
+  :license_number: 1171535
+  :site_id: 151842
+  :site_name: Broadcast Site SAIBAI ISLAND
+  :zone: 54
+  :easting: 679996
+  :northing: 8963601
+  :lat: "-9.3719444444444"
+  :lng: '142.6388888888889'
+  :state: QLD
+  :bsl: 10200
+  :license_area: SAIBAI ISLAND RA1
+  :license_id: 290
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Santa Teresa
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003030
+  :license_number: 1171416
+  :site_id: 151564
+  :site_name: Broadcast Site SANTA TERESA
+  :zone: 53
+  :easting: 436495
+  :northing: 7330864
+  :lat: "-24.1330555555556"
+  :lng: '134.3747222222222'
+  :state: NT
+  :bsl: 10136
+  :license_area: SANTA TERESA RA1
+  :license_id: 292
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Seisia
+  :callsign: 4ACR
+  :frequency: 106.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003498
+  :license_number: 1154568
+  :site_id: 40896
+  :site_name: Broadcast Site SEISIA
+  :zone: 54
+  :easting: 649300
+  :northing: 8799690
+  :lat: "-10.855"
+  :lng: '142.3658333333334'
+  :state: QLD
+  :bsl: 10201
+  :license_area: SEISIA RA1
+  :license_id: 294
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: St Pauls
+  :callsign: 4ACR
+  :frequency: 106.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003499
+  :license_number: 1171145
+  :site_id: 40915
+  :site_name: Broadcast Site St Pauls MOA ISLAND
+  :zone: 54
+  :easting: 645700
+  :northing: 8873500
+  :lat: "-10.1877777777778"
+  :lng: '142.33'
+  :state: QLD
+  :bsl: 10202
+  :license_area: ST PAULS RA1
+  :license_id: 298
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Stephens Island
+  :callsign: 4ACR
+  :frequency: 105.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003500
+  :license_number: 1154570
+  :site_id: 40992
+  :site_name: Broadcast Site STEPHENS ISLAND
+  :zone: 54
+  :easting: 779500
+  :northing: 8948000
+  :lat: "-9.5075"
+  :lng: '143.5455555555556'
+  :state: QLD
+  :bsl: 10203
+  :license_area: STEPHENS ISLAND RA1
+  :license_id: 300
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Tjukurla
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000892
+  :license_number: 1154053
+  :site_id: 31744
+  :site_name: Broadcast Site TJUKURLA
+  :zone: 52
+  :easting: 475000
+  :northing: 7307000
+  :lat: "-24.3497222222222"
+  :lng: '128.7533333333333'
+  :state: WA
+  :bsl: 10027
+  :license_area: TJUKURLA RA1
+  :license_id: 307
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Umagico
+  :callsign: 4ACR
+  :frequency: 101.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 150
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4740001
+  :license_number: 1156699
+  :site_id: 153193
+  :site_name: Broadcast Site Lookout Hill UMAGICO
+  :zone: 54
+  :easting: 648757
+  :northing: 8794739
+  :lat: "-10.9"
+  :lng: '142.3611111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Umagico
+  :callsign: 4ACR
+  :frequency: 105.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003502
+  :license_number: 1154572
+  :site_id: 40883
+  :site_name: Broadcast Site UMAGICO
+  :zone: 54
+  :easting: 647619
+  :northing: 8795420
+  :lat: "-10.8938888888889"
+  :lng: '142.3505555555556'
+  :state: QLD
+  :bsl: 10205
+  :license_area: UMAGICO RA1
+  :license_id: 308
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Umbakumba
+  :callsign: 8ACR
+  :frequency: 106.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003032
+  :license_number: 1154054
+  :site_id: 41039
+  :site_name: Broadcast Site Umbakumba GROOTE EYLANDT
+  :zone: 53
+  :easting: 694500
+  :northing: 8466200
+  :lat: "-13.8672222222222"
+  :lng: '136.7997222222222'
+  :state: NT
+  :bsl: 10137
+  :license_area: UMBAKUMBA RA1
+  :license_id: 310
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wadeye
+  :callsign: 8ACR
+  :frequency: 102.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003465
+  :license_number: 1154055
+  :site_id: 153140
+  :site_name: Broadcast Site Sport and Rec Hall Lot 460 Perdjert St WADEYE
+  :zone: 52
+  :easting: 555948
+  :northing: 8425681
+  :lat: "-14.2397222222222"
+  :lng: '129.5186111111111'
+  :state: NT
+  :bsl: 10138
+  :license_area: WADEYE RA1
+  :license_id: 313
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Wadeye
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003465
+  :license_number: 1193055
+  :site_id: 1377
+  :site_name: Broadcast Site Wadeye PORT KEATS
+  :zone: 52
+  :easting: 556000
+  :northing: 8425500
+  :lat: "-14.2413888888889"
+  :lng: '129.5188888888889'
+  :state: NT
+  :bsl: 10138
+  :license_area: WADEYE RA1
+  :license_id: 313
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wadeye
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003465
+  :license_number: 1154055
+  :site_id: 153140
+  :site_name: Broadcast Site Sport and Rec Hall Lot 460 Perdjert St WADEYE
+  :zone: 52
+  :easting: 555948
+  :northing: 8425681
+  :lat: "-14.2397222222222"
+  :lng: '129.5186111111111'
+  :state: NT
+  :bsl: 10138
+  :license_area: WADEYE RA1
+  :license_id: 313
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Warmun
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001520
+  :license_number: 1154056
+  :site_id: 32353
+  :site_name: Broadcast Site WARMUN
+  :zone: 52
+  :easting: 416300
+  :northing: 8116500
+  :lat: "-17.0338888888889"
+  :lng: '128.2133333333333'
+  :state: WA
+  :bsl: 10028
+  :license_area: WARMUN RA1
+  :license_id: 315
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Warruwi
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003466
+  :license_number: 1154057
+  :site_id: 41042
+  :site_name: Broadcast Site Warruwi GOULBURN ISLAND
+  :zone: 53
+  :easting: 324000
+  :northing: 8711000
+  :lat: "-11.6555555555556"
+  :lng: '133.3852777777778'
+  :state: NT
+  :bsl: 10139
+  :license_area: WARRUWI RA1
+  :license_id: 316
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wingellina
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000900
+  :license_number: 1154059
+  :site_id: 151509
+  :site_name: Broadcast Site 1 WINGELLINA
+  :zone: 52
+  :easting: 492998
+  :northing: 7116597
+  :lat: "-26.0694444444444"
+  :lng: '128.9297222222222'
+  :state: WA
+  :bsl: 10029
+  :license_area: WINGELLINA RA1
+  :license_id: 321
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Woorabinda
+  :callsign: 4ACR
+  :frequency: 99.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 90
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013224
+  :license_number: 1154060
+  :site_id: 17511
+  :site_name: Telstra Radio Terminal WOORABINDA
+  :zone: 55
+  :easting: 754481
+  :northing: 7327291
+  :lat: "-24.1463888888889"
+  :lng: '149.5041666666667'
+  :state: QLD
+  :bsl: 10206
+  :license_area: WOORABINDA RA1
+  :license_id: 322
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wujal Wujal
+  :callsign: 4ACR
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003525
+  :license_number: 1154061
+  :site_id: 40712
+  :site_name: Broadcast Site WUJAL WUJAL
+  :zone: 55
+  :easting: 320000
+  :northing: 8236100
+  :lat: "-15.9477777777778"
+  :lng: '145.3180555555556'
+  :state: QLD
+  :bsl: 10207
+  :license_area: WUJAL WUJAL RA1
+  :license_id: 324
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yam Island
+  :callsign: 4ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003526
+  :license_number: 1139944
+  :site_id: 40990
+  :site_name: Broadcast Site YAM ISLAND
+  :zone: 54
+  :easting: 693800
+  :northing: 8905000
+  :lat: "-9.9011111111111"
+  :lng: '142.7675'
+  :state: QLD
+  :bsl: 10208
+  :license_area: YAM ISLAND RA1
+  :license_id: 326
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yandeearra
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000644
+  :license_number: 1139941
+  :site_id: 40800
+  :site_name: Broadcast Site YANDEEARRA
+  :zone: 50
+  :easting: 645500
+  :northing: 7651000
+  :lat: "-21.2366666666667"
+  :lng: '118.4019444444445'
+  :state: WA
+  :bsl: 10038
+  :license_area: YANDEEARRA RA1
+  :license_id: 328
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Yirrkala
+  :callsign: 8ACR
+  :frequency: 105.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003034
+  :license_number: 1154574
+  :site_id: 3089
+  :site_name: Broadcast Site Council Offices YIRRKALA
+  :zone: 53
+  :easting: 705564
+  :northing: 8644999
+  :lat: "-12.2505555555556"
+  :lng: '136.8897222222222'
+  :state: NT
+  :bsl: 10141
+  :license_area: YIRRKALA RA1
+  :license_id: 329
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yorke Islands
+  :callsign: 4ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003527
+  :license_number: 1154575
+  :site_id: 41052
+  :site_name: Broadcast Site Massig Island YORKE ISLANDS
+  :zone: 54
+  :easting: 764500
+  :northing: 8921000
+  :lat: "-9.7525"
+  :lng: '143.4108333333333'
+  :state: QLD
+  :bsl: 10209
+  :license_area: YORKE ISLANDS RA1
+  :license_id: 331
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yuelamu
+  :callsign: 8ACR
+  :frequency: 105.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003035
+  :license_number: 1154063
+  :site_id: 54080
+  :site_name: Broadcast Site Mt Allan Station YUELAMU
+  :zone: 53
+  :easting: 212000
+  :northing: 7535500
+  :lat: "-22.2619444444444"
+  :lng: '132.2052777777778'
+  :state: NT
+  :bsl: 10142
+  :license_area: YUELAMU RA1
+  :license_id: 333
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yuendumu
+  :callsign: 8ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 40
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003036
+  :license_number: 1154064
+  :site_id: 151643
+  :site_name: Broadcast Studio Conniston Road and Walpiri Ave YUENDUMU
+  :zone: 52
+  :easting: 787950
+  :northing: 7536175
+  :lat: "-22.2558333333333"
+  :lng: '131.7936111111111'
+  :state: NT
+  :bsl: 10143
+  :license_area: YUENDUMU RA1
+  :license_id: 335
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Yungngora
+  :callsign: 6ACR
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001522
+  :license_number: 1154065
+  :site_id: 151732
+  :site_name: Broadcast Site YUNGNGORA
+  :zone: 51
+  :easting: 692848
+  :northing: 7952992
+  :lat: "-18.5044444444444"
+  :lng: '124.8266666666667'
+  :state: WA
+  :bsl: 10030
+  :license_area: YUNGNGORA RA1
+  :license_id: 337
+  :operation_hours: 
+  :status: Issued

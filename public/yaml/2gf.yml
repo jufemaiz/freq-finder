@@ -1,0 +1,55 @@
+---
+:title: 2GF
+:transmitters:
+- :band: AM
+  :area: Grafton
+  :callsign: 2GF
+  :frequency: 1206.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 58
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1010
+  :power: 5000
+  :technical_specification_number: 4111001
+  :license_number: 1385011
+  :site_id: 151352
+  :site_name: Broadcast Site SWAN CREEK
+  :zone: 56
+  :easting: 498296
+  :northing: 6718101
+  :lat: "-29.6669444444444"
+  :lng: '152.9822222222222'
+  :state: NSW
+  :bsl: 4111
+  :license_area: GRAFTON RA1
+  :license_id: 368
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Maclean
+  :callsign: 2GF
+  :frequency: 103.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008551
+  :license_number: 1908190
+  :site_id: 150628
+  :site_name: Broadcast Tower WOODFORD ISLAND
+  :zone: 56
+  :easting: 516400
+  :northing: 6737700
+  :lat: "-29.49"
+  :lng: '153.1691666666667'
+  :state: NSW
+  :bsl: 4111
+  :license_area: GRAFTON RA1
+  :license_id: 368
+  :operation_hours: 
+  :status: Issued

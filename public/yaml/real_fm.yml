@@ -1,0 +1,55 @@
+---
+:title: Real FM
+:transmitters:
+- :band: FM
+  :area: Kandos
+  :callsign: 2GEE
+  :frequency: 97.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: DA
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130173
+  :license_number: 1922239
+  :site_id: 35200
+  :site_name: Communal Site Mt Bocoble BOCOBLE
+  :zone: 55
+  :easting: 757443
+  :northing: 6366615
+  :lat: "-32.8080555555556"
+  :lng: '149.7494444444444'
+  :state: NSW
+  :bsl: 10101
+  :license_area: MUDGEE RA3
+  :license_id: 1294
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mudgee
+  :callsign: 2GEE
+  :frequency: 93.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002539
+  :license_number: 1159512
+  :site_id: 151198
+  :site_name: Broadcast/Country Energy Site Magpie Hill Gulgong MUDGEE
+  :zone: 55
+  :easting: 740740
+  :northing: 6407338
+  :lat: "-32.4447222222222"
+  :lng: '149.5605555555556'
+  :state: NSW
+  :bsl: 10101
+  :license_area: MUDGEE RA3
+  :license_id: 1294
+  :operation_hours: 
+  :status: Issued

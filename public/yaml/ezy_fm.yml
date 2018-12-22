@@ -1,0 +1,29 @@
+---
+:title: EZY FM
+:transmitters:
+- :band: FM
+  :area: Lithgow (City)
+  :callsign: 2EZY
+  :frequency: 90.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001615
+  :license_number: 1170987
+  :site_id: 153081
+  :site_name: Broadcast Site Trades Hall Building 25 Railway Parade LITHGOW
+  :zone: 56
+  :easting: 235700
+  :northing: 6291630
+  :lat: "-33.4819444444444"
+  :lng: '150.1555555555556'
+  :state: NSW
+  :bsl: 10282
+  :license_area: LITHGOW RA2
+  :license_id: 702
+  :operation_hours: 
+  :status: Issued

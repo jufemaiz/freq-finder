@@ -1,0 +1,29 @@
+---
+:title: Joy 94.9
+:transmitters:
+- :band: FM
+  :area: Melbourne City
+  :callsign: 3JOY
+  :frequency: 94.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 230
+  :antenna_pattern: DA
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008379
+  :license_number: 1170602
+  :site_id: 199023
+  :site_name: Melbourne Central 360 Elizabeth Street MELBOURNE
+  :zone: 55
+  :easting: 320500
+  :northing: 5813100
+  :lat: "-37.8116666666667"
+  :lng: '144.9608333333333'
+  :state: VIC
+  :bsl: 1150683
+  :license_area: MELBOURNE CITY RA1
+  :license_id: 834
+  :operation_hours: 
+  :status: Issued

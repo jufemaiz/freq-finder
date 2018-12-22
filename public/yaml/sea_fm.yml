@@ -1,0 +1,497 @@
+---
+:title: Sea FM
+:transmitters:
+- :band: FM
+  :area: Airlie Beach
+  :callsign: 4RGM
+  :frequency: 92.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008027
+  :license_number: 1170505
+  :site_id: 39472
+  :site_name: Broadcast/CMTS Site Shingley Hill AIRLIE BEACH
+  :zone: 55
+  :easting: 678477
+  :northing: 7757179
+  :lat: "-20.2747222222222"
+  :lng: '148.7088888888889'
+  :state: QLD
+  :bsl: 1150089
+  :license_area: MACKAY RA1
+  :license_id: 528
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bundaberg
+  :callsign: 4RGB
+  :frequency: 93.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007924
+  :license_number: 1170611
+  :site_id: 16831
+  :site_name: Nixons Site SLOPING HUMMOCK
+  :zone: 56
+  :easting: 441984
+  :northing: 7252138
+  :lat: "-24.8444444444444"
+  :lng: '152.4255555555556'
+  :state: QLD
+  :bsl: 1150057
+  :license_area: BUNDABERG RA1
+  :license_id: 446
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Burnie
+  :callsign: 7SEA
+  :frequency: 101.7
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013428
+  :license_number: 1159287
+  :site_id: 130231
+  :site_name: 7BU Transmitter Site TABLE CAPE
+  :zone: 55
+  :easting: 392500
+  :northing: 5464500
+  :lat: "-40.9633333333333"
+  :lng: '145.7225'
+  :state: TAS
+  :bsl: 1150793
+  :license_area: BURNIE RA1
+  :license_id: 490
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cairns (Mt Yarrabah)
+  :callsign: 4RGC
+  :frequency: 99.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007855
+  :license_number: 1155515
+  :site_id: 40739
+  :site_name: TV Site 7.6 km ENE of Cairns MT YARRABAH
+  :zone: 55
+  :easting: 376688
+  :northing: 8130488
+  :lat: "-16.9058333333333"
+  :lng: '145.8419444444445'
+  :state: QLD
+  :bsl: 1150044
+  :license_area: CAIRNS RA1
+  :license_id: 507
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Devonport
+  :callsign: 7DDD
+  :frequency: 107.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 68
+  :antenna_pattern: DA
+  :maximum_erp: 7000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005571
+  :license_number: 1154751
+  :site_id: 150529
+  :site_name: 7AD Transmitter Site Don Hill DEVONPORT
+  :zone: 55
+  :easting: 442060
+  :northing: 5442730
+  :lat: "-41.1644444444444"
+  :lng: '146.3091666666667'
+  :state: TAS
+  :bsl: 10353
+  :license_area: DEVONPORT RA1
+  :license_id: 489
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gladstone
+  :callsign: 4RGK
+  :frequency: 95.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6849001
+  :license_number: 1170274
+  :site_id: 17085
+  :site_name: Broadcast Site Boles St Round Hill GLADSTONE
+  :zone: 56
+  :easting: 322243
+  :northing: 7359050
+  :lat: "-23.87"
+  :lng: '151.2541666666667'
+  :state: QLD
+  :bsl: 1150183
+  :license_area: ROCKHAMPTON RA1
+  :license_id: 456
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gold Coast
+  :callsign: 4SEA
+  :frequency: 90.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 22
+  :antenna_pattern: DA
+  :maximum_erp: 25000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3182001
+  :license_number: 1384858
+  :site_id: 14003
+  :site_name: Broadcast Site Golf Course Rd MOUNT TAMBORINE
+  :zone: 56
+  :easting: 520800
+  :northing: 6905900
+  :lat: "-27.9716666666667"
+  :lng: '153.2113888888889'
+  :state: QLD
+  :bsl: 3182
+  :license_area: GOLD COAST RA1
+  :license_id: 515
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gosford
+  :callsign: 2CFM
+  :frequency: 101.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 16000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5145001
+  :license_number: 1384864
+  :site_id: 35748
+  :site_name: Lot 319 Debanham Rd SOMERSBY
+  :zone: 56
+  :easting: 341500
+  :northing: 6302150
+  :lat: "-33.4080555555556"
+  :lng: '151.2952777777778'
+  :state: NSW
+  :bsl: 5145
+  :license_area: GOSFORD RA1
+  :license_id: 517
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hail Creek
+  :callsign: 4RGM
+  :frequency: 107.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132333
+  :license_number: 1188592
+  :site_id: 404672
+  :site_name: Mine Repeater Site HAIL CREEK
+  :zone: 55
+  :easting: 641404
+  :northing: 7622907
+  :lat: "-21.4905555555556"
+  :lng: '148.3647222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hobart
+  :callsign: 7TTT
+  :frequency: 100.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 100
+  :antenna_pattern: OD
+  :maximum_erp: 36000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3864001
+  :license_number: 1384863
+  :site_id: 32830
+  :site_name: NTA Tower MT WELLINGTON
+  :zone: 55
+  :easting: 519185
+  :northing: 5250351
+  :lat: "-42.8991666666667"
+  :lng: '147.235'
+  :state: TAS
+  :bsl: 3864
+  :license_area: HOBART RA1
+  :license_id: 520
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mackay
+  :callsign: 4RGM
+  :frequency: 98.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 52
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007929
+  :license_number: 1155719
+  :site_id: 18649
+  :site_name: Mackay Communications Site Mt Blackwood 28 km WNW of MACKAY
+  :zone: 55
+  :easting: 701835
+  :northing: 7672820
+  :lat: "-21.0341666666667"
+  :lng: '148.9419444444445'
+  :state: QLD
+  :bsl: 1150089
+  :license_area: MACKAY RA1
+  :license_id: 528
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Maryborough (Qld)
+  :callsign: 4CEE
+  :frequency: 101.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007995
+  :license_number: 1156783
+  :site_id: 153198
+  :site_name: Broadcast Site Scrub Hill NIKENBAH
+  :zone: 56
+  :easting: 480650
+  :northing: 7200550
+  :lat: "-25.3111111111111"
+  :lng: '152.8075'
+  :state: QLD
+  :bsl: 1150052
+  :license_area: MARYBOROUGH (QLD) RA1
+  :license_id: 454
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Mossman
+  :callsign: 4RGC
+  :frequency: 88.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007856
+  :license_number: 1158249
+  :site_id: 21759
+  :site_name: Telstra Radio Terminal NEWELL BEACH
+  :zone: 55
+  :easting: 327560
+  :northing: 8182232
+  :lat: "-16.4352777777778"
+  :lng: '145.385'
+  :state: QLD
+  :bsl: 1150044
+  :license_area: CAIRNS RA1
+  :license_id: 507
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Murchison
+  :callsign: 4RGK
+  :frequency: 101.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013870
+  :license_number: 1159057
+  :site_id: 17734
+  :site_name: Callide Mine Site MOUNT MURCHISON
+  :zone: 56
+  :easting: 255866
+  :northing: 7309561
+  :lat: "-24.3077777777778"
+  :lng: '150.5944444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Nambour
+  :callsign: 4SEE
+  :frequency: 91.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004669
+  :license_number: 1151461
+  :site_id: 15894
+  :site_name: TV Translator Site BALD KNOB
+  :zone: 56
+  :easting: 491765
+  :northing: 7036640
+  :lat: "-26.7913888888889"
+  :lng: '152.9172222222222'
+  :state: QLD
+  :bsl: 10307
+  :license_area: NAMBOUR RA1
+  :license_id: 458
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Noosa/Tewantin
+  :callsign: 4SEE
+  :frequency: 102.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010281
+  :license_number: 1157260
+  :site_id: 39913
+  :site_name: Broadcast Site Sunrise Rd TEWANTIN
+  :zone: 56
+  :easting: 500100
+  :northing: 7077900
+  :lat: "-26.4188888888889"
+  :lng: '153.0008333333333'
+  :state: QLD
+  :bsl: 10307
+  :license_area: NAMBOUR RA1
+  :license_id: 458
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Rockhampton
+  :callsign: 4RGK
+  :frequency: 101.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6409001
+  :license_number: 1170273
+  :site_id: 17437
+  :site_name: 4RO Site MT ARCHER
+  :zone: 56
+  :easting: 252260
+  :northing: 7416700
+  :lat: "-23.3405555555556"
+  :lng: '150.5769444444445'
+  :state: QLD
+  :bsl: 1150183
+  :license_area: ROCKHAMPTON RA1
+  :license_id: 456
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Scottsdale
+  :callsign: 7RGS
+  :frequency: 99.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010803
+  :license_number: 1170766
+  :site_id: 33822
+  :site_name: Mt Victoria Repeater Association Site MT HORROR
+  :zone: 55
+  :easting: 561588
+  :northing: 5453398
+  :lat: "-41.0680555555556"
+  :lng: '147.7330555555556'
+  :state: TAS
+  :bsl: 1150791
+  :license_area: SCOTTSDALE RA1
+  :license_id: 491
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Weldborough
+  :callsign: 7RGS
+  :frequency: 94.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013262
+  :license_number: 1159615
+  :site_id: 33507
+  :site_name: Tasmanian Ambulance Service Site WELDBOROUGH PASS
+  :zone: 55
+  :easting: 579260
+  :northing: 5434450
+  :lat: "-41.2372222222222"
+  :lng: '147.9458333333333'
+  :state: TAS
+  :bsl: 1150791
+  :license_area: SCOTTSDALE RA1
+  :license_id: 491
+  :operation_hours: 
+  :status: Issued

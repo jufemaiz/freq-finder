@@ -1,0 +1,55 @@
+---
+:title: ABC Western Plains
+:transmitters:
+- :band: AM
+  :area: Byrock
+  :callsign: 2BY
+  :frequency: 657.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 186
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1500
+  :power: 10000
+  :technical_specification_number: 10004001
+  :license_number: 1150285
+  :site_id: 53707
+  :site_name: Broadcast Site BYROCK
+  :zone: 55
+  :easting: 445000
+  :northing: 6608900
+  :lat: "-30.6511111111111"
+  :lng: '146.4258333333333'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Canberra
+  :callsign: 2CA
+  :frequency: 1053.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 70
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 965
+  :power: 5000
+  :technical_specification_number: 4096001
+  :license_number: 1384966
+  :site_id: 150978
+  :site_name: Broadcast Site MITCHELL
+  :zone: 55
+  :easting: 695502
+  :northing: 6100199
+  :lat: "-35.2219444444444"
+  :lng: '149.1480555555556'
+  :state: ACT
+  :bsl: 4096
+  :license_area: CANBERRA RA1
+  :license_id: 508
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: Southern FM
+:transmitters:
+- :band: FM
+  :area: Melbourne Southern Suburbs
+  :callsign: 3SCB
+  :frequency: 88.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 27
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5191001
+  :license_number: 1385179
+  :site_id: 137549
+  :site_name: Bdlg 3C (Central) Holmesglen TAFE 488 South Rd MOORABBIN
+  :zone: 55
+  :easting: 328547
+  :northing: 5799032
+  :lat: "-37.94"
+  :lng: '145.0486111111111'
+  :state: VIC
+  :bsl: 5191
+  :license_area: MELBOURNE SOUTH RA1
+  :license_id: 743
+  :operation_hours: 
+  :status: Issued

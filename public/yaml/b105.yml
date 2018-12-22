@@ -1,0 +1,29 @@
+---
+:title: B105
+:transmitters:
+- :band: FM
+  :area: Brisbane
+  :callsign: 4BBB
+  :frequency: 105.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 172
+  :antenna_pattern: OD
+  :maximum_erp: 12000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4163601
+  :license_number: 1384841
+  :site_id: 12749
+  :site_name: Channel 10 Site MOUNT COOT-THA
+  :zone: 56
+  :easting: 494770
+  :northing: 6962080
+  :lat: "-27.4647222222222"
+  :lng: '152.9469444444445'
+  :state: QLD
+  :bsl: 4163
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: 
+  :status: Issued

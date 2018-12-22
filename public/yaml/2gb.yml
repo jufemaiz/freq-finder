@@ -1,0 +1,29 @@
+---
+:title: 2GB
+:transmitters:
+- :band: AM
+  :area: Sydney
+  :callsign: 2GB
+  :frequency: 873.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 156
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 955
+  :power: 5000
+  :technical_specification_number: 4099001
+  :license_number: 1385019
+  :site_id: 151098
+  :site_name: 2GB Broadcast Site HOMEBUSH BAY
+  :zone: 56
+  :easting: 322500
+  :northing: 6255602
+  :lat: "-33.8247222222222"
+  :lng: '151.0819444444445'
+  :state: NSW
+  :bsl: 4099
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Issued

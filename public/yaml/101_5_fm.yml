@@ -1,0 +1,29 @@
+---
+:title: 101.5 FM
+:transmitters:
+- :band: FM
+  :area: Caboolture
+  :callsign: 4OUR
+  :frequency: 101.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005361
+  :license_number: 1151422
+  :site_id: 39520
+  :site_name: Caboolture Shire Council Site Opp 139 Pedwell Rd MOUNT MEE
+  :zone: 56
+  :easting: 478685
+  :northing: 7007330
+  :lat: "-27.0561111111111"
+  :lng: '152.785'
+  :state: QLD
+  :bsl: 10350
+  :license_area: CABOOLTURE RA1
+  :license_id: 359
+  :operation_hours: 
+  :status: Issued

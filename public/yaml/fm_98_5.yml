@@ -1,0 +1,29 @@
+---
+:title: FM 98.5
+:transmitters:
+- :band: FM
+  :area: Shepparton
+  :callsign: 3ONE
+  :frequency: 98.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003785
+  :license_number: 1385226
+  :site_id: 199273
+  :site_name: Broadcast Site 27 km E of Shepparton MT MAJOR
+  :zone: 55
+  :easting: 383100
+  :northing: 5974900
+  :lat: "-36.3636111111111"
+  :lng: '145.6969444444445'
+  :state: VIC
+  :bsl: 10392
+  :license_area: SHEPPARTON RA2
+  :license_id: 346
+  :operation_hours: 
+  :status: Issued

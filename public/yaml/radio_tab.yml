@@ -1,0 +1,81 @@
+---
+:title: Radio TAB
+:transmitters:
+- :band: AM
+  :area: Brisbane
+  :callsign: 4TAB
+  :frequency: 1008.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 141
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 2110
+  :power: 10000
+  :technical_specification_number: 10009963
+  :license_number: 1385006
+  :site_id: 13410
+  :site_name: Broadcast Site ST HELENA ISLAND
+  :zone: 56
+  :easting: 523200
+  :northing: 6971200
+  :lat: "-27.3822222222222"
+  :lng: '153.2347222222222'
+  :state: QLD
+  :bsl: 4164
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Maryborough (Qld)
+  :callsign: 4FC
+  :frequency: 1161.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 63
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 455
+  :power: 2000
+  :technical_specification_number: 10008044
+  :license_number: 1385023
+  :site_id: 16573
+  :site_name: Broadcast Site 4 km NE of Drive-In Theatre MARYBOROUGH
+  :zone: 56
+  :easting: 472400
+  :northing: 7183700
+  :lat: "-25.4633333333333"
+  :lng: '152.7252777777778'
+  :state: QLD
+  :bsl: 4180
+  :license_area: MARYBOROUGH (QLD) RA1
+  :license_id: 454
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Beaudesert
+  :callsign: 4TAB
+  :frequency: 89.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009912
+  :license_number: 1157974
+  :site_id: 153026
+  :site_name: 4TAB/SUN FM Site MT DUNSINANE
+  :zone: 56
+  :easting: 503874
+  :northing: 6910755
+  :lat: "-27.9280555555556"
+  :lng: '153.0394444444445'
+  :state: QLD
+  :bsl: 4164
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: 
+  :status: Issued

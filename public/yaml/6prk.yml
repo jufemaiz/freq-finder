@@ -1,0 +1,29 @@
+---
+:title: 6PRK
+:transmitters:
+- :band: FM
+  :area: Halls Creek
+  :callsign: 6PRK
+  :frequency: 98.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 21
+  :antenna_pattern: OD
+  :maximum_erp: 60
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005687
+  :license_number: 1153617
+  :site_id: 138243
+  :site_name: Lot 159 Duncan Highway Halls Creek
+  :zone: 52
+  :easting: 359382
+  :northing: 7984227
+  :lat: "-18.2263888888889"
+  :lng: '127.67'
+  :state: WA
+  :bsl: 10035
+  :license_area: HALLS CREEK RA1
+  :license_id: 519
+  :operation_hours: 
+  :status: Issued

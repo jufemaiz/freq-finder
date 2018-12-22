@@ -1,0 +1,55 @@
+---
+:title: 107.9 FM
+:transmitters:
+- :band: FM
+  :area: Katoomba
+  :callsign: 2ICE
+  :frequency: 99.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009258
+  :license_number: 1155976
+  :site_id: 10341
+  :site_name: Blue Mountains City Council 2 Civic Place KATOOMBA
+  :zone: 56
+  :easting: 250858
+  :northing: 6266479
+  :lat: "-33.7122222222222"
+  :lng: '150.3116666666667'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lithgow
+  :callsign: 2ICE
+  :frequency: 107.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009237
+  :license_number: 1158846
+  :site_id: 152325
+  :site_name: Broadcast and RFS Mount Lambie via LITHGOW
+  :zone: 55
+  :easting: 777582
+  :northing: 6292314
+  :lat: "-33.4725"
+  :lng: '149.9869444444444'
+  :state: NSW
+  :bsl: 10279
+  :license_area: LITHGOW RA1
+  :license_id: 373
+  :operation_hours: 
+  :status: Issued

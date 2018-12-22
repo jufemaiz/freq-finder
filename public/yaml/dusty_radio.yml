@@ -1,0 +1,29 @@
+---
+:title: Dusty Radio
+:transmitters:
+- :band: FM
+  :area: Coober Pedy
+  :callsign: 5DUS
+  :frequency: 104.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009790
+  :license_number: 1170979
+  :site_id: 153004
+  :site_name: Broadcast Site Area School COOBER PEDY
+  :zone: 53
+  :easting: 476032
+  :northing: 6790470
+  :lat: "-29.0136111111111"
+  :lng: '134.7538888888889'
+  :state: SA
+  :bsl: 1150823
+  :license_area: COOBER PEDY RA1
+  :license_id: 870
+  :operation_hours: 
+  :status: Issued

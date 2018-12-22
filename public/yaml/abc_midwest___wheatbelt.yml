@@ -1,0 +1,81 @@
+---
+:title: ABC Midwest & Wheatbelt
+:transmitters:
+- :band: AM
+  :area: Dalwallinu
+  :callsign: 6DL
+  :frequency: 531.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 213
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 1395
+  :power: 10000
+  :technical_specification_number: 10005453
+  :license_number: 1198469
+  :site_id: 31334
+  :site_name: Broadcast Site DALWALLINU
+  :zone: 50
+  :easting: 462300
+  :northing: 6649000
+  :lat: "-30.29"
+  :lng: '116.6080555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Geraldton
+  :callsign: 6GN
+  :frequency: 828.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 70
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 960
+  :power: 10000
+  :technical_specification_number: 10000590
+  :license_number: 1198485
+  :site_id: 151378
+  :site_name: Broadcast Site Fig Tree Crossing 15 km NE of GERALDTON
+  :zone: 50
+  :easting: 275700
+  :northing: 6827294
+  :lat: "-28.6619444444444"
+  :lng: '114.7047222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Northam
+  :callsign: 6NM
+  :frequency: 1215.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 86
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 235
+  :power: 500
+  :technical_specification_number: 10002342
+  :license_number: 1198492
+  :site_id: 29083
+  :site_name: Broadcast Site NORTHAM
+  :zone: 50
+  :easting: 469702
+  :northing: 6496872
+  :lat: "-31.6627777777778"
+  :lng: '116.6802777777778'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

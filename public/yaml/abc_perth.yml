@@ -1,0 +1,55 @@
+---
+:title: ABC Perth
+:transmitters:
+- :band: AM
+  :area: Perth
+  :callsign: 6WF
+  :frequency: 720.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 180
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 2900
+  :power: 50000
+  :technical_specification_number: 4061001
+  :license_number: 1198482
+  :site_id: 26229
+  :site_name: National Broadcast Transmit Site HAMERSLEY
+  :zone: 50
+  :easting: 388160
+  :northing: 6474915
+  :lat: "-31.8558333333333"
+  :lng: '115.8177777777778'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Boddington Gold Mine
+  :callsign: 6WF
+  :frequency: 95.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 2
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133094
+  :license_number: 1906105
+  :site_id: 9007015
+  :site_name: WiFi Hill, Boddington Gold Mine Soldiers Road, 13 km WNW of BODDINGTON
+  :zone: 50
+  :easting: 438513
+  :northing: 6375750
+  :lat: "-32.7541666666667"
+  :lng: '116.3436111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

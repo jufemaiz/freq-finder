@@ -1,0 +1,159 @@
+---
+:title: Now FM
+:transmitters:
+- :band: FM
+  :area: Collarenebri
+  :callsign: 2NOW
+  :frequency: 101.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 70
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005268
+  :license_number: 1152253
+  :site_id: 280127
+  :site_name: Moree Broadcasters site MT BRANDON
+  :zone: 55
+  :easting: 644434
+  :northing: 6725617
+  :lat: "-29.5905555555556"
+  :lng: '148.4911111111111'
+  :state: NSW
+  :bsl: 2994
+  :license_area: MOREE RA1
+  :license_id: 532
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Goondiwindi
+  :callsign: 2NOW
+  :frequency: 88.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 600
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 2994002
+  :license_number: 1384861
+  :site_id: 7372
+  :site_name: Broadcast Site Boggabilla 5 km South of GOONDIWINDI
+  :zone: 56
+  :easting: 240800
+  :northing: 6834400
+  :lat: "-28.5913888888889"
+  :lng: '150.3494444444445'
+  :state: NSW
+  :bsl: 2994
+  :license_area: MOREE RA1
+  :license_id: 532
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lightning Ridge
+  :callsign: 2NOW
+  :frequency: 91.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004888
+  :license_number: 1151377
+  :site_id: 11114
+  :site_name: Broadcast Site Wooloroo 2km N of LIGHTNING RIDGE
+  :zone: 55
+  :easting: 594138
+  :northing: 6746597
+  :lat: "-29.4061111111111"
+  :lng: '147.9702777777778'
+  :state: NSW
+  :bsl: 2994
+  :license_area: MOREE RA1
+  :license_id: 532
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Moree
+  :callsign: 2NOW
+  :frequency: 98.3
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 90
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 2994001
+  :license_number: 1384860
+  :site_id: 35653
+  :site_name: TV Tower MOUNT DOWE
+  :zone: 56
+  :easting: 227432
+  :northing: 6646103
+  :lat: "-30.2861111111111"
+  :lng: '150.1663888888889'
+  :state: NSW
+  :bsl: 2994
+  :license_area: MOREE RA1
+  :license_id: 532
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mungindi
+  :callsign: 2NOW
+  :frequency: 107.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008307
+  :license_number: 1152287
+  :site_id: 136156
+  :site_name: Broadcast Planning Site Cleveland 12 km South Morialta Rd MUNGINDI MUNGINDI
+  :zone: 55
+  :easting: 695034
+  :northing: 6779183
+  :lat: "-29.1005555555556"
+  :lng: '149.0038888888889'
+  :state: NSW
+  :bsl: 2994
+  :license_area: MOREE RA1
+  :license_id: 532
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Walgett
+  :callsign: 2NOW
+  :frequency: 105.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 22
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004897
+  :license_number: 1151376
+  :site_id: 137476
+  :site_name: Graincorp Depot Castlereagh Highway Walgett
+  :zone: 55
+  :easting: 611348
+  :northing: 6680976
+  :lat: "-29.9969444444444"
+  :lng: '148.1541666666667'
+  :state: NSW
+  :bsl: 2994
+  :license_area: MOREE RA1
+  :license_id: 532
+  :operation_hours: 
+  :status: Issued

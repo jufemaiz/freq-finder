@@ -1,0 +1,29 @@
+---
+:title: Cooloola Christian Radio
+:transmitters:
+- :band: FM
+  :area: Gympie
+  :callsign: 4GCR
+  :frequency: 91.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009965
+  :license_number: 1170626
+  :site_id: 400524
+  :site_name: Vodafone/Optus/Telstra Site off Old Maryborough Rd MT CORELLA
+  :zone: 56
+  :easting: 461370
+  :northing: 7111381
+  :lat: "-26.1161111111111"
+  :lng: '152.6136111111111'
+  :state: QLD
+  :bsl: 1150117
+  :license_area: GYMPIE RA2
+  :license_id: 715
+  :operation_hours: 
+  :status: Issued

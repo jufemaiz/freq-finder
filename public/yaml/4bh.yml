@@ -1,0 +1,29 @@
+---
+:title: 4BH
+:transmitters:
+- :band: AM
+  :area: Brisbane
+  :callsign: 4BH
+  :frequency: 882.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 69
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 885
+  :power: 5000
+  :technical_specification_number: 4162001
+  :license_number: 1385008
+  :site_id: 13419
+  :site_name: Broadcast Planning Site Wynnum Rd Near Van Park WYNNUM WEST
+  :zone: 56
+  :easting: 514500
+  :northing: 6962000
+  :lat: "-27.4652777777778"
+  :lng: '153.1466666666667'
+  :state: QLD
+  :bsl: 4162
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: 
+  :status: Issued

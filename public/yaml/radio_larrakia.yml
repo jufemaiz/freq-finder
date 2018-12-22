@@ -1,0 +1,29 @@
+---
+:title: Radio Larrakia
+:transmitters:
+- :band: FM
+  :area: Darwin
+  :callsign: 8KNB
+  :frequency: 94.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 70
+  :antenna_pattern: OD
+  :maximum_erp: 15000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003345
+  :license_number: 1155777
+  :site_id: 1207
+  :site_name: Broadcast Site Section 4456 (100) Deloraine Road BERRIMAH
+  :zone: 52
+  :easting: 713900
+  :northing: 8626700
+  :lat: "-12.4152777777778"
+  :lng: '130.9675'
+  :state: NT
+  :bsl: 10166
+  :license_area: DARWIN RA2
+  :license_id: 497
+  :operation_hours: 
+  :status: Issued

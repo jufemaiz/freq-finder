@@ -1,0 +1,81 @@
+---
+:title: Max FM
+:transmitters:
+- :band: FM
+  :area: Gloucester
+  :callsign: 2MVB
+  :frequency: 103.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 80
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004971
+  :license_number: 1159293
+  :site_id: 7445
+  :site_name: FM Broadcast Site Kiaora Lookout GLOUCESTER
+  :zone: 56
+  :easting: 400350
+  :northing: 6463060
+  :lat: "-31.9638888888889"
+  :lng: '151.9452777777778'
+  :state: NSW
+  :bsl: 10326
+  :license_area: TAREE RA1
+  :license_id: 383
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Narrabri
+  :callsign: 2MAX
+  :frequency: 91.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 75
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008103
+  :license_number: 1170360
+  :site_id: 35653
+  :site_name: TV Tower MOUNT DOWE
+  :zone: 56
+  :easting: 227432
+  :northing: 6646103
+  :lat: "-30.2861111111111"
+  :lng: '150.1663888888889'
+  :state: NSW
+  :bsl: 1150088
+  :license_area: NARRABRI RA1
+  :license_id: 716
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Taree
+  :callsign: 2MVB
+  :frequency: 107.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004938
+  :license_number: 1152343
+  :site_id: 150338
+  :site_name: Broadcast Site MT GANGHAT
+  :zone: 56
+  :easting: 422600
+  :northing: 6466400
+  :lat: "-31.9355555555556"
+  :lng: '152.1811111111111'
+  :state: NSW
+  :bsl: 10326
+  :license_area: TAREE RA1
+  :license_id: 383
+  :operation_hours: 
+  :status: Issued

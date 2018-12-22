@@ -1,0 +1,29 @@
+---
+:title: 2BH
+:transmitters:
+- :band: AM
+  :area: Broken Hill
+  :callsign: 2BH
+  :frequency: 567.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 61
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 220
+  :power: 500
+  :technical_specification_number: 10004128
+  :license_number: 1385024
+  :site_id: 151236
+  :site_name: Broadcast Site 3 km NW of BROKEN HILL
+  :zone: 54
+  :easting: 541899
+  :northing: 6466095
+  :lat: "-31.94"
+  :lng: '141.4430555555556'
+  :state: NSW
+  :bsl: 10244
+  :license_area: BROKEN HILL RA1
+  :license_id: 502
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: 2Day
+:transmitters:
+- :band: FM
+  :area: Sydney
+  :callsign: 2DAY
+  :frequency: 104.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 141
+  :antenna_pattern: DA
+  :maximum_erp: 150000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3032004
+  :license_number: 1180804
+  :site_id: 48711
+  :site_name: ABC Tower 221 Pacific Highway GORE HILL
+  :zone: 56
+  :easting: 331921
+  :northing: 6256122
+  :lat: "-33.8213888888889"
+  :lng: '151.1836111111111'
+  :state: NSW
+  :bsl: 3032
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Sydney
+  :callsign: 2DAY
+  :frequency: 104.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 170
+  :antenna_pattern: DA
+  :maximum_erp: 150000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3032004
+  :license_number: 1180804
+  :site_id: 4045
+  :site_name: Ch7/10 Tower 192-196 Hampden Road ARTARMON
+  :zone: 56
+  :easting: 331500
+  :northing: 6257730
+  :lat: "-33.8069444444444"
+  :lng: '151.1794444444445'
+  :state: NSW
+  :bsl: 3032
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Issued

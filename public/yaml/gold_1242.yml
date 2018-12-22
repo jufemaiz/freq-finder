@@ -1,0 +1,29 @@
+---
+:title: Gold 1242
+:transmitters:
+- :band: AM
+  :area: Sale
+  :callsign: 3GV
+  :frequency: 1242.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 65
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 4157001
+  :license_number: 1384980
+  :site_id: 40516
+  :site_name: 3TR MF Broadcasting Site Maffra Sale Road MYRTLEBANK
+  :zone: 55
+  :easting: 502397
+  :northing: 5787286
+  :lat: "-38.0619444444444"
+  :lng: '147.0272222222222'
+  :state: VIC
+  :bsl: 4157
+  :license_area: SALE RA1
+  :license_id: 439
+  :operation_hours: 
+  :status: Issued

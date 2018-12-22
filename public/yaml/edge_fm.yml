@@ -1,0 +1,107 @@
+---
+:title: Edge FM
+:transmitters:
+- :band: FM
+  :area: Bega
+  :callsign: 2BAR
+  :frequency: 93.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013104
+  :license_number: 1170156
+  :site_id: 9164
+  :site_name: Commsite 5.8 km ENE of Bega DOCTOR GEORGE MOUNTAIN
+  :zone: 55
+  :easting: 759560
+  :northing: 5938810
+  :lat: "-36.6605555555556"
+  :lng: '149.9038888888889'
+  :state: NSW
+  :bsl: 1150188
+  :license_area: BEGA RA2
+  :license_id: 731
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bright
+  :callsign: 3NNN
+  :frequency: 92.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007920
+  :license_number: 1153258
+  :site_id: 11994
+  :site_name: Apex Lookout Off Mount Porepunkah Road 1.5 km NE of BRIGHT
+  :zone: 55
+  :easting: 497510
+  :northing: 5936440
+  :lat: "-36.7175"
+  :lng: '146.9719444444445'
+  :state: VIC
+  :bsl: 10391
+  :license_area: WANGARATTA RA1
+  :license_id: 437
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Beauty
+  :callsign: 3NNN
+  :frequency: 93.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007908
+  :license_number: 1153257
+  :site_id: 150427
+  :site_name: Broadcast Site Golf Course Club House MT BEAUTY
+  :zone: 55
+  :easting: 515700
+  :northing: 5933700
+  :lat: "-36.7419444444444"
+  :lng: '147.1758333333333'
+  :state: VIC
+  :bsl: 10391
+  :license_area: WANGARATTA RA1
+  :license_id: 437
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wangaratta
+  :callsign: 3NNN
+  :frequency: 102.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: DA
+  :maximum_erp: 25000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005811
+  :license_number: 1151423
+  :site_id: 12003
+  :site_name: Fire Tower 14.5 km SE of Beechworth MT STANLEY
+  :zone: 55
+  :easting: 482235
+  :northing: 5965800
+  :lat: "-36.4525"
+  :lng: '146.8016666666667'
+  :state: VIC
+  :bsl: 10391
+  :license_area: WANGARATTA RA1
+  :license_id: 437
+  :operation_hours: 
+  :status: Issued

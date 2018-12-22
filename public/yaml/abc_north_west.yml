@@ -1,0 +1,211 @@
+---
+:title: ABC North West
+:transmitters:
+- :band: AM
+  :area: Exmouth
+  :callsign: 6XM
+  :frequency: 1188.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 87
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 484
+  :power: 2000
+  :technical_specification_number: 10001801
+  :license_number: 1198491
+  :site_id: 151622
+  :site_name: Broadcast Site 3 km S of EXMOUTH
+  :zone: 50
+  :easting: 203400
+  :northing: 7568705
+  :lat: "-21.9608333333333"
+  :lng: '114.1280555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Carnarvon
+  :callsign: 6CA
+  :frequency: 846.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 31
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 474
+  :power: 2500
+  :technical_specification_number: 10001800
+  :license_number: 1198487
+  :site_id: 31759
+  :site_name: 6CA cnr Lewer Rd and Robinson St CARNARVON
+  :zone: 49
+  :easting: 769670
+  :northing: 7246470
+  :lat: "-24.8727777777778"
+  :lng: '113.6688888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Karratha
+  :callsign: 6KP
+  :frequency: 702.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 90
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 948
+  :power: 10000
+  :technical_specification_number: 10001796
+  :license_number: 1198481
+  :site_id: 151684
+  :site_name: Broadcast Site NW Coastal Hwy 7 km SE of KARRATHA
+  :zone: 50
+  :easting: 482644
+  :northing: 7707351
+  :lat: "-20.7330555555556"
+  :lng: '116.8330555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Newman
+  :callsign: 6MN
+  :frequency: 567.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 32
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 100
+  :power: 100
+  :technical_specification_number: 10001761
+  :license_number: 1198471
+  :site_id: 151609
+  :site_name: ABC Tower TV Hill Approx 1km NW NEWMAN
+  :zone: 50
+  :easting: 778477
+  :northing: 7415042
+  :lat: "-23.3502777777778"
+  :lng: '119.7236111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Pannawonica
+  :callsign: 6PN
+  :frequency: 567.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 37
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 100
+  :power: 100
+  :technical_specification_number: 10001762
+  :license_number: 1198472
+  :site_id: 40503
+  :site_name: Broadcast Site PANNAWONICA
+  :zone: 50
+  :easting: 431955
+  :northing: 7604313
+  :lat: "-21.6630555555556"
+  :lng: '116.3422222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Paraburdoo
+  :callsign: 6PU
+  :frequency: 567.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 37
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 94
+  :power: 100
+  :technical_specification_number: 10001797
+  :license_number: 1198473
+  :site_id: 40535
+  :site_name: Broadcast Site PARABURDOO
+  :zone: 50
+  :easting: 567964
+  :northing: 7432201
+  :lat: "-23.2177777777778"
+  :lng: '117.6641666666667'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Port Hedland
+  :callsign: 6PH
+  :frequency: 603.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 41
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 424
+  :power: 2000
+  :technical_specification_number: 10001804
+  :license_number: 1198475
+  :site_id: 40536
+  :site_name: Broadcast Site PORT HEDLAND
+  :zone: 50
+  :easting: 674650
+  :northing: 7743301
+  :lat: "-20.4002777777778"
+  :lng: '118.6736111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Tom Price
+  :callsign: 6TP
+  :frequency: 567.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 37
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 94
+  :power: 100
+  :technical_specification_number: 10001814
+  :license_number: 1198474
+  :site_id: 40502
+  :site_name: ABC MF Broadcast Site Tom Price Spur Road TOM PRICE
+  :zone: 50
+  :easting: 579427
+  :northing: 7489399
+  :lat: "-22.7005555555556"
+  :lng: '117.7730555555556'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

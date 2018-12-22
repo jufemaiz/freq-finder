@@ -1,0 +1,107 @@
+---
+:title: Gem FM
+:transmitters:
+- :band: FM
+  :area: Bowen
+  :callsign: 4GEM
+  :frequency: 95.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007525
+  :license_number: 1171220
+  :site_id: 19229
+  :site_name: Southern Cross Broadcasting Site Bowen Hill BOWEN
+  :zone: 55
+  :easting: 629443
+  :northing: 7787163
+  :lat: "-20.0077777777778"
+  :lng: '148.2372222222222'
+  :state: QLD
+  :bsl: 1150017
+  :license_area: BOWEN RA1
+  :license_id: 653
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Glen Innes
+  :callsign: 2GEM
+  :frequency: 106.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004869
+  :license_number: 1151802
+  :site_id: 35679
+  :site_name: Martins Lookout GLEN INNES
+  :zone: 56
+  :easting: 379200
+  :northing: 6708900
+  :lat: "-29.7438888888889"
+  :lng: '151.7505555555556'
+  :state: NSW
+  :bsl: 10322
+  :license_area: INVERELL RA1
+  :license_id: 379
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Inverell
+  :callsign: 2GEM
+  :frequency: 95.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004859
+  :license_number: 1136257
+  :site_id: 150296
+  :site_name: Broadcast Site Table Top Mountain INVERELL
+  :zone: 56
+  :easting: 313600
+  :northing: 6704400
+  :lat: "-29.7763888888889"
+  :lng: '151.0716666666667'
+  :state: NSW
+  :bsl: 10322
+  :license_area: INVERELL RA1
+  :license_id: 379
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Warialda
+  :callsign: 2GEM
+  :frequency: 102.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131137
+  :license_number: 1180740
+  :site_id: 250713
+  :site_name: Yallaroi Shire Site MT TOOLIMBAH
+  :zone: 56
+  :easting: 254000
+  :northing: 6726700
+  :lat: "-29.565"
+  :lng: '150.4605555555556'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

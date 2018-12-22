@@ -1,0 +1,55 @@
+---
+:title: 4GC
+:transmitters:
+- :band: AM
+  :area: Charters Towers
+  :callsign: 4GC
+  :frequency: 828.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 315
+  :power: 1000
+  :technical_specification_number: 4172001
+  :license_number: 1384947
+  :site_id: 19986
+  :site_name: MF Broadcast Site New Queens Road CHARTERS TOWERS
+  :zone: 55
+  :easting: 425556
+  :northing: 7780952
+  :lat: "-20.0669444444444"
+  :lng: '146.2880555555556'
+  :state: QLD
+  :bsl: 4172
+  :license_area: CHARTERS TOWERS RA1
+  :license_id: 448
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Hughenden
+  :callsign: 4GC
+  :frequency: 765.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 46
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 215
+  :power: 500
+  :technical_specification_number: 4172002
+  :license_number: 1384948
+  :site_id: 151676
+  :site_name: Commercial MF Broadcast Site Flinders Hwy HUGHENDEN
+  :zone: 55
+  :easting: 206018
+  :northing: 7691864
+  :lat: "-20.85"
+  :lng: '144.175'
+  :state: QLD
+  :bsl: 4172
+  :license_area: CHARTERS TOWERS RA1
+  :license_id: 448
+  :operation_hours: 
+  :status: Issued

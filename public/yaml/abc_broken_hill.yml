@@ -1,0 +1,29 @@
+---
+:title: ABC Broken Hill
+:transmitters:
+- :band: AM
+  :area: Broken Hill
+  :callsign: 2NB
+  :frequency: 999.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 77
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 660
+  :power: 2000
+  :technical_specification_number: 10004129
+  :license_number: 1150287
+  :site_id: 151237
+  :site_name: Broadcast Site BROKEN HILL
+  :zone: 54
+  :easting: 545846
+  :northing: 6467208
+  :lat: "-31.93"
+  :lng: '141.4847222222222'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,107 @@
+---
+:title: The River
+:transmitters:
+- :band: FM
+  :area: Albury
+  :callsign: 2BDR
+  :frequency: 105.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003493
+  :license_number: 1154677
+  :site_id: 11949
+  :site_name: Broadcast Site 14 km S of Wodonga MT BARANDUDA
+  :zone: 55
+  :easting: 487000
+  :northing: 5987700
+  :lat: "-36.2552777777778"
+  :lng: '146.8552777777778'
+  :state: VIC
+  :bsl: 1150011
+  :license_area: ALBURY RA1
+  :license_id: 363
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Corryong
+  :callsign: 2BDR
+  :frequency: 96.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007549
+  :license_number: 1158248
+  :site_id: 40979
+  :site_name: Broadcast Site MT ELLIOT
+  :zone: 55
+  :easting: 587660
+  :northing: 5994880
+  :lat: "-36.1866666666667"
+  :lng: '147.9747222222222'
+  :state: VIC
+  :bsl: 1150011
+  :license_area: ALBURY RA1
+  :license_id: 363
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Falls Creek
+  :callsign: 2BDR
+  :frequency: 94.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10011812
+  :license_number: 1154676
+  :site_id: 55649
+  :site_name: Ski Patrol Buildings FALLS CREEK
+  :zone: 55
+  :easting: 524467
+  :northing: 5919228
+  :lat: "-36.8722222222222"
+  :lng: '147.2744444444445'
+  :state: VIC
+  :bsl: 1150011
+  :license_area: ALBURY RA1
+  :license_id: 363
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Omeo
+  :callsign: 2BDR
+  :frequency: 90.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014134
+  :license_number: 1158250
+  :site_id: 40920
+  :site_name: Broadcast Site Sam Hill OMEO
+  :zone: 55
+  :easting: 550300
+  :northing: 5899100
+  :lat: "-37.0527777777778"
+  :lng: '147.5655555555556'
+  :state: VIC
+  :bsl: 1150011
+  :license_area: ALBURY RA1
+  :license_id: 363
+  :operation_hours: 
+  :status: Issued

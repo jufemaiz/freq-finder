@@ -1,0 +1,29 @@
+---
+:title: ABC Ballarat
+:transmitters:
+- :band: FM
+  :area: Ballarat (Lookout Hill)
+  :callsign: 3CRR
+  :frequency: 107.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 93
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003795
+  :license_number: 1150240
+  :site_id: 36240
+  :site_name: Broadcast Tower LOOKOUT HILL
+  :zone: 54
+  :easting: 699150
+  :northing: 5871250
+  :lat: "-37.2838888888889"
+  :lng: '143.2463888888889'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

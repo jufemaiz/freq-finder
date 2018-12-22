@@ -1,0 +1,55 @@
+---
+:title: 4AM
+:transmitters:
+- :band: AM
+  :area: Atherton
+  :callsign: 4AM
+  :frequency: 558.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 77
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 10007491
+  :license_number: 1385058
+  :site_id: 151774
+  :site_name: Broadcast Site Cobra Creek 6 km SE of MAREEBA
+  :zone: 55
+  :easting: 337902
+  :northing: 8116998
+  :lat: "-17.0252777777778"
+  :lng: '145.4769444444445'
+  :state: QLD
+  :bsl: 4167
+  :license_area: ATHERTON RA1
+  :license_id: 445
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Port Douglas
+  :callsign: 4AM
+  :frequency: 1422.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 57
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 560
+  :power: 1000
+  :technical_specification_number: 10007492
+  :license_number: 1385059
+  :site_id: 41107
+  :site_name: Broadcast Site PORT DOUGLAS
+  :zone: 55
+  :easting: 334600
+  :northing: 8175100
+  :lat: "-16.5"
+  :lng: '145.4502777777778'
+  :state: QLD
+  :bsl: 4167
+  :license_area: ATHERTON RA1
+  :license_id: 445
+  :operation_hours: 
+  :status: Issued

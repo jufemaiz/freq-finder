@@ -1,0 +1,29 @@
+---
+:title: Three D Radio
+:transmitters:
+- :band: FM
+  :area: Adelaide
+  :callsign: 5DDD
+  :frequency: 93.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 6300
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3076001
+  :license_number: 1385198
+  :site_id: 23158
+  :site_name: Broadcast Site Summit MOUNT LOFTY
+  :zone: 54
+  :easting: 290668
+  :northing: 6126568
+  :lat: "-34.9816666666667"
+  :lng: '138.7066666666667'
+  :state: SA
+  :bsl: 3076
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued

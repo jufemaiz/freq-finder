@@ -1,0 +1,29 @@
+---
+:title: Ten73 Border FM
+:transmitters:
+- :band: FM
+  :area: Albury
+  :callsign: 2REM
+  :frequency: 107.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005704
+  :license_number: 1139638
+  :site_id: 150497
+  :site_name: 2REM Site One Tree Hill ALBURY
+  :zone: 55
+  :easting: 496460
+  :northing: 6013595
+  :lat: "-36.0219444444444"
+  :lng: '146.9605555555556'
+  :state: NSW
+  :bsl: 10386
+  :license_area: ALBURY RA2
+  :license_id: 401
+  :operation_hours: 
+  :status: Issued

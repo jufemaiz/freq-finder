@@ -1,0 +1,55 @@
+---
+:title: Rhema FM Live
+:transmitters:
+- :band: FM
+  :area: Mount Gambier
+  :callsign: 5RCB
+  :frequency: 104.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010695
+  :license_number: 1170768
+  :site_id: 150269
+  :site_name: Broadcast Site MT GAMBIER
+  :zone: 54
+  :easting: 454220
+  :northing: 5838120
+  :lat: "-37.6025"
+  :lng: '140.4811111111111'
+  :state: SA
+  :bsl: 1150784
+  :license_area: MT GAMBIER RA1
+  :license_id: 474
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Naracoorte
+  :callsign: 5RCB
+  :frequency: 99.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010698
+  :license_number: 1170776
+  :site_id: 23720
+  :site_name: Council & CFS site Smith Street East NARACOORTE
+  :zone: 54
+  :easting: 479357
+  :northing: 5910387
+  :lat: "-36.9522222222222"
+  :lng: '140.7680555555556'
+  :state: SA
+  :bsl: 1150784
+  :license_area: MT GAMBIER RA1
+  :license_id: 474
+  :operation_hours: 
+  :status: Renewal Pending

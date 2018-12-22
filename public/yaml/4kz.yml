@@ -1,0 +1,185 @@
+---
+:title: 4KZ
+:transmitters:
+- :band: AM
+  :area: Innisfail
+  :callsign: 4KZ
+  :frequency: 531.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 121
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1045
+  :power: 5000
+  :technical_specification_number: 10007530
+  :license_number: 1154662
+  :site_id: 40473
+  :site_name: Broadcast Site 3 km East of INNISFAIL
+  :zone: 55
+  :easting: 399400
+  :northing: 8061400
+  :lat: "-17.5313888888889"
+  :lng: '146.0519444444445'
+  :state: QLD
+  :bsl: 4177
+  :license_area: INNISFAIL RA1
+  :license_id: 451
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Tully
+  :callsign: 4KZ
+  :frequency: 693.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 68
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 220
+  :power: 500
+  :technical_specification_number: 4177002
+  :license_number: 1153668
+  :site_id: 152495
+  :site_name: Broadcast Site Euramo 7 km S of TULLY
+  :zone: 55
+  :easting: 387502
+  :northing: 8009895
+  :lat: "-17.9961111111111"
+  :lng: '145.9372222222222'
+  :state: QLD
+  :bsl: 4177
+  :license_area: INNISFAIL RA1
+  :license_id: 451
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Babinda
+  :callsign: 4KZ
+  :frequency: 102.5
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009179
+  :license_number: 1155037
+  :site_id: 440569
+  :site_name: TV Site GRAHAM RANGE
+  :zone: 55
+  :easting: 393968
+  :northing: 8077612
+  :lat: "-17.3847222222222"
+  :lng: '146.0019444444444'
+  :state: QLD
+  :bsl: 4177
+  :license_area: INNISFAIL RA1
+  :license_id: 451
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cardwell
+  :callsign: 4KZ
+  :frequency: 94.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 300
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012914
+  :license_number: 1152063
+  :site_id: 440464
+  :site_name: Telstra site Mulleys Hill CARDWELL
+  :zone: 55
+  :easting: 393291
+  :northing: 7981867
+  :lat: "-18.2497222222222"
+  :lng: '145.9905555555556'
+  :state: QLD
+  :bsl: 4177
+  :license_area: INNISFAIL RA1
+  :license_id: 451
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hinchinbrook
+  :callsign: 4KZ
+  :frequency: 97.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012927
+  :license_number: 1158567
+  :site_id: 153642
+  :site_name: Broadcast Site Casual Cassowary Tea House Bruce Hwy HINCHINBROOK
+  :zone: 55
+  :easting: 413000
+  :northing: 7955700
+  :lat: "-18.4872222222222"
+  :lng: '146.1758333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mission Beach
+  :callsign: 4KZ
+  :frequency: 88.5
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 22
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007541
+  :license_number: 1384919
+  :site_id: 41331
+  :site_name: Broadcast Site DUNK ISLAND
+  :zone: 55
+  :easting: 409300
+  :northing: 8016600
+  :lat: "-17.9366666666667"
+  :lng: '146.1433333333333'
+  :state: QLD
+  :bsl: 4177
+  :license_area: INNISFAIL RA1
+  :license_id: 451
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Murray Falls
+  :callsign: 4KZ
+  :frequency: 92.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012925
+  :license_number: 1158568
+  :site_id: 153465
+  :site_name: Broadcast Site Council Water Treatment Plant MURRAY FALLS
+  :zone: 55
+  :easting: 373000
+  :northing: 7995500
+  :lat: "-18.1255555555556"
+  :lng: '145.7994444444445'
+  :state: QLD
+  :bsl: 4177
+  :license_area: INNISFAIL RA1
+  :license_id: 451
+  :operation_hours: 
+  :status: Issued

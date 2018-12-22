@@ -13,14 +13,12 @@ class TransmittersController < ApplicationController
 
   # GET /stations
   def index
-    logger.info("@station: #{@station.inspect}")
-    logger.info("@location: #{@location.inspect}")
-
-    @transmitters = Transmitter
-    @transmitters = @transmitters.where(station: @station) unless @station.nil?
-    @transmitters = @transmitters.by_distance(origin: @location) unless @location.nil?
-    @transmitters = @transmitters.all
-    # logger.info("@transmitters: #{@transmitters.inspect}")
+    @transmitters = if @station.nil?
+                      Transmitter
+                    else
+                      @station.transmitters
+                    end
+    @transmitters = @transmitters.by_distance_with_backup_sort(@location).all
   end
 
   # GET /stations/:id
@@ -49,11 +47,10 @@ class TransmittersController < ApplicationController
   #
   # @return [void]
   def set_location
-    return unless params[:latlng] &&
-      params[:latlng].match(LATLNG_PATTERN)
+    puts params[:location]
+    return unless Location.valid_gps?(params[:location])
 
-    @location = Geokit::LatLng.normalize(
-      params[:latlng].split(',')
-    )
+    @location = Location.normalize(params[:location])
+    puts @location.inspect
   end
 end

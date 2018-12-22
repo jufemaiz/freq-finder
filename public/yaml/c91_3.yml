@@ -1,0 +1,55 @@
+---
+:title: C91.3
+:transmitters:
+- :band: FM
+  :area: Campbelltown
+  :callsign: 2MAC
+  :frequency: 91.3
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009041
+  :license_number: 1170515
+  :site_id: 34904
+  :site_name: Wollondilly Council RFS site Lot 3 Mount Hercules Rd RAZORBACK RANGE
+  :zone: 56
+  :easting: 285146
+  :northing: 6218877
+  :lat: "-34.1486111111111"
+  :lng: '150.6694444444444'
+  :state: NSW
+  :bsl: 1150490
+  :license_area: CAMPBELLTOWN RA1
+  :license_id: 753
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lake Macquarie
+  :callsign: 2MAQ
+  :frequency: 97.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007821
+  :license_number: 1170170
+  :site_id: 152686
+  :site_name: Broadcast Site 15 Silky Oak Dr MORISSET
+  :zone: 56
+  :easting: 361600
+  :northing: 6334400
+  :lat: "-33.12"
+  :lng: '151.5163888888889'
+  :state: NSW
+  :bsl: 1150043
+  :license_area: LAKE MACQUARIE RA1
+  :license_id: 695
+  :operation_hours: 
+  :status: Renewal Pending

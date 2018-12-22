@@ -1,0 +1,29 @@
+---
+:title: 7AD
+:transmitters:
+- :band: AM
+  :area: Devonport
+  :callsign: 7AD
+  :frequency: 900.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 57
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 4218001
+  :license_number: 1384940
+  :site_id: 34166
+  :site_name: Broadcast Site Bass Hwy DON HILL
+  :zone: 55
+  :easting: 442125
+  :northing: 5442777
+  :lat: "-41.1638888888889"
+  :lng: '146.31'
+  :state: TAS
+  :bsl: 4218
+  :license_area: DEVONPORT RA1
+  :license_id: 489
+  :operation_hours: 
+  :status: Issued

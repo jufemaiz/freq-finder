@@ -1,0 +1,29 @@
+---
+:title: Burnett River Radio
+:transmitters:
+- :band: FM
+  :area: Gayndah
+  :callsign: 4BRR
+  :frequency: 91.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008541
+  :license_number: 1170638
+  :site_id: 137548
+  :site_name: Broadcast Tower Council Site MT GAYNDAH
+  :zone: 56
+  :easting: 353307
+  :northing: 7167105
+  :lat: "-25.6061111111111"
+  :lng: '151.5388888888889'
+  :state: QLD
+  :bsl: 1150107
+  :license_area: GAYNDAH RA1
+  :license_id: 706
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,81 @@
+---
+:title: Radio Upper Murray
+:transmitters:
+- :band: FM
+  :area: Corryong
+  :callsign: 3RUM
+  :frequency: 98.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013969
+  :license_number: 1913283
+  :site_id: 138397
+  :site_name: 3RUM Studio 38 Towong Rd CORRYONG
+  :zone: 55
+  :easting: 581725
+  :northing: 5994176
+  :lat: "-36.1936111111111"
+  :lng: '147.9088888888889'
+  :state: VIC
+  :bsl: 1150022
+  :license_area: UPPER MURRAY RA1
+  :license_id: 1279
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tumbarumba
+  :callsign: 3RUM
+  :frequency: 107.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014133
+  :license_number: 1171127
+  :site_id: 9899
+  :site_name: Broadcast/Comms Site Mt Ikes 14.5 km SSW of TUMBARUMBA
+  :zone: 55
+  :easting: 585580
+  :northing: 6026750
+  :lat: "-35.8994444444444"
+  :lng: '147.9480555555556'
+  :state: NSW
+  :bsl: 1150022
+  :license_area: UPPER MURRAY RA1
+  :license_id: 1279
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Walwa/Jingellic
+  :callsign: 3RUM
+  :frequency: 88.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007570
+  :license_number: 1171126
+  :site_id: 36134
+  :site_name: Broadcast Site 4 km East of JINGELLIC
+  :zone: 55
+  :easting: 566810
+  :northing: 6023130
+  :lat: "-35.9336111111111"
+  :lng: '147.7405555555556'
+  :state: NSW
+  :bsl: 1150022
+  :license_area: UPPER MURRAY RA1
+  :license_id: 1279
+  :operation_hours: 
+  :status: Issued

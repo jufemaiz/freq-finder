@@ -1,0 +1,29 @@
+---
+:title: 3AW
+:transmitters:
+- :band: AM
+  :area: Melbourne
+  :callsign: 3AW
+  :frequency: 693.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 90
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1700
+  :power: 5000
+  :technical_specification_number: 4140501
+  :license_number: 1384985
+  :site_id: 41127
+  :site_name: Broadcast Site Boundary Rd near MT COTTRELL
+  :zone: 55
+  :easting: 290000
+  :northing: 5813700
+  :lat: "-37.7997222222222"
+  :lng: '144.6147222222222'
+  :state: VIC
+  :bsl: 4140
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued

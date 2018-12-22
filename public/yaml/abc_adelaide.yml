@@ -1,0 +1,29 @@
+---
+:title: ABC Adelaide
+:transmitters:
+- :band: AM
+  :area: Adelaide
+  :callsign: 5AN
+  :frequency: 891.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 168
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 2905
+  :power: 50000
+  :technical_specification_number: 4051001
+  :license_number: 1198410
+  :site_id: 23234
+  :site_name: Broadcast Site Sherriffs Road REYNELLA
+  :zone: 54
+  :easting: 273720
+  :northing: 6112441
+  :lat: "-35.1052777777778"
+  :lng: '138.5172222222223'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

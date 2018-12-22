@@ -1,0 +1,81 @@
+---
+:title: 2CBD
+:transmitters:
+- :band: AM
+  :area: Canberra
+  :callsign: 2CC
+  :frequency: 1206.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 61
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 908
+  :power: 5000
+  :technical_specification_number: 4097001
+  :license_number: 1384967
+  :site_id: 150980
+  :site_name: Broadcast Site Barton Hwy GUNGAHLIN
+  :zone: 55
+  :easting: 693179
+  :northing: 6100570
+  :lat: "-35.2191666666667"
+  :lng: '149.1222222222222'
+  :state: ACT
+  :bsl: 4097
+  :license_area: CANBERRA RA1
+  :license_id: 508
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Deepwater
+  :callsign: 2CBD
+  :frequency: 91.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008102
+  :license_number: 1170050
+  :site_id: 152339
+  :site_name: Broadcast Site Railway Station Gough St DEEPWATER
+  :zone: 56
+  :easting: 388449
+  :northing: 6742282
+  :lat: "-29.4436111111111"
+  :lng: '151.8497222222222'
+  :state: NSW
+  :bsl: 1150087
+  :license_area: DEEPWATER RA1
+  :license_id: 718
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Glen Innes
+  :callsign: 2CBD
+  :frequency: 105.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005054
+  :license_number: 1170916
+  :site_id: 34912
+  :site_name: Martins Lookout GLEN INNES
+  :zone: 56
+  :easting: 379100
+  :northing: 6708780
+  :lat: "-29.7452777777778"
+  :lng: '151.7497222222222'
+  :state: NSW
+  :bsl: 1150087
+  :license_area: DEEPWATER RA1
+  :license_id: 718
+  :operation_hours: 
+  :status: Issued

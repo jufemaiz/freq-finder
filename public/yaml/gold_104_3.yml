@@ -1,0 +1,55 @@
+---
+:title: Gold 104.3
+:transmitters:
+- :band: FM
+  :area: Melbourne
+  :callsign: 3KKZ
+  :frequency: 104.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 56000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4143001
+  :license_number: 1384880
+  :site_id: 12014
+  :site_name: NTL (ABV-2) Tower Eyre Road MT DANDENONG
+  :zone: 55
+  :easting: 354580
+  :northing: 5811035
+  :lat: "-37.8363888888889"
+  :lng: '145.3472222222222'
+  :state: VIC
+  :bsl: 4143
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Melbourne
+  :callsign: 3KKZ
+  :frequency: 104.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 56000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4143001
+  :license_number: 1384880
+  :site_id: 12013
+  :site_name: ATV-10 Tower Ornata Road MT DANDENONG
+  :zone: 55
+  :easting: 354400
+  :northing: 5810745
+  :lat: "-37.8388888888889"
+  :lng: '145.3452777777778'
+  :state: VIC
+  :bsl: 4143
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued

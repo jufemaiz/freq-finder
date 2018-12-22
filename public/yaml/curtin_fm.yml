@@ -1,0 +1,29 @@
+---
+:title: Curtin FM
+:transmitters:
+- :band: FM
+  :area: Perth
+  :callsign: 6NR
+  :frequency: 100.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 71
+  :antenna_pattern: DA
+  :maximum_erp: 6500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008529
+  :license_number: 1385118
+  :site_id: 26642
+  :site_name: STW9 Mast Lawnbrook Road WALLISTON
+  :zone: 50
+  :easting: 412224
+  :northing: 6459268
+  :lat: "-31.9991666666667"
+  :lng: '116.0708333333333'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

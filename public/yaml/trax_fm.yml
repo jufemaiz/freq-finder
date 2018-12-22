@@ -1,0 +1,29 @@
+---
+:title: Trax FM
+:transmitters:
+- :band: FM
+  :area: Port Pirie
+  :callsign: 5TRX
+  :frequency: 105.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 82
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010705
+  :license_number: 1170708
+  :site_id: 305536
+  :site_name: Pirie Community Radio Broadcasters Site THE BLUFF
+  :zone: 54
+  :easting: 235215
+  :northing: 6333045
+  :lat: "-33.1088888888889"
+  :lng: '138.1625'
+  :state: SA
+  :bsl: 1150785
+  :license_area: PORT PIRIE RA1
+  :license_id: 1112
+  :operation_hours: 
+  :status: Issued

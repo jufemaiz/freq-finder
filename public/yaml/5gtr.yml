@@ -1,0 +1,29 @@
+---
+:title: 5GTR
+:transmitters:
+- :band: FM
+  :area: Mount Gambier
+  :callsign: 5GTR
+  :frequency: 100.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 36
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010697
+  :license_number: 1385200
+  :site_id: 131229
+  :site_name: Cnr Millicent & Illman Rds COMPTON
+  :zone: 54
+  :easting: 473500
+  :northing: 5818400
+  :lat: "-37.7811111111111"
+  :lng: '140.6988888888889'
+  :state: SA
+  :bsl: 3075
+  :license_area: MOUNT GAMBIER RA2
+  :license_id: 414
+  :operation_hours: 
+  :status: Issued

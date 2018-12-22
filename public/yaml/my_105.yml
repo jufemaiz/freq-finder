@@ -1,0 +1,29 @@
+---
+:title: My 105
+:transmitters:
+- :band: FM
+  :area: Mackay
+  :callsign: 4MUR
+  :frequency: 105.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6393001
+  :license_number: 1171135
+  :site_id: 18428
+  :site_name: Nixon Site The Black Mountain 12.4 km NW of MACKAY
+  :zone: 55
+  :easting: 717890
+  :northing: 7668635
+  :lat: "-21.07"
+  :lng: '149.0969444444445'
+  :state: QLD
+  :bsl: 1150019
+  :license_area: MACKAY RA2
+  :license_id: 662
+  :operation_hours: 
+  :status: Issued

@@ -65,19 +65,7 @@ module Types
     # @param [String] order_by
     # @return [Array<Transmitter>]
     def all_transmitters(location: nil, order_by: nil)
-      location = if Location.valid_gps?(location)
-                   Location.normalize(location)
-                 else
-                   nil
-                 end
-
-      transmitters = Transmitter
-      transmitters = if location.nil?
-                       transmitters.order(order_by)
-                     else
-                       transmitters = transmitters.by_distance(origin: location)
-                     end
-      transmitters
+      Transmitter.by_distance_with_backup_sort(location, order_by)
     end
   end
 end

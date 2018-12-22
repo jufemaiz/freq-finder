@@ -1,0 +1,29 @@
+---
+:title: Hay FM
+:transmitters:
+- :band: FM
+  :area: Hay
+  :callsign: 2HAY
+  :frequency: 92.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 16
+  :antenna_pattern: OD
+  :maximum_erp: 95
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 2069001
+  :license_number: 1139601
+  :site_id: 151037
+  :site_name: Broadcast Site Railway Station HAY
+  :zone: 55
+  :easting: 301844
+  :northing: 6180208
+  :lat: "-34.5005555555556"
+  :lng: '144.8416666666667'
+  :state: NSW
+  :bsl: 2069
+  :license_area: HAY RA1
+  :license_id: 358
+  :operation_hours: 
+  :status: Issued

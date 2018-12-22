@@ -1,0 +1,81 @@
+---
+:title: ABC Upper Hunter
+:transmitters:
+- :band: FM
+  :area: Merriwa
+  :callsign: 2HVR
+  :frequency: 101.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 26
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5657002
+  :license_number: 1198629
+  :site_id: 41049
+  :site_name: Broadcast/Police Site Banderra Downs MERRIWA
+  :zone: 56
+  :easting: 246400
+  :northing: 6442100
+  :lat: "-32.1288888888889"
+  :lng: '150.3116666666667'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Murrurundi
+  :callsign: 2HVR
+  :frequency: 96.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 24
+  :antenna_pattern: OD
+  :maximum_erp: 80
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008761
+  :license_number: 1155299
+  :site_id: 151254
+  :site_name: Broadcast Site MT HELEN
+  :zone: 56
+  :easting: 295696
+  :northing: 6487601
+  :lat: "-31.7286111111111"
+  :lng: '150.8433333333333'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Muswellbrook
+  :callsign: 2HVR
+  :frequency: 105.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 13
+  :antenna_pattern: OD
+  :maximum_erp: 16000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5657001
+  :license_number: 1198643
+  :site_id: 6361
+  :site_name: National Transmission Authority Site Rossgole Lookout Near ABERDEEN
+  :zone: 56
+  :easting: 290780
+  :northing: 6441500
+  :lat: "-32.1433333333333"
+  :lng: '150.7816666666667'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: Valley FM
+:transmitters:
+- :band: FM
+  :area: Esk
+  :callsign: 4BVR
+  :frequency: 95.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010272
+  :license_number: 1171234
+  :site_id: 401258
+  :site_name: Esk Shire Council Broadcast Site Reservoir No 2 Annette St TOOGOOLAWAH
+  :zone: 56
+  :easting: 437059
+  :northing: 7004046
+  :lat: "-27.0844444444444"
+  :lng: '152.3652777777778'
+  :state: QLD
+  :bsl: 1150748
+  :license_area: ESK RA1
+  :license_id: 1036
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Parkes/Forbes
+  :callsign: 2LVR
+  :frequency: 97.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001423
+  :license_number: 1385217
+  :site_id: 10734
+  :site_name: 2LVR Community FM Hut 20 km SE of Parkes MOUNT COONAMBRO
+  :zone: 55
+  :easting: 624350
+  :northing: 6319975
+  :lat: "-33.2516666666667"
+  :lng: '148.3347222222223'
+  :state: NSW
+  :bsl: 10055
+  :license_area: PARKES RA1
+  :license_id: 381
+  :operation_hours: 
+  :status: Renewal Pending

@@ -1,0 +1,29 @@
+---
+:title: Triple B
+:transmitters:
+- :band: FM
+  :area: Barossa Valley
+  :callsign: 5BBB
+  :frequency: 89.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010207
+  :license_number: 1170693
+  :site_id: 24182
+  :site_name: Major Radio Site Rifle Range Road 7km SE of Tanunda MT KITCHENER
+  :zone: 54
+  :easting: 316952
+  :northing: 6172455
+  :lat: "-34.5730555555556"
+  :lng: '139.0044444444444'
+  :state: SA
+  :bsl: 1150741
+  :license_area: BAROSSA VALLEY RA1
+  :license_id: 985
+  :operation_hours: 
+  :status: Issued

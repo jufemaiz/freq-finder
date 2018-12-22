@@ -1,0 +1,29 @@
+---
+:title: Highlands FM
+:transmitters:
+- :band: FM
+  :area: Kyneton
+  :callsign: 3CH
+  :frequency: 100.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132534
+  :license_number: 1154724
+  :site_id: 11737
+  :site_name: Police/Ambulance/Optus/Vodafone Tower MT MACEDON
+  :zone: 55
+  :easting: 285350
+  :northing: 5859650
+  :lat: "-37.3847222222222"
+  :lng: '144.5752777777778'
+  :state: VIC
+  :bsl: 10405
+  :license_area: KYNETON RA1
+  :license_id: 670
+  :operation_hours: 
+  :status: Issued

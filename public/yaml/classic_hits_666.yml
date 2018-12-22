@@ -1,0 +1,55 @@
+---
+:title: Classic Hits 666
+:transmitters:
+- :band: AM
+  :area: Carnarvon
+  :callsign: 6LN
+  :frequency: 666.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 300
+  :power: 1000
+  :technical_specification_number: 10001458
+  :license_number: 1191487
+  :site_id: 601609
+  :site_name: Broadcast Site Lot 256 North West Coastal Hwy CARNARVON
+  :zone: 49
+  :easting: 774710
+  :northing: 7241980
+  :lat: "-24.9125"
+  :lng: '113.7197222222222'
+  :state: WA
+  :bsl: 10338
+  :license_area: CARNARVON RA1
+  :license_id: 480
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Onslow
+  :callsign: 6LN
+  :frequency: 98.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133437
+  :license_number: 1921227
+  :site_id: 151665
+  :site_name: Broadcast Site Lot 694 Payne Way ONSLOW
+  :zone: 50
+  :easting: 304800
+  :northing: 7605070
+  :lat: "-21.6466666666667"
+  :lng: '115.1136111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

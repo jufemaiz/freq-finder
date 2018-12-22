@@ -1,0 +1,55 @@
+---
+:title: Ten FM
+:transmitters:
+- :band: FM
+  :area: Stanthorpe
+  :callsign: 2TEN
+  :frequency: 98.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008444
+  :license_number: 1155180
+  :site_id: 35078
+  :site_name: Broadcast Site Mt Marlay STANTHORPE
+  :zone: 56
+  :easting: 396991
+  :northing: 6829751
+  :lat: "-28.655"
+  :lng: '151.9458333333333'
+  :state: QLD
+  :bsl: 10213
+  :license_area: TENTERFIELD RA1
+  :license_id: 349
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tenterfield
+  :callsign: 2TEN
+  :frequency: 89.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004378
+  :license_number: 1152259
+  :site_id: 280256
+  :site_name: New Tenterfield Council Site 7 km SW of Tenterfield MT MACKENZIE
+  :zone: 56
+  :easting: 399807
+  :northing: 6781803
+  :lat: "-29.0880555555556"
+  :lng: '151.9702777777778'
+  :state: NSW
+  :bsl: 10213
+  :license_area: TENTERFIELD RA1
+  :license_id: 349
+  :operation_hours: 
+  :status: Issued

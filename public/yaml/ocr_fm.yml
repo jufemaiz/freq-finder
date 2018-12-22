@@ -1,0 +1,107 @@
+---
+:title: OCR FM
+:transmitters:
+- :band: FM
+  :area: Apollo Bay
+  :callsign: 3OCR
+  :frequency: 88.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133507
+  :license_number: 1922753
+  :site_id: 41970
+  :site_name: Crows Nest Lookout APOLLO BAY
+  :zone: 54
+  :easting: 730480
+  :northing: 5709920
+  :lat: "-38.7291666666667"
+  :lng: '143.6513888888889'
+  :state: VIC
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Apollo Bay
+  :callsign: 3OCR
+  :frequency: 99.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 75
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009647
+  :license_number: 1170591
+  :site_id: 41970
+  :site_name: Crows Nest Lookout APOLLO BAY
+  :zone: 54
+  :easting: 730480
+  :northing: 5709920
+  :lat: "-38.7291666666667"
+  :lng: '143.6513888888889'
+  :state: VIC
+  :bsl: 1150491
+  :license_area: COLAC RA1
+  :license_id: 817
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Colac
+  :callsign: 3OCR
+  :frequency: 98.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131138
+  :license_number: 1170590
+  :site_id: 11700
+  :site_name: ACE Broadcast site WARRION HILL
+  :zone: 54
+  :easting: 721300
+  :northing: 5766130
+  :lat: "-38.2252777777778"
+  :lng: '143.5280555555556'
+  :state: VIC
+  :bsl: 1150491
+  :license_area: COLAC RA1
+  :license_id: 817
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lorne
+  :callsign: 3OCR
+  :frequency: 88.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 7
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009764
+  :license_number: 1170592
+  :site_id: 136908
+  :site_name: Lorne Country Club Holiday Rd LORNE
+  :zone: 54
+  :easting: 759031
+  :northing: 5731475
+  :lat: "-38.5272222222222"
+  :lng: '143.9713888888889'
+  :state: VIC
+  :bsl: 1150491
+  :license_area: COLAC RA1
+  :license_id: 817
+  :operation_hours: 
+  :status: Issued

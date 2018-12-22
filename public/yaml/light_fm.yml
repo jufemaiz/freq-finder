@@ -1,0 +1,29 @@
+---
+:title: Light FM
+:transmitters:
+- :band: FM
+  :area: Melbourne
+  :callsign: 3TSC
+  :frequency: 89.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 56000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008366
+  :license_number: 1170727
+  :site_id: 12010
+  :site_name: GTV-9 Tower Observatory Road MT DANDENONG
+  :zone: 55
+  :easting: 354980
+  :northing: 5811755
+  :lat: "-37.8297222222222"
+  :lng: '145.3519444444444'
+  :state: VIC
+  :bsl: 1150695
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued

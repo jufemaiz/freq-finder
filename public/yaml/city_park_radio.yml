@@ -1,0 +1,55 @@
+---
+:title: City Park Radio
+:transmitters:
+- :band: FM
+  :area: Launceston
+  :callsign: 7LTN
+  :frequency: 103.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 3200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3985901
+  :license_number: 1385211
+  :site_id: 33635
+  :site_name: Reatta Road Trevallyn LAUNCESTON
+  :zone: 55
+  :easting: 508083
+  :northing: 5412595
+  :lat: "-41.4377777777778"
+  :lng: '147.0966666666667'
+  :state: TAS
+  :bsl: 3985
+  :license_area: LAUNCESTON RA2
+  :license_id: 426
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tamar Valley
+  :callsign: 7LTN
+  :frequency: 96.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010804
+  :license_number: 1562553
+  :site_id: 139603
+  :site_name: Broadcast Site 120 Russells Plains Rd LAUNCESTON
+  :zone: 55
+  :easting: 513904
+  :northing: 5417642
+  :lat: "-41.3922222222222"
+  :lng: '147.1661111111111'
+  :state: TAS
+  :bsl: 3985
+  :license_area: LAUNCESTON RA2
+  :license_id: 426
+  :operation_hours: 
+  :status: Issued

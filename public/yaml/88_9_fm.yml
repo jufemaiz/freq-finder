@@ -1,0 +1,29 @@
+---
+:title: 88.9 FM
+:transmitters:
+- :band: FM
+  :area: Coraki
+  :callsign: 2RBR
+  :frequency: 88.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009931
+  :license_number: 1170679
+  :site_id: 280226
+  :site_name: Vodafone Site MOUNT MOONIMBA
+  :zone: 56
+  :easting: 525010
+  :northing: 6779520
+  :lat: "-29.1125"
+  :lng: '153.2569444444445'
+  :state: NSW
+  :bsl: 1150718
+  :license_area: CORAKI RA1
+  :license_id: 932
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: Magic 105.9
+:transmitters:
+- :band: FM
+  :area: Roxby Downs
+  :callsign: 5AUU
+  :frequency: 100.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10011282
+  :license_number: 1185147
+  :site_id: 136444
+  :site_name: Broadcast Site 5AU Gosse Street ROXBY DOWNS
+  :zone: 53
+  :easting: 681582
+  :northing: 6618234
+  :lat: "-30.5544444444444"
+  :lng: '136.8930555555556'
+  :state: SA
+  :bsl: 4195
+  :license_area: SPENCER GULF NORTH RA1
+  :license_id: 1164
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Spencer Gulf North
+  :callsign: 5AUU
+  :frequency: 105.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 82
+  :antenna_pattern: OD
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010703
+  :license_number: 1384942
+  :site_id: 24650
+  :site_name: Television Tower via Wirrabara THE BLUFF
+  :zone: 54
+  :easting: 235222
+  :northing: 6333440
+  :lat: "-33.1052777777778"
+  :lng: '138.1625'
+  :state: SA
+  :bsl: 4195
+  :license_area: SPENCER GULF NORTH RA1
+  :license_id: 1164
+  :operation_hours: 
+  :status: Issued

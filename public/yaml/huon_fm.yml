@@ -1,0 +1,55 @@
+---
+:title: Huon FM
+:transmitters:
+- :band: FM
+  :area: Geeveston
+  :callsign: 7RGY
+  :frequency: 95.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 16
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010811
+  :license_number: 1139897
+  :site_id: 33111
+  :site_name: Forestry Tasmania Fire Lookout Tower DOODYS HILL
+  :zone: 55
+  :easting: 494861
+  :northing: 5222582
+  :lat: "-43.1494444444444"
+  :lng: '146.9366666666667'
+  :state: TAS
+  :bsl: 3081
+  :license_area: HUON VALLEY RA1
+  :license_id: 1154
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Huon Valley
+  :callsign: 7RGY
+  :frequency: 98.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010810
+  :license_number: 1139896
+  :site_id: 700532
+  :site_name: Vodafone Site HERRINGBACK
+  :zone: 55
+  :easting: 511387
+  :northing: 5238165
+  :lat: "-43.0088888888889"
+  :lng: '147.1397222222222'
+  :state: TAS
+  :bsl: 3081
+  :license_area: HUON VALLEY RA1
+  :license_id: 1154
+  :operation_hours: 
+  :status: Issued

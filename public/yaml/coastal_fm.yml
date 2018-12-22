@@ -1,0 +1,29 @@
+---
+:title: Coastal FM
+:transmitters:
+- :band: FM
+  :area: Portland
+  :callsign: 3RPC
+  :frequency: 99.3
+  :purpose: Community
+  :polarisation: H
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3067601
+  :license_number: 1385176
+  :site_id: 34519
+  :site_name: Hutchessons Communication Tower MT CLAY
+  :zone: 54
+  :easting: 561905
+  :northing: 5769790
+  :lat: "-38.2175"
+  :lng: '141.7069444444445'
+  :state: VIC
+  :bsl: 3067
+  :license_area: PORTLAND RA1
+  :license_id: 410
+  :operation_hours: 
+  :status: Issued

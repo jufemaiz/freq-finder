@@ -1,0 +1,29 @@
+---
+:title: ABC Riverland
+:transmitters:
+- :band: AM
+  :area: Renmark/Loxton
+  :callsign: 5MV
+  :frequency: 1062.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 100
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 560
+  :power: 2000
+  :technical_specification_number: 10003264
+  :license_number: 1153273
+  :site_id: 24148
+  :site_name: 5MV Broadcast Site RENMARK
+  :zone: 54
+  :easting: 465171
+  :northing: 6208198
+  :lat: "-34.2666666666667"
+  :lng: '140.6216666666667'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

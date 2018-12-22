@@ -1,0 +1,29 @@
+---
+:title: 2SEA
+:transmitters:
+- :band: FM
+  :area: Eden
+  :callsign: 2SEA
+  :frequency: 104.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 300
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013098
+  :license_number: 1171087
+  :site_id: 9145
+  :site_name: Broadcast Site 6 km NNW of Eden BIMMIL HILL
+  :zone: 55
+  :easting: 756986
+  :northing: 5899805
+  :lat: "-37.0125"
+  :lng: '149.8883333333333'
+  :state: NSW
+  :bsl: 1150817
+  :license_area: EDEN RA1
+  :license_id: 1242
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: 4BC
+:transmitters:
+- :band: AM
+  :area: Brisbane
+  :callsign: 4BC
+  :frequency: 1116.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 0
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1110
+  :power: 6300
+  :technical_specification_number: 10013948
+  :license_number: 1143919
+  :site_id: 402418
+  :site_name: 4BC South East Transmission Mast 273 Queens Rd NUDGEE
+  :zone: 56
+  :easting: 508836
+  :northing: 6973640
+  :lat: "-27.3602777777778"
+  :lng: '153.0894444444445'
+  :state: QLD
+  :bsl: 4161
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: night-time
+  :status: Issued
+- :band: AM
+  :area: Brisbane
+  :callsign: 4BC
+  :frequency: 1116.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 0
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1895
+  :power: 17000
+  :technical_specification_number: 10013948
+  :license_number: 1143919
+  :site_id: 402418
+  :site_name: 4BC South East Transmission Mast 273 Queens Rd NUDGEE
+  :zone: 56
+  :easting: 508836
+  :northing: 6973640
+  :lat: "-27.3602777777778"
+  :lng: '153.0894444444445'
+  :state: QLD
+  :bsl: 4161
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: day-time
+  :status: Issued

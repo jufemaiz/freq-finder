@@ -1,0 +1,29 @@
+---
+:title: 2AIR
+:transmitters:
+- :band: FM
+  :area: Coffs Harbour
+  :callsign: 2AIR
+  :frequency: 107.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005042
+  :license_number: 1170121
+  :site_id: 7949
+  :site_name: Ten TV Site Bruxner East Point COFFS HARBOUR
+  :zone: 56
+  :easting: 511270
+  :northing: 6651860
+  :lat: "-30.2647222222222"
+  :lng: '153.1169444444445'
+  :state: NSW
+  :bsl: 1150056
+  :license_area: COFFS HARBOUR RA2
+  :license_id: 393
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: Rox FM
+:transmitters:
+- :band: FM
+  :area: Roxby Downs
+  :callsign: 5ROX
+  :frequency: 105.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 12
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010805
+  :license_number: 1170986
+  :site_id: 153087
+  :site_name: Broadcast Site Richardson Place ROXBY DOWNS
+  :zone: 53
+  :easting: 681825
+  :northing: 6617319
+  :lat: "-30.5625"
+  :lng: '136.8955555555556'
+  :state: SA
+  :bsl: 1150824
+  :license_area: ROXBY DOWNS RA1
+  :license_id: 1252
+  :operation_hours: 
+  :status: Issued

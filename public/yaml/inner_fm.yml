@@ -1,0 +1,81 @@
+---
+:title: Inner FM
+:transmitters:
+- :band: FM
+  :area: Melbourne North East Suburbs
+  :callsign: 3INR
+  :frequency: 96.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3959001
+  :license_number: 1385163
+  :site_id: 153016
+  :site_name: Austin Hospital Boiler House Burgundy Street HEIDELBERG
+  :zone: 55
+  :easting: 328720
+  :northing: 5819220
+  :lat: "-37.7580555555556"
+  :lng: '145.0555555555556'
+  :state: VIC
+  :bsl: 3959
+  :license_area: MELBOURNE NORTH EAST RA1
+  :license_id: 425
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Melbourne North East Suburbs
+  :callsign: 3INR
+  :frequency: 96.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3959001
+  :license_number: 1171207
+  :site_id: 153016
+  :site_name: Austin Hospital Boiler House Burgundy Street HEIDELBERG
+  :zone: 55
+  :easting: 328720
+  :northing: 5819220
+  :lat: "-37.7580555555556"
+  :lng: '145.0555555555556'
+  :state: VIC
+  :bsl: 3959
+  :license_area: MELBOURNE NORTH EAST RA1
+  :license_id: 425
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Melbourne North East Suburbs
+  :callsign: 3INR
+  :frequency: 96.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 58
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3959001
+  :license_number: 1385163
+  :site_id: 150805
+  :site_name: Broadcast Site Repat Hospital Banksia St HEIDELBERG
+  :zone: 55
+  :easting: 327875
+  :northing: 5819522
+  :lat: "-37.7552777777778"
+  :lng: '145.0458333333333'
+  :state: VIC
+  :bsl: 3959
+  :license_area: MELBOURNE NORTH EAST RA1
+  :license_id: 425
+  :operation_hours: 
+  :status: Renewal Pending

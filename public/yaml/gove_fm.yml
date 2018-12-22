@@ -1,0 +1,29 @@
+---
+:title: Gove FM
+:transmitters:
+- :band: FM
+  :area: Nhulunbuy
+  :callsign: 8EAR
+  :frequency: 106.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003089
+  :license_number: 1567291
+  :site_id: 3110
+  :site_name: Nabalco Radio Hut Mt Saunders NHULUNBUY
+  :zone: 53
+  :easting: 693212
+  :northing: 8652591
+  :lat: "-12.1827777777778"
+  :lng: '136.7755555555556'
+  :state: NT
+  :bsl: 10144
+  :license_area: NHULUNBUY RA1
+  :license_id: 768
+  :operation_hours: 
+  :status: Issued

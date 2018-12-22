@@ -1,0 +1,29 @@
+---
+:title: FBi
+:transmitters:
+- :band: FM
+  :area: Sydney
+  :callsign: 2FBI
+  :frequency: 94.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 74
+  :antenna_pattern: DA
+  :maximum_erp: 150000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4826001
+  :license_number: 1158406
+  :site_id: 48711
+  :site_name: ABC Tower 221 Pacific Highway GORE HILL
+  :zone: 56
+  :easting: 331921
+  :northing: 6256122
+  :lat: "-33.8213888888889"
+  :lng: '151.1836111111111'
+  :state: NSW
+  :bsl: 1150109
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 100.9 FM
+:transmitters:
+- :band: FM
+  :area: Albany
+  :callsign: 6CRA
+  :frequency: 100.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10000047
+  :license_number: 1153509
+  :site_id: 601882
+  :site_name: Community Radio Site Mt Clarence ALBANY
+  :zone: 50
+  :easting: 581481
+  :northing: 6123698
+  :lat: "-35.0261111111111"
+  :lng: '117.8930555555556'
+  :state: WA
+  :bsl: 10042
+  :license_area: ALBANY RA2
+  :license_id: 500
+  :operation_hours: 
+  :status: Issued

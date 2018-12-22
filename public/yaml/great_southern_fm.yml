@@ -1,0 +1,29 @@
+---
+:title: Great Southern FM
+:transmitters:
+- :band: FM
+  :area: Victor Harbor
+  :callsign: 5GSFM
+  :frequency: 90.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010687
+  :license_number: 1170774
+  :site_id: 25767
+  :site_name: Link site 6km NNE of Victor Harbor BROWN HILL
+  :zone: 54
+  :easting: 286416
+  :northing: 6068145
+  :lat: "-35.5072222222222"
+  :lng: '138.645'
+  :state: SA
+  :bsl: 1150786
+  :license_area: VICTOR HARBOR RA2
+  :license_id: 1113
+  :operation_hours: 
+  :status: Issued

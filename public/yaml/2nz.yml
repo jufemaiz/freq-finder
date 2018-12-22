@@ -1,0 +1,29 @@
+---
+:title: 2NZ
+:transmitters:
+- :band: AM
+  :area: Inverell
+  :callsign: 2NZ
+  :frequency: 1188.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 103
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 560
+  :power: 2000
+  :technical_specification_number: 4127001
+  :license_number: 1384968
+  :site_id: 6833
+  :site_name: Broadcast Site 5 INVERELL
+  :zone: 56
+  :easting: 328400
+  :northing: 6704900
+  :lat: "-29.7741666666667"
+  :lng: '151.2247222222222'
+  :state: NSW
+  :bsl: 4127
+  :license_area: INVERELL RA1
+  :license_id: 379
+  :operation_hours: 
+  :status: Issued

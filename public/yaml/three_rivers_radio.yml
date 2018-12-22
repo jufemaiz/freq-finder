@@ -1,0 +1,55 @@
+---
+:title: Three Rivers Radio
+:transmitters:
+- :band: FM
+  :area: Coolah
+  :callsign: 2TRR
+  :frequency: 95.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133228
+  :license_number: 1925279
+  :site_id: 48392
+  :site_name: Trig Station MT OAKY
+  :zone: 55
+  :easting: 768980
+  :northing: 6490500
+  :lat: "-31.6891666666667"
+  :lng: '149.8375'
+  :state: NSW
+  :bsl: 1170568
+  :license_area: DUNEDOO RA1
+  :license_id: 1179
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Dunedoo
+  :callsign: 2TRR
+  :frequency: 96.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133230
+  :license_number: 1170989
+  :site_id: 153599
+  :site_name: Three Rivers Radio Reservoir Rhodes St DUNEDOO
+  :zone: 55
+  :easting: 726383
+  :northing: 6453681
+  :lat: "-32.0302777777778"
+  :lng: '149.3969444444445'
+  :state: NSW
+  :bsl: 1170568
+  :license_area: DUNEDOO RA1
+  :license_id: 1179
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,30 @@
+---
+:title: The Edge
+:transmitters:
+- :band: FM
+  :area: Katoomba
+  :callsign: 2ONE
+  :frequency: 96.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 70
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4116001
+  :license_number: 1384878
+  :site_id: 53793
+  :site_name: Broadcast/Comms Site 31-45 Great Western Hwy (next to plant nursery)
+    WENTWORTH FALLS
+  :zone: 56
+  :easting: 257608
+  :northing: 6265276
+  :lat: "-33.7247222222222"
+  :lng: '150.3838888888889'
+  :state: NSW
+  :bsl: 4116
+  :license_area: KATOOMBA RA1
+  :license_id: 380
+  :operation_hours: 
+  :status: Issued

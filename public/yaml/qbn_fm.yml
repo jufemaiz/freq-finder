@@ -1,0 +1,29 @@
+---
+:title: QBN-FM
+:transmitters:
+- :band: FM
+  :area: Queanbeyan
+  :callsign: 2QBN
+  :frequency: 96.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008285
+  :license_number: 1170219
+  :site_id: 41287
+  :site_name: Community Broadcast Site Mt Jerrabomberra QUEANBEYAN
+  :zone: 55
+  :easting: 700900
+  :northing: 6082900
+  :lat: "-35.3769444444445"
+  :lng: '149.2116666666667'
+  :state: NSW
+  :bsl: 1150158
+  :license_area: QUEANBEYAN RA1
+  :license_id: 733
+  :operation_hours: 
+  :status: Issued

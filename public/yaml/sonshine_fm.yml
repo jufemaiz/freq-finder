@@ -1,0 +1,29 @@
+---
+:title: Sonshine FM
+:transmitters:
+- :band: FM
+  :area: Perth
+  :callsign: 6SON
+  :frequency: 98.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 116
+  :antenna_pattern: DA
+  :maximum_erp: 16000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133011
+  :license_number: 1385210
+  :site_id: 26647
+  :site_name: TVW7 Mast Television Road BICKLEY
+  :zone: 50
+  :easting: 413360
+  :northing: 6458127
+  :lat: "-32.0094444444445"
+  :lng: '116.0825'
+  :state: WA
+  :bsl: 1566
+  :license_area: PERTH RA1
+  :license_id: 538
+  :operation_hours: 
+  :status: Issued

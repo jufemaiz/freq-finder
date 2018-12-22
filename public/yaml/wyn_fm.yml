@@ -1,0 +1,29 @@
+---
+:title: WYN FM
+:transmitters:
+- :band: FM
+  :area: Werribee
+  :callsign: 3WYN
+  :frequency: 88.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 80
+  :antenna_pattern: DA
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5160001
+  :license_number: 1156591
+  :site_id: 300675
+  :site_name: 3CR West Tower Old Sneydes Road HOPPERS CROSSING
+  :zone: 55
+  :easting: 297955
+  :northing: 5804100
+  :lat: "-37.8880555555556"
+  :lng: '144.7025'
+  :state: VIC
+  :bsl: 1150681
+  :license_area: WERRIBEE RA1
+  :license_id: 747
+  :operation_hours: 
+  :status: Issued

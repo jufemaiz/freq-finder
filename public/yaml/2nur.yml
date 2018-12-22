@@ -1,0 +1,29 @@
+---
+:title: 2NUR
+:transmitters:
+- :band: FM
+  :area: Newcastle
+  :callsign: 2NUR
+  :frequency: 103.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008577
+  :license_number: 1385145
+  :site_id: 5833
+  :site_name: Broadcast Site Sugarloaf Range NEWCASTLE
+  :zone: 56
+  :easting: 363200
+  :northing: 6359800
+  :lat: "-32.8911111111111"
+  :lng: '151.5372222222222'
+  :state: NSW
+  :bsl: 3053
+  :license_area: NEWCASTLE RA2
+  :license_id: 399
+  :operation_hours: 
+  :status: Issued

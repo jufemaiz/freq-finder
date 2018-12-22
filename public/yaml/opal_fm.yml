@@ -1,0 +1,29 @@
+---
+:title: Opal FM
+:transmitters:
+- :band: FM
+  :area: Lightning Ridge
+  :callsign: 2LRR
+  :frequency: 89.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004341
+  :license_number: 1170107
+  :site_id: 150017
+  :site_name: Water Tower Butterfly Street LIGHTNING RIDGE
+  :zone: 55
+  :easting: 595152
+  :northing: 6742955
+  :lat: "-29.4388888888889"
+  :lng: '147.9808333333333'
+  :state: NSW
+  :bsl: 10414
+  :license_area: LIGHTNING RIDGE RA1
+  :license_id: 781
+  :operation_hours: 
+  :status: Issued

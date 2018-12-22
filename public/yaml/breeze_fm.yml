@@ -1,0 +1,420 @@
+---
+:title: Breeze FM
+:transmitters:
+- :band: FM
+  :area: Banana
+  :callsign: 4BRZ
+  :frequency: 89.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130184
+  :license_number: 1142613
+  :site_id: 136344
+  :site_name: Rebel Media Site Banana Range
+  :zone: 56
+  :easting: 227810
+  :northing: 7293293
+  :lat: "-24.45"
+  :lng: '150.315'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Barrington / Stratford
+  :callsign: 4BRZ
+  :frequency: 97.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131003
+  :license_number: 1149667
+  :site_id: 135650
+  :site_name: Rebel Media site Kiaora Lookout GLOUCESTER
+  :zone: 56
+  :easting: 400343
+  :northing: 6463052
+  :lat: "-31.9638888888889"
+  :lng: '151.9452777777778'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Beaudesert
+  :callsign: 4BRZ
+  :frequency: 92.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010216
+  :license_number: 1158095
+  :site_id: 153026
+  :site_name: 4TAB/SUN FM Site MT DUNSINANE
+  :zone: 56
+  :easting: 503874
+  :northing: 6910755
+  :lat: "-27.9280555555556"
+  :lng: '153.0394444444445'
+  :state: QLD
+  :bsl: 1150711
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE NORTH EAST ZONE RA1
+  :license_id: 459
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bourke
+  :callsign: 4BRZ
+  :frequency: 107.3
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014415
+  :license_number: 1933734
+  :site_id: 250628
+  :site_name: Rural Fire Service site MT OXLEY
+  :zone: 55
+  :easting: 426710
+  :northing: 6658800
+  :lat: "-30.1997222222222"
+  :lng: '146.2383333333333'
+  :state: NSW
+  :bsl: 1150711
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE NORTH EAST ZONE RA1
+  :license_id: 459
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Canungra
+  :callsign: 4BRZ
+  :frequency: 88.9
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132493
+  :license_number: 1158898
+  :site_id: 14008
+  :site_name: Council Site Laheys Lookout MOUNT TAMBORINE
+  :zone: 56
+  :easting: 517900
+  :northing: 6902960
+  :lat: "-27.9980555555556"
+  :lng: '153.1819444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Childers
+  :callsign: 4BRZ
+  :frequency: 102.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013053
+  :license_number: 1145529
+  :site_id: 130143
+  :site_name: Queensland Comms Site Mt Goonaneman Access Rd 60 km WNW of Maryborough
+    MT GOONANEMAN
+  :zone: 56
+  :easting: 411205
+  :northing: 7187750
+  :lat: "-25.4241666666667"
+  :lng: '152.1169444444445'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Chinchilla
+  :callsign: 4BRZ
+  :frequency: 95.5
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 175
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132810
+  :license_number: 1901453
+  :site_id: 14794
+  :site_name: Water Tower cnr Middle & Colamba Sts CHINCHILLA
+  :zone: 56
+  :easting: 263730
+  :northing: 7039740
+  :lat: "-26.7436111111111"
+  :lng: '150.6244444444445'
+  :state: QLD
+  :bsl: 1150711
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE NORTH EAST ZONE RA1
+  :license_id: 459
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Goondiwindi
+  :callsign: 4BRZ
+  :frequency: 98.7
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132472
+  :license_number: 1189169
+  :site_id: 133262
+  :site_name: Council Depot Boundary Road GOONDIWINDI
+  :zone: 56
+  :easting: 236153
+  :northing: 6841640
+  :lat: "-28.525"
+  :lng: '150.3038888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kooralbyn
+  :callsign: 4BRZ
+  :frequency: 103.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010305
+  :license_number: 1159266
+  :site_id: 150238
+  :site_name: Broadcast Planning Site Resort Area KOORALBYN
+  :zone: 56
+  :easting: 482600
+  :northing: 6892300
+  :lat: "-28.0944444444444"
+  :lng: '152.8227777777778'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Monto
+  :callsign: 4BRZ
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 900
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130144
+  :license_number: 1924266
+  :site_id: 153387
+  :site_name: Broadcast Site Lovedays Hill BANCROFT
+  :zone: 56
+  :easting: 315941
+  :northing: 7252770
+  :lat: "-24.8286111111111"
+  :lng: '151.1786111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Tamborine
+  :callsign: 4BRZ
+  :frequency: 100.6
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10011920
+  :license_number: 1149187
+  :site_id: 153375
+  :site_name: Rebel Media Site Golf Course Rd MOUNT TAMBORINE
+  :zone: 56
+  :easting: 520895
+  :northing: 6905930
+  :lat: "-27.9713888888889"
+  :lng: '153.2122222222222'
+  :state: QLD
+  :bsl: 1150711
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE NORTH EAST ZONE RA1
+  :license_id: 459
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Richmond
+  :callsign: 4BRZ
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132585
+  :license_number: 1563154
+  :site_id: 150174
+  :site_name: Council Broadcast Site Concrete Water Tower Goldring St RICHMOND
+  :zone: 54
+  :easting: 723335
+  :northing: 7705553
+  :lat: "-20.7361111111111"
+  :lng: '143.1447222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Stanthorpe
+  :callsign: 4BRZ
+  :frequency: 90.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014741
+  :license_number: 1159656
+  :site_id: 35078
+  :site_name: Broadcast Site Mt Marlay STANTHORPE
+  :zone: 56
+  :easting: 396991
+  :northing: 6829751
+  :lat: "-28.655"
+  :lng: '151.9458333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tenterfield
+  :callsign: 4BRZ
+  :frequency: 102.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014400
+  :license_number: 1145531
+  :site_id: 280256
+  :site_name: New Tenterfield Council Site 7 km SW of Tenterfield MT MACKENZIE
+  :zone: 56
+  :easting: 399807
+  :northing: 6781803
+  :lat: "-29.0880555555556"
+  :lng: '151.9702777777778'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Weipa
+  :callsign: 4BRZ
+  :frequency: 97.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132934
+  :license_number: 1903220
+  :site_id: 55783
+  :site_name: Water Tower WEIPA
+  :zone: 54
+  :easting: 595465
+  :northing: 8603480
+  :lat: "-12.6311111111111"
+  :lng: '141.8788888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wilpinjong Coal Mine
+  :callsign: 4BRZ
+  :frequency: 95.7
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 30
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133274
+  :license_number: 1915972
+  :site_id: 138508
+  :site_name: Wilpinjong Coal Mine Wilpinjong Coal Mine
+  :zone: 55
+  :easting: 769632
+  :northing: 6419896
+  :lat: "-32.325"
+  :lng: '149.8641666666667'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

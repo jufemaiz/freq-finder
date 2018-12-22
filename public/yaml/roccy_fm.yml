@@ -1,0 +1,81 @@
+---
+:title: ROCCY FM
+:transmitters:
+- :band: FM
+  :area: Cootamundra
+  :callsign: 2LFF
+  :frequency: 107.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008656
+  :license_number: 1159328
+  :site_id: 153168
+  :site_name: Broadcast Site Bimbadeen Water Tower COOTAMUNDRA
+  :zone: 55
+  :easting: 595980
+  :northing: 6165725
+  :lat: "-34.6455555555556"
+  :lng: '148.0472222222222'
+  :state: NSW
+  :bsl: 10314
+  :license_area: YOUNG RA1
+  :license_id: 371
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cowra
+  :callsign: 2LFF
+  :frequency: 99.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013240
+  :license_number: 1159327
+  :site_id: 151097
+  :site_name: Broadcast Site BELLEVUE HILL LOOKOUT
+  :zone: 55
+  :easting: 656700
+  :northing: 6255302
+  :lat: "-33.8305555555556"
+  :lng: '148.6933333333333'
+  :state: NSW
+  :bsl: 10314
+  :license_area: YOUNG RA1
+  :license_id: 371
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Young
+  :callsign: 2LFF
+  :frequency: 93.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 40000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004755
+  :license_number: 1151363
+  :site_id: 9564
+  :site_name: 2LF Moppity Rd YOUNG
+  :zone: 55
+  :easting: 622850
+  :northing: 6198900
+  :lat: "-34.3436111111111"
+  :lng: '148.3355555555556'
+  :state: NSW
+  :bsl: 10314
+  :license_area: YOUNG RA1
+  :license_id: 371
+  :operation_hours: 
+  :status: Issued

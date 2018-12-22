@@ -1,0 +1,29 @@
+---
+:title: ABC Brisbane
+:transmitters:
+- :band: AM
+  :area: Brisbane
+  :callsign: 4QR
+  :frequency: 612.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 198
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 2790
+  :power: 50000
+  :technical_specification_number: 4031001
+  :license_number: 1198655
+  :site_id: 12661
+  :site_name: 4QR Site BALD HILLS
+  :zone: 56
+  :easting: 501620
+  :northing: 6978870
+  :lat: "-27.3130555555556"
+  :lng: '153.0163888888889'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

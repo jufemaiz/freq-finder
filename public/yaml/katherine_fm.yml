@@ -1,0 +1,55 @@
+---
+:title: Katherine FM
+:transmitters:
+- :band: FM
+  :area: Katherine
+  :callsign: 8KTR
+  :frequency: 101.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 160
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003353
+  :license_number: 1385239
+  :site_id: 1888
+  :site_name: 12 Ml Water Tank KATHERINE
+  :zone: 53
+  :easting: 208316
+  :northing: 8401130
+  :lat: "-14.4469444444444"
+  :lng: '132.2944444444445'
+  :state: NT
+  :bsl: 10171
+  :license_area: KATHERINE RA1
+  :license_id: 464
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tindal
+  :callsign: 8KTR
+  :frequency: 90.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003354
+  :license_number: 1155746
+  :site_id: 2214
+  :site_name: Comms Centre RAAF Base TINDAL
+  :zone: 53
+  :easting: 218800
+  :northing: 8394150
+  :lat: "-14.5108333333333"
+  :lng: '132.3908333333333'
+  :state: NT
+  :bsl: 10171
+  :license_area: KATHERINE RA1
+  :license_id: 464
+  :operation_hours: 
+  :status: Issued

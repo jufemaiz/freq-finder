@@ -1,0 +1,29 @@
+---
+:title: 2NBC
+:transmitters:
+- :band: FM
+  :area: Narwee
+  :callsign: 2NBC
+  :frequency: 90.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: DA
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3050001
+  :license_number: 1385143
+  :site_id: 151082
+  :site_name: Broadcast Site Water Tower PENSHURST
+  :zone: 56
+  :easting: 323511
+  :northing: 6239580
+  :lat: "-33.9691666666667"
+  :lng: '151.0894444444445'
+  :state: NSW
+  :bsl: 3050
+  :license_area: NARWEE RA1
+  :license_id: 396
+  :operation_hours: 
+  :status: Issued

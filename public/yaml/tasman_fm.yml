@@ -1,0 +1,29 @@
+---
+:title: Tasman FM
+:transmitters:
+- :band: FM
+  :area: Tasman Peninsula
+  :callsign: 7TAS
+  :frequency: 97.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 21
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010801
+  :license_number: 1170772
+  :site_id: 152342
+  :site_name: Ericsson Site MT KOONYA
+  :zone: 55
+  :easting: 565700
+  :northing: 5227100
+  :lat: "-43.1058333333333"
+  :lng: '147.8075'
+  :state: TAS
+  :bsl: 1150788
+  :license_area: TASMAN PENINSULA RA1
+  :license_id: 938
+  :operation_hours: 
+  :status: Renewal Pending

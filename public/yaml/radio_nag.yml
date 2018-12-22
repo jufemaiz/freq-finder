@@ -1,0 +1,29 @@
+---
+:title: Radio NAG
+:transmitters:
+- :band: FM
+  :area: Yeppoon
+  :callsign: 4NAG
+  :frequency: 91.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6806001
+  :license_number: 1170085
+  :site_id: 17622
+  :site_name: Nixon Site MEIKLEVILLE HILL
+  :zone: 56
+  :easting: 268865
+  :northing: 7441495
+  :lat: "-23.1188888888889"
+  :lng: '150.7427777777778'
+  :state: QLD
+  :bsl: 1150049
+  :license_area: YEPPOON RA1
+  :license_id: 678
+  :operation_hours: 
+  :status: Issued

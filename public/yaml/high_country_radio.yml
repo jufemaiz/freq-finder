@@ -1,0 +1,81 @@
+---
+:title: High Country Radio
+:transmitters:
+- :band: FM
+  :area: Omeo
+  :callsign: 3HCR
+  :frequency: 97.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007582
+  :license_number: 1159541
+  :site_id: 40920
+  :site_name: Broadcast Site Sam Hill OMEO
+  :zone: 55
+  :easting: 550300
+  :northing: 5899100
+  :lat: "-37.0527777777778"
+  :lng: '147.5655555555556'
+  :state: VIC
+  :bsl: 6313
+  :license_area: OMEO RA1
+  :license_id: 644
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Omeo (town)
+  :callsign: 3HCR
+  :frequency: 90.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007581
+  :license_number: 1159542
+  :site_id: 153126
+  :site_name: 3HCR Studio Sebastopol Hill Road OMEO
+  :zone: 55
+  :easting: 553300
+  :northing: 5893800
+  :lat: "-37.1002777777778"
+  :lng: '147.5997222222222'
+  :state: VIC
+  :bsl: 6313
+  :license_area: OMEO RA1
+  :license_id: 644
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Swifts Creek
+  :callsign: 3HCR
+  :frequency: 91.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007583
+  :license_number: 1159543
+  :site_id: 40784
+  :site_name: Broadcast Site Flagstaff Hill 2 km S of SWIFTS CREEK
+  :zone: 55
+  :easting: 563300
+  :northing: 5873900
+  :lat: "-37.2791666666667"
+  :lng: '147.7138888888889'
+  :state: VIC
+  :bsl: 6313
+  :license_area: OMEO RA1
+  :license_id: 644
+  :operation_hours: 
+  :status: Issued

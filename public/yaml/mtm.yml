@@ -1,0 +1,29 @@
+---
+:title: MTM
+:transmitters:
+- :band: FM
+  :area: Coonamble
+  :callsign: 2MTM
+  :frequency: 91.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013232
+  :license_number: 1171029
+  :site_id: 152852
+  :site_name: Broadcast Site cnr Tooloon & Castlereigh Sts COONAMBLE
+  :zone: 55
+  :easting: 632500
+  :northing: 6574700
+  :lat: "-30.9536111111111"
+  :lng: '148.3869444444444'
+  :state: NSW
+  :bsl: 1150831
+  :license_area: COONAMBLE RA1
+  :license_id: 1275
+  :operation_hours: 
+  :status: Issued

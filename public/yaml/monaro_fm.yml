@@ -1,0 +1,107 @@
+---
+:title: Monaro FM
+:transmitters:
+- :band: FM
+  :area: Bombala
+  :callsign: 2MNO
+  :frequency: 103.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013018
+  :license_number: 1159158
+  :site_id: 136342
+  :site_name: Council Water Tank Cnr Gunningrah Rd and Plunkett St BOMBALA BOMBALA
+  :zone: 55
+  :easting: 698580
+  :northing: 5913363
+  :lat: "-36.9044444444444"
+  :lng: '149.2288888888889'
+  :state: NSW
+  :bsl: 1150162
+  :license_area: COOMA RA2
+  :license_id: 722
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Cooma (town)
+  :callsign: 2MNO
+  :frequency: 90.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008233
+  :license_number: 1170756
+  :site_id: 138471
+  :site_name: 108 Commissioner Street Cooma (town)
+  :zone: 55
+  :easting: 690917
+  :northing: 5987525
+  :lat: "-36.2380555555556"
+  :lng: '149.1244444444445'
+  :state: NSW
+  :bsl: 1150162
+  :license_area: COOMA RA2
+  :license_id: 722
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jindabyne (town)
+  :callsign: 2MNO
+  :frequency: 93.9
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 12
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008250
+  :license_number: 1170754
+  :site_id: 9742
+  :site_name: RTA Site KALKITE
+  :zone: 55
+  :easting: 649200
+  :northing: 5977350
+  :lat: "-36.3372222222222"
+  :lng: '148.6622222222222'
+  :state: NSW
+  :bsl: 1150162
+  :license_area: COOMA RA2
+  :license_id: 722
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Monaro
+  :callsign: 2MNO
+  :frequency: 93.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6171001
+  :license_number: 1170753
+  :site_id: 9793
+  :site_name: Broadcast Site EMERALD HILL
+  :zone: 55
+  :easting: 709760
+  :northing: 5955680
+  :lat: "-36.5211111111111"
+  :lng: '149.3425'
+  :state: NSW
+  :bsl: 1150162
+  :license_area: COOMA RA2
+  :license_id: 722
+  :operation_hours: 
+  :status: Issued

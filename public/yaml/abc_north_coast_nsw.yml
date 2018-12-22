@@ -1,0 +1,81 @@
+---
+:title: ABC North Coast NSW
+:transmitters:
+- :band: AM
+  :area: Grafton
+  :callsign: 2NR
+  :frequency: 738.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 154
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 2790
+  :power: 50000
+  :technical_specification_number: 4018001
+  :license_number: 1198576
+  :site_id: 151355
+  :site_name: Broadcast Site LAWRENCE
+  :zone: 56
+  :easting: 511069
+  :northing: 6737309
+  :lat: "-29.4933333333333"
+  :lng: '153.1141666666667'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Murwillumbah
+  :callsign: 2ML
+  :frequency: 720.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 52
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 190
+  :power: 400
+  :technical_specification_number: 4014001
+  :license_number: 1198575
+  :site_id: 36257
+  :site_name: Telstra Radio Terminal Terranora Lodge TERRANORA
+  :zone: 56
+  :easting: 550061
+  :northing: 6875641
+  :lat: "-28.2438888888889"
+  :lng: '153.5102777777778'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Richmond/Tweed
+  :callsign: 2NNR
+  :frequency: 94.5
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 69
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3155601
+  :license_number: 1150259
+  :site_id: 8533
+  :site_name: ABRN6 TV Tower 30 km N of Lismore MT NARDI
+  :zone: 56
+  :easting: 528030
+  :northing: 6842140
+  :lat: "-28.5469444444444"
+  :lng: '153.2863888888889'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

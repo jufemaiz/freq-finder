@@ -1,0 +1,29 @@
+---
+:title: 101 FM
+:transmitters:
+- :band: FM
+  :area: Logan
+  :callsign: 4CBL
+  :frequency: 101.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1945001
+  :license_number: 1385188
+  :site_id: 13165
+  :site_name: Water Tower Karawatha St SPRINGWOOD
+  :zone: 56
+  :easting: 514420
+  :northing: 6944330
+  :lat: "-27.6247222222222"
+  :lng: '153.1461111111111'
+  :state: QLD
+  :bsl: 1945
+  :license_area: LOGAN RA1
+  :license_id: 353
+  :operation_hours: 
+  :status: Issued

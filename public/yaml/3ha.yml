@@ -1,0 +1,29 @@
+---
+:title: 3HA
+:transmitters:
+- :band: AM
+  :area: Hamilton
+  :callsign: 3HA
+  :frequency: 981.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 75
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 4152001
+  :license_number: 1384959
+  :site_id: 40479
+  :site_name: Broadcast Site 6 km N of HAMILTON
+  :zone: 54
+  :easting: 589800
+  :northing: 5828513
+  :lat: "-37.6858333333333"
+  :lng: '142.0183333333334'
+  :state: VIC
+  :bsl: 4152
+  :license_area: HAMILTON RA1
+  :license_id: 434
+  :operation_hours: 
+  :status: Issued

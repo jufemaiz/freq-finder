@@ -1,0 +1,29 @@
+---
+:title: COW FM
+:transmitters:
+- :band: FM
+  :area: Casino
+  :callsign: 2COW
+  :frequency: 107.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009948
+  :license_number: 1170678
+  :site_id: 41158
+  :site_name: Broadcast Site Casino Meatworks Water Tower CASINO
+  :zone: 56
+  :easting: 503400
+  :northing: 6809100
+  :lat: "-28.8455555555556"
+  :lng: '153.0347222222222'
+  :state: NSW
+  :bsl: 1150717
+  :license_area: CASINO RA1
+  :license_id: 931
+  :operation_hours: 
+  :status: Issued

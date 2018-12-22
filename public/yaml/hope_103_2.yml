@@ -1,0 +1,29 @@
+---
+:title: Hope 103.2
+:transmitters:
+- :band: FM
+  :area: Sydney
+  :callsign: 2CBA
+  :frequency: 103.2
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 150
+  :antenna_pattern: DA
+  :maximum_erp: 50000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3044001
+  :license_number: 1385130
+  :site_id: 4046
+  :site_name: Ch7/10 Tower Hampden Road ARTARMON
+  :zone: 56
+  :easting: 331560
+  :northing: 6257750
+  :lat: "-33.8069444444444"
+  :lng: '151.1802777777778'
+  :state: NSW
+  :bsl: 3044
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Issued

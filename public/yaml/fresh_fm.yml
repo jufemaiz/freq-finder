@@ -1,0 +1,55 @@
+---
+:title: Fresh FM
+:transmitters:
+- :band: FM
+  :area: Adelaide
+  :callsign: 5FBI
+  :frequency: 92.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3371001
+  :license_number: 1170715
+  :site_id: 23158
+  :site_name: Broadcast Site Summit MOUNT LOFTY
+  :zone: 54
+  :easting: 290668
+  :northing: 6126568
+  :lat: "-34.9816666666667"
+  :lng: '138.7066666666667'
+  :state: SA
+  :bsl: 1150740
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bendigo
+  :callsign: 3BBS
+  :frequency: 101.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 90
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132563
+  :license_number: 1171468
+  :site_id: 11742
+  :site_name: Broadcast Tower 26 km S of Bendigo MT ALEXANDER
+  :zone: 55
+  :easting: 260345
+  :northing: 5902420
+  :lat: "-36.9936111111111"
+  :lng: '144.3069444444445'
+  :state: VIC
+  :bsl: 1130029
+  :license_area: BENDIGO RA4
+  :license_id: 1267
+  :operation_hours: 
+  :status: Issued

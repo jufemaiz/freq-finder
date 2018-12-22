@@ -1,0 +1,29 @@
+---
+:title: North West FM
+:transmitters:
+- :band: FM
+  :area: Melbourne North West Suburbs
+  :callsign: 3NOW
+  :frequency: 98.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009559
+  :license_number: 1385170
+  :site_id: 153654
+  :site_name: Hume Municipal Offices Main Street Broadmeadows
+  :zone: 55
+  :easting: 316312
+  :northing: 5827247
+  :lat: "-37.6833333333333"
+  :lng: '144.9166666666667'
+  :state: VIC
+  :bsl: 5172
+  :license_area: MELBOURNE NORTH WEST RA1
+  :license_id: 829
+  :operation_hours: 
+  :status: Issued

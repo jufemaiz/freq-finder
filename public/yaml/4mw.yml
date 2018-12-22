@@ -1,0 +1,29 @@
+---
+:title: 4MW
+:transmitters:
+- :band: AM
+  :area: Torres Strait
+  :callsign: 4MW
+  :frequency: 1260.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 46
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 0
+  :power: 2000
+  :technical_specification_number: 10004279
+  :license_number: 1154792
+  :site_id: 40549
+  :site_name: Broadcast Site THURSDAY ISLAND
+  :zone: 54
+  :easting: 632050
+  :northing: 8829980
+  :lat: "-10.5819444444444"
+  :lng: '142.2069444444445'
+  :state: QLD
+  :bsl: 10210
+  :license_area: TORRES STRAIT RA1
+  :license_id: 544
+  :operation_hours: 
+  :status: Issued

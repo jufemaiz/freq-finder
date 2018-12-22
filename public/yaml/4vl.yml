@@ -1,0 +1,289 @@
+---
+:title: 4VL
+:transmitters:
+- :band: AM
+  :area: Charleville
+  :callsign: 4VL
+  :frequency: 918.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 75
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 4186001
+  :license_number: 1384943
+  :site_id: 151491
+  :site_name: Broadcast Site 2km NW of CHARLEVILLE
+  :zone: 55
+  :easting: 422003
+  :northing: 7080003
+  :lat: "-26.3977777777778"
+  :lng: '146.2177777777778'
+  :state: QLD
+  :bsl: 10218
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: night-time
+  :status: Issued
+- :band: AM
+  :area: Charleville
+  :callsign: 4VL
+  :frequency: 918.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 75
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 490
+  :power: 2500
+  :technical_specification_number: 4186001
+  :license_number: 1384943
+  :site_id: 151491
+  :site_name: Broadcast Site 2km NW of CHARLEVILLE
+  :zone: 55
+  :easting: 422003
+  :northing: 7080003
+  :lat: "-26.3977777777778"
+  :lng: '146.2177777777778'
+  :state: QLD
+  :bsl: 10218
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: day-time
+  :status: Issued
+- :band: AM
+  :area: Cunnamulla
+  :callsign: 4VL
+  :frequency: 1584.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 63
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 140
+  :power: 200
+  :technical_specification_number: 4186002
+  :license_number: 1384944
+  :site_id: 151396
+  :site_name: Broadcast Site 5km S of CUNNAMULLA
+  :zone: 55
+  :easting: 371503
+  :northing: 6889500
+  :lat: "-28.1136111111111"
+  :lng: '145.6916666666667'
+  :state: QLD
+  :bsl: 10218
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Augathella
+  :callsign: 4VL
+  :frequency: 106.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 64
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013411
+  :license_number: 1159213
+  :site_id: 153594
+  :site_name: Broadcast Site Augathella Water Tower AUGATHELLA
+  :zone: 55
+  :easting: 458750
+  :northing: 7146038
+  :lat: "-25.8030555555556"
+  :lng: '146.5883333333334'
+  :state: QLD
+  :bsl: 10218
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Morven
+  :callsign: 4VL
+  :frequency: 105.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 400
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013412
+  :license_number: 1159212
+  :site_id: 153592
+  :site_name: Broadcast Site Morven Water Pumping Station Warrego Hwy MORVEN
+  :zone: 55
+  :easting: 510000
+  :northing: 7074855
+  :lat: "-26.4463888888889"
+  :lng: '147.1002777777778'
+  :state: QLD
+  :bsl: 10218
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mungallala
+  :callsign: 4VL
+  :frequency: 107.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013414
+  :license_number: 1159207
+  :site_id: 153596
+  :site_name: Broadcast Site Mungallala Water Tower MUNGALLALA
+  :zone: 55
+  :easting: 554600
+  :northing: 7075455
+  :lat: "-26.44"
+  :lng: '147.5475'
+  :state: QLD
+  :bsl: 10218
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Quilpie
+  :callsign: 4VL
+  :frequency: 104.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 32
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013415
+  :license_number: 1159214
+  :site_id: 153597
+  :site_name: Broadcast Site Brolga St QUILPIE
+  :zone: 55
+  :easting: 228524
+  :northing: 7052407
+  :lat: "-26.6230555555556"
+  :lng: '144.2733333333334'
+  :state: QLD
+  :bsl: 10218
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Scotburn Station
+  :callsign: 4VL
+  :frequency: 102.9
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131079
+  :license_number: 1145422
+  :site_id: 135967
+  :site_name: Scotburn Station Warrego Highway 12 km West of Mitchell SCOTBURN STATION
+  :zone: 55
+  :easting: 584848
+  :northing: 7070377
+  :lat: "-26.4841666666667"
+  :lng: '147.8511111111111'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tambo
+  :callsign: 4VL
+  :frequency: 96.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010109
+  :license_number: 1156037
+  :site_id: 150340
+  :site_name: Broadcast Site Water Reserve William St TAMBO
+  :zone: 55
+  :easting: 424846
+  :northing: 7247170
+  :lat: "-24.8886111111111"
+  :lng: '146.2558333333333'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tambo
+  :callsign: 4VL
+  :frequency: 98.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013416
+  :license_number: 1159211
+  :site_id: 153593
+  :site_name: Broadcast Site Council Works Depot TAMBO
+  :zone: 55
+  :easting: 424583
+  :northing: 7247359
+  :lat: "-24.8866666666667"
+  :lng: '146.2530555555556'
+  :state: QLD
+  :bsl: 10218
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wyandra
+  :callsign: 4VL
+  :frequency: 93.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013417
+  :license_number: 1159208
+  :site_id: 151457
+  :site_name: Broadcast Site Moody St Reserve WYANDRA
+  :zone: 55
+  :easting: 398700
+  :northing: 6986004
+  :lat: "-27.2447222222222"
+  :lng: '145.9766666666667'
+  :state: QLD
+  :bsl: 10218
+  :license_area: CHARLEVILLE RA1
+  :license_id: 460
+  :operation_hours: 
+  :status: Issued

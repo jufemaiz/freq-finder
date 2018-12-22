@@ -1,0 +1,55 @@
+---
+:title: ABC North West Queensland
+:transmitters:
+- :band: AM
+  :area: Hughenden
+  :callsign: 4HU
+  :frequency: 1485.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 70
+  :power: 50
+  :technical_specification_number: 4034001
+  :license_number: 1198669
+  :site_id: 151677
+  :site_name: National MF Broadcast Site Flinders Hwy HUGHENDEN
+  :zone: 55
+  :easting: 206852
+  :northing: 7692400
+  :lat: "-20.8452777777778"
+  :lng: '144.1830555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Julia Creek
+  :callsign: 4JK
+  :frequency: 567.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 195
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1605
+  :power: 10000
+  :technical_specification_number: 10003935
+  :license_number: 1150338
+  :site_id: 152610
+  :site_name: AM Broadcast Site Flinders Hwy JULIA CREEK
+  :zone: 54
+  :easting: 585500
+  :northing: 7716100
+  :lat: "-20.6522222222222"
+  :lng: '141.8205555555556'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 4BU
+:transmitters:
+- :band: AM
+  :area: Bundaberg
+  :callsign: 4BU
+  :frequency: 1332.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 61
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1200
+  :power: 5000
+  :technical_specification_number: 10008017
+  :license_number: 1385030
+  :site_id: 16801
+  :site_name: 4BU Broadcast Site 7km NE of BUNDABERG
+  :zone: 56
+  :easting: 439800
+  :northing: 7252000
+  :lat: "-24.8455555555556"
+  :lng: '152.4041666666667'
+  :state: QLD
+  :bsl: 4169
+  :license_area: BUNDABERG RA1
+  :license_id: 446
+  :operation_hours: 
+  :status: Issued

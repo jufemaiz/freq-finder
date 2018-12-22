@@ -1,0 +1,55 @@
+---
+:title: 4AK
+:transmitters:
+- :band: AM
+  :area: Oakey
+  :callsign: 4AK
+  :frequency: 1242.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 64
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 440
+  :power: 2000
+  :technical_specification_number: 4166001
+  :license_number: 1384987
+  :site_id: 14689
+  :site_name: Broadcast Site 5km SE of OAKEY
+  :zone: 56
+  :easting: 377000
+  :northing: 6962000
+  :lat: "-27.4597222222222"
+  :lng: '151.755'
+  :state: QLD
+  :bsl: 4166
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Stanthorpe
+  :callsign: 4AK
+  :frequency: 99.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008579
+  :license_number: 1158883
+  :site_id: 130337
+  :site_name: Optus/Vodafone/Telstra Site Mt Marlay STANTHORPE
+  :zone: 56
+  :easting: 396938
+  :northing: 6829732
+  :lat: "-28.6552777777778"
+  :lng: '151.9452777777778'
+  :state: QLD
+  :bsl: 4166
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued

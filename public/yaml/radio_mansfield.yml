@@ -1,0 +1,55 @@
+---
+:title: Radio Mansfield
+:transmitters:
+- :band: FM
+  :area: Mansfield
+  :callsign: 3MCR
+  :frequency: 99.7
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007438
+  :license_number: 1155034
+  :site_id: 41254
+  :site_name: Broadcast Site 175 High St MANSFIELD
+  :zone: 55
+  :easting: 418300
+  :northing: 5898900
+  :lat: "-37.0522222222222"
+  :lng: '146.0811111111111'
+  :state: VIC
+  :bsl: 1150021
+  :license_area: MANSFIELD RA1
+  :license_id: 654
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mansfield
+  :callsign: 3MCR
+  :frequency: 99.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007438
+  :license_number: 1155034
+  :site_id: 11981
+  :site_name: Weeks Radio Site THE PAPS
+  :zone: 55
+  :easting: 409610
+  :northing: 5899647
+  :lat: "-37.0447222222222"
+  :lng: '145.9833333333333'
+  :state: VIC
+  :bsl: 1150021
+  :license_area: MANSFIELD RA1
+  :license_id: 654
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,133 @@
+---
+:title: 2AAA
+:transmitters:
+- :band: FM
+  :area: Coolamon
+  :callsign: 2AAA
+  :frequency: 99.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014582
+  :license_number: 1182784
+  :site_id: 35012
+  :site_name: Shire Office Cowabbie St COOLAMON
+  :zone: 55
+  :easting: 518360
+  :northing: 6146810
+  :lat: "-34.8205555555556"
+  :lng: '147.2005555555556'
+  :state: NSW
+  :bsl: 3039
+  :license_area: WAGGA WAGGA RA3
+  :license_id: 1289
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gundagai
+  :callsign: 2AAA
+  :frequency: 99.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014581
+  :license_number: 1182786
+  :site_id: 150994
+  :site_name: Broadcast Site Mt Parnassus Lookout GUNDAGAI
+  :zone: 55
+  :easting: 600997
+  :northing: 6119596
+  :lat: "-35.0611111111111"
+  :lng: '148.1075'
+  :state: NSW
+  :bsl: 3039
+  :license_area: WAGGA WAGGA RA3
+  :license_id: 1289
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Junee
+  :callsign: 2AAA
+  :frequency: 97.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014579
+  :license_number: 1182781
+  :site_id: 101879
+  :site_name: Broadcast Site Water Tower Beach St JUNEE
+  :zone: 55
+  :easting: 552585
+  :northing: 6140464
+  :lat: "-34.8766666666667"
+  :lng: '147.5752777777778'
+  :state: NSW
+  :bsl: 3039
+  :license_area: WAGGA WAGGA RA3
+  :license_id: 1289
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wagga Wagga
+  :callsign: 2AAA
+  :frequency: 107.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3039001
+  :license_number: 1385124
+  :site_id: 34807
+  :site_name: 2AAA-FM Site WILLANS HILL
+  :zone: 55
+  :easting: 534000
+  :northing: 6112470
+  :lat: "-35.1297222222222"
+  :lng: '147.3730555555556'
+  :state: NSW
+  :bsl: 3039
+  :license_area: WAGGA WAGGA RA3
+  :license_id: 1289
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Wagga Wagga South
+  :callsign: 2AAA
+  :frequency: 107.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014580
+  :license_number: 1182783
+  :site_id: 136555
+  :site_name: Willans Hill Reserve Lot 18 DP1036173 Wandoo Place Wagga Wagga
+  :zone: 55
+  :easting: 532469
+  :northing: 6109830
+  :lat: "-35.1536111111111"
+  :lng: '147.3563888888889'
+  :state: NSW
+  :bsl: 3039
+  :license_area: WAGGA WAGGA RA3
+  :license_id: 1289
+  :operation_hours: 
+  :status: Issued

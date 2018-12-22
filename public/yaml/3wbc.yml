@@ -1,0 +1,29 @@
+---
+:title: 3WBC
+:transmitters:
+- :band: FM
+  :area: Camberwell
+  :callsign: 3WBC
+  :frequency: 94.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 24
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5162001
+  :license_number: 1170538
+  :site_id: 11644
+  :site_name: Water Tower Cnr Elgar Road & Canterbury Road SURREY HILLS
+  :zone: 55
+  :easting: 333750
+  :northing: 5811330
+  :lat: "-37.8302777777778"
+  :lng: '145.1108333333333'
+  :state: VIC
+  :bsl: 1150688
+  :license_area: CAMBERWELL RA1
+  :license_id: 746
+  :operation_hours: 
+  :status: Issued

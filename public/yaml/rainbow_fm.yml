@@ -1,0 +1,29 @@
+---
+:title: Rainbow FM
+:transmitters:
+- :band: FM
+  :area: Warwick
+  :callsign: 4SDB
+  :frequency: 89.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008128
+  :license_number: 1170414
+  :site_id: 152266
+  :site_name: Broadcast Site Warwick Shire Council Bldg Willi St WARWICK
+  :zone: 56
+  :easting: 402385
+  :northing: 6877340
+  :lat: "-28.2258333333333"
+  :lng: '152.005'
+  :state: QLD
+  :bsl: 1150093
+  :license_area: WARWICK RA2
+  :license_id: 701
+  :operation_hours: 
+  :status: Issued

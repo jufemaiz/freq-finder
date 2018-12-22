@@ -1,0 +1,315 @@
+---
+:title: Rhema FM
+:transmitters:
+- :band: FM
+  :area: Darwin
+  :callsign: 8GGG
+  :frequency: 97.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 46
+  :antenna_pattern: OD
+  :maximum_erp: 15000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003344
+  :license_number: 1154664
+  :site_id: 1653
+  :site_name: PAWA Microwave Tower Hudson Creek BERRIMAH
+  :zone: 52
+  :easting: 709910
+  :northing: 8622100
+  :lat: "-12.4572222222222"
+  :lng: '130.9311111111111'
+  :state: NT
+  :bsl: 10165
+  :license_area: DARWIN RA2
+  :license_id: 497
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Dubbo
+  :callsign: 2DCB
+  :frequency: 94.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 23
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002055
+  :license_number: 1154830
+  :site_id: 41258
+  :site_name: AOG Site Sheraton Road DUBBO
+  :zone: 55
+  :easting: 655000
+  :northing: 6430000
+  :lat: "-32.2558333333333"
+  :lng: '148.6452777777778'
+  :state: NSW
+  :bsl: 10052
+  :license_area: DUBBO RA2
+  :license_id: 720
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Dubbo
+  :callsign: 2DCB
+  :frequency: 94.3
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002055
+  :license_number: 1154830
+  :site_id: 10792
+  :site_name: Sappa Bulga Trig Sappa Bulga Mountain Near DUBBO
+  :zone: 55
+  :easting: 629880
+  :northing: 6420321
+  :lat: "-32.3461111111111"
+  :lng: '148.38'
+  :state: NSW
+  :bsl: 10052
+  :license_area: DUBBO RA2
+  :license_id: 720
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gladstone
+  :callsign: 4RGL
+  :frequency: 91.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014320
+  :license_number: 1170049
+  :site_id: 17121
+  :site_name: Nixon Site Boles St Round Hill GLADSTONE
+  :zone: 56
+  :easting: 322255
+  :northing: 7359052
+  :lat: "-23.87"
+  :lng: '151.2544444444444'
+  :state: QLD
+  :bsl: 1150050
+  :license_area: GLADSTONE RA1
+  :license_id: 447
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Gosford
+  :callsign: 2GCB
+  :frequency: 94.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008328
+  :license_number: 1170988
+  :site_id: 5596
+  :site_name: Gencom Site Acacia Road SOMERSBY
+  :zone: 56
+  :easting: 342041
+  :northing: 6300896
+  :lat: "-33.4194444444444"
+  :lng: '151.3008333333334'
+  :state: NSW
+  :bsl: 1150186
+  :license_area: GOSFORD RA1
+  :license_id: 517
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Maryborough (Qld)
+  :callsign: 4WBR
+  :frequency: 105.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007928
+  :license_number: 1155907
+  :site_id: 153198
+  :site_name: Broadcast Site Scrub Hill NIKENBAH
+  :zone: 56
+  :easting: 480650
+  :northing: 7200550
+  :lat: "-25.3111111111111"
+  :lng: '152.8075'
+  :state: QLD
+  :bsl: 1150058
+  :license_area: MARYBOROUGH (QLD) RA1
+  :license_id: 454
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mount Isa
+  :callsign: 4MIG
+  :frequency: 105.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: OD
+  :maximum_erp: 600
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003944
+  :license_number: 1153323
+  :site_id: 20230
+  :site_name: T C Communications Site Dump Hill MOUNT ISA
+  :zone: 54
+  :easting: 345452
+  :northing: 7709297
+  :lat: "-20.7091666666667"
+  :lng: '139.5158333333334'
+  :state: QLD
+  :bsl: 10158
+  :license_area: MOUNT ISA RA2
+  :license_id: 766
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Nambour
+  :callsign: 4CLG
+  :frequency: 106.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10009956
+  :license_number: 1170789
+  :site_id: 151471
+  :site_name: Broadcast Site BALD KNOB
+  :zone: 56
+  :easting: 491799
+  :northing: 7036600
+  :lat: "-26.7916666666667"
+  :lng: '152.9172222222222'
+  :state: QLD
+  :bsl: 1150720
+  :license_area: NAMBOUR RA2
+  :license_id: 713
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Newcastle
+  :callsign: 2RFM
+  :frequency: 99.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007610
+  :license_number: 1170097
+  :site_id: 6112
+  :site_name: Gencom Site 1 Sugarloaf Range via NEWCASTLE
+  :zone: 56
+  :easting: 361160
+  :northing: 6353680
+  :lat: "-32.9461111111111"
+  :lng: '151.5144444444445'
+  :state: NSW
+  :bsl: 1150030
+  :license_area: NEWCASTLE RA2
+  :license_id: 399
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Orange
+  :callsign: 2CCB
+  :frequency: 103.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007035
+  :license_number: 1153683
+  :site_id: 35066
+  :site_name: Broadcast Site MT CANOBOLAS
+  :zone: 55
+  :easting: 684425
+  :northing: 6308875
+  :lat: "-33.3433333333333"
+  :lng: '148.9816666666667'
+  :state: NSW
+  :bsl: 1150004
+  :license_area: ORANGE RA1
+  :license_id: 370
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Port Macquarie
+  :callsign: 2PMQ
+  :frequency: 99.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: OD
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008069
+  :license_number: 1170099
+  :site_id: 280165
+  :site_name: Vodafone Site 24 km WNW of Port Macquarie MT CAIRNCROSS
+  :zone: 56
+  :easting: 469685
+  :northing: 6532362
+  :lat: "-31.3425"
+  :lng: '152.6811111111111'
+  :state: NSW
+  :bsl: 1150063
+  :license_area: PORT MACQUARIE RA1
+  :license_id: 687
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Tamworth
+  :callsign: 2HIM
+  :frequency: 89.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007945
+  :license_number: 1170098
+  :site_id: 6481
+  :site_name: Country Energy Site Bald Hill TAMWORTH
+  :zone: 56
+  :easting: 305139
+  :northing: 6560047
+  :lat: "-31.0772222222222"
+  :lng: '150.9575'
+  :state: NSW
+  :bsl: 1150048
+  :license_area: TAMWORTH RA2
+  :license_id: 406
+  :operation_hours: 
+  :status: Issued

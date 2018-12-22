@@ -37,23 +37,23 @@ class Transmitter < ApplicationRecord
   validates :area, length: { minimum: 1 }
   validates :band, inclusion: { in: BANDS }
   validates :bsl, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
-  validates :callsign, length: { in: 3..7 }
+  validates :callsign, length: { in: 3..7 }, allow_nil: true
   validates :easting, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
   validates :frequency, numericality: { greater_than_or_equal_to: 0 }
   validates :lat, numericality: { greater_than_or_equal_to: -90, less_than_or_equal_to: 90 }
-  validates :license_area, length: { minimum: 1 }
+  validates :license_area, length: { minimum: 1 }, allow_nil: true
   validates :license_id, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
   validates :license_number, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
   validates :lng, numericality: { greater_than_or_equal_to: -180, less_than_or_equal_to: 180 }
   validates :maximum_cmf, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
   validates :maximum_erp, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
   validates :northing, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
-  validates :operation_hours, inclusion: { in: OPERATION_HOURS }
+  validates :operation_hours, inclusion: { in: OPERATION_HOURS }, allow_nil: true
   validates :polarisation, inclusion: { in: POLARISATIONS }
   validates :power, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
   validates :purpose, inclusion: { in: PURPOSES }
   validates :site_id, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
-  validates :site_name, uniqueness: { case_sensitive: true }
+  validates :site_name, uniqueness: { case_sensitive: true, scope: :station }
   validates :state, inclusion: { in: STATES }
   validates :status, inclusion: { in: STATUSES }
   validates :technical_specification_number, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
@@ -63,6 +63,24 @@ class Transmitter < ApplicationRecord
   # @!group Scopes
   scope :am, -> { where(band: 'AM') }
   scope :fm, -> { where(band: 'FM') }
+  # @!endgroup
+
+  # @!group Class Methods
+  class << self
+    # Special scope service
+    #
+    # @param [String] location
+    # @param [Hash] backup_sort
+    # @return [ActiveRecord::Quer]
+    def by_distance_with_backup_sort(location = nil, backup_sort = { frequency: :desc })
+      unless Location.valid_gps?(location)
+        return order(backup_sort)
+      end
+
+      location = Location.normalize(location)
+      return by_distance(origin: location)
+    end
+  end
   # @!endgroup
 
   # Returns a Location for the Transmitter

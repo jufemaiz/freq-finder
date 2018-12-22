@@ -1,0 +1,29 @@
+---
+:title: Ngarralinyi
+:transmitters:
+- :band: FM
+  :area: Taree
+  :callsign: 2TLP
+  :frequency: 103.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007771
+  :license_number: 1170347
+  :site_id: 139370
+  :site_name: 2TLP Community Tower off Careys Rd CAREYS MOUNTAIN
+  :zone: 56
+  :easting: 443787
+  :northing: 6475008
+  :lat: "-31.8591666666667"
+  :lng: '152.4055555555556'
+  :state: NSW
+  :bsl: 1150314
+  :license_area: TAREE RA3
+  :license_id: 793
+  :operation_hours: 
+  :status: Issued

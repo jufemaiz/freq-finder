@@ -1,0 +1,55 @@
+---
+:title: Hobart FM
+:transmitters:
+- :band: FM
+  :area: Hobart
+  :callsign: 7THE
+  :frequency: 96.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131532
+  :license_number: 1193947
+  :site_id: 32901
+  :site_name: Marcom Watson Site MT FAULKNER
+  :zone: 55
+  :easting: 515776
+  :northing: 5262618
+  :lat: "-42.7886111111111"
+  :lng: '147.1927777777778'
+  :state: TAS
+  :bsl: 3082
+  :license_area: HOBART RA2
+  :license_id: 415
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hobart North
+  :callsign: 7THE
+  :frequency: 92.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131583
+  :license_number: 1157287
+  :site_id: 32932
+  :site_name: Hobart City Council Site DROUGHTY HILL
+  :zone: 55
+  :easting: 534220
+  :northing: 5247800
+  :lat: "-42.9213888888889"
+  :lng: '147.4191666666667'
+  :state: TAS
+  :bsl: 3082
+  :license_area: HOBART RA2
+  :license_id: 415
+  :operation_hours: 
+  :status: Issued

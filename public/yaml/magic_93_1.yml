@@ -1,0 +1,55 @@
+---
+:title: Magic 93.1
+:transmitters:
+- :band: FM
+  :area: Morgan
+  :callsign: 5RIV
+  :frequency: 97.1
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 70
+  :antenna_pattern: DA
+  :maximum_erp: 2500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003588
+  :license_number: 1159560
+  :site_id: 150510
+  :site_name: Broadcast Site approx 1 km East of COSY CORNER
+  :zone: 54
+  :easting: 380000
+  :northing: 6232000
+  :lat: "-34.0455555555556"
+  :lng: '139.6997222222222'
+  :state: SA
+  :bsl: 10175
+  :license_area: RIVERLAND RA1
+  :license_id: 472
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Renmark/Loxton
+  :callsign: 5RIV
+  :frequency: 93.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 140
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003436
+  :license_number: 1154750
+  :site_id: 24073
+  :site_name: Broadcast Site Bookpurnong Terrace 4 km WSW of LOXTON
+  :zone: 54
+  :easting: 457031
+  :northing: 6186081
+  :lat: "-34.4655555555556"
+  :lng: '140.5319444444445'
+  :state: SA
+  :bsl: 10175
+  :license_area: RIVERLAND RA1
+  :license_id: 472
+  :operation_hours: 
+  :status: Issued

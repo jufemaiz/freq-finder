@@ -1,0 +1,29 @@
+---
+:title: SEN
+:transmitters:
+- :band: AM
+  :area: Melbourne
+  :callsign: 3AK
+  :frequency: 1116.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1245
+  :power: 5000
+  :technical_specification_number: 10009987
+  :license_number: 1188158
+  :site_id: 40523
+  :site_name: Broadcast Site LOWER PLENTY
+  :zone: 55
+  :easting: 333415
+  :northing: 5820624
+  :lat: "-37.7463888888889"
+  :lng: '145.1091666666667'
+  :state: VIC
+  :bsl: 4139
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued

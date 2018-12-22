@@ -1,0 +1,107 @@
+---
+:title: 2EC
+:transmitters:
+- :band: AM
+  :area: Bega
+  :callsign: 2EC
+  :frequency: 765.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 80
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1147
+  :power: 5000
+  :technical_specification_number: 10013949
+  :license_number: 1384996
+  :site_id: 40569
+  :site_name: Broadcast Site Kalaru 11 km SE of BEGA
+  :zone: 55
+  :easting: 762300
+  :northing: 5929400
+  :lat: "-36.7447222222222"
+  :lng: '149.9377777777778'
+  :state: NSW
+  :bsl: 4107
+  :license_area: BEGA RA1
+  :license_id: 367
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Narooma
+  :callsign: 2EC
+  :frequency: 1584.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 36
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 140
+  :power: 200
+  :technical_specification_number: 4107003
+  :license_number: 1384998
+  :site_id: 40639
+  :site_name: Broadcast Site Narooma Beach 1 km SE of NAROOMA
+  :zone: 56
+  :easting: 242800
+  :northing: 5986900
+  :lat: "-36.2283333333333"
+  :lng: '150.1383333333333'
+  :state: NSW
+  :bsl: 4107
+  :license_area: BEGA RA1
+  :license_id: 367
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Batemans Bay/Moruya
+  :callsign: 2EC
+  :frequency: 105.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4107004
+  :license_number: 1384843
+  :site_id: 8979
+  :site_name: Broadcast Site South Site 18 km WSW of Batemans Bay MT WANDERA
+  :zone: 56
+  :easting: 229280
+  :northing: 6034340
+  :lat: "-35.7975"
+  :lng: '150.0041666666667'
+  :state: NSW
+  :bsl: 4107
+  :license_area: BEGA RA1
+  :license_id: 367
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Eden
+  :callsign: 2EC
+  :frequency: 105.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004661
+  :license_number: 1154118
+  :site_id: 102258
+  :site_name: 2EC site 6 km NNW of Eden BIMMIL HILL
+  :zone: 55
+  :easting: 756998
+  :northing: 5899816
+  :lat: "-37.0125"
+  :lng: '149.8883333333333'
+  :state: NSW
+  :bsl: 4107
+  :license_area: BEGA RA1
+  :license_id: 367
+  :operation_hours: 
+  :status: Issued

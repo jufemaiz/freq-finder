@@ -1,0 +1,133 @@
+---
+:title: CFM
+:transmitters:
+- :band: FM
+  :area: Dalby
+  :callsign: 4RGD
+  :frequency: 97.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 600
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008686
+  :license_number: 1170158
+  :site_id: 14705
+  :site_name: Broadcast Planning Site Karingal Hill via DALBY
+  :zone: 56
+  :easting: 328300
+  :northing: 7004500
+  :lat: "-27.0711111111111"
+  :lng: '151.2686111111111'
+  :state: QLD
+  :bsl: 1150094
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kingaroy
+  :callsign: 4KRY
+  :frequency: 89.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 15000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6374001
+  :license_number: 1154810
+  :site_id: 153012
+  :site_name: Broadcast Site Ushers Hill KINGAROY
+  :zone: 56
+  :easting: 387156
+  :northing: 7057357
+  :lat: "-26.6"
+  :lng: '151.8663888888889'
+  :state: QLD
+  :bsl: 1150096
+  :license_area: KINGAROY RA1
+  :license_id: 457
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Stanthorpe
+  :callsign: 4RGD
+  :frequency: 97.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008580
+  :license_number: 1159179
+  :site_id: 35078
+  :site_name: Broadcast Site Mt Marlay STANTHORPE
+  :zone: 56
+  :easting: 396991
+  :northing: 6829751
+  :lat: "-28.655"
+  :lng: '151.9458333333333'
+  :state: QLD
+  :bsl: 1150094
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Toowoomba
+  :callsign: 4RGD
+  :frequency: 100.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 85
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008576
+  :license_number: 1170157
+  :site_id: 152845
+  :site_name: Broadcast Site 36 Hilltop Crescent Mount Kynoch TOOWOOMBA
+  :zone: 56
+  :easting: 396820
+  :northing: 6956950
+  :lat: "-27.5069444444444"
+  :lng: '151.9552777777778'
+  :state: QLD
+  :bsl: 1150094
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Warwick
+  :callsign: 4RGD
+  :frequency: 91.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008575
+  :license_number: 1170240
+  :site_id: 34528
+  :site_name: Gold Radio FM Site off Womina-Willowvale Rd Eastmans Ridge WARWICK
+  :zone: 56
+  :easting: 405125
+  :northing: 6884465
+  :lat: "-28.1619444444444"
+  :lng: '152.0336111111111'
+  :state: QLD
+  :bsl: 1150094
+  :license_area: TOOWOOMBA/WARWICK RA1
+  :license_id: 691
+  :operation_hours: 
+  :status: Issued

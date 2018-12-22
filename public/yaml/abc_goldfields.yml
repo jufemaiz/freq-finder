@@ -1,0 +1,55 @@
+---
+:title: ABC Goldfields
+:transmitters:
+- :band: AM
+  :area: Kalgoorlie
+  :callsign: 6GF
+  :frequency: 648.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 123
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 540
+  :power: 2000
+  :technical_specification_number: 10001310
+  :license_number: 1198478
+  :site_id: 29513
+  :site_name: Broadcast Site near Railway KALGOORLIE
+  :zone: 51
+  :easting: 347169
+  :northing: 6593256
+  :lat: "-30.7836111111111"
+  :lng: '121.4027777777778'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kalgoorlie
+  :callsign: 6GF
+  :frequency: 94.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 6
+  :antenna_pattern: OD
+  :maximum_erp: 10
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132805
+  :license_number: 1901208
+  :site_id: 136814
+  :site_name: Harvey House KCGM Mine Site Black Street Kalgoorlie
+  :zone: 51
+  :easting: 357553
+  :northing: 6593553
+  :lat: "-30.7822222222222"
+  :lng: '121.5111111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: Hill FM
+:transmitters:
+- :band: FM
+  :area: Broken Hill
+  :callsign: 2HIL
+  :frequency: 106.9
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 33
+  :antenna_pattern: OD
+  :maximum_erp: 160
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10004140
+  :license_number: 1384922
+  :site_id: 11419
+  :site_name: 2BH Studio Building BROKEN HILL
+  :zone: 54
+  :easting: 543000
+  :northing: 6463500
+  :lat: "-31.9636111111111"
+  :lng: '141.455'
+  :state: NSW
+  :bsl: 10245
+  :license_area: BROKEN HILL RA1
+  :license_id: 502
+  :operation_hours: 
+  :status: Issued

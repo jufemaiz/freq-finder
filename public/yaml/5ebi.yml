@@ -1,0 +1,29 @@
+---
+:title: 5EBI
+:transmitters:
+- :band: FM
+  :area: Adelaide
+  :callsign: 5EBI
+  :frequency: 103.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: DA
+  :maximum_erp: 20000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3074002
+  :license_number: 1385199
+  :site_id: 23158
+  :site_name: Broadcast Site Summit MOUNT LOFTY
+  :zone: 54
+  :easting: 290668
+  :northing: 6126568
+  :lat: "-34.9816666666667"
+  :lng: '138.7066666666667'
+  :state: SA
+  :bsl: 3074
+  :license_area: ADELAIDE RA1
+  :license_id: 499
+  :operation_hours: 
+  :status: Issued

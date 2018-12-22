@@ -1,0 +1,29 @@
+---
+:title: Fraser Coast Community Radio
+:transmitters:
+- :band: FM
+  :area: Hervey Bay
+  :callsign: 4FCR
+  :frequency: 107.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007996
+  :license_number: 1171594
+  :site_id: 16641
+  :site_name: Community Radio Site GHOST HILL
+  :zone: 56
+  :easting: 483300
+  :northing: 7200460
+  :lat: "-25.3119444444444"
+  :lng: '152.8338888888889'
+  :state: QLD
+  :bsl: 1150062
+  :license_area: HERVEY BAY RA1
+  :license_id: 683
+  :operation_hours: 
+  :status: Issued

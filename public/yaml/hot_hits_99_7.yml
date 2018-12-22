@@ -1,0 +1,81 @@
+---
+:title: Hot Hits 99.7
+:transmitters:
+- :band: FM
+  :area: Carnarvon
+  :callsign: 6CAR
+  :frequency: 99.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 95
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10001069
+  :license_number: 1191488
+  :site_id: 601609
+  :site_name: Broadcast Site Lot 256 North West Coastal Hwy CARNARVON
+  :zone: 49
+  :easting: 774710
+  :northing: 7241980
+  :lat: "-24.9125"
+  :lng: '113.7197222222222'
+  :state: WA
+  :bsl: 10012
+  :license_area: CARNARVON RA1
+  :license_id: 480
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Denham
+  :callsign: 6CAR
+  :frequency: 105.3
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 57
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132613
+  :license_number: 1562976
+  :site_id: 31181
+  :site_name: Telstra Radio Terminal Monkey Mia Rd DENHAM
+  :zone: 49
+  :easting: 754660
+  :northing: 7130080
+  :lat: "-25.9252777777778"
+  :lng: '113.5422222222222'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Onslow
+  :callsign: 6CAR
+  :frequency: 100.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 100
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133438
+  :license_number: 1921228
+  :site_id: 151665
+  :site_name: Broadcast Site Lot 694 Payne Way ONSLOW
+  :zone: 50
+  :easting: 304800
+  :northing: 7605070
+  :lat: "-21.6466666666667"
+  :lng: '115.1136111111111'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

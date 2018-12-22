@@ -1,0 +1,29 @@
+---
+:title: 5RM
+:transmitters:
+- :band: AM
+  :area: Renmark/Loxton
+  :callsign: 5RM
+  :frequency: 801.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 92
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 460
+  :power: 2000
+  :technical_specification_number: 10003449
+  :license_number: 1385026
+  :site_id: 24149
+  :site_name: Broadcast Site RENMARK
+  :zone: 54
+  :easting: 467000
+  :northing: 6212300
+  :lat: "-34.2297222222222"
+  :lng: '140.6416666666667'
+  :state: SA
+  :bsl: 10178
+  :license_area: RIVERLAND RA1
+  :license_id: 472
+  :operation_hours: 
+  :status: Issued

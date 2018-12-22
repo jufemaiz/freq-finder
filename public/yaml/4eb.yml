@@ -1,0 +1,29 @@
+---
+:title: 4EB
+:transmitters:
+- :band: FM
+  :area: Brisbane
+  :callsign: 4EB
+  :frequency: 98.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 12000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 6250001
+  :license_number: 1139600
+  :site_id: 35087
+  :site_name: Community Broadcast Park site The Summit MOUNT COOT-THA
+  :zone: 56
+  :easting: 494670
+  :northing: 6962075
+  :lat: "-27.4647222222222"
+  :lng: '152.9458333333333'
+  :state: QLD
+  :bsl: 4228
+  :license_area: BRISBANE RA1
+  :license_id: 504
+  :operation_hours: 
+  :status: Issued

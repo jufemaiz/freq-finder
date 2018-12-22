@@ -1,0 +1,55 @@
+---
+:title: 4CA
+:transmitters:
+- :band: AM
+  :area: Cairns
+  :callsign: 4EL
+  :frequency: 846.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 95
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 950
+  :power: 5000
+  :technical_specification_number: 10007435
+  :license_number: 1385020
+  :site_id: 151778
+  :site_name: Broadcast Site Bessie Point 5 km NE of CAIRNS
+  :zone: 55
+  :easting: 374197
+  :northing: 8130703
+  :lat: "-16.9036111111111"
+  :lng: '145.8186111111111'
+  :state: QLD
+  :bsl: 4170
+  :license_area: CAIRNS RA1
+  :license_id: 507
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Gordonvale
+  :callsign: 4EL
+  :frequency: 954.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 33
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 180
+  :power: 350
+  :technical_specification_number: 10007448
+  :license_number: 1385021
+  :site_id: 39466
+  :site_name: Broadcast Site Vohland Rd GORDONVALE
+  :zone: 55
+  :easting: 378201
+  :northing: 8105000
+  :lat: "-17.1361111111111"
+  :lng: '145.8547222222222'
+  :state: QLD
+  :bsl: 4170
+  :license_area: CAIRNS RA1
+  :license_id: 507
+  :operation_hours: 
+  :status: Issued

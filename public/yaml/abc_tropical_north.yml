@@ -1,0 +1,81 @@
+---
+:title: ABC Tropical North
+:transmitters:
+- :band: FM
+  :area: Dysart
+  :callsign: 4QAA
+  :frequency: 91.7
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 70
+  :antenna_pattern: OD
+  :maximum_erp: 160
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 2157001
+  :license_number: 1198674
+  :site_id: 151639
+  :site_name: Broadcast Site DENHAM RANGE
+  :zone: 55
+  :easting: 635430
+  :northing: 7502240
+  :lat: "-22.5811111111111"
+  :lng: '148.3172222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mackay
+  :callsign: 4QAA
+  :frequency: 101.1
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 67
+  :antenna_pattern: DA
+  :maximum_erp: 100000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5507001
+  :license_number: 1150311
+  :site_id: 18651
+  :site_name: Main Broadcast Tower Mt Blackwood 28 km WNW of MACKAY
+  :zone: 55
+  :easting: 701854
+  :northing: 7672862
+  :lat: "-21.0338888888889"
+  :lng: '148.9422222222222'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Moranbah
+  :callsign: 4QAA
+  :frequency: 104.9
+  :purpose: National
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5507002
+  :license_number: 1198705
+  :site_id: 18885
+  :site_name: ABC NTL Site CARBOROUGH RANGE
+  :zone: 55
+  :easting: 636065
+  :northing: 7574611
+  :lat: "-21.9275"
+  :lng: '148.3175'
+  :state: QLD
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

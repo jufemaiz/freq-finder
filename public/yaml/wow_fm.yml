@@ -1,0 +1,29 @@
+---
+:title: WOW FM
+:transmitters:
+- :band: FM
+  :area: Port Adelaide
+  :callsign: 5WOW
+  :frequency: 100.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010195
+  :license_number: 1170714
+  :site_id: 153019
+  :site_name: Broadcast Site Phillips Reserve Corner of Swan Tce and Robin Road. SEMAPHORE
+  :zone: 54
+  :easting: 270185
+  :northing: 6141402
+  :lat: "-34.8436111111111"
+  :lng: '138.4866666666667'
+  :state: SA
+  :bsl: 1150738
+  :license_area: PORT ADELAIDE RA1
+  :license_id: 973
+  :operation_hours: 
+  :status: Issued

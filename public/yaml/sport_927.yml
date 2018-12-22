@@ -1,0 +1,81 @@
+---
+:title: Sport 927
+:transmitters:
+- :band: AM
+  :area: Ballarat
+  :callsign: 3BT
+  :frequency: 1314.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 61
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 10003792
+  :license_number: 1385055
+  :site_id: 150827
+  :site_name: Broadcast Site 7.3 km WSW of BALLARAT
+  :zone: 54
+  :easting: 745101
+  :northing: 5841401
+  :lat: "-37.5416666666667"
+  :lng: '143.7741666666667'
+  :state: VIC
+  :bsl: 10365
+  :license_area: BALLARAT RA1
+  :license_id: 427
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Melbourne
+  :callsign: 3UZ
+  :frequency: 927.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 136
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 825
+  :power: 5000
+  :technical_specification_number: 4145001
+  :license_number: 1384993
+  :site_id: 102031
+  :site_name: Broadcast Site 28 Bonds Rd LOWER PLENTY
+  :zone: 55
+  :easting: 334096
+  :northing: 5819935
+  :lat: "-37.7525"
+  :lng: '145.1166666666667'
+  :state: VIC
+  :bsl: 4145
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued
+- :band: AM
+  :area: Shepparton
+  :callsign: 3SR
+  :frequency: 1260.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 130
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 600
+  :power: 2000
+  :technical_specification_number: 10005814
+  :license_number: 1385057
+  :site_id: 150891
+  :site_name: Broadcast Site 14 km WSW of DOOKIE
+  :zone: 55
+  :easting: 368703
+  :northing: 5972794
+  :lat: "-36.3808333333333"
+  :lng: '145.5361111111111'
+  :state: VIC
+  :bsl: 10393
+  :license_area: SHEPPARTON RA1
+  :license_id: 541
+  :operation_hours: 
+  :status: Issued

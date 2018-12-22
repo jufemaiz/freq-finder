@@ -1,0 +1,29 @@
+---
+:title: 2EL
+:transmitters:
+- :band: AM
+  :area: Orange
+  :callsign: 2EL
+  :frequency: 1089.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 92
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 1100
+  :power: 5000
+  :technical_specification_number: 10004235
+  :license_number: 1385048
+  :site_id: 10643
+  :site_name: Broadcast site 18 km S of Orange FOREST REEFS
+  :zone: 55
+  :easting: 697203
+  :northing: 6295504
+  :lat: "-33.4613888888889"
+  :lng: '149.1216666666667'
+  :state: NSW
+  :bsl: 10252
+  :license_area: ORANGE RA1
+  :license_id: 370
+  :operation_hours: 
+  :status: Issued

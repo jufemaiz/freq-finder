@@ -1,0 +1,29 @@
+---
+:title: Dalby Community Radio
+:transmitters:
+- :band: FM
+  :area: Dalby
+  :callsign: 4DDD
+  :frequency: 89.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008133
+  :license_number: 1170182
+  :site_id: 150032
+  :site_name: Broadcast Site 107 Drayton St DALBY
+  :zone: 56
+  :easting: 328400
+  :northing: 6991300
+  :lat: "-27.19"
+  :lng: '151.2675'
+  :state: QLD
+  :bsl: 1150099
+  :license_area: DALBY RA1
+  :license_id: 699
+  :operation_hours: 
+  :status: Issued

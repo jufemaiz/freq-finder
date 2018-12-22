@@ -1,0 +1,29 @@
+---
+:title: 2BOB
+:transmitters:
+- :band: FM
+  :area: Taree
+  :callsign: 2BOB
+  :frequency: 104.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008623
+  :license_number: 1385129
+  :site_id: 151246
+  :site_name: Broadcast/ Comms Site Taree/Wingham CAREYS MOUNTAIN
+  :zone: 56
+  :easting: 443787
+  :northing: 6475053
+  :lat: "-31.8588888888889"
+  :lng: '152.4058333333333'
+  :state: NSW
+  :bsl: 1823
+  :license_area: TAREE RA2
+  :license_id: 348
+  :operation_hours: 
+  :status: Issued

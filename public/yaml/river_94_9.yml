@@ -1,0 +1,29 @@
+---
+:title: River 94.9
+:transmitters:
+- :band: FM
+  :area: Ipswich
+  :callsign: 4MIX
+  :frequency: 94.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 60
+  :antenna_pattern: DA
+  :maximum_erp: 50000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010256
+  :license_number: 1384862
+  :site_id: 14187
+  :site_name: Broadcast Site THE KNOBBY
+  :zone: 56
+  :easting: 459560
+  :northing: 6957680
+  :lat: "-27.5038888888889"
+  :lng: '152.5905555555556'
+  :state: QLD
+  :bsl: 1121
+  :license_area: IPSWICH RA1
+  :license_id: 455
+  :operation_hours: 
+  :status: Issued

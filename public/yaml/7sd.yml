@@ -1,0 +1,29 @@
+---
+:title: 7SD
+:transmitters:
+- :band: AM
+  :area: Scottsdale
+  :callsign: 7SD
+  :frequency: 540.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 67
+  :antenna_pattern: DA
+  :maximum_erp: 0
+  :maximum_cmf: 950
+  :power: 5000
+  :technical_specification_number: 4223001
+  :license_number: 1384938
+  :site_id: 33852
+  :site_name: Broadcast Site North Scottsdale Rd NORTH SCOTTSDALE
+  :zone: 55
+  :easting: 545630
+  :northing: 5448710
+  :lat: "-41.1113888888889"
+  :lng: '147.5433333333333'
+  :state: TAS
+  :bsl: 4223
+  :license_area: SCOTTSDALE RA1
+  :license_id: 491
+  :operation_hours: 
+  :status: Issued

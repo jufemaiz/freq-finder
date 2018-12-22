@@ -1,0 +1,29 @@
+---
+:title: Hitz FM
+:transmitters:
+- :band: FM
+  :area: Bundaberg
+  :callsign: 4RUM
+  :frequency: 93.9
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 35
+  :antenna_pattern: DA
+  :maximum_erp: 3200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007973
+  :license_number: 1384930
+  :site_id: 16827
+  :site_name: 4BU Site SLOPING HUMMOCK
+  :zone: 56
+  :easting: 441921
+  :northing: 7251919
+  :lat: "-24.8463888888889"
+  :lng: '152.4252777777778'
+  :state: QLD
+  :bsl: 6897
+  :license_area: BUNDABERG RA1
+  :license_id: 446
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 2TM
+:transmitters:
+- :band: AM
+  :area: Tamworth
+  :callsign: 2TM
+  :frequency: 1287.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 117
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 630
+  :power: 2000
+  :technical_specification_number: 4134001
+  :license_number: 1385012
+  :site_id: 151289
+  :site_name: Broadcast Site 8 km S of Bridge TAMWORTH
+  :zone: 56
+  :easting: 301804
+  :northing: 6549994
+  :lat: "-31.1669444444444"
+  :lng: '150.9202777777778'
+  :state: NSW
+  :bsl: 4134
+  :license_area: TAMWORTH RA1
+  :license_id: 385
+  :operation_hours: 
+  :status: Issued

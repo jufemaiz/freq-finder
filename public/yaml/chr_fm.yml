@@ -1,0 +1,29 @@
+---
+:title: CHR FM
+:transmitters:
+- :band: FM
+  :area: Cessnock/Maitland
+  :callsign: 2CHR
+  :frequency: 96.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10007799
+  :license_number: 1170171
+  :site_id: 6171
+  :site_name: Council Site Bimbadeen Lookout Mount View Via CESSNOCK
+  :zone: 56
+  :easting: 339100
+  :northing: 6363300
+  :lat: "-32.8563888888889"
+  :lng: '151.2802777777778'
+  :state: NSW
+  :bsl: 1150040
+  :license_area: CESSNOCK/MAITLAND RA1
+  :license_id: 794
+  :operation_hours: 
+  :status: Issued

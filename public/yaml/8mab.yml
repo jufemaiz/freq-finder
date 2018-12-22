@@ -1,0 +1,29 @@
+---
+:title: 8MAB
+:transmitters:
+- :band: FM
+  :area: Borroloola
+  :callsign: 8MAB
+  :frequency: 102.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003455
+  :license_number: 1170244
+  :site_id: 2239
+  :site_name: Broadcast Site Robinson Road BORROLOOLA
+  :zone: 53
+  :easting: 639609
+  :northing: 8224523
+  :lat: "-16.055"
+  :lng: '136.305'
+  :state: NT
+  :bsl: 10149
+  :license_area: BORROLOOLA RA1
+  :license_id: 769
+  :operation_hours: 
+  :status: Issued

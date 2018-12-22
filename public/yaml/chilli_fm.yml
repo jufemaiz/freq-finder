@@ -1,0 +1,55 @@
+---
+:title: Chilli FM
+:transmitters:
+- :band: FM
+  :area: Launceston
+  :callsign: 7EXX
+  :frequency: 90.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 50
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012998
+  :license_number: 1565839
+  :site_id: 33804
+  :site_name: NTA Site Microwave Tower MT BARROW
+  :zone: 55
+  :easting: 535520
+  :northing: 5417485
+  :lat: "-41.3930555555556"
+  :lng: '147.4247222222222'
+  :state: TAS
+  :bsl: 4220
+  :license_area: LAUNCESTON RA1
+  :license_id: 526
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Launceston
+  :callsign: 7EXX
+  :frequency: 101.1
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132753
+  :license_number: 1908243
+  :site_id: 137617
+  :site_name: Radio 7LA Studio 109 York St LAUNCESTON
+  :zone: 55
+  :easting: 511404
+  :northing: 5412232
+  :lat: "-41.4411111111111"
+  :lng: '147.1363888888889'
+  :state: TAS
+  :bsl: 4220
+  :license_area: LAUNCESTON RA1
+  :license_id: 526
+  :operation_hours: 
+  :status: Issued

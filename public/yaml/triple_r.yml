@@ -1,0 +1,29 @@
+---
+:title: Triple R
+:transmitters:
+- :band: FM
+  :area: Melbourne
+  :callsign: 3RRR
+  :frequency: 102.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 120
+  :antenna_pattern: DA
+  :maximum_erp: 56000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3068001
+  :license_number: 1385178
+  :site_id: 12013
+  :site_name: ATV-10 Tower Ornata Road MT DANDENONG
+  :zone: 55
+  :easting: 354400
+  :northing: 5810745
+  :lat: "-37.8388888888889"
+  :lng: '145.3452777777778'
+  :state: VIC
+  :bsl: 3068
+  :license_area: MELBOURNE RA1
+  :license_id: 531
+  :operation_hours: 
+  :status: Issued

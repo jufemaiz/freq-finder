@@ -1,0 +1,29 @@
+---
+:title: Paradise FM
+:transmitters:
+- :band: FM
+  :area: Ballina
+  :callsign: 2PAR
+  :frequency: 101.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010310
+  :license_number: 1170782
+  :site_id: 8391
+  :site_name: Pine Avenue Site 1 BALLINA
+  :zone: 56
+  :easting: 556780
+  :northing: 6806855
+  :lat: "-28.8644444444444"
+  :lng: '153.5819444444445'
+  :state: NSW
+  :bsl: 1150750
+  :license_area: BALLINA RA1
+  :license_id: 1038
+  :operation_hours: 
+  :status: Issued

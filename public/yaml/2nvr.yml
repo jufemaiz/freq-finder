@@ -1,0 +1,30 @@
+---
+:title: 2NVR
+:transmitters:
+- :band: FM
+  :area: Nambucca Heads
+  :callsign: 2NVR
+  :frequency: 105.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 10
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 5017001
+  :license_number: 1385146
+  :site_id: 7646
+  :site_name: N.R.E. Tower Building on Southern Edge 21 km SSW of Nambucca Heads MOUNT
+    YARRAHAPINNI
+  :zone: 56
+  :easting: 492195
+  :northing: 6590830
+  :lat: "-30.8152777777778"
+  :lng: '152.9183333333333'
+  :state: NSW
+  :bsl: 5017
+  :license_area: NAMBUCCA HEADS RA1
+  :license_id: 686
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 2CS
+:transmitters:
+- :band: FM
+  :area: Coffs Harbour
+  :callsign: 2CFS
+  :frequency: 106.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 15000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005491
+  :license_number: 1170131
+  :site_id: 7833
+  :site_name: Broadcast/Comms Site Bruxner Park COFFS HARBOUR
+  :zone: 56
+  :easting: 510406
+  :northing: 6652612
+  :lat: "-30.2577777777778"
+  :lng: '153.1080555555556'
+  :state: NSW
+  :bsl: 1150055
+  :license_area: COFFS HARBOUR RA1
+  :license_id: 365
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,55 @@
+---
+:title: 6RCI
+:transmitters:
+- :band: FM
+  :area: Christmas Island
+  :callsign: 6RCI
+  :frequency: 102.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005540
+  :license_number: 1170791
+  :site_id: 150512
+  :site_name: Broadcast Site Drumsite CHRISTMAS ISLAND
+  :zone: 48
+  :easting: 573271
+  :northing: 8846595
+  :lat: "-10.4330555555556"
+  :lng: '105.6694444444445'
+  :state: WA
+  :bsl: 10362
+  :license_area: CHRISTMAS ISLAND RA1
+  :license_id: 800
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Christmas Island
+  :callsign: 6RCI
+  :frequency: 105.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 20
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005543
+  :license_number: 1170792
+  :site_id: 150513
+  :site_name: Broadcast Site Rocky Point CHRISTMAS ISLAND
+  :zone: 48
+  :easting: 573974
+  :northing: 8848436
+  :lat: "-10.4163888888889"
+  :lng: '105.6758333333334'
+  :state: WA
+  :bsl: 10362
+  :license_area: CHRISTMAS ISLAND RA1
+  :license_id: 800
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: Mix 94.5
+:transmitters:
+- :band: FM
+  :area: Perth
+  :callsign: 6MIX
+  :frequency: 94.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 105
+  :antenna_pattern: DA
+  :maximum_erp: 40000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4199001
+  :license_number: 1384881
+  :site_id: 26627
+  :site_name: FM Site Tvw7 Lease Television Road BICKLEY
+  :zone: 50
+  :easting: 413340
+  :northing: 6458261
+  :lat: "-32.0080555555556"
+  :lng: '116.0822222222222'
+  :state: WA
+  :bsl: 4199
+  :license_area: PERTH RA1
+  :license_id: 538
+  :operation_hours: 
+  :status: Issued

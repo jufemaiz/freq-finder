@@ -1,0 +1,29 @@
+---
+:title: Soncity FM
+:transmitters:
+- :band: FM
+  :area: Geraldton
+  :callsign: 6TTT
+  :frequency: 97.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005299
+  :license_number: 1170608
+  :site_id: 31030
+  :site_name: ML Comms Group Site 2 Mt Fairfax MOONYOONOOKA
+  :zone: 50
+  :easting: 274540
+  :northing: 6819290
+  :lat: "-28.7338888888889"
+  :lng: '114.6913888888889'
+  :state: WA
+  :bsl: 10348
+  :license_area: GERALDTON RA2
+  :license_id: 516
+  :operation_hours: 
+  :status: Issued

@@ -1,0 +1,29 @@
+---
+:title: 2MIA
+:transmitters:
+- :band: FM
+  :area: Griffith
+  :callsign: 2MIA
+  :frequency: 95.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: OD
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010767
+  :license_number: 1385140
+  :site_id: 151062
+  :site_name: Broadcast Site Jondaryan Trig GRIFFITH
+  :zone: 55
+  :easting: 413098
+  :northing: 6206503
+  :lat: "-34.2788888888889"
+  :lng: '146.0558333333334'
+  :state: NSW
+  :bsl: 5538
+  :license_area: GRIFFITH RA2
+  :license_id: 783
+  :operation_hours: 
+  :status: Issued

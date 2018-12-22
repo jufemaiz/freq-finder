@@ -1,0 +1,29 @@
+---
+:title: 2MO
+:transmitters:
+- :band: AM
+  :area: Gunnedah
+  :callsign: 2MO
+  :frequency: 1080.0
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 49
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 435
+  :power: 2000
+  :technical_specification_number: 4123001
+  :license_number: 1384961
+  :site_id: 6996
+  :site_name: 2MO Broadcast Site Oxley Highway 3km West of GUNNEDAH
+  :zone: 56
+  :easting: 233700
+  :northing: 6568600
+  :lat: "-30.9858333333333"
+  :lng: '150.2113888888889'
+  :state: NSW
+  :bsl: 4123
+  :license_area: GUNNEDAH RA1
+  :license_id: 376
+  :operation_hours: 
+  :status: Issued

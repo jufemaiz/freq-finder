@@ -1,0 +1,29 @@
+---
+:title: Sport FM
+:transmitters:
+- :band: FM
+  :area: Fremantle
+  :callsign: 6WSM
+  :frequency: 91.3
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010710
+  :license_number: 1171457
+  :site_id: 151225
+  :site_name: Community Radio Broadcast Site View Tce EAST FREMANTLE
+  :zone: 50
+  :easting: 383775
+  :northing: 6455070
+  :lat: "-32.0344444444444"
+  :lng: '115.7688888888889'
+  :state: WA
+  :bsl: 1150794
+  :license_area: FREMANTLE RA1
+  :license_id: 420
+  :operation_hours: 
+  :status: Issued

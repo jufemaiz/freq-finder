@@ -1,0 +1,29 @@
+---
+:title: Muslim Community Radio
+:transmitters:
+- :band: FM
+  :area: Sydney
+  :callsign: 2MFM
+  :frequency: 92.1
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 125
+  :antenna_pattern: OD
+  :maximum_erp: 6000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 4825001
+  :license_number: 1170504
+  :site_id: 150106
+  :site_name: AMP Centre 50 Bridge Street SYDNEY
+  :zone: 56
+  :easting: 334463
+  :northing: 6251394
+  :lat: "-33.8647222222222"
+  :lng: '151.2102777777778'
+  :state: NSW
+  :bsl: 1150110
+  :license_area: SYDNEY RA1
+  :license_id: 542
+  :operation_hours: 
+  :status: Issued

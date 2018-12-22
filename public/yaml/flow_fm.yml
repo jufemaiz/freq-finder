@@ -1,0 +1,705 @@
+---
+:title: Flow FM
+:transmitters:
+- :band: FM
+  :area: Apollo Bay
+  :callsign: 8SAT
+  :frequency: 97.9
+  :purpose: Commercial
+  :polarisation: H
+  :antenna_height: 15
+  :antenna_pattern: DA
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005932
+  :license_number: 1157236
+  :site_id: 150425
+  :site_name: Broadcast Site APOLLO BAY
+  :zone: 54
+  :easting: 746475
+  :northing: 5715155
+  :lat: "-38.6775"
+  :lng: '143.8330555555556'
+  :state: VIC
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Bourke
+  :callsign: 8SAT
+  :frequency: 102.5
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014566
+  :license_number: 1183062
+  :site_id: 150201
+  :site_name: Broadcast Site Mt Oxley BOURKE
+  :zone: 55
+  :easting: 426800
+  :northing: 6658700
+  :lat: "-30.2008333333333"
+  :lng: '146.2394444444445'
+  :state: NSW
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ceduna/Smoky Bay
+  :callsign: 8SAT
+  :frequency: 106.1
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014411
+  :license_number: 1151022
+  :site_id: 25256
+  :site_name: Broadcast Site 8 km East CEDUNA
+  :zone: 53
+  :easting: 382500
+  :northing: 6441800
+  :lat: "-32.1538888888889"
+  :lng: '133.7538888888889'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Coober Pedy
+  :callsign: 8SAT
+  :frequency: 99.7
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014412
+  :license_number: 1151023
+  :site_id: 151366
+  :site_name: Imparja Site Traeger Street COOBER PEDY
+  :zone: 53
+  :easting: 476434
+  :northing: 6790648
+  :lat: "-29.0119444444444"
+  :lng: '134.7577777777778'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Coonalpyn
+  :callsign: 8SAT
+  :frequency: 97.7
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: DA
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012415
+  :license_number: 1158868
+  :site_id: 153385
+  :site_name: Coorong Council Tower Binnie Lookout Coonalpyn Road MENINGIE
+  :zone: 54
+  :easting: 377800
+  :northing: 6051200
+  :lat: "-35.6752777777778"
+  :lng: '139.6494444444445'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Hallett
+  :callsign: 8SAT
+  :frequency: 107.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014453
+  :license_number: 1182775
+  :site_id: 24320
+  :site_name: CBRS Repeater site 29 km N of Burra MT BRYAN
+  :zone: 54
+  :easting: 311532
+  :northing: 6299528
+  :lat: "-33.4269444444444"
+  :lng: '138.9727777777778'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jabiru
+  :callsign: 8SAT
+  :frequency: 100.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013958
+  :license_number: 1183061
+  :site_id: 41246
+  :site_name: Gregory Place JABIRU
+  :zone: 53
+  :easting: 264700
+  :northing: 8598300
+  :lat: "-12.6705555555556"
+  :lng: '132.8333333333334'
+  :state: NT
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Jacinth-Ambrosia Project
+  :callsign: 8SAT
+  :frequency: 100.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 25
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1133145
+  :license_number: 1912038
+  :site_id: 9008806
+  :site_name: Jacinth Ambrosia Site 195km NW of Ceduna GREAT VICTORIA DESERT
+  :zone: 53
+  :easting: 232335
+  :northing: 6577530
+  :lat: "-30.9052777777778"
+  :lng: '132.1994444444445'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kapunda
+  :callsign: 8SAT
+  :frequency: 99.5
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014357
+  :license_number: 1151105
+  :site_id: 24226
+  :site_name: Power Comm site 6 km NNW of Dutton MT RUFUS
+  :zone: 54
+  :easting: 327550
+  :northing: 6201100
+  :lat: "-34.3169444444444"
+  :lng: '139.1258333333333'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Karoonda
+  :callsign: 8SAT
+  :frequency: 95.3
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012333
+  :license_number: 1183063
+  :site_id: 153374
+  :site_name: Perponda Hill 2.2km W of Fiveways Rd PERPONDA
+  :zone: 54
+  :easting: 393800
+  :northing: 6129100
+  :lat: "-34.975"
+  :lng: '139.8366666666667'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kingscote
+  :callsign: 8SAT
+  :frequency: 95.5
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 22
+  :antenna_pattern: DA
+  :maximum_erp: 3000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013946
+  :license_number: 1151025
+  :site_id: 153117
+  :site_name: Broadcast Site Seaview Rd KINGSCOTE
+  :zone: 53
+  :easting: 738356
+  :northing: 6052115
+  :lat: "-35.6458333333333"
+  :lng: '137.6325'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Kingston SE
+  :callsign: 8SAT
+  :frequency: 107.3
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 50
+  :antenna_pattern: DA
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014331
+  :license_number: 1151279
+  :site_id: 153603
+  :site_name: Broadcasting Site Ling Murraup Tank Pump Hill COOMBARGANA
+  :zone: 54
+  :easting: 395200
+  :northing: 5898500
+  :lat: "-37.0536111111111"
+  :lng: '139.8211111111111'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Lake Cargelligo
+  :callsign: 8SAT
+  :frequency: 101.5
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 50
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014452
+  :license_number: 1194532
+  :site_id: 9914
+  :site_name: Dept of Water Resources Site MT BOWEN
+  :zone: 55
+  :easting: 426950
+  :northing: 6307710
+  :lat: "-33.3672222222222"
+  :lng: '146.2147222222222'
+  :state: NSW
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Maitland
+  :callsign: 8SAT
+  :frequency: 90.9
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012343
+  :license_number: 1159004
+  :site_id: 24732
+  :site_name: Tank Site 5.5 km east MAITLAND
+  :zone: 53
+  :easting: 751040
+  :northing: 6193550
+  :lat: "-34.3688888888889"
+  :lng: '137.7297222222222'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Marysville
+  :callsign: 8SAT
+  :frequency: 89.3
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10008361
+  :license_number: 1151268
+  :site_id: 134422
+  :site_name: Kerami Gardens Resort 22 Wood Point Rd MARYSVILLE
+  :zone: 55
+  :easting: 389896
+  :northing: 5847544
+  :lat: "-37.5122222222222"
+  :lng: '145.7538888888889'
+  :state: VIC
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Minlaton
+  :callsign: 8SAT
+  :frequency: 98.9
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 10000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014369
+  :license_number: 1158869
+  :site_id: 153610
+  :site_name: Broadcast Site South Australia Water Tank Stansbury Road MINLATON
+  :zone: 53
+  :easting: 744500
+  :northing: 6146500
+  :lat: "-34.7941666666667"
+  :lng: '137.6722222222222'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Mt St Leonard
+  :callsign: 8SAT
+  :frequency: 106.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: DA
+  :maximum_erp: 24
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005934
+  :license_number: 1151947
+  :site_id: 36223
+  :site_name: Telstra site 10 km N of Healesville MT ST LEONARD
+  :zone: 55
+  :easting: 369675
+  :northing: 5840960
+  :lat: "-37.5688888888889"
+  :lng: '145.5241666666667'
+  :state: VIC
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Oxiana Mine
+  :callsign: 8SAT
+  :frequency: 91.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132621
+  :license_number: 1564114
+  :site_id: 9002206
+  :site_name: Oxiana Prominent Hill Mine 100km ESEof OODNADATTA
+  :zone: 53
+  :easting: 533355
+  :northing: 6744190
+  :lat: "-29.4311111111111"
+  :lng: '135.3438888888889'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Padthaway East
+  :callsign: 8SAT
+  :frequency: 100.3
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 25
+  :antenna_pattern: DA
+  :maximum_erp: 5000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10012323
+  :license_number: 1157238
+  :site_id: 139522
+  :site_name: 8SAT Site Collins Hill off Bordertown Rd PADTHAWAY EAST
+  :zone: 54
+  :easting: 462449
+  :northing: 5950648
+  :lat: "-36.5886111111111"
+  :lng: '140.58'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Penong
+  :callsign: 8SAT
+  :frequency: 107.1
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1131147
+  :license_number: 1182780
+  :site_id: 151238
+  :site_name: Broadcast Site 8 km west of PENONG
+  :zone: 53
+  :easting: 303205
+  :northing: 6465797
+  :lat: "-31.9263888888889"
+  :lng: '132.9183333333333'
+  :state: SA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Pinnaroo
+  :callsign: 8SAT
+  :frequency: 96.5
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: DA
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10013945
+  :license_number: 1157239
+  :site_id: 153578
+  :site_name: Broadcast Site Thomas Tank Hill PINNAROO
+  :zone: 54
+  :easting: 495500
+  :northing: 6086000
+  :lat: "-35.3691666666667"
+  :lng: '140.9502777777778'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Ranger Uranium Mine
+  :callsign: 8SAT
+  :frequency: 104.5
+  :purpose: Retransmission
+  :polarisation: V
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 200
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1132949
+  :license_number: 1194418
+  :site_id: 137729
+  :site_name: Fine Ore Bins Ranger Mine Arnhem Highway 10km E of JABIRU
+  :zone: 53
+  :easting: 274335
+  :northing: 8596871
+  :lat: "-12.6841666666667"
+  :lng: '132.9219444444445'
+  :state: NT
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Roxby Downs
+  :callsign: 8SAT
+  :frequency: 97.9
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 41
+  :antenna_pattern: DA
+  :maximum_erp: 1300
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014413
+  :license_number: 1151029
+  :site_id: 150203
+  :site_name: Broadcast Site 1.5 km N of ROXBY DOWNS
+  :zone: 53
+  :easting: 682000
+  :northing: 6619000
+  :lat: "-30.5475"
+  :lng: '136.8972222222222'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Streaky Bay
+  :callsign: 8SAT
+  :frequency: 99.3
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014410
+  :license_number: 1151030
+  :site_id: 25228
+  :site_name: Council Site 25 km east Streaky Bay MEDLINGIE HILL
+  :zone: 53
+  :easting: 451557
+  :northing: 6369094
+  :lat: "-32.8147222222222"
+  :lng: '134.4825'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Streaky Bay
+  :callsign: 8SAT
+  :frequency: 99.3
+  :purpose: Retransmission
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 4000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10014410
+  :license_number: 1159565
+  :site_id: 25228
+  :site_name: Council Site 25 km east Streaky Bay MEDLINGIE HILL
+  :zone: 53
+  :easting: 451557
+  :northing: 6369094
+  :lat: "-32.8147222222222"
+  :lng: '134.4825'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Tennant Creek
+  :callsign: 8SAT
+  :frequency: 100.5
+  :purpose: Commercial
+  :polarisation: V
+  :antenna_height: 15
+  :antenna_pattern: OD
+  :maximum_erp: 500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10003571
+  :license_number: 1145258
+  :site_id: 151719
+  :site_name: Imparja Broadcast Site 3 km NNE of TENNANT CREEK
+  :zone: 53
+  :easting: 418249
+  :northing: 7828682
+  :lat: "-19.6352777777778"
+  :lng: '134.2202777777778'
+  :state: NT
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Woomera
+  :callsign: 8SAT
+  :frequency: 101.7
+  :purpose: Commercial
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 250
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1130762
+  :license_number: 1151033
+  :site_id: 133992
+  :site_name: 5RRR Studio Site WOOMERA
+  :zone: 53
+  :easting: 673752
+  :northing: 6546935
+  :lat: "-31.1986111111111"
+  :lng: '136.8236111111111'
+  :state: SA
+  :bsl: 10147
+  :license_area: REMOTE COMMERCIAL RADIO SERVICE CENTRAL ZONE RA1
+  :license_id: 496
+  :operation_hours: 
+  :status: Issued

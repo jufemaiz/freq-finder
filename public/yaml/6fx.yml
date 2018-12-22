@@ -1,0 +1,29 @@
+---
+:title: 6FX
+:transmitters:
+- :band: AM
+  :area: Fitzroy Crossing
+  :callsign: 6FX
+  :frequency: 936.0
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 80
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 705
+  :power: 5000
+  :technical_specification_number: 10000981
+  :license_number: 1154651
+  :site_id: 570680
+  :site_name: Transmitter Site Eight Mile Mill Turnoff 19.8km SE of FITZROY CROSSING
+  :zone: 51
+  :easting: 783172
+  :northing: 7970967
+  :lat: "-18.3322222222222"
+  :lng: '125.6791666666667'
+  :state: WA
+  :bsl: 10034
+  :license_area: FITZROY CROSSING RA1
+  :license_id: 514
+  :operation_hours: 
+  :status: Issued

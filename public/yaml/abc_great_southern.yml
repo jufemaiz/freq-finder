@@ -1,0 +1,29 @@
+---
+:title: ABC Great Southern
+:transmitters:
+- :band: AM
+  :area: Wagin
+  :callsign: 6WA
+  :frequency: 558.0
+  :purpose: National
+  :polarisation: V
+  :antenna_height: 200
+  :antenna_pattern: OD
+  :maximum_erp: 0
+  :maximum_cmf: 2400
+  :power: 50000
+  :technical_specification_number: 10002343
+  :license_number: 1198470
+  :site_id: 28250
+  :site_name: Broadcast Site Arthur River Rd WAGIN
+  :zone: 50
+  :easting: 508496
+  :northing: 6311203
+  :lat: "-33.3383333333333"
+  :lng: '117.0913888888889'
+  :state: WA
+  :bsl: 0
+  :license_area: 
+  :license_id: 0
+  :operation_hours: 
+  :status: Issued

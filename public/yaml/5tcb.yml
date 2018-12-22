@@ -1,0 +1,133 @@
+---
+:title: 5TCB
+:transmitters:
+- :band: FM
+  :area: Bordertown
+  :callsign: 5TCB
+  :frequency: 106.1
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 60
+  :antenna_pattern: OD
+  :maximum_erp: 1600
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10005716
+  :license_number: 1385230
+  :site_id: 23646
+  :site_name: Broadcast/CB Repeater Site Western Drive 2 km S of BORDERTOWN
+  :zone: 54
+  :easting: 480100
+  :northing: 5979800
+  :lat: "-36.3263888888889"
+  :lng: '140.7783333333334'
+  :state: SA
+  :bsl: 10373
+  :license_area: BORDERTOWN RA1
+  :license_id: 1114
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Keith
+  :callsign: 5TCB
+  :frequency: 104.5
+  :purpose: Community
+  :polarisation: V
+  :antenna_height: 18
+  :antenna_pattern: OD
+  :maximum_erp: 1600
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 1584002
+  :license_number: 1385203
+  :site_id: 150925
+  :site_name: Broadcast site SUGARLOAF HILL
+  :zone: 54
+  :easting: 439505
+  :northing: 6012003
+  :lat: "-36.0344444444444"
+  :lng: '140.3286111111111'
+  :state: SA
+  :bsl: 10373
+  :license_area: BORDERTOWN RA1
+  :license_id: 1114
+  :operation_hours: 
+  :status: Renewal Pending
+- :band: FM
+  :area: Kingston SE
+  :callsign: 5TCB
+  :frequency: 92.9
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 40
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010729
+  :license_number: 1185218
+  :site_id: 500823
+  :site_name: Police site 16 km north of Robe MT BENSON
+  :zone: 54
+  :easting: 394131
+  :northing: 5900654
+  :lat: "-37.0341666666667"
+  :lng: '139.8097222222222'
+  :state: SA
+  :bsl: 10373
+  :license_area: BORDERTOWN RA1
+  :license_id: 1114
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Naracoorte
+  :callsign: 5TCB
+  :frequency: 89.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 20
+  :antenna_pattern: OD
+  :maximum_erp: 1500
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10010714
+  :license_number: 1159050
+  :site_id: 23720
+  :site_name: Council & CFS site Smith Street East NARACOORTE
+  :zone: 54
+  :easting: 479357
+  :northing: 5910387
+  :lat: "-36.9522222222222"
+  :lng: '140.7680555555556'
+  :state: SA
+  :bsl: 10373
+  :license_area: BORDERTOWN RA1
+  :license_id: 1114
+  :operation_hours: 
+  :status: Issued
+- :band: FM
+  :area: Padthaway
+  :callsign: 5TCB
+  :frequency: 98.5
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 45
+  :antenna_pattern: OD
+  :maximum_erp: 2000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 3439001
+  :license_number: 1159049
+  :site_id: 134026
+  :site_name: ABB Grain Silo site Parsons Beeamma Rd PADTHAWAY
+  :zone: 54
+  :easting: 455800
+  :northing: 5949100
+  :lat: "-36.6022222222222"
+  :lng: '140.5055555555556'
+  :state: SA
+  :bsl: 10373
+  :license_area: BORDERTOWN RA1
+  :license_id: 1114
+  :operation_hours: 
+  :status: Issued

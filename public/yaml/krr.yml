@@ -1,0 +1,29 @@
+---
+:title: KRR
+:transmitters:
+- :band: FM
+  :area: Kandos
+  :callsign: 2KRR
+  :frequency: 98.7
+  :purpose: Community
+  :polarisation: M
+  :antenna_height: 30
+  :antenna_pattern: OD
+  :maximum_erp: 1000
+  :maximum_cmf: 0
+  :power: 0
+  :technical_specification_number: 10002541
+  :license_number: 1154109
+  :site_id: 151173
+  :site_name: Shire Council Tower Baldy Peak Cumber Melon Range via KANDOS
+  :zone: 55
+  :easting: 780008
+  :northing: 6359097
+  :lat: "-32.8702777777778"
+  :lng: '149.9922222222222'
+  :state: NSW
+  :bsl: 10255
+  :license_area: KANDOS RA1
+  :license_id: 705
+  :operation_hours: 
+  :status: Issued
