@@ -11,7 +11,7 @@ namespace :extract_transform_load do
   namespace :import do
     desc 'YAML import'
     task yaml: :environment do
-      ExtractTransformLoad.import
+      ExtractTransformLoad.load
     end
   end
 end
