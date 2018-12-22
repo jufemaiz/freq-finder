@@ -16,9 +16,21 @@ module Types
       argument :location, String, required: false
     end
 
-    def transmitters(location:)
-      puts location.inspect
-      super.order(frequency: :asc)
+    def transmitters(location: nil)
+      location = if Location.valid_gps?(location)
+                   Location.normalize(location)
+                 else
+                   nil
+                 end
+      puts "location: #{location.inspect}"
+
+      transmitters = object.transmitters
+      transmitters = if location.nil?
+                       transmitters = transmitters.order(frequency: :asc)
+                     else
+                       transmitters.by_distance(origin: location)
+                     end
+      transmitters
     end
   end
 end

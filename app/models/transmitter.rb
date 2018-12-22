@@ -64,4 +64,11 @@ class Transmitter < ApplicationRecord
   scope :am, -> { where(band: 'AM') }
   scope :fm, -> { where(band: 'FM') }
   # @!endgroup
+
+  # Returns a Location for the Transmitter
+  #
+  # @return [Location]
+  def location
+    Location.normalize([lat, lng])
+  end
 end
