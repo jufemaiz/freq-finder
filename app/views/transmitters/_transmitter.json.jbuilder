@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 json.id transmitter.id
 json.band transmitter.band
 json.station_id transmitter.station_id

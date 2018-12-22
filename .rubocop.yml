@@ -6,8 +6,15 @@ Metrics/AbcSize:
 
 Metrics/BlockLength:
   Exclude:
+    - 'Gemfile'
+    - 'db/legacy_seeds.rb'
     - 'db/migrate/**/*.rb'
+    - 'db/schema.rb'
     - 'db/seeds.rb'
+    - 'spec/factories/**/*.rb'
+
+Metrics/LineLength:
+  Max: 100
 
 Metrics/MethodLength:
   Exclude:

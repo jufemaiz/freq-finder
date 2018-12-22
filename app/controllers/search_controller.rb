@@ -5,7 +5,7 @@
 # @since 20181220
 # @author Joel Courtney <joel@aceteknologi.com>
 class SearchController < ApplicationController
-    # GET /
+  # GET /
   def index
     respond_to do |format|
       format.json
@@ -35,7 +35,7 @@ class SearchController < ApplicationController
   # GET /geolocate.json
   def search
     if !params[:latlng].nil? &&
-      params[:latlng].match(/^(-?\d+\.\d+),(-?\d+\.\d+)$/)
+       params[:latlng].match(/^(-?\d+\.\d+),(-?\d+\.\d+)$/)
 
       latlng = Geokit::LatLng.normalize(params[:latlng])
       redirect_to transmitters_path(latlng: latlng)

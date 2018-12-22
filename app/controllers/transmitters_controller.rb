@@ -9,7 +9,7 @@ class TransmittersController < ApplicationController
   before_action :set_location, only: %i[index show]
   before_action :set_transmitter, only: [:show]
 
-  LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/
+  LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/.freeze
 
   # GET /stations
   def index
@@ -31,6 +31,7 @@ class TransmittersController < ApplicationController
   # @return [void]
   def set_station
     return unless params[:station_id]
+
     @station = Station.find(params[:station_id])
     puts "@station: #{@station.to_json}"
   end
@@ -40,6 +41,7 @@ class TransmittersController < ApplicationController
   # @return [void]
   def set_transmitter
     return unless params[:id]
+
     @transmitter = Transmitter.find(params[:id])
   end
 

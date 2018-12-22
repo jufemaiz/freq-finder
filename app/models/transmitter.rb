@@ -11,20 +11,20 @@ class Transmitter < ApplicationRecord
   # @!endgroup
 
   # @!group Constants
-  ANTENNA_PATTERNS = %w[DA OD]
-  BANDS = %w[AM FM]
-  OPERATION_HOURS = %w[day-time night-time]
-  POLARISATIONS = %w[H M V]
+  ANTENNA_PATTERNS = %w[DA OD].freeze
+  BANDS = %w[AM FM].freeze
+  OPERATION_HOURS = %w[day-time night-time].freeze
+  POLARISATIONS = %w[H M V].freeze
   PURPOSES = [
-    "Commercial",
-    "Community",
-    "HPON",
-    "National",
-    "Retransmission",
-    "s212 Retransmission"
-  ]
-  STATES = %w[ACT NSW NT QLD SA TAS VIC WA]
-  STATUSES = ["Issued", "Renewal Pending"]
+    'Commercial',
+    'Community',
+    'HPON',
+    'National',
+    'Retransmission',
+    's212 Retransmission'
+  ].freeze
+  STATES = %w[ACT NSW NT QLD SA TAS VIC WA].freeze
+  STATUSES = ['Issued', 'Renewal Pending'].freeze
   # @!endgroup
 
   # @!group Relationships
@@ -56,7 +56,8 @@ class Transmitter < ApplicationRecord
   validates :site_name, uniqueness: { case_sensitive: true, scope: :station }
   validates :state, inclusion: { in: STATES }
   validates :status, inclusion: { in: STATUSES }
-  validates :technical_specification_number, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
+  validates :technical_specification_number,
+            numericality: { only_integer: true, greater_than_or_equal_to: 0 }
   validates :zone, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
   # @!endgroup
 
@@ -73,12 +74,10 @@ class Transmitter < ApplicationRecord
     # @param [Hash] backup_sort
     # @return [ActiveRecord::Quer]
     def by_distance_with_backup_sort(location = nil, backup_sort = { frequency: :desc })
-      unless Location.valid_gps?(location)
-        return order(backup_sort)
-      end
+      return order(backup_sort) unless Location.valid_gps?(location)
 
       location = Location.normalize(location)
-      return by_distance(origin: location)
+      by_distance(origin: location)
     end
   end
   # @!endgroup

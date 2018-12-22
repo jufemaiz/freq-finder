@@ -6,7 +6,7 @@
 # @author Joel Courtney <joel@aceteknologi.com>
 class Location < Geokit::LatLng
   # @!group Constants
-  LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/
+  LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/.freeze
   # @!endgroup
 
   # @!group Class methods
@@ -19,6 +19,7 @@ class Location < Geokit::LatLng
       return true if location.is_a?(Geokit::LatLng)
       return false unless location.is_a?(String)
       return false unless location.match(LATLNG_PATTERN)
+
       true
     end
   end

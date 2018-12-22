@@ -39,11 +39,14 @@ module Types
     field :technical_specification_number, Integer, null: false
     field :zone, Integer, null: false
 
-    field :distance, Float, null: true,
-      resolve: ->(transmitter, args, ctx) {
-          location = ctx.irep_node.parent.arguments.location
-          return nil if location.nil? || !Location.valid_gps?(location)
-          Location.normalize(location).distance_to(transmitter.location)
-        }
+    field :distance,
+          Float,
+          null: true,
+          resolve: lambda { |transmitter, _args, ctx|
+            location = ctx.irep_node.parent.arguments.location
+            return nil if location.nil? || !Location.valid_gps?(location)
+
+            Location.normalize(location).distance_to(transmitter.location)
+          }
   end
 end

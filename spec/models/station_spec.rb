@@ -20,7 +20,7 @@ RSpec.describe Station, type: :model do
     # check that the title field received the right values
     it { expect(station).to allow_value(attributes[:title]).for(:title) }
     # ensure that the title is unique for each station
-    it { expect(station).to validate_uniqueness_of(:title)}
+    it { expect(station).to validate_uniqueness_of(:title) }
   end
 
   describe 'model associations' do

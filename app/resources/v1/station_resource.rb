@@ -18,7 +18,7 @@ module V1
     class << self
       # Customise the sortable fields
       #
-      # @params [Array<Symbol>] context
+      # @param [Array<Symbol>] context
       # @return [Array<Symbol>]
       def sortable_fields(context)
         super(context)
@@ -29,7 +29,7 @@ module V1
     #
     # @return [Array<Hash>]
     def default_sort
-      [{field: 'title', direction: :asc}, {field: 'created', direction: :asc}]
+      [{ field: 'title', direction: :asc }, { field: 'created', direction: :asc }]
     end
     # @!endgroup
   end

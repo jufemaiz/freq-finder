@@ -6,7 +6,7 @@ module Types
   # @since 20181221
   # @author Joel Courtney <joel@aceteknologi.com>
   class QueryType < Types::BaseObject
-    LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/
+    LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/.freeze
 
     # Add root-level fields here.
     # They will be entry points for queries on your schema.
@@ -56,7 +56,9 @@ module Types
     # @param [String] location comma separated GPS coordinate
     # @return [Transmitter]
     def transmitter(id:, location: nil)
-      Transmitter.find(id)
+      Transmitter.where(id: id)
+                 .by_distance_with_backup_sort(location)
+                 .first
     end
 
     # Returns all {Transmitter}s

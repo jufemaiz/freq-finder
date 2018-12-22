@@ -8,7 +8,7 @@ class GraphqlController < ApplicationController
   # Exectus things
   #
   # @return [void]
-  def execute
+  def execute # rubocop:disable Metrics/MethodLength
     variables = ensure_hash(params[:variables])
     query = params[:query]
     operation_name = params[:operationName]
@@ -16,11 +16,17 @@ class GraphqlController < ApplicationController
       # Query context goes here, for example:
       # current_user: current_user,
     }
-    result = FreqFinderSchema.execute(query, variables: variables, context: context, operation_name: operation_name)
+    result = FreqFinderSchema.execute(
+      query,
+      variables: variables,
+      context: context,
+      operation_name: operation_name
+    )
     render json: result
-  rescue => e
-    raise e unless Rails.env.development?
-    handle_error_in_development e
+  rescue StandardError => error
+    raise error unless Rails.env.development?
+
+    handle_error_in_development(error)
   end
 
   private
@@ -29,7 +35,7 @@ class GraphqlController < ApplicationController
   #
   # @param [Hash] ambiguous_param
   # @return [Hash]
-  def ensure_hash(ambiguous_param)
+  def ensure_hash(ambiguous_param) # rubocop:disable Metrics/MethodLength
     case ambiguous_param
     when String
       if ambiguous_param.present?
@@ -48,11 +54,17 @@ class GraphqlController < ApplicationController
 
   # handle_error_in_development
   #
-  # @param [Error] e
-  def handle_error_in_development(e)
-    logger.error e.message
-    logger.error e.backtrace.join("\n")
+  # @param [Error] error
+  def handle_error_in_development(error)
+    logger.error(error.message)
+    logger.error(error.backtrace.join("\n"))
 
-    render json: { error: { message: e.message, backtrace: e.backtrace }, data: {} }, status: 500
+    render json: {
+      error: {
+        message: error.message,
+        backtrace: error.backtrace
+      },
+      data: {}
+    }, status: 500
   end
 end

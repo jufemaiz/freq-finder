@@ -2,10 +2,8 @@
 
 BASE_DIR = Rails.root.join('public', 'yaml')
 
-errors = []
-
 Dir.entries(BASE_DIR)
-   .reject { |f| %i[. ..].include?(f) || File.directory?(File.join(BASE_DIR, f)) }
+   .reject { |f| File.directory?(File.join(BASE_DIR, f)) }
    .sort
    .each do |station_file|
   station_data = YAML.load_file(File.join(BASE_DIR, station_file))
@@ -45,6 +43,9 @@ Dir.entries(BASE_DIR)
     )
     t.station = station
     t.save
-    puts t.errors.messages unless t.persisted?
+    next if t.persisted?
+
+    puts transmitter.inspect
+    puts t.errors.messages
   end
 end

@@ -7,7 +7,6 @@ RSpec.describe QueryTypes::TransmitterQueryType do
   let!(:transmitters) { create_list(:transmitter, 3) }
 
   describe 'querying all transmitters' do
-
     it 'has a :transmitters that returns a Types::TransmitterType' do
       expect(subject).to have_field(:transmitters).that_returns(types[Types::TransmitterType])
     end

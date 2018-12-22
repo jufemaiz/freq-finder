@@ -7,7 +7,6 @@ RSpec.describe QueryTypes::StationQueryType do
   let!(:stations) { create_list(:station, 3) }
 
   describe 'querying all stations' do
-
     it 'has a :stations that returns a Types::StationType' do
       expect(subject).to have_field(:stations).that_returns(types[Types::StationType])
     end

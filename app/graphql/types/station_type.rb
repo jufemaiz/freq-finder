@@ -11,8 +11,10 @@ module Types
 
     field :id, ID, null: false
     field :title, String, null: false
-    field :transmitters, [TransmitterType], null: true,
-      description: 'The Transmitters that this station is responsible for.' do
+    field :transmitters,
+          [TransmitterType],
+          null: true,
+          description: 'The Transmitters that this station is responsible for.' do
       argument :location, String, required: false
     end
 

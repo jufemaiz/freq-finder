@@ -5,13 +5,13 @@ FactoryBot.define do
     station
 
     antenna_height { rand(0..2500) }
-    sequence(:antenna_pattern) { |n| n % 2 == 0 ? 'DA' : 'OD' }
+    sequence(:antenna_pattern) { |n| n.even? ? 'DA' : 'OD' }
     area { 'Area' }
-    sequence(:band) { |n| n % 2 == 0 ? 'AM' : 'FM' }
+    sequence(:band) { |n| n.even? ? 'AM' : 'FM' }
     bsl { 0 }
-    sequence(:callsign) { |n| n % 2 == 0 ? '2BL' : '2JJJ' }
+    sequence(:callsign) { |n| n.even? ? '2BL' : '2JJJ' }
     easting { 0 }
-    sequence(:frequency) { |n| n % 2 == 0 ? 702 : 105.7 }
+    sequence(:frequency) { |n| n.even? ? 702 : 105.7 }
     lat { Faker::Address.latitude }
     license_area { 1 }
     license_id { 0 }

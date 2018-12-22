@@ -8,7 +8,7 @@ module V1
   class TransmitterResource < JSONAPI::Resource
     # @!group Constants
     # Latitude & Longitude pattern for filter :near
-    LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/
+    LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/.freeze
     # @!endgroup
 
     # @!group Relationships
@@ -33,7 +33,7 @@ module V1
     class << self
       # Customise the sortable fields
       #
-      # @params [Array<Symbol>] context
+      # @param [Array<Symbol>] context
       # @return [Array<Symbol>]
       def sortable_fields(context)
         super(context)
@@ -41,14 +41,14 @@ module V1
 
       # Override the filter approach to allow for near request
       #
-      # @param [] .
-      # @param [] .
-      # @param [] .
-      # @param [] .
+      # @param [Array<Transmitter>] records
+      # @param [String] filter
+      # @param [String] value
+      # @param [Hash] options
       # @return [Array<Transmitter>] .
       def apply_filter(records, filter, value, options = {})
         if filter.to_sym != :near || value.blank? ||
-          !value.join(',').match(LATLNG_PATTERN)
+           !value.join(',').match(LATLNG_PATTERN)
           return super(records, filter, value, options)
         end
 
