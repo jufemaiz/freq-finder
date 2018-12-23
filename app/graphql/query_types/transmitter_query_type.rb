@@ -9,7 +9,11 @@ module QueryTypes
     graphql_name 'TransmitterQueryType'
     description 'The Transmitter Query Type'
 
-    field :transmitters, Types::TransmitterType, null: true, description: 'returns all transmitters'
+    field :transmitters,
+          Types::TransmitterConnectionType,
+          null: true,
+          connection: true,
+          description: 'returns all transmitters'
 
     def transmitters(_obj, _args, _ctx)
       Transmitter.all

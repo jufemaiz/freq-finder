@@ -6,7 +6,7 @@ module Types
   # @since 20181220
   # @author Joel Courtney <joel@aceteknologi.com>
   class TransmitterType < Types::BaseObject
-    graphql_name 'Transmitter'
+    graphql_name 'TransmitterType'
     description 'The Transmitter'
 
     field :id, ID, null: false
