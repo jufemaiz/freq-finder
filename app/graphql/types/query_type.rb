@@ -6,8 +6,6 @@ module Types
   # @since 20181221
   # @author Joel Courtney <joel@aceteknologi.com>
   class QueryType < Types::BaseObject
-    LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/.freeze
-
     # Add root-level fields here.
     # They will be entry points for queries on your schema.
     description 'The query root of this schema'
@@ -18,7 +16,7 @@ module Types
       argument :id, ID, required: true
     end
 
-    field :allStations, [Types::StationType], null: true do
+    field :allStations, Types::StationConnectionType, null: true, connection: true do
       description 'All the stations'
     end
 
@@ -29,7 +27,7 @@ module Types
       argument :location, String, required: false
     end
 
-    field :allTransmitters, [Types::TransmitterType], null: true do
+    field :allTransmitters, Types::TransmitterConnectionType, null: true, connection: true do
       description 'All the transmitters'
       argument :location, String, required: false
       argument :order_by, String, required: false # , default: 'frequency_ASC'
@@ -45,7 +43,7 @@ module Types
 
     # Returns all {Station}s
     #
-    # @return [Array<Station>]
+    # @return [Array<Station>, Station::ActiveRecord_Relation]
     def all_stations
       Station.order(title: :asc).all
     end
@@ -65,7 +63,7 @@ module Types
     #
     # @param [String] location comma separated GPS coordinate
     # @param [String] order_by
-    # @return [Array<Transmitter>]
+    # @return [Array<Transmitter>, Transmitter::ActiveRecord_Relation]
     def all_transmitters(location: nil, order_by: nil)
       Transmitter.by_distance_with_backup_sort(location, order_by)
     end

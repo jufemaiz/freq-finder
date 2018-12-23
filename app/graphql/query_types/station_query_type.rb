@@ -13,7 +13,7 @@ module QueryTypes
     graphql_name 'StationQueryType'
     description 'The Station Query Type'
 
-    field :stations, Types::StationType, null: true, description: ''
+    field :stations, [Types::StationType.connection_type], null: true, description: ''
 
     def stations(_obj, _args, _ctx)
       Station.all
