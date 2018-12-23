@@ -10,8 +10,9 @@ module QueryTypes
     description 'The Transmitter Query Type'
 
     field :transmitters,
-          [Types::TransmitterType.connection_type],
+          Types::TransmitterConnectionType,
           null: true,
+          connection: true,
           description: 'returns all transmitters'
 
     def transmitters(_obj, _args, _ctx)
