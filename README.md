@@ -1,5 +1,7 @@
 # FreqFinder
 
+[![Yard Docs](https://img.shields.io/badge/yard-docs-blue.svg)](https://www.rubydoc.info/github/jufemaiz/freq-finder/)
+
 Not finding freaks but freqs - radio frequencies for when you're out and about.
 
 Why? Because while Australia's ACMA publishes some things, a simple "what radio
