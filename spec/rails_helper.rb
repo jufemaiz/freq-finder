@@ -1,5 +1,12 @@
 # frozen_string_literal: true
 
+# Coverage starts at the top...
+if ENV['COVERAGE']
+  require 'coveralls'
+  Coveralls.wear!
+end
+
+
 # This file is copied to spec/ when you run 'rails generate rspec:install'
 require 'spec_helper'
 ENV['RAILS_ENV'] ||= 'test'
