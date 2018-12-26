@@ -5,6 +5,7 @@ before_script:
   - psql -c 'create database freqfinder_test;' -U postgres
 bundler_args: --retry=3 --jobs=3
 cache: bundler
+dist: xenial
 install:
   - bundle install
 language: ruby
