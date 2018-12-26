@@ -1,0 +1,6 @@
+---
+test:
+  adapter: postgresql
+  database: freqfinder_test
+  encoding: unicode
+  pool: 5
