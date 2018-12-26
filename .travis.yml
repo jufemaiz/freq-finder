@@ -1,5 +1,9 @@
 addons:
-  postgresql: 10.6
+  apt:
+    packages:
+    - postgresql-10
+    - postgresql-client-10
+  postgresql: '10.6'
 before_script:
   - cp config/database.travis.yml config/database.yml
   - psql -c 'create database travis_ci_test;' -U postgres
