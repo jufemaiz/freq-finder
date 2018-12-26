@@ -1,7 +1,7 @@
 addons:
   postgresql: 10.6
 before_script:
-  - cp config/database.yml.travis config/database.yml
+  - cp config/database.travis.yml config/database.yml
   - psql -c 'create database freqfinder_test;' -U postgres
 bundler_args: --retry=3 --jobs=3
 cache: bundler
