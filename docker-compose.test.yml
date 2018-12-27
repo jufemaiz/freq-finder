@@ -10,6 +10,8 @@ services:
       - db_test
     entrypoint: ''
     environment:
+      COVERAGE: 'true'
+      CI: 'true'
       RAILS_ENV: test
       RACK_ENV: test
       PGHOST: db_test

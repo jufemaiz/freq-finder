@@ -1,14 +1,16 @@
 # frozen_string_literal: true
 
 RSpec.describe QueryTypes::StationQueryType do
+  set_graphql_type
+
   # avail type definer in our tests
   types = GraphQL::Define::TypeDefiner.instance
-  # create fake stations using the todo_list factory
+  # create fake stations using the {Station} factory
   let!(:stations) { create_list(:station, 3) }
 
   describe 'querying all stations' do
     it 'has a :stations that returns a Types::StationType' do
-      expect(subject).to have_field(:stations).that_returns(types[Types::StationType])
+      expect(subject).to have_field(:stations).that_returns(types[Types::StationConnectionType])
     end
 
     it 'returns all our created stations' do

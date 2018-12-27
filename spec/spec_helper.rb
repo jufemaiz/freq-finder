@@ -93,4 +93,14 @@ RSpec.configure do |config|
   # # test failures related to randomization by passing the same `--seed` value
   # # as the one that triggered the failure.
   # Kernel.srand config.seed
+
+  # Set the :subject to the Class. See
+  #   https://github.com/khamusa/rspec-graphql_matchers/issues/18
+  #
+  # @return [void]
+  def set_graphql_type
+    let(:subject) do
+      described_class
+    end
+  end
 end

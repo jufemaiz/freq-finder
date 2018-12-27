@@ -1,14 +1,16 @@
 # frozen_string_literal: true
 
 RSpec.describe QueryTypes::TransmitterQueryType do
+  set_graphql_type
+
   # avail type definer in our tests
   types = GraphQL::Define::TypeDefiner.instance
-  # create fake transmitters using the todo_list factory
+  # create fake {Transmitter}s using the {Transmitter} factory
   let!(:transmitters) { create_list(:transmitter, 3) }
 
   describe 'querying all transmitters' do
     it 'has a :transmitters that returns a Types::TransmitterType' do
-      expect(subject).to have_field(:transmitters).that_returns(types[Types::TransmitterType])
+      expect(subject).to have_field(:transmitters).that_returns(types[Types::TransmitterConnectionType])
     end
 
     it 'returns all our created transmitters' do
