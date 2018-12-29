@@ -3,7 +3,18 @@
 # Coverage starts at the top...
 if ENV['COVERAGE']
   require 'coveralls'
-  Coveralls.wear!
+  require 'simplecov'
+  SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
+    SimpleCov::Formatter::HTMLFormatter,
+    Coveralls::SimpleCov::Formatter
+  ])
+  SimpleCov.start('rails') do
+    add_group 'Channels', ['app/channels']
+    add_group 'GraphQL', ['app/graphql']
+    add_group 'Jobs', ['app/jobs']
+    add_group 'Resources', ['app/resources']
+  end
+  puts 'required simplecov'
 end
 
 
@@ -34,8 +45,8 @@ require 'rspec/rails'
 # of increasing the boot-up time by auto-requiring all files in the support
 # directory. Alternatively, in the individual `*_spec.rb` files, manually
 # require only the support files necessary.
-#
-# Dir[Rails.root.join('spec', 'support', '**', '*.rb')].each { |f| require f }
+
+Dir[Rails.root.join('spec', 'support', '**', '*.rb')].each { |f| require f }
 
 # Checks for pending migrations and applies them before tests are run.
 # If you are not using ActiveRecord, you can remove these lines.
