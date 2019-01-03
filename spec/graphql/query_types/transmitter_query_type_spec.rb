@@ -10,7 +10,7 @@ RSpec.describe QueryTypes::TransmitterQueryType do
         .to eq(Types::TransmitterConnectionType)
     end
 
-    it 'returns all our created transmitters' do
+    xit 'returns all our created transmitters' do
       query_result = subject.fields['transmitters'].resolve(nil, nil, nil)
 
       query_result_array = query_result.to_a

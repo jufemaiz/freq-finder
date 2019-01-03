@@ -20,7 +20,7 @@ RSpec.describe Transmitter, type: :model do
     # check that the :site_name field received the right values
     it { expect(transmitter).to allow_value(attributes[:site_name]).for(:site_name) }
     # ensure that the :site_name is unique for each transmitter
-    it { expect(transmitter).to validate_uniqueness_of(:site_name).scoped_to(:station) }
+    it { expect(transmitter).to validate_uniqueness_of(:site_name).scoped_to(:station_id) }
   end
 
   describe 'model associations' do
