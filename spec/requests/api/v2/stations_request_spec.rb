@@ -70,7 +70,6 @@ RSpec.describe 'GraphQL Stations', type: :request do
     context 'no stations' do
       it 'has no errors' do
         post url, params: { query: query }
-        puts "parsed_body: #{response.parsed_body.inspect}"
         expect(response.parsed_body['errors'].length).to be > 0
       end
     end
