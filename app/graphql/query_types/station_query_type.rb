@@ -17,7 +17,7 @@ module QueryTypes
           Types::StationConnectionType,
           null: true,
           connection: true,
-          description: ''
+          description: 'returns all the stations'
 
     def stations(_obj, _args, _ctx)
       Station.all

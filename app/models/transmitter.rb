@@ -53,7 +53,7 @@ class Transmitter < ApplicationRecord
   validates :power, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
   validates :purpose, inclusion: { in: PURPOSES }
   validates :site_id, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
-  validates :site_name, uniqueness: { case_sensitive: true, scope: :station }
+  validates :site_name, uniqueness: { case_sensitive: true, scope: :station_id }
   validates :state, inclusion: { in: STATES }
   validates :status, inclusion: { in: STATUSES }
   validates :technical_specification_number,

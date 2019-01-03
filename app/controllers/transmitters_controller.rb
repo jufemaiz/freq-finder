@@ -33,7 +33,6 @@ class TransmittersController < ApplicationController
     return unless params[:station_id]
 
     @station = Station.find(params[:station_id])
-    puts "@station: #{@station.to_json}"
   end
 
   # Sets the `@transmitter` if `:id` is present in `params`
@@ -49,10 +48,8 @@ class TransmittersController < ApplicationController
   #
   # @return [void]
   def set_location
-    puts params[:location]
     return unless Location.valid_gps?(params[:location])
 
     @location = Location.normalize(params[:location])
-    puts @location.inspect
   end
 end
