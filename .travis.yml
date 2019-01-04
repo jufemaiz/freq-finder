@@ -9,6 +9,7 @@ before_install:
 before_script:
   - cp config/database.travis.yml config/database.yml
   - psql -c 'create database travis_ci_test;' -U postgres
+  - echo $COVERALLS_REPO_TOKEN
 bundler_args: --retry=3 --jobs=3
 cache: bundler
 dist: xenial
