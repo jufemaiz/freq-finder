@@ -74,4 +74,34 @@ RSpec.describe 'GraphQL Stations', type: :request do
       end
     end
   end
+
+  describe 'Show station' do
+    let(:query) do
+      %|query getStation($stationId: ID!) {
+        station(id: $stationId) {
+          title
+        }
+      }|
+    end
+
+    context 'station exists' do
+      let(:station) { FactoryBot.create(:station) }
+      let(:variables) { { 'stationId' => station.id } }
+
+      it 'has no errors' do
+        post url, params: { query: query, variables: variables }
+        expect(response.parsed_body['errors']).to eq(nil)
+      end
+    end
+
+    # @todo determine why a graphql request for a specific record returns blank
+    context 'station does not exist' do
+      let(:variables) { { 'stationId' => '-1' } }
+
+      it 'empty response' do
+        post url, params: { query: query, variables: variables }
+        expect(response.parsed_body).to be_blank
+      end
+    end
+  end
 end
