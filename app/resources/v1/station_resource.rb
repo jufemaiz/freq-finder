@@ -16,20 +16,15 @@ module V1
 
     # @!group Class Methods
     class << self
-      # Customise the sortable fields
+      # Default sorting by the following.
       #
-      # @param [Array<Symbol>] context
-      # @return [Array<Symbol>]
-      def sortable_fields(context)
-        super(context)
+      # @return [Array<Hash>]
+      def default_sort
+        [
+          { field: 'title', direction: :asc },
+          { field: 'created_at', direction: :asc }
+        ]
       end
-    end
-
-    # Default sorting by the following.
-    #
-    # @return [Array<Hash>]
-    def default_sort
-      [{ field: 'title', direction: :asc }, { field: 'created', direction: :asc }]
     end
     # @!endgroup
   end

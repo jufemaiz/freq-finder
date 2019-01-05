@@ -43,10 +43,21 @@ module Types
           Float,
           null: true,
           resolve: lambda { |transmitter, _args, ctx|
-            location = ctx.irep_node.parent.arguments.location
+            # There are options on obtaining the location
+            tmp = ctx.irep_node
+            location = nil
+            loop do
+              tmp = tmp.parent
+              break if tmp.nil?
+              if tmp.arguments.respond_to?(:location)
+                location = tmp.arguments.location
+                break
+              end
+            end
             return nil if location.nil? || !Location.valid_gps?(location)
 
-            Location.normalize(location).distance_to(transmitter.location)
+            Location.normalize(location)
+                    .distance_to(transmitter.location, units: :meters)
           }
   end
 end

@@ -24,7 +24,7 @@ RSpec.describe 'Transmitters', type: :request do
 
     context 'with location' do
       it 'returns a 200' do
-        get "#{url}/transmitters.json", params: { 'filter[near]' => '0.0,0.0' }, headers: basic_headers
+        get "#{url}/transmitters.json", params: { 'filter[location]' => '0.0,0.0' }, headers: basic_headers
         expect(response.code).to eq '200'
       end
     end
@@ -55,7 +55,7 @@ RSpec.describe 'Transmitters', type: :request do
         let(:transmitter) { FactoryBot.create(:transmitter) }
 
         it 'returns a 200' do
-          get "#{url}/transmitters/#{transmitter.id}.json", params: { 'filter[near]' => '0.0,0.0' }, headers: basic_headers
+          get "#{url}/transmitters/#{transmitter.id}.json", params: { 'filter[location]' => '0.0,0.0' }, headers: basic_headers
           expect(response.code).to eq '200'
         end
       end

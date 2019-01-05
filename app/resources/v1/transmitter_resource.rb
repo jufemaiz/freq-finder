@@ -6,11 +6,6 @@ module V1
   # @since 20181221
   # @author Joel Courtney <joel@aceteknologi.com>
   class TransmitterResource < JSONAPI::Resource
-    # @!group Constants
-    # Latitude & Longitude pattern for filter :near
-    LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/.freeze
-    # @!endgroup
-
     # @!group Relationships
     has_one :station
     # @!endgroup
@@ -26,19 +21,11 @@ module V1
     # @!endgroup
 
     # @!group Filters
-    filter :near
+    filter :location
     # @!endgroup
 
     # @!group Class Methods
     class << self
-      # Customise the sortable fields
-      #
-      # @param [Array<Symbol>] context
-      # @return [Array<Symbol>]
-      def sortable_fields(context)
-        super(context)
-      end
-
       # Override the filter approach to allow for near request
       #
       # @param [Array<Transmitter>] records
@@ -47,8 +34,8 @@ module V1
       # @param [Hash] options
       # @return [Array<Transmitter>] .
       def apply_filter(records, filter, value, options = {})
-        if filter.to_sym != :near || value.blank? ||
-           !value.join(',').match(LATLNG_PATTERN)
+        if filter.to_sym != :location || value.blank? ||
+          !value.join(',').match(Location::LATLNG_PATTERN)
           return super(records, filter, value, options)
         end
 
