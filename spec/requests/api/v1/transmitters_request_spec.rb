@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
 RSpec.describe 'Transmitters', type: :request do
@@ -16,7 +18,8 @@ RSpec.describe 'Transmitters', type: :request do
         it 'returns a 200' do
           FactoryBot.create_list(:transmitter, 10)
           transmitter = Transmitter.first
-          get "#{url}/stations/#{transmitter.station_id}/transmitters.json", headers: basic_headers
+          get "#{url}/stations/#{transmitter.station_id}/transmitters.json",
+              headers: basic_headers
           expect(response.code).to eq '200'
         end
       end
@@ -24,7 +27,9 @@ RSpec.describe 'Transmitters', type: :request do
 
     context 'with location' do
       it 'returns a 200' do
-        get "#{url}/transmitters.json", params: { 'filter[location]' => '0.0,0.0' }, headers: basic_headers
+        get "#{url}/transmitters.json",
+            params: { 'filter[location]' => '0.0,0.0' },
+            headers: basic_headers
         expect(response.code).to eq '200'
       end
     end
@@ -42,7 +47,6 @@ RSpec.describe 'Transmitters', type: :request do
       end
 
       context 'transmitter does not exist' do
-
         it 'returns a 404' do
           get "#{url}/transmitters/-1.json", headers: basic_headers
           expect(response.code).to eq '404'
@@ -55,13 +59,14 @@ RSpec.describe 'Transmitters', type: :request do
         let(:transmitter) { FactoryBot.create(:transmitter) }
 
         it 'returns a 200' do
-          get "#{url}/transmitters/#{transmitter.id}.json", params: { 'filter[location]' => '0.0,0.0' }, headers: basic_headers
+          get "#{url}/transmitters/#{transmitter.id}.json",
+              headers: basic_headers,
+              params: { 'filter[location]' => '0.0,0.0' }
           expect(response.code).to eq '200'
         end
       end
 
       context 'transmitter does not exist' do
-
         it 'returns a 404' do
           get "#{url}/transmitters/-1.json", headers: basic_headers
           expect(response.code).to eq '404'

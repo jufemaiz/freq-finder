@@ -35,7 +35,7 @@ module V1
       # @return [Array<Transmitter>] .
       def apply_filter(records, filter, value, options = {})
         if filter.to_sym != :location || value.blank? ||
-          !value.join(',').match(Location::LATLNG_PATTERN)
+           !value.join(',').match(Location::LATLNG_PATTERN)
           return super(records, filter, value, options)
         end
 

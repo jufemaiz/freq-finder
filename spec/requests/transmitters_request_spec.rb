@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
 RSpec.describe 'Transmitters', type: :request do
@@ -42,7 +44,6 @@ RSpec.describe 'Transmitters', type: :request do
       end
 
       context 'transmitter does not exist' do
-
         it 'returns a 404' do
           get "#{url}/transmitters/-1.json"
           expect(response.code).to eq '404'
@@ -61,7 +62,6 @@ RSpec.describe 'Transmitters', type: :request do
       end
 
       context 'transmitter does not exist' do
-
         it 'returns a 404' do
           get "#{url}/transmitters/-1.json"
           expect(response.code).to eq '404'
