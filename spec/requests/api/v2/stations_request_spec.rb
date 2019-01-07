@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
 RSpec.describe 'GraphQL Stations', type: :request do
@@ -8,22 +10,20 @@ RSpec.describe 'GraphQL Stations', type: :request do
   let(:context) { {} }
   let(:variables) { {} }
   # Call `result` to execute the query
-  let(:result) {
+  let(:result) do
     res = FreqFinderSchema.execute(
       query_string,
       context: context,
       variables: variables
     )
     # Print any errors
-    if res["errors"]
-      pp res
-    end
+    pp res if res['errors']
     res
-  }
+  end
 
   describe 'List stations' do
     let(:query) do
-      %|{ allStations { edges { node { title }} } }|
+      %({ allStations { edges { node { title } } } })
     end
 
     it 'returns a 200' do
@@ -59,7 +59,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
 
   describe 'List stations spelling error' do
     let(:query) do
-      %|{ alStations { edges { node { title }} } }|
+      %({ alStations { edges { node { title }} } })
     end
 
     it 'returns a 200 even with an error' do

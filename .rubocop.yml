@@ -1,4 +1,8 @@
 ---
+Layout/EmptyLinesAroundBlockBody:
+  Exclude:
+    - 'db/schema.rb'
+
 Metrics/AbcSize:
   Exclude:
     - 'db/migrate/**/*.rb'
@@ -10,7 +14,7 @@ Metrics/BlockLength:
     - 'db/migrate/**/*.rb'
     - 'db/schema.rb'
     - 'db/seeds.rb'
-    - 'spec/factories/**/*.rb'
+    - 'spec/**/*.rb'
 
 Metrics/LineLength:
   Max: 100
@@ -19,7 +23,19 @@ Metrics/MethodLength:
   Exclude:
     - 'db/migrate/**/*.rb'
 
+Style/FrozenStringLiteralComment:
+  Exclude:
+    - 'db/schema.rb'
+
 Style/MixinUsage:
   Exclude:
     - 'bin/setup'
     - 'bin/update'
+
+Style/NumericLiterals:
+  Exclude:
+    - 'db/schema.rb'
+
+Style/StringLiterals:
+  Exclude:
+    - 'db/schema.rb'

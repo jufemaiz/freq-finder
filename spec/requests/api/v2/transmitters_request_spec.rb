@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
 RSpec.describe 'GraphQL Transmitters', type: :request do
@@ -8,22 +10,20 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
   let(:context) { {} }
   let(:variables) { {} }
   # Call `result` to execute the query
-  let(:result) {
+  let(:result) do
     res = FreqFinderSchema.execute(
       query_string,
       context: context,
       variables: variables
     )
     # Print any errors
-    if res["errors"]
-      pp res
-    end
+    pp res if res['errors']
     res
-  }
+  end
 
   describe 'List transmitters' do
     let(:query) do
-      %|{
+      %({
         allTransmitters {
           edges {
             node {
@@ -34,7 +34,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
             }
           }
         }
-      }|
+      })
     end
 
     it 'returns a 200' do
@@ -70,7 +70,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
 
   describe 'List transmitters spelling error' do
     let(:query) do
-      %|{ alTransmitters { edges { node { frequency }} } }|
+      %({ alTransmitters { edges { node { frequency }} } })
     end
 
     it 'returns a 200 even with an error' do

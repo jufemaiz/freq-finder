@@ -26,6 +26,40 @@ Available at: https://freqfinder.herokuapp.com/v1/
 
 Available at: https://freqfinder.herokuapp.com/v2/
 
+#### Stations
+
+```graphql
+query {
+  allStations {
+    edges {
+      node {
+        title
+        id
+      }
+    }
+  }
+}
+```
+
+#### Transmitters
+
+```graphql
+query {
+  allTransmitters(location: "-33.88051,151.20948") {
+    edges {
+      node {
+        frequency
+        band
+        distance
+        station {
+          title
+        }
+      }
+    }
+  }
+}
+```
+
 ## Requirements
 
 If you are developing locally, bust out your [Docker](https://docker.org) so

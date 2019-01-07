@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
 RSpec.describe 'Stations', type: :request do
@@ -21,7 +23,6 @@ RSpec.describe 'Stations', type: :request do
     end
 
     context 'station does not exist' do
-
       it 'returns a 404' do
         get "#{url}/stations/-1.json"
         expect(response.code).to eq '404'

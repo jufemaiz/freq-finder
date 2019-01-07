@@ -4,10 +4,12 @@
 if ENV['COVERAGE']
   require 'coveralls'
   require 'simplecov'
-  SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
-    SimpleCov::Formatter::HTMLFormatter,
-    Coveralls::SimpleCov::Formatter
-  ])
+  SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new(
+    [
+      SimpleCov::Formatter::HTMLFormatter,
+      Coveralls::SimpleCov::Formatter
+    ]
+  )
   SimpleCov.start('rails') do
     add_group 'Channels', ['app/channels']
     add_group 'GraphQL', ['app/graphql']
@@ -16,7 +18,6 @@ if ENV['COVERAGE']
   end
   puts 'required simplecov'
 end
-
 
 # This file is copied to spec/ when you run 'rails generate rspec:install'
 require 'spec_helper'

@@ -66,6 +66,7 @@ source 'https://rubygems.org' do
   group :test do
     gem 'coveralls', require: false
     # gem 'simplecov', require: false
+    gem 'timecop', '~> 0.9'
   end
 
   # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

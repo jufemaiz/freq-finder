@@ -49,6 +49,7 @@ module Types
             loop do
               tmp = tmp.parent
               break if tmp.nil?
+
               if tmp.arguments.respond_to?(:location)
                 location = tmp.arguments.location
                 break
