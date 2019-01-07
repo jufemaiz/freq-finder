@@ -22,7 +22,7 @@ RSpec.describe ExtractTransformLoad do
     describe '::EXPORT_SUBDIR' do
       it 'is a valid strftime value' do
         expect { Time.now.utc.strftime(ExtractTransformLoad::EXPORT_SUBDIR) }
-          .not_to raise_error(TypeError)
+          .not_to raise_error
       end
     end
   end
@@ -51,7 +51,7 @@ RSpec.describe ExtractTransformLoad do
     end
 
     context 'one station in database' do
-      before(:each) { FactoryBot.create(:station) }
+      before(:each) { FactoryBot.create(:station_with_transmitters) }
 
       it 'exports a single file' do
         ExtractTransformLoad.export!
@@ -65,7 +65,7 @@ RSpec.describe ExtractTransformLoad do
     end
 
     context 'many stations in database' do
-      before(:each) { FactoryBot.create_list(:station, 10) }
+      before(:each) { FactoryBot.create_list(:station_with_transmitters, 10) }
 
       it 'exports a single file' do
         ExtractTransformLoad.export!
@@ -90,16 +90,43 @@ RSpec.describe ExtractTransformLoad do
   end
 
   describe '.import!' do
-    it 'imports the stations' do
-      ExtractTransformLoad.import!
+    context 'default files' do
+      it 'imports the stations' do
+        ExtractTransformLoad.import!
 
-      expect(Station.count.zero?).to eq(false)
+        expect(Station.count.zero?).to eq(false)
+      end
+
+      it 'imports the transmitters' do
+        ExtractTransformLoad.import!
+
+        expect(Transmitter.count.zero?).to eq(false)
+      end
     end
 
-    it 'imports the transmitters' do
-      ExtractTransformLoad.import!
+    context 'explicit subdirectory' do
+      before(:each) do
+        Timecop.freeze(time)
+        FactoryBot.create(:station_with_transmitters)
+        ExtractTransformLoad.export!
+      end
+      after(:each) do
+        export_dir = ExtractTransformLoad::BASE_DIR.join('20190101T000000Z')
+        FileUtils.rm_r(export_dir, force: true)
+        Timecop.return
+      end
 
-      expect(Transmitter.count.zero?).to eq(false)
+      it 'imports one station' do
+        ExtractTransformLoad.import!('20190101T000000Z')
+        expect(Station.all.count).to eq(1)
+      end
+    end
+
+    context 'invalid explicit subdirectory' do
+      it 'imports one station' do
+        expect { ExtractTransformLoad.import!('BOBISAFISH') }
+          .to raise_error(ArgumentError)
+      end
     end
   end
 end

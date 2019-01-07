@@ -23,6 +23,10 @@ Metrics/MethodLength:
   Exclude:
     - 'db/migrate/**/*.rb'
 
+Style/FrozenStringLiteralComment:
+  Exclude:
+    - 'db/schema.rb'
+
 Style/MixinUsage:
   Exclude:
     - 'bin/setup'

@@ -25,7 +25,7 @@ FactoryBot.define do
     power { 0 }
     purpose { 'Commercial' }
     site_id { 0 }
-    site_name { Faker::Pokemon.name }
+    sequence(:site_name) { |n| [Faker::Pokemon.name, n].join('-') }
     state { 'NSW' }
     status { 'Issued' }
     technical_specification_number { 0 }

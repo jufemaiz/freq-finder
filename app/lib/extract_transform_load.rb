@@ -32,7 +32,7 @@ class ExtractTransformLoad
 
         filename = s[:title].blank? ? 'null' : s[:title].downcase.gsub(/[^\da-z]/, '_')
         File.open(export_path.join("#{filename}.yml"), 'w+') { |w| w.write(station.to_yaml) }
-        Rails.logger.info("Exported transmitters for #{station.title} (id: #{station.id})")
+        Rails.logger.info("Exported transmitters for #{s.title} (id: #{s.id})")
       end
     end
 
@@ -44,7 +44,7 @@ class ExtractTransformLoad
       path = import_path_for(subdirectory)
 
       import_files(path).each do |station_file|
-        station_data = YAML.load_file(File.join(subdir, station_file))
+        station_data = YAML.load_file(station_file)
 
         Rails.logger.info("Importing details for #{station_data[:title]}")
 
@@ -78,6 +78,7 @@ class ExtractTransformLoad
       Dir.entries(path)
          .reject { |f| File.directory?(File.join(path, f)) }
          .sort
+         .map { |f| path.join(f) }
     end
 
     # Full path for a given subdirectory
