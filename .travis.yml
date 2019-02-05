@@ -29,4 +29,6 @@ script:
   - bundle exec rails db:migrate RAILS_ENV=test
   - bundle exec rspec
   - bundle exec rubocop
+services:
+  - postgresql
 sudo: false
