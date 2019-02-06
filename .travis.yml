@@ -1,34 +1,11 @@
 ---
-addons:
-  apt:
-    update: true
-  postgresql: 10.6
-before_install:
-  - sudo apt-get update
-  - sudo apt-get install -y postgresql-10 postgresql-client-10
-before_script:
-  - cp config/database.travis.yml config/database.yml
-  - psql -c 'create database travis_ci_test;' -U postgres
-  - echo $COVERALLS_REPO_TOKEN
-bundler_args: --retry=3 --jobs=3
-cache: bundler
-dist: xenial
-install:
-  - bundle install
-language: ruby
-# matrix:
-#   allow_failures:
-#     - rvm:
-#       - ruby-head
-#       - 2.6.0-preview2
-#       - 2.6.0-preview1
-#   fast_finish: true
-rvm:
-  - 2.6.1
-script:
-  - bundle exec rails db:migrate RAILS_ENV=test
-  - bundle exec rspec
-  - bundle exec rubocop
+language: generic
+sudo: required
 services:
-  - postgresql
-sudo: false
+- docker
+before_script:
+- sudo /etc/init.d/postgresql stop
+- make test-build
+- docker-compose -f docker-compose.test.yml run web bundle exec rails db:test:prepare
+script:
+- make test-rspec
