@@ -5,7 +5,6 @@ services:
 - docker
 before_script:
 - sudo /etc/init.d/postgresql stop
-- make test-build
-- docker-compose -f docker-compose.test.yml run web bundle exec rails db:test:prepare
+- make test-new-env
 script:
 - make test-rspec
