@@ -5,6 +5,7 @@ services:
 - docker
 before_script:
 - sudo /etc/init.d/postgresql stop
-- make test-new-env
+- make test-build
 script:
-- make test-rspec
+- make test-up
+- make test
