@@ -7,4 +7,5 @@ before_script:
 - sudo /etc/init.d/postgresql stop
 - make test-build
 script:
+- make lint
 - make test-up && make test
