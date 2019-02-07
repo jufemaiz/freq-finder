@@ -37,5 +37,9 @@ Style/NumericLiterals:
     - 'db/schema.rb'
 
 Style/StringLiterals:
+  EnforcedStyle: single_quotes
   Exclude:
     - 'db/schema.rb'
+  SupportedStyles:
+    - single_quotes
+    - double_quotes

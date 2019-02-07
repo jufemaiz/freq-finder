@@ -90,7 +90,7 @@ test-db-seed:
 	$(docker_compose_test) run --rm web $(rake) db:seed
 
 test-rspec:
-	$(docker_compose_test) run -rm web $(bundle_exec) rspec
+	$(docker_compose_test) run --rm web $(bundle_exec) rspec
 
 # Smart tools
 test-new-env: test-down test-build test-up test-reset
