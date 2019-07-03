@@ -208,7 +208,7 @@ GEM
     websocket-driver (0.7.0)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.3)
-    yard (0.9.18)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
@@ -241,7 +241,7 @@ DEPENDENCIES
   yard!
 
 RUBY VERSION
-   ruby 2.6.1p33
+   ruby 2.6.3p62
 
 BUNDLED WITH
    1.17.3
