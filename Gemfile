@@ -6,7 +6,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 source 'https://rubygems.org' do
   # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-  gem 'rails', '~> 5.2'
+  gem 'rails', '~> 5.2', '>= 5.2.2'
   # Use Postgres as the database for Active Record
   gem 'pg'
   # Use Puma as the app server
@@ -19,7 +19,7 @@ source 'https://rubygems.org' do
   gem 'bcrypt', '~> 3.1.7'
 
   # v1 api is [JSONAPI](https://jsonapi.org/)
-  gem 'jsonapi-resources', '~> 0.9', '>= 0.9.3'
+  gem 'jsonapi-resources', '~> 0.9', '>= 0.9.5'
 
   # v2 api is [GraphQL](https://graphql.org/)
   gem 'graphql', '~> 1.7', '>= 1.7.14'
@@ -48,7 +48,7 @@ source 'https://rubygems.org' do
     gem 'factory_bot_rails', '~> 4.11', '>= 4.11.1'
     gem 'faker', '~> 1.9', '>= 1.9.1'
     gem 'rspec-graphql_matchers'
-    gem 'rspec-rails', '~> 3.8'
+    gem 'rspec-rails', '~> 3.8', '>= 3.8.2'
     gem 'shoulda-matchers', '~> 3.1', '>= 3.1.2'
   end
 
