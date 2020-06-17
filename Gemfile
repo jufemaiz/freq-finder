@@ -19,7 +19,7 @@ source 'https://rubygems.org' do
   gem 'bcrypt', '~> 3.1.7'
 
   # v1 api is [JSONAPI](https://jsonapi.org/)
-  gem 'jsonapi-resources', '~> 0.9', '>= 0.9.10'
+  gem 'jsonapi-resources', '~> 0.10', '>= 0.10.2'
 
   # v2 api is [GraphQL](https://graphql.org/)
   gem 'graphql', '~> 1.7', '>= 1.7.14'
@@ -48,7 +48,7 @@ source 'https://rubygems.org' do
     gem 'factory_bot_rails', '~> 4.11', '>= 4.11.1'
     gem 'faker', '~> 1.9', '>= 1.9.1'
     gem 'rspec-graphql_matchers'
-    gem 'rspec-rails', '~> 3.8', '>= 3.8.2'
+    gem 'rspec-rails', '~> 3.9', '>= 3.9.1'
     gem 'shoulda-matchers', '~> 3.1', '>= 3.1.3'
   end
 
