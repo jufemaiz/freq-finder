@@ -81,7 +81,7 @@ GEM
     jaro_winkler (1.5.2)
     jbuilder (2.10.0)
       activesupport (>= 5.0.0)
-    json (2.1.0)
+    json (2.3.1)
     jsonapi-resources (0.10.2)
       activerecord (>= 4.1)
       concurrent-ruby
