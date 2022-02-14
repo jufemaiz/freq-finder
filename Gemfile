@@ -6,11 +6,11 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 source 'https://rubygems.org' do
   # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-  gem 'rails', '~> 5.2', '>= 5.2.4.4'
+  gem 'rails', '~> 5.2', '>= 5.2.6.2'
   # Use Postgres as the database for Active Record
   gem 'pg'
   # Use Puma as the app server
-  gem 'puma', '~> 3.12'
+  gem 'puma', '~> 4.3', '>= 4.3.11'
   # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
   gem 'jbuilder', '~> 2.8', '>= 2.8.0'
   # Use Redis adapter to run Action Cable in production
