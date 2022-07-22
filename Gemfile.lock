@@ -200,7 +200,7 @@ GEM
     thread_safe (0.3.6)
     timecop (0.9.1)
     tins (1.20.2)
-    tzinfo (1.2.9)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unicode-display_width (1.4.1)
     websocket-driver (0.7.5)
