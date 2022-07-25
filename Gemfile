@@ -12,7 +12,7 @@ source 'https://rubygems.org' do
   # Use Puma as the app server
   gem 'puma', '~> 4.3'
   # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
-  gem 'jbuilder', '~> 2.8', '>= 2.8.0'
+  gem 'jbuilder', '~> 2.10', '>= 2.10.0'
   # Use Redis adapter to run Action Cable in production
   # gem 'redis', '~> 4.0'
   # Use ActiveModel has_secure_password
