@@ -53,8 +53,10 @@ module Types
       loop do
         break if ancestor.nil?
 
-        if ancestor.arguments.respond_to?(:location)
-          location = ancestor.arguments.location
+        args = arguments(object: ancestor)
+
+        unless args.nil? || args[:location].nil?
+          location = args[:location]
           break
         end
 
@@ -63,7 +65,18 @@ module Types
 
       return nil if location.nil? || !Location.valid_gps?(location)
 
-      Location.normalize(location).distance_to(transmitter.location, units: :meters)
+      Location.normalize(location).distance_to(object.location, units: :meters)
+    end
+
+    # Returns the arguments for an object.
+    #
+    # @param [GraphQL::Pagination::Connection::Edge] object
+    # @return [Hash]
+    def arguments(object:)
+      connection = object.instance_variable_get(:@connection)
+      return {} if connection.nil?
+
+      connection.instance_variable_get(:@arguments) || {}
     end
   end
 end
