@@ -20,7 +20,7 @@ class ExtractTransformLoad
     # Exports the data to an RFC3337 subdirectory of the export directory.
     #
     # @return [void]
-    def export! # rubocop:disable Metrics/AbcSize
+    def export!
       export_path = BASE_DIR.join(export_subdirectory)
       FileUtils.mkdir_p(export_path)
 
@@ -40,7 +40,7 @@ class ExtractTransformLoad
     #
     # @param [String] subdirectory explicitly provide a subdirectory
     # @return [void]
-    def import!(subdirectory = nil) # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
+    def import!(subdirectory = nil) # rubocop:disable Metrics/MethodLength
       path = import_path_for(subdirectory)
 
       import_files(path).each do |station_file|

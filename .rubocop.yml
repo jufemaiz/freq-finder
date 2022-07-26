@@ -56,6 +56,8 @@ Lint/RequireRelativeSelfPath: # new in 1.22
   Enabled: true
 Lint/SymbolConversion: # new in 1.9
   Enabled: true
+Lint/Syntax:
+  Enabled: true
 Lint/ToEnumArguments: # new in 1.1
   Enabled: true
 Lint/TripleQuotes: # new in 1.9
@@ -141,6 +143,7 @@ Layout/LineLength:
   Max: 160
 
 Metrics/AbcSize:
+  Max: 35
   Exclude:
     - 'db/migrate/**/*.rb'
 
