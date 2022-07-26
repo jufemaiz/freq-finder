@@ -6,7 +6,7 @@
 # @author Joel Courtney <joel@aceteknologi.com>
 class Location < Geokit::LatLng
   # @!group Constants
-  LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/.freeze
+  LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/
   # @!endgroup
 
   # @!group Class methods

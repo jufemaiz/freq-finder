@@ -1,7 +1,8 @@
-FROM ruby:2.7.6-alpine3.15
+FROM ruby:3.1.2-alpine3.15
 
 RUN apk add --update alpine-sdk && \
   apk add bash build-base git libxml2-dev libxslt-dev nodejs postgresql-dev readline-dev tzdata zlib-dev && \
+  gem install bundler && \
   mkdir /app
 
 WORKDIR /app

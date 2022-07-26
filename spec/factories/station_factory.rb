@@ -10,7 +10,7 @@ FactoryBot.define do
       end
 
       after(:create) do |station, evaluator|
-        create_list(:transmitter, evaluator.count, station: station)
+        create_list(:transmitter, evaluator.count, station:)
       end
     end
   end

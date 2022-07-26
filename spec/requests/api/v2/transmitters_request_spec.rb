@@ -13,8 +13,8 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
   let(:result) do
     res = FreqFinderSchema.execute(
       query_string,
-      context: context,
-      variables: variables
+      context:,
+      variables:
     )
     # Print any errors
     pp res if res['errors']
@@ -38,13 +38,13 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
     end
 
     it 'returns a 200' do
-      post url, params: { query: query }
+      post url, params: { query: }
       expect(response.response_code).to eq 200
     end
 
     context 'no transmitters' do
       it 'has no errors' do
-        post url, params: { query: query }
+        post url, params: { query: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -53,7 +53,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
       before(:each) { FactoryBot.create(:transmitter) }
 
       it 'has no errors' do
-        post url, params: { query: query }
+        post url, params: { query: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -62,7 +62,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
       before(:each) { FactoryBot.create_list(:transmitter, 10) }
 
       it 'has no errors' do
-        post url, params: { query: query }
+        post url, params: { query: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -74,13 +74,13 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
     end
 
     it 'returns a 200 even with an error' do
-      post url, params: { query: query }
+      post url, params: { query: }
       expect(response.response_code).to eq 200
     end
 
     context 'no transmitters' do
       it 'has no errors' do
-        post url, params: { query: query }
+        post url, params: { query: }
         expect(response.parsed_body['errors'].length).to be > 0
       end
     end
@@ -100,7 +100,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
       let(:variables) { { 'transmitterId' => transmitter.id } }
 
       it 'has no errors' do
-        post url, params: { query: query, variables: variables }
+        post url, params: { query:, variables: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -110,7 +110,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
       let(:variables) { { 'transmitterId' => '-1' } }
 
       it 'empty response' do
-        post url, params: { query: query, variables: variables }
+        post url, params: { query:, variables: }
         expect(response.parsed_body['data']['transmitter']).to be_nil
       end
     end
@@ -129,7 +129,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
       let(:variables) { { 'transmitterId' => transmitter.id } }
 
       it 'has no errors' do
-        post url, params: { query: query, variables: variables }
+        post url, params: { query:, variables: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end

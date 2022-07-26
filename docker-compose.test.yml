@@ -5,12 +5,12 @@ services:
     image: postgres:14.4-alpine
     restart: always
     environment:
-      POSTGRES_DB: db_test
+      POSTGRES_DB: freq_finder_test
       POSTGRES_PASSWORD: password
       POSTGRES_USER: postgres
-  web:
+  web_test:
     build: .
-    command: bundle exec rspec
+    command: bundle exec rerun rake spec
     depends_on:
       - db_test
     entrypoint: ''
@@ -19,11 +19,12 @@ services:
       CI: 'true'
       RAILS_ENV: test
       RACK_ENV: test
-      PGDB: db_test
+      PGDB: freq_finder_test
       PGHOST: db_test
       PGPASSWORD: password
       PGUSER: postgres
     ports:
-      - "3000:3000"
+      - '3000:3000'
+    tty: true
     volumes:
       - ./:/app

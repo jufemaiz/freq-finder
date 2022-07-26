@@ -13,8 +13,8 @@ RSpec.describe 'GraphQL Stations', type: :request do
   let(:result) do
     res = FreqFinderSchema.execute(
       query_string,
-      context: context,
-      variables: variables
+      context:,
+      variables:
     )
     # Print any errors
     pp res if res['errors']
@@ -27,13 +27,13 @@ RSpec.describe 'GraphQL Stations', type: :request do
     end
 
     it 'returns a 200' do
-      post url, params: { query: query }
+      post url, params: { query: }
       expect(response.response_code).to eq 200
     end
 
     context 'no stations' do
       it 'has no errors' do
-        post url, params: { query: query }
+        post url, params: { query: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -42,7 +42,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       before(:each) { FactoryBot.create(:station) }
 
       it 'has no errors' do
-        post url, params: { query: query }
+        post url, params: { query: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -51,7 +51,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       before(:each) { FactoryBot.create_list(:station, 10) }
 
       it 'has no errors' do
-        post url, params: { query: query }
+        post url, params: { query: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -63,13 +63,13 @@ RSpec.describe 'GraphQL Stations', type: :request do
     end
 
     it 'returns a 200 even with an error' do
-      post url, params: { query: query }
+      post url, params: { query: }
       expect(response.response_code).to eq 200
     end
 
     context 'no stations' do
       it 'has no errors' do
-        post url, params: { query: query }
+        post url, params: { query: }
         expect(response.parsed_body['errors'].length).to be > 0
       end
     end
@@ -89,7 +89,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       let(:variables) { { 'stationId' => station.id } }
 
       it 'has no errors' do
-        post url, params: { query: query, variables: variables }
+        post url, params: { query:, variables: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -99,7 +99,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       let(:variables) { { 'stationId' => '-1' } }
 
       it 'empty response' do
-        post url, params: { query: query, variables: variables }
+        post url, params: { query:, variables: }
         expect(response.parsed_body).to be_blank
       end
     end
@@ -126,7 +126,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       let(:variables) { { 'stationId' => station.id } }
 
       it 'has no errors' do
-        post url, params: { query: query, variables: variables }
+        post url, params: { query:, variables: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -136,7 +136,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       let(:variables) { { 'stationId' => '-1' } }
 
       it 'empty response' do
-        post url, params: { query: query, variables: variables }
+        post url, params: { query:, variables: }
         expect(response.parsed_body).to be_blank
       end
     end
@@ -165,7 +165,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       let(:variables) { { 'stationId' => station.id } }
 
       it 'has no errors' do
-        post url, params: { query: query, variables: variables }
+        post url, params: { query:, variables: }
         expect(response.parsed_body['errors']).to eq(nil)
       end
     end
@@ -175,7 +175,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       let(:variables) { { 'stationId' => '-1' } }
 
       it 'empty response' do
-        post url, params: { query: query, variables: variables }
+        post url, params: { query:, variables: }
         expect(response.parsed_body).to be_blank
       end
     end
