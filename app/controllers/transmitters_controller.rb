@@ -9,7 +9,7 @@ class TransmittersController < ApplicationController
   before_action :set_location, only: %i[index show]
   before_action :set_transmitter, only: [:show]
 
-  LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/.freeze
+  LATLNG_PATTERN = /^(-?\d+\.\d+),(-?\d+\.\d+)$/
 
   # GET /stations
   def index

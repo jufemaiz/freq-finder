@@ -2,5 +2,5 @@
 
 require 'rails_helper'
 
-RSpec.describe TransmittersController, type: :controller do
-end
+# RSpec.describe TransmittersController, type: :controller do
+# end

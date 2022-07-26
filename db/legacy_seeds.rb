@@ -24,7 +24,7 @@ require 'csv'
 def string_to_latitude(string)
   string.scan(/(\d+)\s(\d+)\s(\d+)([NS])/)
         .map do |d, m, s, pp|
-          (d.to_f + m.to_f / 60 + s.to_f / 3600) * (pp == 'N' ? 1 : -1)
+          (d.to_f + (m.to_f / 60) + (s.to_f / 3600)) * (pp == 'N' ? 1 : -1)
         end.first
 end
 
@@ -37,7 +37,7 @@ end
 def string_to_longitude(string)
   string.scan(/(\d+)\s(\d+)\s(\d+)([EW])/)
         .map do |d, m, s, pp|
-          (d.to_f + m.to_f / 60 + s.to_f / 3600) * (pp == 'E' ? 1 : -1)
+          (d.to_f + (m.to_f / 60) + (s.to_f / 3600)) * (pp == 'E' ? 1 : -1)
         end.first
 end
 

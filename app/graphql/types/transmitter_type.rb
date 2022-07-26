@@ -39,26 +39,31 @@ module Types
     field :technical_specification_number, Integer, null: false
     field :zone, Integer, null: false
 
-    field :distance,
-          Float,
-          null: true,
-          resolve: lambda { |transmitter, _args, ctx|
-            # There are options on obtaining the location
-            tmp = ctx.irep_node
-            location = nil
-            loop do
-              tmp = tmp.parent
-              break if tmp.nil?
+    field :distance, Float, null: true, resolver_method: :distance, extras: [:parent]
 
-              if tmp.arguments.respond_to?(:location)
-                location = tmp.arguments.location
-                break
-              end
-            end
-            return nil if location.nil? || !Location.valid_gps?(location)
+    # Distance is used to calculate the value for the field :distance.
+    #
+    # @param [Object] parent
+    # @return [Numeric]
+    def distance(parent:)
+      # There are options on obtaining the location
+      ancestor = parent
+      location = nil
 
-            Location.normalize(location)
-                    .distance_to(transmitter.location, units: :meters)
-          }
+      loop do
+        break if ancestor.nil?
+
+        if ancestor.arguments.respond_to?(:location)
+          location = ancestor.arguments.location
+          break
+        end
+
+        ancestor = ancestor.parent
+      end
+
+      return nil if location.nil? || !Location.valid_gps?(location)
+
+      Location.normalize(location).distance_to(transmitter.location, units: :meters)
+    end
   end
 end

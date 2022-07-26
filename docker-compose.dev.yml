@@ -2,7 +2,12 @@
 version: '3.4'
 services:
   db:
-    image: postgres
+    image: postgres:14.4-alpine
+    restart: always
+    environment:
+      POSTGRES_DB: freq_finder_development
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: postgres
   web:
     build: .
     command: bundle exec rerun --background "bundle exec rackup -p 3000 -o '0.0.0.0'"
@@ -12,7 +17,9 @@ services:
     environment:
       RAILS_ENV: development
       RACK_ENV: development
+      PGDB: freq_finder_development
       PGHOST: db
+      PGPASSWORD: password
       PGUSER: postgres
     ports:
       - "3000:3000"

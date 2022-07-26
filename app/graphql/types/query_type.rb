@@ -16,7 +16,8 @@ module Types
       argument :id, ID, required: true
     end
 
-    field :allStations, Types::StationConnectionType, null: true, connection: true do
+    field :allStations, Types::StationConnectionType, null: true, resolver_method: :all_stations,
+                                                      connection: true do
       description 'All the stations'
     end
 
@@ -27,7 +28,11 @@ module Types
       argument :location, String, required: false
     end
 
-    field :allTransmitters, Types::TransmitterConnectionType, null: true, connection: true do
+    field :allTransmitters,
+          Types::TransmitterConnectionType,
+          null: true,
+          resolver_method: :all_transmitters,
+          connection: true do
       description 'All the transmitters'
       argument :location, String, required: false
       argument :order_by, String, required: false # , default: 'frequency_ASC'
@@ -54,7 +59,7 @@ module Types
     # @param [String] location comma separated GPS coordinate
     # @return [Transmitter]
     def transmitter(id:, location: nil)
-      Transmitter.where(id: id)
+      Transmitter.where(id:)
                  .by_distance_with_backup_sort(location)
                  .first
     end

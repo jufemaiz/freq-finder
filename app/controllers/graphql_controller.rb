@@ -8,7 +8,7 @@ class GraphqlController < ApplicationController
   # Exectus things
   #
   # @return [void]
-  def execute # rubocop:disable Metrics/MethodLength
+  def execute
     variables = ensure_hash(params[:variables])
     query = params[:query]
     operation_name = params[:operationName]
@@ -18,15 +18,15 @@ class GraphqlController < ApplicationController
     }
     result = FreqFinderSchema.execute(
       query,
-      variables: variables,
-      context: context,
-      operation_name: operation_name
+      variables:,
+      context:,
+      operation_name:
     )
     render json: result
-  rescue StandardError => error
-    raise error unless Rails.env.development?
+  rescue StandardError => e
+    raise e unless Rails.env.development?
 
-    handle_error_in_development(error)
+    handle_error_in_development(e)
   end
 
   private
@@ -35,7 +35,7 @@ class GraphqlController < ApplicationController
   #
   # @param [Hash] ambiguous_param
   # @return [Hash]
-  def ensure_hash(ambiguous_param) # rubocop:disable Metrics/MethodLength
+  def ensure_hash(ambiguous_param)
     case ambiguous_param
     when String
       if ambiguous_param.present?

@@ -20,7 +20,7 @@ class ExtractTransformLoad
     # Exports the data to an RFC3337 subdirectory of the export directory.
     #
     # @return [void]
-    def export! # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
+    def export! # rubocop:disable Metrics/AbcSize
       export_path = BASE_DIR.join(export_subdirectory)
       FileUtils.mkdir_p(export_path)
 
@@ -31,7 +31,7 @@ class ExtractTransformLoad
         end
 
         filename = s[:title].blank? ? 'null' : s[:title].downcase.gsub(/[^\da-z]/, '_')
-        File.open(export_path.join("#{filename}.yml"), 'w+') { |w| w.write(station.to_yaml) }
+        File.write(export_path.join("#{filename}.yml"), station.to_yaml)
         Rails.logger.info("Exported transmitters for #{s.title} (id: #{s.id})")
       end
     end
@@ -51,7 +51,7 @@ class ExtractTransformLoad
         station = Station.find_or_create_by(title: station_data[:title])
 
         station_data[:transmitters].each do |transmitter|
-          transmitter = transmitter.reject { |k, _v| EXCLUDE_KEYS.include?(k) }
+          transmitter = transmitter.except(*EXCLUDE_KEYS)
           t = Transmitter.find_or_initialize_by(transmitter)
           t.station = station
           t.save
@@ -61,7 +61,7 @@ class ExtractTransformLoad
           Rails.logger.info("Data: #{transmitter.inspect}\nErrors: #{t.errors.messages}")
         end
 
-        transmitter_count = Transmitter.where(station: station).count
+        transmitter_count = Transmitter.where(station:).count
         Rails.logger.info(
           "Imported #{transmitter_count} transmitters for #{station.title} (id: #{station.id})"
         )
@@ -88,9 +88,7 @@ class ExtractTransformLoad
     def import_path_for(subdirectory = nil)
       return BASE_DIR if subdirectory.nil?
 
-      if !subdirectory.is_a?(String) || !Dir.exist?(BASE_DIR.join(subdirectory))
-        raise ArgumentError, 'subdirectory does not exist'
-      end
+      raise ArgumentError, 'subdirectory does not exist' if !subdirectory.is_a?(String) || !Dir.exist?(BASE_DIR.join(subdirectory))
 
       BASE_DIR.join(subdirectory)
     end
