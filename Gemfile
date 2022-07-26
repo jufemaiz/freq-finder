@@ -1,10 +1,11 @@
 # frozen_string_literal: true
 
-ruby '2.6.5'
+ruby '2.7.6'
 
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 source 'https://rubygems.org' do
+  gem 'bundle', '~> 2.3', '>= 2.3.18'
   # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
   gem 'rails', '~> 5.2', '>= 5.2.8.1'
   # Use Postgres as the database for Active Record

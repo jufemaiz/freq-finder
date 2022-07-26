@@ -1,8 +1,8 @@
-FROM ruby:2.6
+FROM ruby:2.7.6-alpine3.15
 
-RUN apt-get update -qq \
-  && apt-get install -y build-essential libpq-dev nodejs \
-  && mkdir /app
+RUN apk add --update alpine-sdk && \
+  apk add bash build-base git libxml2-dev libxslt-dev nodejs postgresql-dev readline-dev tzdata zlib-dev && \
+  mkdir /app
 
 WORKDIR /app
 

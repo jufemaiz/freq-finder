@@ -2,7 +2,12 @@
 version: '3.4'
 services:
   db_test:
-    image: postgres
+    image: postgres:14.4-alpine
+    restart: always
+    environment:
+      POSTGRES_DB: db_test
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: postgres
   web:
     build: .
     command: bundle exec rspec
@@ -14,7 +19,9 @@ services:
       CI: 'true'
       RAILS_ENV: test
       RACK_ENV: test
+      PGDB: db_test
       PGHOST: db_test
+      PGPASSWORD: password
       PGUSER: postgres
     ports:
       - "3000:3000"
