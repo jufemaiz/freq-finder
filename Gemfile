@@ -42,7 +42,7 @@ gem 'bootsnap', '>= 1.12.0', require: false
 # gem 'rack-cors'
 
 # Geokit for distance information
-gem 'geokit-rails', '~> 2.3'
+gem 'geokit-rails', '~> 2.5'
 
 # Net - ref: https://stackoverflow.com/questions/70500220/rails-7-ruby-3-1-loaderror-cannot-load-such-file-net-smtp.
 gem 'net-imap', require: false
