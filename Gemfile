@@ -14,7 +14,7 @@ gem 'rails', '~> 6.0' # , '>= 5.2.8.1'
 # Use Postgres as the database for Active Record
 gem 'pg'
 # Use Puma as the app server
-gem 'puma', '~> 5.6', '>= 5.6.4'
+gem 'puma', '~> 5.6'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.11', '>= 2.11.5'
 # Use Redis adapter to run Action Cable in production
