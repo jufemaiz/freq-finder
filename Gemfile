@@ -10,7 +10,7 @@ gem 'bundler', '~> 2.3', '>= 2.3.18'
 gem 'rexml', '~> 3.2', '>= 3.2.5'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 6.0' # , '>= 5.2.8.1'
+gem 'rails', '~> 6.1' # , '>= 5.2.8.1'
 # Use Postgres as the database for Active Record
 gem 'pg'
 # Use Puma as the app server
