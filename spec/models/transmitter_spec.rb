@@ -3,18 +3,17 @@
 require 'rails_helper'
 
 RSpec.describe Transmitter, type: :model do
-  it 'has a valid factory' do
-    # Check that the factory we created is valid
-    expect(build(:transmitter)).to be_valid
-  end
-
+  let(:transmitter) { create(:transmitter, **attributes) }
   let(:attributes) do
     {
       band: 'AM'
     }
   end
 
-  let(:transmitter) { create(:transmitter, **attributes) }
+  it 'has a valid factory' do
+    # Check that the factory we created is valid
+    expect(build(:transmitter)).to be_valid
+  end
 
   describe 'model validations' do
     # check that the :site_name field received the right values

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-ruby '3.1.2'
+ruby '3.4.4'
 
 source 'https://rubygems.org'
 
@@ -58,6 +58,11 @@ group :development, :test do
   gem 'faker', '~> 2.21', '>= 2.21.0'
   gem 'rspec-graphql_matchers', '~> 1.3'
   gem 'rspec-rails', '~> 3.9', '>= 3.9.1'
+  gem 'rubocop-factory_bot'
+  gem 'rubocop-graphql'
+  gem 'rubocop-rails'
+  gem 'rubocop-rspec'
+  gem 'rubocop-rspec_rails'
   gem 'shoulda-matchers', '~> 3.1', '>= 3.1.3'
 end
 

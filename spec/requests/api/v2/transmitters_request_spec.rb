@@ -50,7 +50,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
     end
 
     context '1 transmitter' do
-      before(:each) { FactoryBot.create(:transmitter) }
+      before { FactoryBot.create(:transmitter) }
 
       it 'has no errors' do
         post url, params: { query: }
@@ -59,7 +59,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
     end
 
     context 'many transmitters' do
-      before(:each) { FactoryBot.create_list(:transmitter, 10) }
+      before { FactoryBot.create_list(:transmitter, 10) }
 
       it 'has no errors' do
         post url, params: { query: }

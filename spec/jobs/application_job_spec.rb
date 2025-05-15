@@ -3,7 +3,7 @@
 require 'rails_helper'
 
 RSpec.describe ApplicationJob, type: :job do
-  before(:each) do
+  before do
     ActiveJob::Base.queue_adapter = :test
   end
 

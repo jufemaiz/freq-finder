@@ -28,9 +28,9 @@ RSpec.describe ExtractTransformLoad do
   end
 
   describe '.export!' do
-    before(:each) { Timecop.freeze(time) }
+    before { Timecop.freeze(time) }
 
-    after(:each) do
+    after do
       # Delete the files
       export_dir = ExtractTransformLoad::BASE_DIR.join('20190101T000000Z')
       FileUtils.rm_r(export_dir, force: true)
@@ -51,7 +51,7 @@ RSpec.describe ExtractTransformLoad do
     end
 
     context 'one station in database' do
-      before(:each) { FactoryBot.create(:station_with_transmitters) }
+      before { FactoryBot.create(:station_with_transmitters) }
 
       it 'exports a single file' do
         ExtractTransformLoad.export!
@@ -65,7 +65,7 @@ RSpec.describe ExtractTransformLoad do
     end
 
     context 'many stations in database' do
-      before(:each) { FactoryBot.create_list(:station_with_transmitters, 10) }
+      before { FactoryBot.create_list(:station_with_transmitters, 10) }
 
       it 'exports a single file' do
         ExtractTransformLoad.export!
@@ -80,8 +80,8 @@ RSpec.describe ExtractTransformLoad do
   end
 
   describe '.export_subdirectory' do
-    before(:each) { Timecop.freeze(time) }
-    after(:each) { Timecop.return }
+    before { Timecop.freeze(time) }
+    after { Timecop.return }
 
     it 'uses time for the subdirectory' do
       expect(ExtractTransformLoad.export_subdirectory)
@@ -105,12 +105,13 @@ RSpec.describe ExtractTransformLoad do
     end
 
     context 'explicit subdirectory' do
-      before(:each) do
+      before do
         Timecop.freeze(time)
         FactoryBot.create(:station_with_transmitters)
         ExtractTransformLoad.export!
       end
-      after(:each) do
+
+      after do
         export_dir = ExtractTransformLoad::BASE_DIR.join('20190101T000000Z')
         FileUtils.rm_r(export_dir, force: true)
         Timecop.return

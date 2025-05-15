@@ -39,7 +39,7 @@ module Types
     field :technical_specification_number, Integer, null: false
     field :zone, Integer, null: false
 
-    field :distance, Float, null: true, resolver_method: :distance, extras: [:parent]
+    field :distance, Float, null: true, extras: [:parent]
 
     # Distance is used to calculate the value for the field :distance.
     #

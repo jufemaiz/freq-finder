@@ -39,7 +39,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
     end
 
     context '1 station' do
-      before(:each) { FactoryBot.create(:station) }
+      before { FactoryBot.create(:station) }
 
       it 'has no errors' do
         post url, params: { query: }
@@ -48,7 +48,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
     end
 
     context 'many stations' do
-      before(:each) { FactoryBot.create_list(:station, 10) }
+      before { FactoryBot.create_list(:station, 10) }
 
       it 'has no errors' do
         post url, params: { query: }
