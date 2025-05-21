@@ -12,13 +12,10 @@ RSpec.describe QueryTypes::StationQueryType do
 
     xit 'returns all our created stations' do
       query_result = described_class.fields['stations'].resolve(nil, nil, nil)
-
       query_result_array = query_result.to_a
 
       # ensure that each of our stations is returned
-      stations.each do |station|
-        expect(query_result_array).to include(station)
-      end
+      stations.each { |station| expect(query_result_array).to include(station) }
 
       # we can also check that the number of lists returned is the one we created.
       expect(query_result.count).to eq(stations.count)

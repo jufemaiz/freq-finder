@@ -49,7 +49,7 @@ CSV.foreach(Rails.root.join('db/data/acma/201107_station_listing.txt')) do |row|
 end
 
 stations = {}
-Station.all.each do |s|
+Station.find_each do |s|
   stations[s.title] = s.id
 end
 

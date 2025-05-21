@@ -7,7 +7,7 @@ module Types
   # @author Joel Courtney <joel@aceteknologi.com>
   class StationEdgeType < BaseEdge
     graphql_name 'StationEdgeType'
-
+    description 'Edge to list stations'
     node_type(Types::StationType)
   end
 end

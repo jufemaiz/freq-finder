@@ -7,7 +7,7 @@ module Types
   # @author Joel Courtney <joel@aceteknologi.com>
   class TransmitterConnectionType < BaseConnection
     graphql_name 'TransmitterConnectionType'
-
+    description 'Transmitter connection for groups of transmitters'
     edge_type(Types::TransmitterEdgeType)
   end
 end

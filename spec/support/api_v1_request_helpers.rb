@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-RSpec.shared_context 'api v1 request' do
+RSpec.shared_context 'with api v1 request' do
   let(:basic_headers) do
     {
       'ACCEPT' => 'application/vnd.api+json',

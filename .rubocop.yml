@@ -169,6 +169,15 @@ Metrics/MethodLength:
   Exclude:
     - 'db/migrate/**/*.rb'
 
+RSpec/ExampleLength:
+  Max: 10
+
+RSpec/MultipleExpectations:
+  Max: 4
+
+RSpec/NestedGroups:
+  Max: 4
+
 Style/FrozenStringLiteralComment:
   Exclude:
     - 'db/schema.rb'

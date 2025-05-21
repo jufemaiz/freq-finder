@@ -2,69 +2,69 @@
 
 require 'rails_helper'
 
-RSpec.describe 'Transmitters', type: :request do
+RSpec.describe 'Transmitters' do
   include_context 'request'
 
-  describe 'GET /transmitters' do
+  describe 'GET /transmitters.json' do
     describe 'with no location' do
-      context 'no scope' do
+      context 'with no scope' do
         it 'returns a 200' do
           get "#{url}/transmitters.json"
-          expect(response.code).to eq '200'
+          expect(response).to have_http_status :ok
         end
       end
 
-      context 'station scoped' do
+      context 'with station scoped' do
         it 'returns a 200' do
-          FactoryBot.create_list(:transmitter, 10)
+          create_list(:transmitter, 10)
           transmitter = Transmitter.first
           get "#{url}/stations/#{transmitter.station_id}/transmitters.json"
-          expect(response.code).to eq '200'
+          expect(response).to have_http_status :ok
         end
       end
     end
 
-    context 'with location' do
+    context 'with with location' do
       it 'returns a 200' do
         get "#{url}/transmitters.json", params: { location: '0.0,0.0' }
-        expect(response.code).to eq '200'
+        expect(response).to have_http_status :ok
       end
     end
   end
 
-  describe 'GET /transmitters' do
+  describe 'GET /transmitters/:id.json' do
     describe 'with no location' do
-      context 'transmitter exists' do
-        let(:transmitter) { FactoryBot.create(:transmitter) }
+      context 'with transmitter exists' do
+        let(:transmitter) { create(:transmitter) }
 
         it 'returns a 200' do
           get "#{url}/transmitters/#{transmitter.id}.json"
-          expect(response.code).to eq '200'
+          expect(response).to have_http_status :ok
         end
       end
 
-      context 'transmitter does not exist' do
+      context 'with transmitter does not exist' do
         it 'returns a 404' do
           get "#{url}/transmitters/-1.json"
-          expect(response.code).to eq '404'
+          expect(response).to have_http_status :not_found
         end
       end
     end
 
     describe 'with location' do
-      context 'transmitter exists' do
-        let(:transmitter) { FactoryBot.create(:transmitter) }
+      context 'with transmitter exists' do
+        let(:transmitter) { create(:transmitter) }
 
         it 'returns a 200' do
           get "#{url}/transmitters/#{transmitter.id}.json", params: { location: '0.0,0.0' }
-          expect(response.code).to eq '200'
+          expect(response).to have_http_status :ok
         end
       end
 
-      context 'transmitter does not exist' do
+      context 'with transmitter does not exist' do
         it 'returns a 404' do
           get "#{url}/transmitters/-1.json"
-          expect(response.code).to eq '404'
+          expect(response).to have_http_status :not_found
         end
       end
     end

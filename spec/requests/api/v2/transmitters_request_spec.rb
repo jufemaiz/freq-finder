@@ -2,7 +2,7 @@
 
 require 'rails_helper'
 
-RSpec.describe 'GraphQL Transmitters', type: :request do
+RSpec.describe 'GraphQL Transmitters' do
   include_context 'api v2 request'
 
   # You can override `context` or `variables` in
@@ -42,28 +42,28 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
       expect(response.response_code).to eq 200
     end
 
-    context 'no transmitters' do
+    context 'with no transmitters' do
       it 'has no errors' do
         post url, params: { query: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
 
-    context '1 transmitter' do
-      before { FactoryBot.create(:transmitter) }
+    context 'with 1 transmitter' do
+      before { create(:transmitter) }
 
       it 'has no errors' do
         post url, params: { query: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
 
-    context 'many transmitters' do
-      before { FactoryBot.create_list(:transmitter, 10) }
+    context 'with many transmitters' do
+      before { create_list(:transmitter, 10) }
 
       it 'has no errors' do
         post url, params: { query: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
   end
@@ -78,7 +78,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
       expect(response.response_code).to eq 200
     end
 
-    context 'no transmitters' do
+    context 'with no transmitters' do
       it 'has no errors' do
         post url, params: { query: }
         expect(response.parsed_body['errors'].length).to be > 0
@@ -95,18 +95,18 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
       }|
     end
 
-    context 'transmitter exists' do
-      let(:transmitter) { FactoryBot.create(:transmitter) }
+    context 'with transmitter exists' do
+      let(:transmitter) { create(:transmitter) }
       let(:variables) { { 'transmitterId' => transmitter.id } }
 
       it 'has no errors' do
         post url, params: { query:, variables: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
 
     # @todo determine why a graphql request for a specific record returns blank
-    context 'transmitter does not exist' do
+    context 'with transmitter does not exist' do
       let(:variables) { { 'transmitterId' => '-1' } }
 
       it 'empty response' do
@@ -115,7 +115,7 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
       end
     end
 
-    context 'with distance' do
+    context 'with with distance' do
       let(:query) do
         %|query getTransmitter($transmitterId: ID!) {
           transmitter(id: $transmitterId, location: "-33.86,151.21") {
@@ -125,12 +125,12 @@ RSpec.describe 'GraphQL Transmitters', type: :request do
         }|
       end
 
-      let(:transmitter) { FactoryBot.create(:transmitter) }
+      let(:transmitter) { create(:transmitter) }
       let(:variables) { { 'transmitterId' => transmitter.id } }
 
       it 'has no errors' do
         post url, params: { query:, variables: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
   end

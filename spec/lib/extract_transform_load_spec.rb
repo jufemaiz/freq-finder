@@ -8,7 +8,7 @@ RSpec.describe ExtractTransformLoad do
   describe 'Class Constants' do
     describe '::BASE_DIR' do
       it 'is a directory' do
-        expect(Dir.exist?(ExtractTransformLoad::BASE_DIR)).to eq(true)
+        expect(Dir.exist?(ExtractTransformLoad::BASE_DIR)).to be(true)
       end
     end
 
@@ -38,23 +38,23 @@ RSpec.describe ExtractTransformLoad do
       Timecop.return
     end
 
-    context 'nothing in the database' do
+    context 'with nothing in the database' do
       it 'exports no files' do
-        ExtractTransformLoad.export!
+        described_class.export!
 
         export_dir = ExtractTransformLoad::BASE_DIR.join('20190101T000000Z')
         files = Dir.entries(export_dir)
                    .reject { |f| File.directory?(File.join(export_dir, f)) }
 
-        expect(files.count.zero?).to eq(true)
+        expect(files.count.zero?).to be(true)
       end
     end
 
-    context 'one station in database' do
-      before { FactoryBot.create(:station_with_transmitters) }
+    context 'with one station in database' do
+      before { create(:station_with_transmitters) }
 
       it 'exports a single file' do
-        ExtractTransformLoad.export!
+        described_class.export!
 
         export_dir = ExtractTransformLoad::BASE_DIR.join('20190101T000000Z')
         files = Dir.entries(export_dir)
@@ -64,11 +64,11 @@ RSpec.describe ExtractTransformLoad do
       end
     end
 
-    context 'many stations in database' do
-      before { FactoryBot.create_list(:station_with_transmitters, 10) }
+    context 'with many stations in database' do
+      before { create_list(:station_with_transmitters, 10) }
 
       it 'exports a single file' do
-        ExtractTransformLoad.export!
+        described_class.export!
 
         export_dir = ExtractTransformLoad::BASE_DIR.join('20190101T000000Z')
         files = Dir.entries(export_dir)
@@ -84,31 +84,31 @@ RSpec.describe ExtractTransformLoad do
     after { Timecop.return }
 
     it 'uses time for the subdirectory' do
-      expect(ExtractTransformLoad.export_subdirectory)
+      expect(described_class.export_subdirectory)
         .to eq(time.strftime('%Y%m%dT%H%M%SZ'))
     end
   end
 
   describe '.import!' do
-    context 'default files' do
+    context 'with default files' do
       it 'imports the stations' do
-        ExtractTransformLoad.import!
+        described_class.import!
 
-        expect(Station.count.zero?).to eq(false)
+        expect(Station.count.zero?).to be(false)
       end
 
       it 'imports the transmitters' do
-        ExtractTransformLoad.import!
+        described_class.import!
 
-        expect(Transmitter.count.zero?).to eq(false)
+        expect(Transmitter.count.zero?).to be(false)
       end
     end
 
-    context 'explicit subdirectory' do
+    context 'with explicit subdirectory' do
       before do
         Timecop.freeze(time)
-        FactoryBot.create(:station_with_transmitters)
-        ExtractTransformLoad.export!
+        create(:station_with_transmitters)
+        described_class.export!
       end
 
       after do
@@ -118,14 +118,14 @@ RSpec.describe ExtractTransformLoad do
       end
 
       it 'imports one station' do
-        ExtractTransformLoad.import!('20190101T000000Z')
-        expect(Station.all.count).to eq(1)
+        described_class.import!('20190101T000000Z')
+        expect(Station.count).to eq(1)
       end
     end
 
-    context 'invalid explicit subdirectory' do
+    context 'with invalid explicit subdirectory' do
       it 'imports one station' do
-        expect { ExtractTransformLoad.import!('BOBISAFISH') }
+        expect { described_class.import!('BOBISAFISH') }
           .to raise_error(ArgumentError)
       end
     end

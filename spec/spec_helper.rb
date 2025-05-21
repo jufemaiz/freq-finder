@@ -99,8 +99,6 @@ RSpec.configure do |config|
   #
   # @return [void]
   def set_graphql_type
-    let(:subject) do
-      described_class
-    end
+    let(:subject) { described_class } # rubocop:disable RSpec/SubjectDeclaration
   end
 end

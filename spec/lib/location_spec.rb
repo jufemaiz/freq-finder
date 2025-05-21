@@ -11,25 +11,25 @@ RSpec.describe Location do
     context 'with a Geokit::LatLng' do
       let(:location) { Geokit::LatLng.normalize(latitude, longitude) }
 
-      it { expect(Location.valid_gps?(location)).to eq(true) }
+      it { expect(described_class.valid_gps?(location)).to be(true) }
     end
 
     context 'with a valid String' do
       let(:location) { [latitude, longitude].join(',') }
 
-      it { expect(Location.valid_gps?(location)).to eq(true) }
+      it { expect(described_class.valid_gps?(location)).to be(true) }
     end
 
     context 'with an invalid String' do
       let(:location) { [latitude, longitude].join('BLAH') }
 
-      it { expect(Location.valid_gps?(location)).to eq(false) }
+      it { expect(described_class.valid_gps?(location)).to be(false) }
     end
 
     context 'with an invalid argument' do
       let(:location) { { a: 'b' } }
 
-      it { expect(Location.valid_gps?(location)).to eq(false) }
+      it { expect(described_class.valid_gps?(location)).to be(false) }
     end
   end
 end

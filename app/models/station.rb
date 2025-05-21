@@ -6,10 +6,10 @@
 # @author Joel Courtney <joel@aceteknologi.com>
 class Station < ApplicationRecord
   # @!group Relationships
-  has_many :transmitters
+  has_many :transmitters, dependent: :destroy
   # @!endgroup
 
   # @!group Relationships
-  validates :title, uniqueness: { case_sensitive: true }
+  validates :title, uniqueness: { case_sensitive: true } # rubocop:disable Rails/UniqueValidationWithoutIndex
   # @!endgroup
 end

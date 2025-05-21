@@ -3,7 +3,9 @@
 require 'rails_helper'
 
 RSpec.describe ApplicationCable::Channel do
+  subject(:this) { described_class }
+
   it 'raises error' do
-    expect { subject.new(nil, nil) }.to raise_error(ArgumentError)
+    expect { this.new(nil, nil) }.to raise_error(ArgumentError)
   end
 end

@@ -2,7 +2,7 @@
 
 require 'rails_helper'
 
-RSpec.describe Station, type: :model do
+RSpec.describe Station do
   let(:station) { create(:station, **attributes) }
   let(:attributes) do
     {
