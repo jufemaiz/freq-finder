@@ -36,7 +36,7 @@ module V1
       def apply_filter(records, filter, value, options = {})
         if filter.to_sym != :location || value.blank? ||
            !value.join(',').match(Location::LATLNG_PATTERN)
-          return super(records, filter, value, options)
+          return super
         end
 
         location = Geokit::LatLng.normalize(value)

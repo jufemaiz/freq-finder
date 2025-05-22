@@ -9,14 +9,14 @@ module Types
     graphql_name 'StationType'
     description 'The Station'
 
-    field :id, ID, null: false
-    field :title, String, null: false
+    field :id, ID, null: false, description: 'ID of the station'
+    field :title, String, null: false, description: 'Title of the station'
     field :transmitters,
           TransmitterConnectionType,
           null: true,
           connection: true,
           description: 'The Transmitters that this station is responsible for.' do
-      argument :location, String, required: false
+      argument :location, String, required: false, description: 'Location'
     end
 
     # Returns the appropriate transmitters

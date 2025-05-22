@@ -1,6 +1,14 @@
 ---
 AllCops:
   NewCops: enable
+  TargetRubyVersion: 3.4
+
+plugins:
+- rubocop-factory_bot
+- rubocop-graphql
+- rubocop-rails
+- rubocop-rspec
+- rubocop-rspec_rails
 
 Gemspec/DeprecatedAttributeAssignment: # new in 1.30
   Enabled: true
@@ -160,6 +168,19 @@ Metrics/MethodLength:
   Max: 15
   Exclude:
     - 'db/migrate/**/*.rb'
+
+Rails/Exit:
+  Exclude:
+    - 'spec/rails_helper.rb'
+
+RSpec/ExampleLength:
+  Max: 10
+
+RSpec/MultipleExpectations:
+  Max: 4
+
+RSpec/NestedGroups:
+  Max: 4
 
 Style/FrozenStringLiteralComment:
   Exclude:

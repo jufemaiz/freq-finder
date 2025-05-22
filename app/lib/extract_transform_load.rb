@@ -6,7 +6,7 @@
 # @author Joel Courtney <joel@aceteknologi.com>
 class ExtractTransformLoad
   # @!group
-  BASE_DIR = Rails.root.join('public', 'yaml')
+  BASE_DIR = Rails.public_path.join('yaml')
   EXCLUDE_KEYS = %i[id station_id created_at updated_at].freeze
   EXPORT_SUBDIR = '%Y%m%dT%H%M%SZ'
   # @!endgroup

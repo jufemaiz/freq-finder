@@ -2,19 +2,18 @@
 
 require 'rails_helper'
 
-RSpec.describe Transmitter, type: :model do
-  it 'has a valid factory' do
-    # Check that the factory we created is valid
-    expect(build(:transmitter)).to be_valid
-  end
-
+RSpec.describe Transmitter do
+  let(:transmitter) { create(:transmitter, **attributes) }
   let(:attributes) do
     {
       band: 'AM'
     }
   end
 
-  let(:transmitter) { create(:transmitter, **attributes) }
+  it 'has a valid factory' do
+    # Check that the factory we created is valid
+    expect(build(:transmitter)).to be_valid
+  end
 
   describe 'model validations' do
     # check that the :site_name field received the right values
@@ -31,14 +30,14 @@ RSpec.describe Transmitter, type: :model do
   describe '.by_distance_with_backup_sort' do
     context 'without location' do
       it 'returns an ActiveRecord_Relation' do
-        expect(Transmitter.by_distance_with_backup_sort.length)
+        expect(described_class.by_distance_with_backup_sort.length)
           .to eq(0)
       end
     end
 
     context 'with location' do
       it 'returns an ActiveRecord_Relation' do
-        expect(Transmitter.by_distance_with_backup_sort('0.0,0.0').length)
+        expect(described_class.by_distance_with_backup_sort('0.0,0.0').length)
           .to eq(0)
       end
     end

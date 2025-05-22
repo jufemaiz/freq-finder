@@ -1,16 +1,15 @@
 # frozen_string_literal: true
 
 RSpec.describe Types::StationType do
-  # avail type definer in our tests
-  types = GraphQL::Define::TypeDefiner.instance
+  subject(:this) { described_class }
 
-  xit 'has an :id field of ID type' do
+  it 'has an :id field of ID type', pending: 'working out how to do this' do
     # Ensure that the field id is of type ID
-    expect(subject).to have_field(:id).that_returns(!types.ID)
+    expect(this).to have_field(:id).that_returns(!GraphQL::Types::ID)
   end
 
-  xit 'has a :title field of String type' do
+  it 'has a :title field of String type', pending: 'working out how to do this' do
     # Ensure the field is of String type
-    expect(subject).to have_field(:title).that_returns(!types.String)
+    expect(this).to have_field(:title).that_returns(!GraphQL::Types::String)
   end
 end

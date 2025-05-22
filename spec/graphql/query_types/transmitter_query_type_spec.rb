@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 RSpec.describe QueryTypes::TransmitterQueryType do
+  subject(:this) { described_class }
+
   # create fake {Transmitter}s using the {Transmitter} factory
   let!(:transmitters) { create_list(:transmitter, 3) }
 
@@ -10,8 +12,8 @@ RSpec.describe QueryTypes::TransmitterQueryType do
         .to eq(Types::TransmitterConnectionType)
     end
 
-    xit 'returns all our created transmitters' do
-      query_result = subject.fields['transmitters'].resolve(nil, nil, nil)
+    it 'returns all our created transmitters', pending: 'working out how to do this' do
+      query_result = this.fields['transmitters'].resolve(nil, nil, nil)
 
       query_result_array = query_result.to_a
 

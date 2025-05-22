@@ -2,19 +2,18 @@
 
 require 'rails_helper'
 
-RSpec.describe Station, type: :model do
-  it 'has a valid factory' do
-    # Check that the factory we created is valid
-    expect(build(:station)).to be_valid
-  end
-
+RSpec.describe Station do
+  let(:station) { create(:station, **attributes) }
   let(:attributes) do
     {
       title: 'A test title'
     }
   end
 
-  let(:station) { create(:station, **attributes) }
+  it 'has a valid factory' do
+    # Check that the factory we created is valid
+    expect(build(:station)).to be_valid
+  end
 
   describe 'model validations' do
     # check that the title field received the right values

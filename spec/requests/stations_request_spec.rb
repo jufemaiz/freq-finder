@@ -2,30 +2,30 @@
 
 require 'rails_helper'
 
-RSpec.describe 'Stations', type: :request do
+RSpec.describe 'Stations' do
   include_context 'request'
 
-  describe 'GET /stations' do
+  describe 'GET /stations.json' do
     it 'returns a 200' do
       get "#{url}/stations.json"
-      expect(response.code).to eq '200'
+      expect(response).to have_http_status :ok
     end
   end
 
-  describe 'GET /stations' do
-    context 'station exists' do
-      let(:station) { FactoryBot.create(:station) }
+  describe 'GET /stations/:id.json' do
+    context 'when station exists' do
+      let(:station) { create(:station) }
 
       it 'returns a 200' do
         get "#{url}/stations/#{station.id}.json"
-        expect(response.code).to eq '200'
+        expect(response).to have_http_status :ok
       end
     end
 
-    context 'station does not exist' do
+    context 'when station does not exist' do
       it 'returns a 404' do
         get "#{url}/stations/-1.json"
-        expect(response.code).to eq '404'
+        expect(response).to have_http_status :not_found
       end
     end
   end

@@ -2,7 +2,7 @@
 version: '3.4'
 services:
   db_test:
-    image: postgres:14.4-alpine
+    image: postgres:17
     restart: always
     environment:
       POSTGRES_DB: freq_finder_test

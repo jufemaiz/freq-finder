@@ -60,6 +60,6 @@ class GraphqlController < ApplicationController
         backtrace: error.backtrace
       },
       data: {}
-    }, status: 500
+    }, status: :internal_server_error
   end
 end

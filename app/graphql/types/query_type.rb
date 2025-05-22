@@ -11,31 +11,36 @@ module Types
     description 'The query root of this schema'
 
     # First describe the field signature:
-    field :station, Types::StationType, null: true do
+    field :station,
+          Types::StationType,
+          null: true do
       description 'Find a station by ID'
-      argument :id, ID, required: true
+      argument :id, ID, required: true, description: 'ID of the station'
     end
 
-    field :allStations, Types::StationConnectionType, null: true, resolver_method: :all_stations,
-                                                      connection: true do
-      description 'All the stations'
+    field :stations,
+          Types::StationConnectionType,
+          null: true,
+          connection: true do
+      description 'List the stations'
     end
 
     # First describe the field signature:
-    field :transmitter, Types::TransmitterType, null: true do
+    field :transmitter,
+          Types::TransmitterType,
+          null: true do
       description 'Find a transmitter by ID'
-      argument :id, ID, required: true
-      argument :location, String, required: false
+      argument :id, ID, required: true, description: 'ID of the transmitter'
+      argument :location, String, required: false, description: 'location of the station'
     end
 
-    field :allTransmitters,
+    field :transmitters,
           Types::TransmitterConnectionType,
           null: true,
-          resolver_method: :all_transmitters,
           connection: true do
-      description 'All the transmitters'
-      argument :location, String, required: false
-      argument :order_by, String, required: false # , default: 'frequency_ASC'
+      description 'List the transmitters'
+      argument :location, String, required: false, description: 'Location to sort the transmitters'
+      argument :order_by, String, required: false, description: 'Order priority' # , default: 'frequency_ASC'
     end
 
     # Returns a single {Station}
@@ -49,7 +54,7 @@ module Types
     # Returns all {Station}s
     #
     # @return [Array<Station>, Station::ActiveRecord_Relation]
-    def all_stations
+    def stations
       Station.order(title: :asc).all
     end
 
@@ -69,7 +74,7 @@ module Types
     # @param [String] location comma separated GPS coordinate
     # @param [String] order_by
     # @return [Array<Transmitter>, Transmitter::ActiveRecord_Relation]
-    def all_transmitters(location: nil, order_by: nil)
+    def transmitters(location: nil, order_by: nil)
       Transmitter.by_distance_with_backup_sort(location, order_by)
     end
   end

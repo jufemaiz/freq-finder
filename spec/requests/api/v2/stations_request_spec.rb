@@ -2,7 +2,7 @@
 
 require 'rails_helper'
 
-RSpec.describe 'GraphQL Stations', type: :request do
+RSpec.describe 'GraphQL Stations' do
   include_context 'api v2 request'
 
   # You can override `context` or `variables` in
@@ -17,7 +17,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       variables:
     )
     # Print any errors
-    pp res if res['errors']
+    Rails.logger.debug res if res['errors']
     res
   end
 
@@ -31,28 +31,28 @@ RSpec.describe 'GraphQL Stations', type: :request do
       expect(response.response_code).to eq 200
     end
 
-    context 'no stations' do
+    context 'with no stations' do
       it 'has no errors' do
         post url, params: { query: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
 
-    context '1 station' do
-      before(:each) { FactoryBot.create(:station) }
+    context 'with 1 station' do
+      before { create(:station) }
 
       it 'has no errors' do
         post url, params: { query: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
 
-    context 'many stations' do
-      before(:each) { FactoryBot.create_list(:station, 10) }
+    context 'with many stations' do
+      before { create_list(:station, 10) }
 
       it 'has no errors' do
         post url, params: { query: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
   end
@@ -67,7 +67,7 @@ RSpec.describe 'GraphQL Stations', type: :request do
       expect(response.response_code).to eq 200
     end
 
-    context 'no stations' do
+    context 'with no stations' do
       it 'has no errors' do
         post url, params: { query: }
         expect(response.parsed_body['errors'].length).to be > 0
@@ -84,18 +84,18 @@ RSpec.describe 'GraphQL Stations', type: :request do
       }|
     end
 
-    context 'station exists' do
-      let(:station) { FactoryBot.create(:station) }
+    context 'with station exists' do
+      let(:station) { create(:station) }
       let(:variables) { { 'stationId' => station.id } }
 
       it 'has no errors' do
         post url, params: { query:, variables: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
 
     # @todo determine why a graphql request for a specific record returns blank
-    context 'station does not exist' do
+    context 'with station does not exist' do
       let(:variables) { { 'stationId' => '-1' } }
 
       it 'empty response' do
@@ -121,18 +121,18 @@ RSpec.describe 'GraphQL Stations', type: :request do
       }|
     end
 
-    context 'station exists' do
-      let(:station) { FactoryBot.create(:station) }
+    context 'with station exists' do
+      let(:station) { create(:station) }
       let(:variables) { { 'stationId' => station.id } }
 
       it 'has no errors' do
         post url, params: { query:, variables: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
 
     # @todo determine why a graphql request for a specific record returns blank
-    context 'station does not exist' do
+    context 'with station does not exist' do
       let(:variables) { { 'stationId' => '-1' } }
 
       it 'empty response' do
@@ -160,18 +160,18 @@ RSpec.describe 'GraphQL Stations', type: :request do
       }|
     end
 
-    context 'station exists' do
-      let(:station) { FactoryBot.create(:station) }
+    context 'with station exists' do
+      let(:station) { create(:station) }
       let(:variables) { { 'stationId' => station.id } }
 
       it 'has no errors' do
         post url, params: { query:, variables: }
-        expect(response.parsed_body['errors']).to eq(nil)
+        expect(response.parsed_body['errors']).to be_nil
       end
     end
 
     # @todo determine why a graphql request for a specific record returns blank
-    context 'station does not exist' do
+    context 'with station does not exist' do
       let(:variables) { { 'stationId' => '-1' } }
 
       it 'empty response' do

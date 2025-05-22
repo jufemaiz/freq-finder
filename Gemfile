@@ -1,20 +1,22 @@
 # frozen_string_literal: true
 
-ruby '3.1.2'
+ruby '3.4.4'
 
 source 'https://rubygems.org'
 
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 gem 'bundler', '~> 2.3', '>= 2.3.18'
+gem 'csv'
+gem 'json'
 gem 'rexml', '~> 3.2', '>= 3.2.5'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 6.0' # , '>= 5.2.8.1'
+gem 'rails', '~> 8.0' # , '>= 5.2.8.1'
 # Use Postgres as the database for Active Record
 gem 'pg'
 # Use Puma as the app server
-gem 'puma', '~> 5.6', '>= 5.6.4'
+gem 'puma', '~> 6.6', '>= 6.6.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.11', '>= 2.11.5'
 # Use Redis adapter to run Action Cable in production
@@ -26,7 +28,7 @@ gem 'bcrypt', '~> 3.1', '>= 3.1.18'
 gem 'jsonapi-resources', '~> 0.10', '>= 0.10.7'
 
 # v2 api is [GraphQL](https://graphql.org/)
-gem 'graphql', '~> 1.13', '>= 1.13.15'
+gem 'graphql', '~> 2.5', '>= 2.5.7'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
@@ -35,7 +37,7 @@ gem 'graphql', '~> 1.13', '>= 1.13.15'
 # gem 'capistrano-rails', group: :development
 
 # Reduces boot times through caching; required in config/boot.rb
-gem 'bootsnap', '>= 1.12.0', require: false
+gem 'bootsnap', '>= 1.18.0', require: false
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making
 # cross-origin AJAX possible
@@ -53,22 +55,26 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger
   # console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
-  gem 'database_cleaner', '~> 1.7', '>= 1.7.0'
-  gem 'factory_bot_rails', '~> 4.11', '>= 4.11.1'
-  gem 'faker', '~> 2.21', '>= 2.21.0'
-  gem 'rspec-graphql_matchers', '~> 1.3'
-  gem 'rspec-rails', '~> 3.9', '>= 3.9.1'
-  gem 'shoulda-matchers', '~> 3.1', '>= 3.1.3'
+  gem 'database_cleaner', '~> 2.1', '>= 2.1.0'
+  gem 'factory_bot_rails', '~> 6.4', '>= 6.4.4'
+  gem 'faker', '~> 3.5', '>= 3.5.1'
+  gem 'rspec-rails', '~> 8.0'
+  gem 'rubocop-factory_bot'
+  gem 'rubocop-graphql'
+  gem 'rubocop-rails'
+  gem 'rubocop-rspec'
+  gem 'rubocop-rspec_rails'
+  gem 'shoulda-matchers', '~> 6.5'
 end
 
 group :development do
-  gem 'listen', '>= 3.0.5', '< 3.2'
+  gem 'listen', '~> 3.9'
   gem 'rerun', '>= 0.13.1'
-  gem 'rubocop', '~> 1.32'
+  gem 'rubocop', '~> 1.75'
   # Spring speeds up development by keeping your application running in the
   # background. Read more: https://github.com/rails/spring
   gem 'spring'
-  gem 'spring-watcher-listen', '~> 2.0.1'
+  gem 'spring-watcher-listen', '~> 2.1'
   gem 'yard'
 end
 

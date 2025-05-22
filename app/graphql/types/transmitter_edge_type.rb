@@ -7,7 +7,7 @@ module Types
   # @author Joel Courtney <joel@aceteknologi.com>
   class TransmitterEdgeType < BaseEdge
     graphql_name 'TransmitterEdgeType'
-
+    description 'Edge to list transmitters'
     node_type(Types::TransmitterType)
   end
 end
