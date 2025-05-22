@@ -17,7 +17,7 @@ RSpec.describe 'GraphQL Stations' do
       variables:
     )
     # Print any errors
-    pp res if res['errors']
+    Rails.logger.debug res if res['errors']
     res
   end
 

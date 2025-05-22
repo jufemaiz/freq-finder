@@ -7,6 +7,8 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 gem 'bundler', '~> 2.3', '>= 2.3.18'
+gem 'csv'
+gem 'json'
 gem 'rexml', '~> 3.2', '>= 3.2.5'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

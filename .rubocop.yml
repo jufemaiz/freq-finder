@@ -169,6 +169,10 @@ Metrics/MethodLength:
   Exclude:
     - 'db/migrate/**/*.rb'
 
+Rails/Exit:
+  Exclude:
+    - 'spec/rails_helper.rb'
+
 RSpec/ExampleLength:
   Max: 10
 
